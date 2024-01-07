@@ -21,11 +21,11 @@ agc,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Agta,Austronesian
 agm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Angami,Sino-Tibetan
 aja,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Aja,Central Sudanic
 akh,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Akha,Sino-Tibetan
-akn,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Akan,Niger-Congo
+akn,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Akan,Niger-Congo
 ala,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Alamblak,Sepik
 alb,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Albanian,Indo-European
 alk,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Lukep,Austronesian
-all,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Nara,Austronesian
+all,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Nara,Austronesian
 aln,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Alune,Austronesian
 als,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Alsea,Oregon Coast
 alw,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Alawa,Mangarrayi-Maran
@@ -34,7 +34,7 @@ ama,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Longa,Austronesian
 amb,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Abelam,Sepik
 amc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Amahuaca,Panoan
 ame,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Amele,Trans-New Guinea
-amh,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Amharic,Afro-Asiatic
+amh,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Amharic,Afro-Asiatic
 ami,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ami,Austronesian
 amk,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Amarakaeri,Harakmbet
 aml,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Aoban (Northeast),Austronesian
@@ -79,7 +79,7 @@ bac,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wadjiginy,Anson Bay
 bae,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bare,Arawakan
 baf,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bafut,Niger-Congo
 bag,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bagirmi,Central Sudanic
-bai,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Minchia,Sino-Tibetan
+bai,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Minchia,Sino-Tibetan
 baj,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Orang Laut,Austronesian
 bak,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Baka (Cameroon),Niger-Congo
 bam,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bambara,Mande
@@ -90,7 +90,7 @@ baw,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bom,Sino-Tibetan
 bbf,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bobo-Fing,Mande
 bbl,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Southern Bomitaba,Niger-Congo
 bbu,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Barambo,Niger-Congo
-bbw,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Gunwinygu,Gunwinyguan
+bbw,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Gunwinygu,Gunwinyguan
 bco,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bella Coola,Salishan
 bdu,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Budu,Niger-Congo
 bej,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Beja,Afro-Asiatic
@@ -98,7 +98,7 @@ bfg,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Fiqiq,Afro-Asiatic
 bfi,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bafia,Niger-Congo
 bga,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Benga,Niger-Congo
 bgo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bongo,Central Sudanic
-bgr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Furu,Central Sudanic
+bgr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Furu,Central Sudanic
 bgs,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Baga Sitemu,Niger-Congo
 bho,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bhojpuri,Indo-European
 bid,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bidiyo,Afro-Asiatic
@@ -116,7 +116,7 @@ bln,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bilin,Afro-Asiatic
 blt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Balti,Sino-Tibetan
 blx,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Biloxi,Siouan
 bma,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tamazight (Middle Atlas),Afro-Asiatic
-bmb,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Moba,Niger-Congo
+bmb,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Moba,Niger-Congo
 bmz,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mzab,Afro-Asiatic
 bnb,A85_Order_of_Adposition_and_Noun_Phrase,Inpositions,Bunaba,Bunuban
 bni,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Bini,Niger-Congo
@@ -133,7 +133,7 @@ brf,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Riff,Afro-Asiatic
 brh,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Brahui,Dravidian
 bri,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Bribri,Chibchan
 brm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Burmese,Sino-Tibetan
-brn,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Burunge,Afro-Asiatic
+brn,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Burunge,Afro-Asiatic
 brs,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Barasano (Southern),Tucanoan
 bry,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Baruya,Trans-New Guinea
 bse,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tamazight (Oum Jeniba),Afro-Asiatic
@@ -170,7 +170,7 @@ cha,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Chamorro,Austronesian
 chc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Chechen,Nakh-Daghestanian
 che,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Cherokee,Iroquoian
 chg,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Chang,Sino-Tibetan
-chh,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Gurage (Central West),Afro-Asiatic
+chh,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Gurage (Central West),Afro-Asiatic
 chi,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Chimariko,Hokan
 chj,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Chuj,Mayan
 chk,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Chukchi,Chukotko-Kamchatkan
@@ -192,7 +192,7 @@ cmx,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Comox,Salishan
 cmy,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Yocot'an,Mayan
 cnl,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Canela,Macro-Ge
 cnm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Canamari,Katukinan
-cnt,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Yue,Sino-Tibetan
+cnt,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Yue,Sino-Tibetan
 coc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Cocama,Tupian
 coe,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Coeur d'Alene,Salishan
 coo,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Coos,Oregon Coast
@@ -224,7 +224,7 @@ did,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Xaroxa,Eastern Sudanic
 die,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kumeyaay,Hokan
 dig,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Digaro,Sino-Tibetan
 dim,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Dime,Afro-Asiatic
-din,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Jieng (Dinka),Eastern Sudanic
+din,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Jieng (Dinka),Eastern Sudanic
 dio,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Diola,Niger-Congo
 dji,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Djingili,Mirndi
 dlm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,d Dera,Senagi
@@ -236,7 +236,7 @@ dni,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Dani (Grand Valley),Tr
 dok,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ngombe,Niger-Congo
 dom,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Zutt,Indo-European
 don,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kam,Tai-Kadai
-doy,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Dayãyo,Niger-Congo
+doy,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Dayãyo,Niger-Congo
 dre,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Dehu,Austronesian
 drg,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Dargwa,Nakh-Daghestanian
 drm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Darmiya,Sino-Tibetan
@@ -267,7 +267,7 @@ ewo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ewondo,Niger-Congo
 fas,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Fasu,Trans-New Guinea
 fij,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Nadroga,Austronesian
 fin,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Finnish,Uralic
-fon,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Fon,Niger-Congo
+fon,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Fon,Niger-Congo
 for,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Fore,Trans-New Guinea
 fqs,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Fas,Baibai-Fas
 fre,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,French,Indo-European
@@ -309,10 +309,10 @@ grw,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Greenland Eskimo (West
 gua,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Guarani (Paraguayan),Tupian
 gud,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Gude,Afro-Asiatic
 guj,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Gujarati,Indo-European
-gul,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Gula,Central Sudanic
+gul,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Gula,Central Sudanic
 gur,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Gurung,Sino-Tibetan
-guw,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Gun,Niger-Congo
-gwa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Gwari,Niger-Congo
+guw,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Gun,Niger-Congo
+gwa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Gwari,Niger-Congo
 gwo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Katab,Niger-Congo
 hal,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Halia,Austronesian
 ham,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Hamtai,Trans-New Guinea
@@ -341,7 +341,7 @@ hoa,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Hoava,Austronesian
 hop,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Hopi,Uto-Aztecan
 hpd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Hupda,Nadahup
 htc,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Huastec,Mayan
-huc,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,|=HÍ,Kxa
+huc,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,|=HÍ,Kxa
 hum,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Murui,Huitotoan
 hun,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Hungarian,Uralic
 hup,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Hupa,Na-Dene
@@ -372,13 +372,13 @@ iqu,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Iquito,Zaparoan
 iri,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Gaelic,Indo-European
 irq,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Iraqw,Afro-Asiatic
 irr,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Irahutu,Austronesian
-isa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Krisa,Skou
+isa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Krisa,Skou
 ita,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Italian (Roman),Indo-European
 ite,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Kamchadal,Chukotko-Kamchatkan
-iwa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Iwaidja,Iwaidjan
+iwa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Iwaidja,Iwaidjan
 ixi,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ixil,Mayan
 izi,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Izi,Niger-Congo
-jab,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Yabim,Austronesian
+jab,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Yabim,Austronesian
 jak,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Jacaltec,Mayan
 jar,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Jarawa,Niger-Congo
 jbt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Yabuti,Macro-Ge
@@ -411,11 +411,11 @@ kdw,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Kadiweu,Guaicuruan
 kdz,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,"Kadazan, Coastal",Austronesian
 kel,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Gele,Austronesian
 kem,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kemant,Afro-Asiatic
-ken,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Kenga,Central Sudanic
+ken,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Kenga,Central Sudanic
 ker,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kera,Afro-Asiatic
 ket,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Ket,Yeniseian
 kew,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kewa,Trans-New Guinea
-kfe,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Kurumfe,Niger-Congo
+kfe,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Kurumfe,Niger-Congo
 kga,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kinga,Niger-Congo
 kgr,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kaguru,Niger-Congo
 kgy,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kyerung,Sino-Tibetan
@@ -463,7 +463,7 @@ knb,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,"Kanum, Bädi",Morehea
 knc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kugu-Uwanh,Pama-Nyungan
 knd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kannada,Dravidian
 kng,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kaingang,Macro-Ge
-kni,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Koma,Niger-Congo
+kni,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Koma,Niger-Congo
 knk,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kanakuru,Afro-Asiatic
 knn,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kanauri,Sino-Tibetan
 knr,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kanuri,Saharan
@@ -485,7 +485,7 @@ krh,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Craho,Macro-Ge
 kri,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kiriri,Kariri
 krj,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Garadyari,Pama-Nyungan
 krn,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,!Ora,Khoe-Kwadi
-krr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Kairiru,Austronesian
+krr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Kairiru,Austronesian
 kry,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Koryak,Chukotko-Kamchatkan
 ksa,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Keres (Eastern),Keresan
 kse,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Songhay (Koyraboro Senni),Songhay
@@ -506,7 +506,7 @@ kws,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kawaiisu,Uto-Aztecan
 kxo,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Xû,Khoe-Kwadi
 kya,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Gugu Yalandyi,Pama-Nyungan
 kyk,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Enga,Trans-New Guinea
-kyl,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Kayah,Sino-Tibetan
+kyl,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Kayah,Sino-Tibetan
 kyn,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Koyukon,Na-Dene
 kyo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Kanyok,Niger-Congo
 kyq,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Nuu-chah-nulth,Wakashan
@@ -549,7 +549,7 @@ lkt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Teton,Siouan
 llm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Lelemi (Bwem),Niger-Congo
 lmb,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Lamba,Niger-Congo
 lmg,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Lamang,Afro-Asiatic
-lmh,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Lamaholot,Austronesian
+lmh,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Lamaholot,Austronesian
 lmn,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Banjari,Indo-European
 lmp,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Lampung,Austronesian
 lnd,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Linda,Niger-Congo
@@ -568,12 +568,12 @@ mae,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mae,Austronesian
 mag,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Magari,Sino-Tibetan
 mai,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Maithili,Indo-European
 maj,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Majang,Eastern Sudanic
-mak,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Makah,Wakashan
+mak,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Makah,Wakashan
 mal,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Malagassy,Austronesian
 mam,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mam,Mayan
 man,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Mano,Mande
 mao,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Maori,Austronesian
-map,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Mapudungu,Araucanian
+map,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Mapudungu,Araucanian
 mar,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Maricopa,Hokan
 mas,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Masa,Afro-Asiatic
 mau,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Maung,Iwaidjan
@@ -582,8 +582,8 @@ max,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Mashakali,Macro-Ge
 may,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Brat,West Papuan
 mbe,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mbede,Niger-Congo
 mbm,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mbum,Niger-Congo
-mbr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Mbara,Afro-Asiatic
-mby,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Mbai,Central Sudanic
+mbr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Mbara,Afro-Asiatic
+mby,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Mbai,Central Sudanic
 mcc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Chimu,Chimúan
 mcd,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Macedonian,Indo-European
 mco,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Southeastern Mixe,Mixe-Zoque
@@ -630,22 +630,22 @@ mmi,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mangbai,Niger-Congo
 mmn,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mamanwa,Austronesian
 mna,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Muna,Austronesian
 mnc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Manchu,Altaic
-mnd,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Mandarin Chinese,Sino-Tibetan
+mnd,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Mandarin Chinese,Sino-Tibetan
 mng,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Manggarai,Austronesian
 mnm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Manam,Austronesian
 mno,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Mono,Uto-Aztecan
 mns,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Mansi,Uralic
 mnv,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kukuya,Austronesian
 mnz,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Monzombo,Niger-Congo
-moa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Mono Alu,Austronesian
+moa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Mono Alu,Austronesian
 moe,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Mordvin,Uralic
 mof,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mofu,Afro-Asiatic
 mok,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mokilese,Austronesian
 mon,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mon,Austro-Asiatic
-moo,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,More,Niger-Congo
+moo,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,More,Niger-Congo
 mor,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mor,Austronesian
 mou,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Moru,Central Sudanic
-mpa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Murrinh-Patha,Southern Daly
+mpa,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Murrinh-Patha,Southern Daly
 mpr,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Maipure,Arawakan
 mpt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Mianmin,Trans-New Guinea
 mpu,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Amberbaken,West Papuan
@@ -654,8 +654,8 @@ mra,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Mara,Mangarrayi-Maran
 mrd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Marind,Anim
 mrg,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Margi,Afro-Asiatic
 mrh,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Marithiyel,Western Daly
-mrl,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Murle,Eastern Sudanic
-mro,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Moro,Kordofanian
+mrl,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Murle,Eastern Sudanic
+mro,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Moro,Kordofanian
 mrq,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Marquesan,Austronesian
 mrt,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Martuyhunira,Pama-Nyungan
 mru,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Maru,Sino-Tibetan
@@ -697,7 +697,7 @@ nav,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Navajo,Na-Dene
 nbd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,"Nubian, Dongolese",Eastern Sudanic
 nbr,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Guaymi,Chibchan
 nca,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Car Nicobarese,Austro-Asiatic
-ncm,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Ntcham,Niger-Congo
+ncm,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Ntcham,Niger-Congo
 nde,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Nande,Niger-Congo
 ndi,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ngbandi,Niger-Congo
 ndj,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Ndjébbana,Mangrida
@@ -730,7 +730,7 @@ nnc,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Nicobarese (Nancowry),A
 nnd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Angaua,Trans-New Guinea
 nnk,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Nankina,Trans-New Guinea
 noc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Nocte,Sino-Tibetan
-non,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Noni,Niger-Congo
+non,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Noni,Niger-Congo
 noo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Non,Niger-Congo
 nor,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Norwegian,Indo-European
 nph,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Nar Phu,Sino-Tibetan
@@ -745,7 +745,7 @@ nun,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Zhuang (Southern),Tai-K
 nup,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Nupe,Niger-Congo
 nwd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Dolakha Newari,Sino-Tibetan
 nyi,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Nyimang,Eastern Sudanic
-nyr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Nyangumarta,Pama-Nyungan
+nyr,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Nyangumarta,Pama-Nyungan
 nyu,A85_Order_of_Adposition_and_Noun_Phrase,Inpositions,Nyulnyul,Nyulnyulan
 nza,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Nzakara,Niger-Congo
 nze,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Zeme,Sino-Tibetan
@@ -756,7 +756,7 @@ oji,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Ojibwa,Algic
 olo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Olo,Torricelli
 omi,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Ömie,Trans-New Guinea
 ond,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Oneida,Iroquoian
-ood,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Tohono O'odham,Uto-Aztecan
+ood,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Tohono O'odham,Uto-Aztecan
 ora,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Emai,Niger-Congo
 orh,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Oromo (Eastern),Afro-Asiatic
 ork,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Orok,Altaic
@@ -790,13 +790,13 @@ pmn,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Pomo (Northern),Hokan
 pms,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Paama,Austronesian
 png,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Pangwa,Niger-Congo
 pnn,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Pangasinan,Austronesian
-pno,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Paiute (Northern),Uto-Aztecan
+pno,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Paiute (Northern),Uto-Aztecan
 pnu,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Punu,Hmong-Mien
 pnx,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kreen-Akarore,Macro-Ge
 pod,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Paduko,Afro-Asiatic
 pog,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Pogoro,Niger-Congo
 poh,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ponapean,Austronesian
-pok,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Rawo,Skou
+pok,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Rawo,Skou
 pol,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Polish,Indo-European
 por,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Portuguese,Indo-European
 pra,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wasi-weri,Indo-European
@@ -813,7 +813,7 @@ ptw,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Patwin,Penutian
 pul,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Puluwatese,Austronesian
 pum,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Prinmi,Sino-Tibetan
 pun,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kuwama,Anson Bay
-pur,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Tarascan,Tarascan
+pur,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Tarascan,Tarascan
 qaf,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Afar,Afro-Asiatic
 qaw,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Qawasqar,Alacalufan
 qhu,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Huallaga Quechua,Quechuan
@@ -889,8 +889,8 @@ snm,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Sanuma,Yanomam
 sno,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Saami (Northern),Uralic
 so,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,So,Eastern Sudanic
 sob,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Sobei,Austronesian
-sod,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Soddo,Afro-Asiatic
-som,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Somali,Afro-Asiatic
+sod,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Soddo,Afro-Asiatic
+som,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Somali,Afro-Asiatic
 son,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Sonsorolese,Austronesian
 sor,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Sora,Austro-Asiatic
 spa,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Spanish (Peninsular Castilian),Indo-European
@@ -918,7 +918,7 @@ tal,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Talinge,Niger-Congo
 tam,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tamang,Sino-Tibetan
 tar,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tariano,Arawakan
 tau,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tauya,Trans-New Guinea
-taw,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Kehelala,Austronesian
+taw,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Kehelala,Austronesian
 tbl,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tanah Merah(2),Sentani
 tbo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tboli,Austronesian
 tbt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Yotafa,Austronesian
@@ -928,7 +928,7 @@ tbx,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Seke,Sino-Tibetan
 tce,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tarahumara-Cent,Uto-Aztecan
 tee,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,d Tepehua,Totonacan
 tel,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Telugu,Dravidian
-ten,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Tenet,Eastern Sudanic
+ten,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Tenet,Eastern Sudanic
 teo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Teop,Austronesian
 tep,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tepehua,Totonacan
 ter,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tera,Afro-Asiatic
@@ -965,7 +965,7 @@ tnc,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tanacross,Na-Dene
 tne,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Temne,Niger-Congo
 tng,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tongan,Austronesian
 tnk,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Lavongai,Austronesian
-tnn,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Tunen,Niger-Congo
+tnn,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Tunen,Niger-Congo
 tno,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tondano,Austronesian
 tny,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Karaboro,Niger-Congo
 tou,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tusya,Niger-Congo
@@ -997,7 +997,7 @@ tuy,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Tuyuca,Tucanoan
 tvl,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Ellice,Austronesian
 tvo,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Volga Tatar,Altaic
 tvt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,"Naga, Tutsa",Sino-Tibetan
-twe,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Western Tarahumara,Uto-Aztecan
+twe,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Western Tarahumara,Uto-Aztecan
 txj,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Totonaca (Xicotepec de Juaréz),Totonacan
 tzo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tzotzil,Mayan
 tzu,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Tzutujil,Mayan
@@ -1013,32 +1013,32 @@ urd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Urdu,Indo-European
 urk,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Urubu,Tupian
 url,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Urak Lawoi',Austronesian
 usa,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wanuma,Trans-New Guinea
-vaf,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Vafsi,Indo-European
+vaf,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Vafsi,Indo-European
 vai,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Vai,Mande
 vie,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Vietnamese,Austro-Asiatic
 vif,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Yombe,Niger-Congo
 vnm,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Vinmavis,Austronesian
-vot,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Votic,Uralic
+vot,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Votic,Uralic
 wah,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wahgi,Trans-New Guinea
 wai,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Waiwai,Cariban
-wak,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Wakhi,Indo-European
+wak,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Wakhi,Indo-European
 wal,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Valman,Torricelli
 war,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Pakaasnovos,Chapacura-Wanham
 wat,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wadjari,Pama-Nyungan
 way,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Oyampi,Tupian
 wbn,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wambon,Trans-New Guinea
 wch,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Matako,Matacoan
-wed,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Wedau,Austronesian
-wem,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Wemba Wemba,Pama-Nyungan
+wed,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Wedau,Austronesian
+wem,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Wemba Wemba,Pama-Nyungan
 wic,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Wichita,Caddoan
 wir,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wirangu,Pama-Nyungan
-wiy,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Wiyot,Algic
+wiy,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Wiyot,Algic
 wlf,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Wolof,Niger-Congo
 wlo,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Wolio,Austronesian
 wma,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,West Makian,West Papuan
 wme,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wambule,Sino-Tibetan
 wna,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Nwa,Mande
-woi,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Woisika,Timor-Alor-Pantar
+woi,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Woisika,Timor-Alor-Pantar
 wol,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Woleaian,Austronesian
 wor,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Worora,Worrorran
 wrd,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Wardaman,Yangmanic
@@ -1067,7 +1067,7 @@ ygr,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,"Yagaria, Move dialect
 yi,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Yi,Sino-Tibetan
 yid,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Yidiny,Pama-Nyungan
 yim,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Yimas,Lower Sepik-Ramu
-yin,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Yindjibarndi,Pama-Nyungan
+yin,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Yindjibarndi,Pama-Nyungan
 yiw,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Nasu,Sino-Tibetan
 yko,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Kolyma,Yukaghir
 ykt,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Yakut,Altaic
@@ -1076,7 +1076,7 @@ yok,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Yokutsan,Penutian
 yor,A85_Order_of_Adposition_and_Noun_Phrase,Prepositions,Yoruba,Niger-Congo
 yqy,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Yaqay,Anim
 ytu,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,"Yukaghir, Tundra dialect",Yukaghir
-yur,A85_Order_of_Adposition_and_Noun_Phrase,No dominant order,Yurok,Algic
+yur,A85_Order_of_Adposition_and_Noun_Phrase,No dominant adposition order,Yurok,Algic
 yuw,A85_Order_of_Adposition_and_Noun_Phrase,No adpositions,Gamilaraay,Pama-Nyungan
 ywr,A85_Order_of_Adposition_and_Noun_Phrase,Inpositions,Yawuru,Nyulnyulan
 zag,A85_Order_of_Adposition_and_Noun_Phrase,Postpositions,Zagawa,Saharan

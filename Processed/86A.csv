@@ -1,9 +1,9 @@
 Language_ID,Parameter_ID,Value,Name,Family
 aar,A86_order_of_genetive_and_noun,Genetive-Noun,Ari,Afro-Asiatic
 aba,A86_order_of_genetive_and_noun,Genetive-Noun,Abau,Sepik
-abi,A86_order_of_genetive_and_noun,No dominant order,Abipon,Guaicuruan
+abi,A86_order_of_genetive_and_noun,No dominant genitive noun order,Abipon,Guaicuruan
 abk,A86_order_of_genetive_and_noun,Genetive-Noun,Abkhaz,Northwest Caucasian
-abn,A86_order_of_genetive_and_noun,No dominant order,Arabana,Pama-Nyungan
+abn,A86_order_of_genetive_and_noun,No dominant genitive noun order,Arabana,Pama-Nyungan
 abo,A86_order_of_genetive_and_noun,Noun-Genitive,Arbore,Afro-Asiatic
 abu,A86_order_of_genetive_and_noun,Genetive-Noun,Yimbun,West Papuan
 abv,A86_order_of_genetive_and_noun,Genetive-Noun,Abui,Timor-Alor-Pantar
@@ -29,7 +29,7 @@ akh,A86_order_of_genetive_and_noun,Genetive-Noun,Akha,Sino-Tibetan
 akn,A86_order_of_genetive_and_noun,Genetive-Noun,Akan,Niger-Congo
 ala,A86_order_of_genetive_and_noun,Genetive-Noun,Alamblak,Sepik
 alb,A86_order_of_genetive_and_noun,Noun-Genitive,Albanian,Indo-European
-alk,A86_order_of_genetive_and_noun,No dominant order,Lukep,Austronesian
+alk,A86_order_of_genetive_and_noun,No dominant genitive noun order,Lukep,Austronesian
 all,A86_order_of_genetive_and_noun,Genetive-Noun,Nara,Austronesian
 aln,A86_order_of_genetive_and_noun,Genetive-Noun,Alune,Austronesian
 als,A86_order_of_genetive_and_noun,Genetive-Noun,Alsea,Oregon Coast
@@ -51,7 +51,7 @@ anc,A86_order_of_genetive_and_noun,Noun-Genitive,Angas,Afro-Asiatic
 ang,A86_order_of_genetive_and_noun,Genetive-Noun,Anggor,Senagi
 ani,A86_order_of_genetive_and_noun,Genetive-Noun,||Ani,Khoe-Kwadi
 anj,A86_order_of_genetive_and_noun,Noun-Genitive,Aneityum,Austronesian
-ann,A86_order_of_genetive_and_noun,No dominant order,Enindhilyagwa,Gunwinyguan
+ann,A86_order_of_genetive_and_noun,No dominant genitive noun order,Enindhilyagwa,Gunwinyguan
 ano,A86_order_of_genetive_and_noun,Genetive-Noun,Anung,Sino-Tibetan
 anu,A86_order_of_genetive_and_noun,Genetive-Noun,Chakosi,Niger-Congo
 any,A86_order_of_genetive_and_noun,Noun-Genitive,Anuak,Eastern Sudanic
@@ -67,7 +67,7 @@ arg,A86_order_of_genetive_and_noun,Noun-Genitive,Khaliji,Afro-Asiatic
 ari,A86_order_of_genetive_and_noun,Genetive-Noun,Lae,Austronesian
 arm,A86_order_of_genetive_and_noun,Genetive-Noun,Eastern Armenian,Indo-European
 aro,A86_order_of_genetive_and_noun,Noun-Genitive,Arosi,Austronesian
-arp,A86_order_of_genetive_and_noun,No dominant order,Bukiyip,Torricelli
+arp,A86_order_of_genetive_and_noun,No dominant genitive noun order,Bukiyip,Torricelli
 arq,A86_order_of_genetive_and_noun,Noun-Genitive,Iraqi Arabic,Afro-Asiatic
 arw,A86_order_of_genetive_and_noun,Genetive-Noun,Western Armenian,Indo-European
 asm,A86_order_of_genetive_and_noun,Genetive-Noun,Asmat (Flamingo Bay),Trans-New Guinea
@@ -75,9 +75,9 @@ ass,A86_order_of_genetive_and_noun,Genetive-Noun,Assamese,Indo-European
 asy,A86_order_of_genetive_and_noun,Noun-Genitive,Syrian Arabic,Afro-Asiatic
 ata,A86_order_of_genetive_and_noun,Noun-Genitive,Atayal,Austronesian
 ath,A86_order_of_genetive_and_noun,Genetive-Noun,Athpare,Sino-Tibetan
-au,A86_order_of_genetive_and_noun,No dominant order,Au,Torricelli
+au,A86_order_of_genetive_and_noun,No dominant genitive noun order,Au,Torricelli
 ava,A86_order_of_genetive_and_noun,Genetive-Noun,Avar,Nakh-Daghestanian
-avo,A86_order_of_genetive_and_noun,No dominant order,Avukaya,Central Sudanic
+avo,A86_order_of_genetive_and_noun,No dominant genitive noun order,Avukaya,Central Sudanic
 awa,A86_order_of_genetive_and_noun,Genetive-Noun,Awa,Trans-New Guinea
 awe,A86_order_of_genetive_and_noun,Noun-Genitive,"Aranda, Western",Pama-Nyungan
 awi,A86_order_of_genetive_and_noun,Genetive-Noun,Awin,Awin-Pare
@@ -122,7 +122,7 @@ bin,A86_order_of_genetive_and_noun,Genetive-Noun,Binandere,Trans-New Guinea
 bio,A86_order_of_genetive_and_noun,Genetive-Noun,Biaka,Kwomtari
 bir,A86_order_of_genetive_and_noun,Noun-Genitive,Birom,Niger-Congo
 bka,A86_order_of_genetive_and_noun,Noun-Genitive,Baka,Central Sudanic
-bkl,A86_order_of_genetive_and_noun,No dominant order,Bicolano (Central),Austronesian
+bkl,A86_order_of_genetive_and_noun,No dominant genitive noun order,Bicolano (Central),Austronesian
 bkr,A86_order_of_genetive_and_noun,Noun-Genitive,Karo Batak,Austronesian
 bkt,A86_order_of_genetive_and_noun,Genetive-Noun,Brok-skad,Indo-European
 bku,A86_order_of_genetive_and_noun,Noun-Genitive,Kwiri,Niger-Congo
@@ -157,7 +157,7 @@ btk,A86_order_of_genetive_and_noun,Noun-Genitive,Bontok (Central),Austronesian
 bto,A86_order_of_genetive_and_noun,Noun-Genitive,Toba Batak,Austronesian
 bud,A86_order_of_genetive_and_noun,Noun-Genitive,Buduma,Afro-Asiatic
 bug,A86_order_of_genetive_and_noun,Noun-Genitive,Bugis,Austronesian
-bul,A86_order_of_genetive_and_noun,No dominant order,Bulgarian,Indo-European
+bul,A86_order_of_genetive_and_noun,No dominant genitive noun order,Bulgarian,Indo-European
 bum,A86_order_of_genetive_and_noun,Noun-Genitive,Buma,Austronesian
 bus,A86_order_of_genetive_and_noun,Genetive-Noun,Busa,Mande
 but,A86_order_of_genetive_and_noun,Genetive-Noun,Buriat,Altaic
@@ -195,7 +195,7 @@ chs,A86_order_of_genetive_and_noun,Genetive-Noun,Siyin,Sino-Tibetan
 chv,A86_order_of_genetive_and_noun,Genetive-Noun,Chuvash,Altaic
 chx,A86_order_of_genetive_and_noun,Noun-Genitive,Oaxaca Chontal,Tequistlatecan
 cic,A86_order_of_genetive_and_noun,Noun-Genitive,Nyanja,Niger-Congo
-ckl,A86_order_of_genetive_and_noun,No dominant order,Chinook (Lower),Penutian
+ckl,A86_order_of_genetive_and_noun,No dominant genitive noun order,Chinook (Lower),Penutian
 cld,A86_order_of_genetive_and_noun,Noun-Genitive,Syriac,Afro-Asiatic
 cle,A86_order_of_genetive_and_noun,Noun-Genitive,San Juan Chinanteco Lealao,Oto-Manguean
 cln,A86_order_of_genetive_and_noun,Genetive-Noun,Cholona,Cholon
@@ -211,10 +211,10 @@ cnm,A86_order_of_genetive_and_noun,Genetive-Noun,Canamari,Katukinan
 cnt,A86_order_of_genetive_and_noun,Genetive-Noun,Yue,Sino-Tibetan
 coa,A86_order_of_genetive_and_noun,Genetive-Noun,Coahuiltec,Coahuiltecan
 coc,A86_order_of_genetive_and_noun,Genetive-Noun,Cocama,Tupian
-coo,A86_order_of_genetive_and_noun,No dominant order,Coos,Oregon Coast
+coo,A86_order_of_genetive_and_noun,No dominant genitive noun order,Coos,Oregon Coast
 cop,A86_order_of_genetive_and_noun,Noun-Genitive,Coptic,Afro-Asiatic
-cor,A86_order_of_genetive_and_noun,No dominant order,Cora,Uto-Aztecan
-cos,A86_order_of_genetive_and_noun,No dominant order,Ohlone,Penutian
+cor,A86_order_of_genetive_and_noun,No dominant genitive noun order,Cora,Uto-Aztecan
+cos,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ohlone,Penutian
 cpl,A86_order_of_genetive_and_noun,Noun-Genitive,Palantla Chinantec,Oto-Manguean
 cpn,A86_order_of_genetive_and_noun,Genetive-Noun,Chepang,Sino-Tibetan
 cpy,A86_order_of_genetive_and_noun,Genetive-Noun,Chipaya,Uru-Chipaya
@@ -226,7 +226,7 @@ ctl,A86_order_of_genetive_and_noun,Noun-Genitive,Catalan,Indo-European
 ctw,A86_order_of_genetive_and_noun,Genetive-Noun,Catawba,Siouan
 cub,A86_order_of_genetive_and_noun,Genetive-Noun,Cubeo,Tucanoan
 cup,A86_order_of_genetive_and_noun,Genetive-Noun,Cupeño,Uto-Aztecan
-cze,A86_order_of_genetive_and_noun,No dominant order,Czech,Indo-European
+cze,A86_order_of_genetive_and_noun,No dominant genitive noun order,Czech,Indo-European
 dag,A86_order_of_genetive_and_noun,Genetive-Noun,Daga,Dagan
 dan,A86_order_of_genetive_and_noun,Genetive-Noun,Dan,Mande
 daw,A86_order_of_genetive_and_noun,Genetive-Noun,Kamán,Nadahup
@@ -249,9 +249,9 @@ din,A86_order_of_genetive_and_noun,Noun-Genitive,Jieng (Dinka),Eastern Sudanic
 dio,A86_order_of_genetive_and_noun,Noun-Genitive,Diola,Niger-Congo
 diy,A86_order_of_genetive_and_noun,Genetive-Noun,Diyari,Pama-Nyungan
 dji,A86_order_of_genetive_and_noun,Noun-Genitive,Djingili,Mirndi
-djm,A86_order_of_genetive_and_noun,No dominant order,Djambarbwingu,Pama-Nyungan
+djm,A86_order_of_genetive_and_noun,No dominant genitive noun order,Djambarbwingu,Pama-Nyungan
 djn,A86_order_of_genetive_and_noun,Genetive-Noun,Djinang,Pama-Nyungan
-djp,A86_order_of_genetive_and_noun,No dominant order,Yolngu (Djapu),Pama-Nyungan
+djp,A86_order_of_genetive_and_noun,No dominant genitive noun order,Yolngu (Djapu),Pama-Nyungan
 dlm,A86_order_of_genetive_and_noun,Genetive-Noun,d Dera,Senagi
 dmi,A86_order_of_genetive_and_noun,Genetive-Noun,Dumi,Sino-Tibetan
 dni,A86_order_of_genetive_and_noun,Genetive-Noun,Dani (Grand Valley),Trans-New Guinea
@@ -273,7 +273,7 @@ egn,A86_order_of_genetive_and_noun,Noun-Genitive,Engenni,Niger-Congo
 eip,A86_order_of_genetive_and_noun,Genetive-Noun,Eipo,Trans-New Guinea
 emb,A86_order_of_genetive_and_noun,Genetive-Noun,Embera,Choco
 eme,A86_order_of_genetive_and_noun,Genetive-Noun,Emerillon,Tupian
-eng,A86_order_of_genetive_and_noun,No dominant order,English,Indo-European
+eng,A86_order_of_genetive_and_noun,No dominant genitive noun order,English,Indo-European
 eno,A86_order_of_genetive_and_noun,Noun-Genitive,Enggano,Austronesian
 epe,A86_order_of_genetive_and_noun,Genetive-Noun,Saija,Choco
 erk,A86_order_of_genetive_and_noun,Noun-Genitive,Efate (South),Austronesian
@@ -306,7 +306,7 @@ gds,A86_order_of_genetive_and_noun,Genetive-Noun,Gadsup,Trans-New Guinea
 gel,A86_order_of_genetive_and_noun,Noun-Genitive,Gela,Austronesian
 geo,A86_order_of_genetive_and_noun,Genetive-Noun,Georgian,Kartvelian
 gjj,A86_order_of_genetive_and_noun,Genetive-Noun,Guajajara,Tupian
-gku,A86_order_of_genetive_and_noun,No dominant order,Puelche,Chon
+gku,A86_order_of_genetive_and_noun,No dominant genitive noun order,Puelche,Chon
 gln,A86_order_of_genetive_and_noun,Genetive-Noun,Golin,Trans-New Guinea
 gmw,A86_order_of_genetive_and_noun,Genetive-Noun,Gumasi,Austronesian
 gnd,A86_order_of_genetive_and_noun,Noun-Genitive,Ga'anda,Afro-Asiatic
@@ -316,7 +316,7 @@ god,A86_order_of_genetive_and_noun,Genetive-Noun,Godoberi,Nakh-Daghestanian
 goe,A86_order_of_genetive_and_noun,Noun-Genitive,Goemai,Afro-Asiatic
 gok,A86_order_of_genetive_and_noun,Noun-Genitive,Gokana,Niger-Congo
 gon,A86_order_of_genetive_and_noun,Genetive-Noun,Gondi,Dravidian
-goo,A86_order_of_genetive_and_noun,No dominant order,Guniyan,Bunuban
+goo,A86_order_of_genetive_and_noun,No dominant genitive noun order,Guniyan,Bunuban
 grb,A86_order_of_genetive_and_noun,Genetive-Noun,Grebo,Niger-Congo
 grf,A86_order_of_genetive_and_noun,Noun-Genitive,"Island Carib, Carib (Island)",Arawakan
 grj,A86_order_of_genetive_and_noun,Genetive-Noun,Guarijío,Uto-Aztecan
@@ -326,10 +326,10 @@ grw,A86_order_of_genetive_and_noun,Genetive-Noun,Greenland Eskimo (West),Eskimo-
 gua,A86_order_of_genetive_and_noun,Genetive-Noun,Guarani (Paraguayan),Tupian
 gud,A86_order_of_genetive_and_noun,Noun-Genitive,Gude,Afro-Asiatic
 gul,A86_order_of_genetive_and_noun,Noun-Genitive,Gula,Central Sudanic
-gum,A86_order_of_genetive_and_noun,No dominant order,Gumbayunggir,Pama-Nyungan
+gum,A86_order_of_genetive_and_noun,No dominant genitive noun order,Gumbayunggir,Pama-Nyungan
 gur,A86_order_of_genetive_and_noun,Genetive-Noun,Gurung,Sino-Tibetan
-guu,A86_order_of_genetive_and_noun,No dominant order,Guugu Yimidhirr,Pama-Nyungan
-guw,A86_order_of_genetive_and_noun,No dominant order,Gun,Niger-Congo
+guu,A86_order_of_genetive_and_noun,No dominant genitive noun order,Guugu Yimidhirr,Pama-Nyungan
+guw,A86_order_of_genetive_and_noun,No dominant genitive noun order,Gun,Niger-Congo
 gwa,A86_order_of_genetive_and_noun,Genetive-Noun,Gwari,Niger-Congo
 gwo,A86_order_of_genetive_and_noun,Noun-Genitive,Katab,Niger-Congo
 hal,A86_order_of_genetive_and_noun,Noun-Genitive,Halia,Austronesian
@@ -373,7 +373,7 @@ igb,A86_order_of_genetive_and_noun,Noun-Genitive,Igbo,Niger-Congo
 ign,A86_order_of_genetive_and_noun,Noun-Genitive,Ignaciano,Arawakan
 igs,A86_order_of_genetive_and_noun,Noun-Genitive,Gaam,Eastern Sudanic
 ijo,A86_order_of_genetive_and_noun,Genetive-Noun,Kolokuma,Ijoid
-ik,A86_order_of_genetive_and_noun,No dominant order,Ik,Eastern Sudanic
+ik,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ik,Eastern Sudanic
 ika,A86_order_of_genetive_and_noun,Genetive-Noun,Ica,Chibchan
 ila,A86_order_of_genetive_and_noun,Noun-Genitive,Ila,Niger-Congo
 imo,A86_order_of_genetive_and_noun,Genetive-Noun,Imonda,Border
@@ -385,7 +385,7 @@ irq,A86_order_of_genetive_and_noun,Noun-Genitive,Iraqw,Afro-Asiatic
 irr,A86_order_of_genetive_and_noun,Genetive-Noun,Irahutu,Austronesian
 isa,A86_order_of_genetive_and_noun,Noun-Genitive,Krisa,Skou
 ita,A86_order_of_genetive_and_noun,Noun-Genitive,Italian (Roman),Indo-European
-ite,A86_order_of_genetive_and_noun,No dominant order,Kamchadal,Chukotko-Kamchatkan
+ite,A86_order_of_genetive_and_noun,No dominant genitive noun order,Kamchadal,Chukotko-Kamchatkan
 iwa,A86_order_of_genetive_and_noun,Genetive-Noun,Iwaidja,Iwaidjan
 izi,A86_order_of_genetive_and_noun,Noun-Genitive,Izi,Niger-Congo
 jab,A86_order_of_genetive_and_noun,Genetive-Noun,Yabim,Austronesian
@@ -409,7 +409,7 @@ kae,A86_order_of_genetive_and_noun,Genetive-Noun,Tate,Eleman
 kan,A86_order_of_genetive_and_noun,Noun-Genitive,Kana,Niger-Congo
 kar,A86_order_of_genetive_and_noun,Noun-Genitive,Fer,Central Sudanic
 kas,A86_order_of_genetive_and_noun,Genetive-Noun,Kashmiri,Indo-European
-kau,A86_order_of_genetive_and_noun,No dominant order,Pasismanua,Austronesian
+kau,A86_order_of_genetive_and_noun,No dominant genitive noun order,Pasismanua,Austronesian
 kay,A86_order_of_genetive_and_noun,Genetive-Noun,Gayardilt,Tangkic
 kba,A86_order_of_genetive_and_noun,Noun-Genitive,Kamba,Niger-Congo
 kbl,A86_order_of_genetive_and_noun,Noun-Genitive,Kabyle,Afro-Asiatic
@@ -418,7 +418,7 @@ kbu,A86_order_of_genetive_and_noun,Noun-Genitive,Kanembu,Saharan
 kbw,A86_order_of_genetive_and_noun,Genetive-Noun,Bwe,Sino-Tibetan
 kby,A86_order_of_genetive_and_noun,Genetive-Noun,Kabre,Niger-Congo
 kch,A86_order_of_genetive_and_noun,Genetive-Noun,"Songhay, Koyra Chiini dialect",Songhay
-kdw,A86_order_of_genetive_and_noun,No dominant order,Kadiweu,Guaicuruan
+kdw,A86_order_of_genetive_and_noun,No dominant genitive noun order,Kadiweu,Guaicuruan
 kdz,A86_order_of_genetive_and_noun,Noun-Genitive,"Kadazan, Coastal",Austronesian
 kel,A86_order_of_genetive_and_noun,Noun-Genitive,Gele,Austronesian
 kem,A86_order_of_genetive_and_noun,Genetive-Noun,Kemant,Afro-Asiatic
@@ -464,7 +464,7 @@ kmh,A86_order_of_genetive_and_noun,Genetive-Noun,Kham,Sino-Tibetan
 kmj,A86_order_of_genetive_and_noun,Noun-Genitive,Karamojong,Eastern Sudanic
 kmo,A86_order_of_genetive_and_noun,Genetive-Noun,Koiari (Mountain),Trans-New Guinea
 kmp,A86_order_of_genetive_and_noun,Genetive-Noun,Kunimaipa,Trans-New Guinea
-kmr,A86_order_of_genetive_and_noun,No dominant order,Kamoro,Trans-New Guinea
+kmr,A86_order_of_genetive_and_noun,No dominant genitive noun order,Kamoro,Trans-New Guinea
 kms,A86_order_of_genetive_and_noun,Genetive-Noun,Kamas,Uralic
 kmu,A86_order_of_genetive_and_noun,Noun-Genitive,Khmu',Austro-Asiatic
 kmz,A86_order_of_genetive_and_noun,Genetive-Noun,Kamasau,Torricelli
@@ -495,7 +495,7 @@ krb,A86_order_of_genetive_and_noun,Noun-Genitive,Gilbertese,Austronesian
 krc,A86_order_of_genetive_and_noun,Genetive-Noun,Karachay,Altaic
 kre,A86_order_of_genetive_and_noun,Noun-Genitive,Kresh,Central Sudanic
 kri,A86_order_of_genetive_and_noun,Noun-Genitive,Kiriri,Kariri
-krj,A86_order_of_genetive_and_noun,No dominant order,Garadyari,Pama-Nyungan
+krj,A86_order_of_genetive_and_noun,No dominant genitive noun order,Garadyari,Pama-Nyungan
 krn,A86_order_of_genetive_and_noun,Genetive-Noun,!Ora,Khoe-Kwadi
 kro,A86_order_of_genetive_and_noun,Noun-Genitive,Krongo,Kadu
 krr,A86_order_of_genetive_and_noun,Noun-Genitive,Kairiru,Austronesian
@@ -512,15 +512,15 @@ ktl,A86_order_of_genetive_and_noun,Noun-Genitive,Katla,Kordofanian
 ktu,A86_order_of_genetive_and_noun,Noun-Genitive,Katu,Austro-Asiatic
 kty,A86_order_of_genetive_and_noun,Genetive-Noun,Xanty,Uralic
 kum,A86_order_of_genetive_and_noun,Genetive-Noun,Kumaoni,Indo-European
-kun,A86_order_of_genetive_and_noun,No dominant order,Cuna,Chibchan
+kun,A86_order_of_genetive_and_noun,No dominant genitive noun order,Cuna,Chibchan
 kuv,A86_order_of_genetive_and_noun,Genetive-Noun,Kuvi,Dravidian
 kwk,A86_order_of_genetive_and_noun,Noun-Genitive,Kwakwala,Wakashan
 kwm,A86_order_of_genetive_and_noun,Noun-Genitive,Kwaami,Afro-Asiatic
 kwn,A86_order_of_genetive_and_noun,Noun-Genitive,Kwangali,Niger-Congo
 kwo,A86_order_of_genetive_and_noun,Genetive-Noun,Kwoma,Sepik
-kws,A86_order_of_genetive_and_noun,No dominant order,Kawaiisu,Uto-Aztecan
+kws,A86_order_of_genetive_and_noun,No dominant genitive noun order,Kawaiisu,Uto-Aztecan
 kxo,A86_order_of_genetive_and_noun,Genetive-Noun,Xû,Khoe-Kwadi
-kya,A86_order_of_genetive_and_noun,No dominant order,Gugu Yalandyi,Pama-Nyungan
+kya,A86_order_of_genetive_and_noun,No dominant genitive noun order,Gugu Yalandyi,Pama-Nyungan
 kyl,A86_order_of_genetive_and_noun,Genetive-Noun,Kayah,Sino-Tibetan
 kyn,A86_order_of_genetive_and_noun,Genetive-Noun,Koyukon,Na-Dene
 kyo,A86_order_of_genetive_and_noun,Noun-Genitive,Kanyok,Niger-Congo
@@ -530,7 +530,7 @@ kzy,A86_order_of_genetive_and_noun,Genetive-Noun,Zyrian,Uralic
 lab,A86_order_of_genetive_and_noun,Genetive-Noun,Labu,Austronesian
 lac,A86_order_of_genetive_and_noun,Noun-Genitive,Lacandon,Mayan
 lad,A86_order_of_genetive_and_noun,Genetive-Noun,Western Tibetan,Sino-Tibetan
-laf,A86_order_of_genetive_and_noun,No dominant order,Tegem,Kordofanian
+laf,A86_order_of_genetive_and_noun,No dominant genitive noun order,Tegem,Kordofanian
 lag,A86_order_of_genetive_and_noun,Noun-Genitive,Logone,Afro-Asiatic
 lah,A86_order_of_genetive_and_noun,Genetive-Noun,Lahu,Sino-Tibetan
 lai,A86_order_of_genetive_and_noun,Genetive-Noun,Haka,Sino-Tibetan
@@ -544,10 +544,10 @@ lbu,A86_order_of_genetive_and_noun,Noun-Genitive,Ruund,Niger-Congo
 lda,A86_order_of_genetive_and_noun,Noun-Genitive,Luganda,Niger-Congo
 ldo,A86_order_of_genetive_and_noun,Noun-Genitive,Lundu,Niger-Congo
 ldu,A86_order_of_genetive_and_noun,Genetive-Noun,Bale,Central Sudanic
-lel,A86_order_of_genetive_and_noun,No dominant order,Lele,Afro-Asiatic
+lel,A86_order_of_genetive_and_noun,No dominant genitive noun order,Lele,Afro-Asiatic
 len,A86_order_of_genetive_and_noun,Noun-Genitive,Lenakel,Austronesian
 lep,A86_order_of_genetive_and_noun,Genetive-Noun,Lepcha,Sino-Tibetan
-les,A86_order_of_genetive_and_noun,No dominant order,Balese,Central Sudanic
+les,A86_order_of_genetive_and_noun,No dominant genitive noun order,Balese,Central Sudanic
 let,A86_order_of_genetive_and_noun,Genetive-Noun,Leti,Austronesian
 lew,A86_order_of_genetive_and_noun,Noun-Genitive,Lewo,Austronesian
 lez,A86_order_of_genetive_and_noun,Genetive-Noun,Lezgi,Nakh-Daghestanian
@@ -559,11 +559,11 @@ lim,A86_order_of_genetive_and_noun,Genetive-Noun,Limbu,Sino-Tibetan
 lin,A86_order_of_genetive_and_noun,Noun-Genitive,Losengo,Niger-Congo
 lis,A86_order_of_genetive_and_noun,Genetive-Noun,Lisu,Sino-Tibetan
 lit,A86_order_of_genetive_and_noun,Genetive-Noun,Lithuanian,Indo-European
-lkt,A86_order_of_genetive_and_noun,No dominant order,Teton,Siouan
+lkt,A86_order_of_genetive_and_noun,No dominant genitive noun order,Teton,Siouan
 llm,A86_order_of_genetive_and_noun,Genetive-Noun,Lelemi (Bwem),Niger-Congo
 lmb,A86_order_of_genetive_and_noun,Noun-Genitive,Lamba,Niger-Congo
 lmg,A86_order_of_genetive_and_noun,Noun-Genitive,Lamang,Afro-Asiatic
-lmh,A86_order_of_genetive_and_noun,No dominant order,Lamaholot,Austronesian
+lmh,A86_order_of_genetive_and_noun,No dominant genitive noun order,Lamaholot,Austronesian
 lmn,A86_order_of_genetive_and_noun,Genetive-Noun,Banjari,Indo-European
 lmp,A86_order_of_genetive_and_noun,Noun-Genitive,Lampung,Austronesian
 lmu,A86_order_of_genetive_and_noun,Noun-Genitive,d Lewo,Austronesian
@@ -578,13 +578,13 @@ luo,A86_order_of_genetive_and_noun,Noun-Genitive,Luo,Eastern Sudanic
 luv,A86_order_of_genetive_and_noun,Noun-Genitive,Lwena,Niger-Congo
 ma,A86_order_of_genetive_and_noun,Noun-Genitive,Amadi,Niger-Congo
 maa,A86_order_of_genetive_and_noun,Noun-Genitive,Maasai,Eastern Sudanic
-mab,A86_order_of_genetive_and_noun,No dominant order,Mabang,Maban
+mab,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mabang,Maban
 mac,A86_order_of_genetive_and_noun,Genetive-Noun,Makushi,Cariban
-mad,A86_order_of_genetive_and_noun,No dominant order,Madi,Central Sudanic
+mad,A86_order_of_genetive_and_noun,No dominant genitive noun order,Madi,Central Sudanic
 mae,A86_order_of_genetive_and_noun,Noun-Genitive,Mae,Austronesian
 mag,A86_order_of_genetive_and_noun,Genetive-Noun,Magari,Sino-Tibetan
 maj,A86_order_of_genetive_and_noun,Noun-Genitive,Majang,Eastern Sudanic
-mak,A86_order_of_genetive_and_noun,No dominant order,Makah,Wakashan
+mak,A86_order_of_genetive_and_noun,No dominant genitive noun order,Makah,Wakashan
 mal,A86_order_of_genetive_and_noun,Noun-Genitive,Malagassy,Austronesian
 mam,A86_order_of_genetive_and_noun,Noun-Genitive,Mam,Mayan
 man,A86_order_of_genetive_and_noun,Genetive-Noun,Mano,Mande
@@ -594,18 +594,18 @@ mar,A86_order_of_genetive_and_noun,Genetive-Noun,Maricopa,Hokan
 mas,A86_order_of_genetive_and_noun,Noun-Genitive,Masa,Afro-Asiatic
 mau,A86_order_of_genetive_and_noun,Genetive-Noun,Maung,Iwaidjan
 maw,A86_order_of_genetive_and_noun,Genetive-Noun,Maninka,Mande
-may,A86_order_of_genetive_and_noun,No dominant order,Brat,West Papuan
+may,A86_order_of_genetive_and_noun,No dominant genitive noun order,Brat,West Papuan
 mba,A86_order_of_genetive_and_noun,Genetive-Noun,Mba,Niger-Congo
 mbl,A86_order_of_genetive_and_noun,Noun-Genitive,Mbole,Niger-Congo
 mbm,A86_order_of_genetive_and_noun,Noun-Genitive,Mbum,Niger-Congo
 mbr,A86_order_of_genetive_and_noun,Noun-Genitive,Mbara,Afro-Asiatic
-mbt,A86_order_of_genetive_and_noun,No dominant order,Mangbetu,Central Sudanic
+mbt,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mangbetu,Central Sudanic
 mby,A86_order_of_genetive_and_noun,Noun-Genitive,Mbai,Central Sudanic
 mcc,A86_order_of_genetive_and_noun,Genetive-Noun,Chimu,Chimúan
-mcd,A86_order_of_genetive_and_noun,No dominant order,Macedonian,Indo-European
+mcd,A86_order_of_genetive_and_noun,No dominant genitive noun order,Macedonian,Indo-European
 mch,A86_order_of_genetive_and_noun,Noun-Genitive,Machiguenga,Arawakan
 mco,A86_order_of_genetive_and_noun,Genetive-Noun,Southeastern Mixe,Mixe-Zoque
-mcv,A86_order_of_genetive_and_noun,No dominant order,Mocovi,Guaicuruan
+mcv,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mocovi,Guaicuruan
 mda,A86_order_of_genetive_and_noun,Noun-Genitive,Mada (Chadic),Afro-Asiatic
 mde,A86_order_of_genetive_and_noun,Genetive-Noun,Mende,Mande
 mdg,A86_order_of_genetive_and_noun,Noun-Genitive,Mundang,Niger-Congo
@@ -637,18 +637,18 @@ miz,A86_order_of_genetive_and_noun,Genetive-Noun,Mizo,Sino-Tibetan
 mka,A86_order_of_genetive_and_noun,Genetive-Noun,Mau(ka),Mande
 mke,A86_order_of_genetive_and_noun,Genetive-Noun,Mekeo,Austronesian
 mkg,A86_order_of_genetive_and_noun,Genetive-Noun,Mandinka,Mande
-mkj,A86_order_of_genetive_and_noun,No dominant order,Makasai,Timor-Alor-Pantar
+mkj,A86_order_of_genetive_and_noun,No dominant genitive noun order,Makasai,Timor-Alor-Pantar
 mkl,A86_order_of_genetive_and_noun,Genetive-Noun,Maklew,Bulaka River
 mku,A86_order_of_genetive_and_noun,Genetive-Noun,Maranungku,Western Daly
 mla,A86_order_of_genetive_and_noun,Noun-Genitive,Mambila,Niger-Congo
 mlg,A86_order_of_genetive_and_noun,Noun-Genitive,Wandala,Afro-Asiatic
-mlk,A86_order_of_genetive_and_noun,No dominant order,Malakmalak,Northern Daly
+mlk,A86_order_of_genetive_and_noun,No dominant genitive noun order,Malakmalak,Northern Daly
 mlm,A86_order_of_genetive_and_noun,Genetive-Noun,Mrabri,Austro-Asiatic
-mlu,A86_order_of_genetive_and_noun,No dominant order,Maleu,Austronesian
-mmb,A86_order_of_genetive_and_noun,No dominant order,Mangap,Austronesian
+mlu,A86_order_of_genetive_and_noun,No dominant genitive noun order,Maleu,Austronesian
+mmb,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mangap,Austronesian
 mme,A86_order_of_genetive_and_noun,Genetive-Noun,Mari (Cheremis),Uralic
 mmn,A86_order_of_genetive_and_noun,Noun-Genitive,Mamanwa,Austronesian
-mmv,A86_order_of_genetive_and_noun,No dominant order,Mamvu,Central Sudanic
+mmv,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mamvu,Central Sudanic
 mna,A86_order_of_genetive_and_noun,Noun-Genitive,Muna,Austronesian
 mnd,A86_order_of_genetive_and_noun,Genetive-Noun,Mandarin Chinese,Sino-Tibetan
 mne,A86_order_of_genetive_and_noun,Genetive-Noun,Maidu (Mountain),Penutian
@@ -661,10 +661,10 @@ mnt,A86_order_of_genetive_and_noun,Noun-Genitive,Mentawai,Austronesian
 mnv,A86_order_of_genetive_and_noun,Genetive-Noun,Kukuya,Austronesian
 mny,A86_order_of_genetive_and_noun,Genetive-Noun,Margany,Pama-Nyungan
 mnz,A86_order_of_genetive_and_noun,Noun-Genitive,Monzombo,Niger-Congo
-moa,A86_order_of_genetive_and_noun,No dominant order,Mono Alu,Austronesian
+moa,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mono Alu,Austronesian
 mof,A86_order_of_genetive_and_noun,Noun-Genitive,Mofu,Afro-Asiatic
 moh,A86_order_of_genetive_and_noun,Genetive-Noun,Mohawk,Iroquoian
-mok,A86_order_of_genetive_and_noun,No dominant order,Mokilese,Austronesian
+mok,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mokilese,Austronesian
 mon,A86_order_of_genetive_and_noun,Noun-Genitive,Mon,Austro-Asiatic
 moo,A86_order_of_genetive_and_noun,Genetive-Noun,More,Niger-Congo
 mor,A86_order_of_genetive_and_noun,Genetive-Noun,Mor,Austronesian
@@ -674,14 +674,14 @@ mou,A86_order_of_genetive_and_noun,Noun-Genitive,Moru,Central Sudanic
 mpa,A86_order_of_genetive_and_noun,Noun-Genitive,Murrinh-Patha,Southern Daly
 mpr,A86_order_of_genetive_and_noun,Genetive-Noun,Maipure,Arawakan
 mpt,A86_order_of_genetive_and_noun,Genetive-Noun,Mianmin,Trans-New Guinea
-mra,A86_order_of_genetive_and_noun,No dominant order,Mara,Mangarrayi-Maran
+mra,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mara,Mangarrayi-Maran
 mrd,A86_order_of_genetive_and_noun,Genetive-Noun,Marind,Anim
 mrg,A86_order_of_genetive_and_noun,Noun-Genitive,Margi,Afro-Asiatic
 mrl,A86_order_of_genetive_and_noun,Noun-Genitive,Murle,Eastern Sudanic
 mro,A86_order_of_genetive_and_noun,Noun-Genitive,Moro,Kordofanian
 mrq,A86_order_of_genetive_and_noun,Noun-Genitive,Marquesan,Austronesian
 mrr,A86_order_of_genetive_and_noun,Genetive-Noun,Maringarr,Western Daly
-mrt,A86_order_of_genetive_and_noun,No dominant order,Martuyhunira,Pama-Nyungan
+mrt,A86_order_of_genetive_and_noun,No dominant genitive noun order,Martuyhunira,Pama-Nyungan
 mru,A86_order_of_genetive_and_noun,Genetive-Noun,Maru,Sino-Tibetan
 mrw,A86_order_of_genetive_and_noun,Genetive-Noun,Muruwari,Pama-Nyungan
 msc,A86_order_of_genetive_and_noun,Genetive-Noun,Chibcha,Chibchan
@@ -690,14 +690,14 @@ msk,A86_order_of_genetive_and_noun,Noun-Genitive,Ngile,Kordofanian
 msl,A86_order_of_genetive_and_noun,Noun-Genitive,Mesalit,Maban
 msn,A86_order_of_genetive_and_noun,Genetive-Noun,Maisin,Austronesian
 msq,A86_order_of_genetive_and_noun,Noun-Genitive,d Halkomelem,Salishan
-mss,A86_order_of_genetive_and_noun,No dominant order,Miwok (Southern Sierra),Penutian
+mss,A86_order_of_genetive_and_noun,No dominant genitive noun order,Miwok (Southern Sierra),Penutian
 mtb,A86_order_of_genetive_and_noun,Noun-Genitive,Matumbi,Niger-Congo
 mts,A86_order_of_genetive_and_noun,Genetive-Noun,Matís,Panoan
 mtt,A86_order_of_genetive_and_noun,Noun-Genitive,Massachusett,Algic
 mtu,A86_order_of_genetive_and_noun,Genetive-Noun,Motu,Austronesian
 mua,A86_order_of_genetive_and_noun,Noun-Genitive,Makua,Niger-Congo
 mud,A86_order_of_genetive_and_noun,Noun-Genitive,Lower Mundani,Niger-Congo
-mum,A86_order_of_genetive_and_noun,No dominant order,Mumuye,Niger-Congo
+mum,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mumuye,Niger-Congo
 mun,A86_order_of_genetive_and_noun,Genetive-Noun,Kolh,Austro-Asiatic
 mup,A86_order_of_genetive_and_noun,Noun-Genitive,Sura,Afro-Asiatic
 mur,A86_order_of_genetive_and_noun,Noun-Genitive,Murzi,Eastern Sudanic
@@ -707,13 +707,13 @@ mwb,A86_order_of_genetive_and_noun,Noun-Genitive,Western Bukidnon,Austronesian
 mwe,A86_order_of_genetive_and_noun,Noun-Genitive,Mwera,Niger-Congo
 mxa,A86_order_of_genetive_and_noun,Noun-Genitive,South Central Tlaxiaco Mixteco,Oto-Manguean
 mxc,A86_order_of_genetive_and_noun,Noun-Genitive,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-mxe,A86_order_of_genetive_and_noun,No dominant order,Mele,Austronesian
+mxe,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mele,Austronesian
 mxo,A86_order_of_genetive_and_noun,Noun-Genitive,Santo Tomás Ocotepec Mixteco,Oto-Manguean
 mxp,A86_order_of_genetive_and_noun,Noun-Genitive,Peñoles Mixtec,Oto-Manguean
 mxx,A86_order_of_genetive_and_noun,Genetive-Noun,d Mixe,Mixe-Zoque
 mxy,A86_order_of_genetive_and_noun,Noun-Genitive,Yosundua Mixtec,Oto-Manguean
 myg,A86_order_of_genetive_and_noun,Noun-Genitive,Mayogo,Niger-Congo
-myi,A86_order_of_genetive_and_noun,No dominant order,Mangarayi,Mangarrayi-Maran
+myi,A86_order_of_genetive_and_noun,No dominant genitive noun order,Mangarayi,Mangarrayi-Maran
 mym,A86_order_of_genetive_and_noun,Genetive-Noun,Malayalam,Dravidian
 myn,A86_order_of_genetive_and_noun,Noun-Genitive,Ma'anyan,Austronesian
 myr,A86_order_of_genetive_and_noun,Genetive-Noun,Matses,Panoan
@@ -723,7 +723,7 @@ naj,A86_order_of_genetive_and_noun,Noun-Genitive,Neo-Aramaic (Arbel),Afro-Asiati
 nak,A86_order_of_genetive_and_noun,Noun-Genitive,Bileki,Austronesian
 nam,A86_order_of_genetive_and_noun,Genetive-Noun,Namie,Sepik
 nar,A86_order_of_genetive_and_noun,Genetive-Noun,Nera,Eastern Sudanic
-nas,A86_order_of_genetive_and_noun,No dominant order,Nasioi,East Bougainville
+nas,A86_order_of_genetive_and_noun,No dominant genitive noun order,Nasioi,East Bougainville
 nav,A86_order_of_genetive_and_noun,Genetive-Noun,Navajo,Na-Dene
 nbd,A86_order_of_genetive_and_noun,Genetive-Noun,"Nubian, Dongolese",Eastern Sudanic
 nbr,A86_order_of_genetive_and_noun,Genetive-Noun,Guaymi,Chibchan
@@ -736,7 +736,7 @@ ndo,A86_order_of_genetive_and_noun,Noun-Genitive,Ndonga,Niger-Congo
 ndr,A86_order_of_genetive_and_noun,Noun-Genitive,d Fijian,Austronesian
 ndt,A86_order_of_genetive_and_noun,Noun-Genitive,Ndut,Niger-Congo
 ndu,A86_order_of_genetive_and_noun,Noun-Genitive,Ndumu,Niger-Congo
-ndy,A86_order_of_genetive_and_noun,No dominant order,Djuka,other
+ndy,A86_order_of_genetive_and_noun,No dominant genitive noun order,Djuka,other
 neh,A86_order_of_genetive_and_noun,Noun-Genitive,Nehan,Austronesian
 nep,A86_order_of_genetive_and_noun,Genetive-Noun,Nepali,Indo-European
 new,A86_order_of_genetive_and_noun,Genetive-Noun,"Newari, Kathmandu dialect",Sino-Tibetan
@@ -745,15 +745,15 @@ nez,A86_order_of_genetive_and_noun,Genetive-Noun,Nez Perce,Penutian
 ngb,A86_order_of_genetive_and_noun,Noun-Genitive,Ngbaka,Niger-Congo
 ngd,A86_order_of_genetive_and_noun,Noun-Genitive,Ngada,Austronesian
 ngi,A86_order_of_genetive_and_noun,Genetive-Noun,Wongaibon,Pama-Nyungan
-ngl,A86_order_of_genetive_and_noun,No dominant order,Ngalakan,Gunwinyguan
+ngl,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ngalakan,Gunwinyguan
 ngm,A86_order_of_genetive_and_noun,Noun-Genitive,Gambai,Central Sudanic
-ngn,A86_order_of_genetive_and_noun,No dominant order,Ngandi,Gunwinyguan
+ngn,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ngandi,Gunwinyguan
 ngo,A86_order_of_genetive_and_noun,Noun-Genitive,Ngoni (in Tanzania),Niger-Congo
 ngt,A86_order_of_genetive_and_noun,Genetive-Noun,Tangkhul,Sino-Tibetan
 ngu,A86_order_of_genetive_and_noun,Noun-Genitive,Efate (North),Austronesian
 ngz,A86_order_of_genetive_and_noun,Noun-Genitive,Ngizim,Afro-Asiatic
 nhh,A86_order_of_genetive_and_noun,Noun-Genitive,Tamazunchale Nahuatl,Uto-Aztecan
-nhm,A86_order_of_genetive_and_noun,No dominant order,Michoacán Aztec,Uto-Aztecan
+nhm,A86_order_of_genetive_and_noun,No dominant genitive noun order,Michoacán Aztec,Uto-Aztecan
 nht,A86_order_of_genetive_and_noun,Noun-Genitive,Tetelcingo Nahuatl,Uto-Aztecan
 nia,A86_order_of_genetive_and_noun,Noun-Genitive,Nias,Austronesian
 nis,A86_order_of_genetive_and_noun,Genetive-Noun,Nishi,Sino-Tibetan
@@ -764,14 +764,14 @@ nko,A86_order_of_genetive_and_noun,Noun-Genitive,Ciga,Niger-Congo
 nku,A86_order_of_genetive_and_noun,Genetive-Noun,Nubian (Aswan),Eastern Sudanic
 nma,A86_order_of_genetive_and_noun,Genetive-Noun,Mao,Sino-Tibetan
 nnc,A86_order_of_genetive_and_noun,Noun-Genitive,Nicobarese (Nancowry),Austro-Asiatic
-nnd,A86_order_of_genetive_and_noun,No dominant order,Angaua,Trans-New Guinea
+nnd,A86_order_of_genetive_and_noun,No dominant genitive noun order,Angaua,Trans-New Guinea
 nne,A86_order_of_genetive_and_noun,Noun-Genitive,Nengone,Austronesian
 nng,A86_order_of_genetive_and_noun,Noun-Genitive,Nyanga,Niger-Congo
 nnk,A86_order_of_genetive_and_noun,Genetive-Noun,Nankina,Trans-New Guinea
 noc,A86_order_of_genetive_and_noun,Genetive-Noun,Nocte,Sino-Tibetan
 non,A86_order_of_genetive_and_noun,Noun-Genitive,Noni,Niger-Congo
 noo,A86_order_of_genetive_and_noun,Noun-Genitive,Non,Niger-Congo
-nor,A86_order_of_genetive_and_noun,No dominant order,Norwegian,Indo-European
+nor,A86_order_of_genetive_and_noun,No dominant genitive noun order,Norwegian,Indo-European
 nph,A86_order_of_genetive_and_noun,Genetive-Noun,Nar Phu,Sino-Tibetan
 nrg,A86_order_of_genetive_and_noun,Genetive-Noun,"Sénoufo, Nanerigé",Niger-Congo
 nsg,A86_order_of_genetive_and_noun,Noun-Genitive,Nishga,Penutian
@@ -780,24 +780,24 @@ nti,A86_order_of_genetive_and_noun,Genetive-Noun,Dru,Central Sudanic
 ntj,A86_order_of_genetive_and_noun,Genetive-Noun,Ngaanyatjara,Pama-Nyungan
 nua,A86_order_of_genetive_and_noun,Genetive-Noun,Nuaulu,Austronesian
 nue,A86_order_of_genetive_and_noun,Noun-Genitive,Nuer,Eastern Sudanic
-nug,A86_order_of_genetive_and_noun,No dominant order,Nunggubuyu,Gunwinyguan
+nug,A86_order_of_genetive_and_noun,No dominant genitive noun order,Nunggubuyu,Gunwinyguan
 nun,A86_order_of_genetive_and_noun,Noun-Genitive,Zhuang (Southern),Tai-Kadai
 nup,A86_order_of_genetive_and_noun,Noun-Genitive,Nupe,Niger-Congo
 nwd,A86_order_of_genetive_and_noun,Genetive-Noun,Dolakha Newari,Sino-Tibetan
 nyi,A86_order_of_genetive_and_noun,Genetive-Noun,Nyimang,Eastern Sudanic
 nym,A86_order_of_genetive_and_noun,Noun-Genitive,Nyamwezi,Niger-Congo
-nyn,A86_order_of_genetive_and_noun,No dominant order,Nyigina,Nyulnyulan
+nyn,A86_order_of_genetive_and_noun,No dominant genitive noun order,Nyigina,Nyulnyulan
 nza,A86_order_of_genetive_and_noun,Noun-Genitive,Nzakara,Niger-Congo
 obo,A86_order_of_genetive_and_noun,Noun-Genitive,Obolo,Niger-Congo
-ocu,A86_order_of_genetive_and_noun,No dominant order,Ocuiltec,Oto-Manguean
+ocu,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ocuiltec,Oto-Manguean
 oji,A86_order_of_genetive_and_noun,Genetive-Noun,Ojibwa,Algic
-olo,A86_order_of_genetive_and_noun,No dominant order,Olo,Torricelli
+olo,A86_order_of_genetive_and_noun,No dominant genitive noun order,Olo,Torricelli
 omh,A86_order_of_genetive_and_noun,Genetive-Noun,Omaha,Siouan
 omi,A86_order_of_genetive_and_noun,Genetive-Noun,Ömie,Trans-New Guinea
-ond,A86_order_of_genetive_and_noun,No dominant order,Oneida,Iroquoian
-one,A86_order_of_genetive_and_noun,No dominant order,One,Torricelli
+ond,A86_order_of_genetive_and_noun,No dominant genitive noun order,Oneida,Iroquoian
+one,A86_order_of_genetive_and_noun,No dominant genitive noun order,One,Torricelli
 ong,A86_order_of_genetive_and_noun,Genetive-Noun,Onge,South Andamanese
-ood,A86_order_of_genetive_and_noun,No dominant order,Tohono O'odham,Uto-Aztecan
+ood,A86_order_of_genetive_and_noun,No dominant genitive noun order,Tohono O'odham,Uto-Aztecan
 ord,A86_order_of_genetive_and_noun,Genetive-Noun,Ordos,Altaic
 orh,A86_order_of_genetive_and_noun,Noun-Genitive,Oromo (Eastern),Afro-Asiatic
 ori,A86_order_of_genetive_and_noun,Noun-Genitive,Turjok,Kordofanian
@@ -838,9 +838,9 @@ pnn,A86_order_of_genetive_and_noun,Noun-Genitive,Pangasinan,Austronesian
 pno,A86_order_of_genetive_and_noun,Genetive-Noun,Paiute (Northern),Uto-Aztecan
 pnu,A86_order_of_genetive_and_noun,Genetive-Noun,Punu,Hmong-Mien
 pnx,A86_order_of_genetive_and_noun,Genetive-Noun,Kreen-Akarore,Macro-Ge
-pny,A86_order_of_genetive_and_noun,No dominant order,Panytyima,Pama-Nyungan
+pny,A86_order_of_genetive_and_noun,No dominant genitive noun order,Panytyima,Pama-Nyungan
 pod,A86_order_of_genetive_and_noun,Noun-Genitive,Paduko,Afro-Asiatic
-poh,A86_order_of_genetive_and_noun,No dominant order,Ponapean,Austronesian
+poh,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ponapean,Austronesian
 pok,A86_order_of_genetive_and_noun,Genetive-Noun,Rawo,Skou
 pol,A86_order_of_genetive_and_noun,Noun-Genitive,Polish,Indo-European
 por,A86_order_of_genetive_and_noun,Noun-Genitive,Portuguese,Indo-European
@@ -857,7 +857,7 @@ ptt,A86_order_of_genetive_and_noun,Genetive-Noun,Chamba,Sino-Tibetan
 pul,A86_order_of_genetive_and_noun,Genetive-Noun,Puluwatese,Austronesian
 pum,A86_order_of_genetive_and_noun,Genetive-Noun,Prinmi,Sino-Tibetan
 pun,A86_order_of_genetive_and_noun,Genetive-Noun,Kuwama,Anson Bay
-pur,A86_order_of_genetive_and_noun,No dominant order,Tarascan,Tarascan
+pur,A86_order_of_genetive_and_noun,No dominant genitive noun order,Tarascan,Tarascan
 pwn,A86_order_of_genetive_and_noun,Genetive-Noun,Pawnee,Caddoan
 qaf,A86_order_of_genetive_and_noun,Genetive-Noun,Afar,Afro-Asiatic
 qaw,A86_order_of_genetive_and_noun,Genetive-Noun,Qawasqar,Alacalufan
@@ -894,7 +894,7 @@ sam,A86_order_of_genetive_and_noun,Noun-Genitive,Samoan,Austronesian
 san,A86_order_of_genetive_and_noun,Noun-Genitive,Sango,Niger-Congo
 sar,A86_order_of_genetive_and_noun,Genetive-Noun,Kapriman,Sepik
 sav,A86_order_of_genetive_and_noun,Genetive-Noun,Sau,Indo-European
-scr,A86_order_of_genetive_and_noun,No dominant order,Serbocroat,Indo-European
+scr,A86_order_of_genetive_and_noun,No dominant genitive noun order,Serbocroat,Indo-European
 seb,A86_order_of_genetive_and_noun,Noun-Genitive,Sapiny,Eastern Sudanic
 sec,A86_order_of_genetive_and_noun,Genetive-Noun,Secoya,Tucanoan
 sed,A86_order_of_genetive_and_noun,Noun-Genitive,Sedang,Austro-Asiatic
@@ -920,14 +920,14 @@ sin,A86_order_of_genetive_and_noun,Genetive-Noun,Siona,Tucanoan
 sio,A86_order_of_genetive_and_noun,Genetive-Noun,Sio,Austronesian
 sir,A86_order_of_genetive_and_noun,Noun-Genitive,Siar,Austronesian
 sis,A86_order_of_genetive_and_noun,Noun-Genitive,Babatana,Austronesian
-siu,A86_order_of_genetive_and_noun,No dominant order,Siuslaw,Oregon Coast
+siu,A86_order_of_genetive_and_noun,No dominant genitive noun order,Siuslaw,Oregon Coast
 skk,A86_order_of_genetive_and_noun,Genetive-Noun,Bhotia,Sino-Tibetan
 sko,A86_order_of_genetive_and_noun,Genetive-Noun,Sko,Skou
 skp,A86_order_of_genetive_and_noun,Genetive-Noun,Selkup,Uralic
 sla,A86_order_of_genetive_and_noun,Genetive-Noun,"Slave, Hare dialect",Na-Dene
 slb,A86_order_of_genetive_and_noun,Genetive-Noun,Suau,Austronesian
 sle,A86_order_of_genetive_and_noun,Genetive-Noun,(Samba) Leko,Niger-Congo
-slo,A86_order_of_genetive_and_noun,No dominant order,Slovene,Indo-European
+slo,A86_order_of_genetive_and_noun,No dominant genitive noun order,Slovene,Indo-European
 slp,A86_order_of_genetive_and_noun,Genetive-Noun,Selepet,Trans-New Guinea
 sme,A86_order_of_genetive_and_noun,Genetive-Noun,Seme,Niger-Congo
 sml,A86_order_of_genetive_and_noun,Noun-Genitive,Semelai,Austro-Asiatic
@@ -938,7 +938,7 @@ sno,A86_order_of_genetive_and_noun,Genetive-Noun,Saami (Northern),Uralic
 so,A86_order_of_genetive_and_noun,Noun-Genitive,So,Eastern Sudanic
 sob,A86_order_of_genetive_and_noun,Genetive-Noun,Sobei,Austronesian
 sod,A86_order_of_genetive_and_noun,Genetive-Noun,Soddo,Afro-Asiatic
-som,A86_order_of_genetive_and_noun,No dominant order,Somali,Afro-Asiatic
+som,A86_order_of_genetive_and_noun,No dominant genitive noun order,Somali,Afro-Asiatic
 son,A86_order_of_genetive_and_noun,Noun-Genitive,Sonsorolese,Austronesian
 spa,A86_order_of_genetive_and_noun,Noun-Genitive,Spanish (Peninsular Castilian),Indo-European
 squ,A86_order_of_genetive_and_noun,Noun-Genitive,Squamish,Salishan
@@ -964,7 +964,7 @@ tab,A86_order_of_genetive_and_noun,Genetive-Noun,Makian (East),Austronesian
 tac,A86_order_of_genetive_and_noun,Genetive-Noun,Tacana,Tacanan
 taf,A86_order_of_genetive_and_noun,Noun-Genitive,Saposa,Austronesian
 tag,A86_order_of_genetive_and_noun,Noun-Genitive,Tagalog,Austronesian
-tah,A86_order_of_genetive_and_noun,No dominant order,Tahitian,Austronesian
+tah,A86_order_of_genetive_and_noun,No dominant genitive noun order,Tahitian,Austronesian
 taj,A86_order_of_genetive_and_noun,Noun-Genitive,Tajiki,Indo-European
 tak,A86_order_of_genetive_and_noun,Genetive-Noun,Takia,Austronesian
 tam,A86_order_of_genetive_and_noun,Genetive-Noun,Tamang,Sino-Tibetan
@@ -999,7 +999,7 @@ thy,A86_order_of_genetive_and_noun,Noun-Genitive,Thaayorre,Pama-Nyungan
 tia,A86_order_of_genetive_and_noun,Noun-Genitive,Tima,Kordofanian
 tib,A86_order_of_genetive_and_noun,Genetive-Noun,"Tibetan, Lhasa dialect",Sino-Tibetan
 tid,A86_order_of_genetive_and_noun,Genetive-Noun,Tidore,West Papuan
-tig,A86_order_of_genetive_and_noun,No dominant order,Tigrinya,Afro-Asiatic
+tig,A86_order_of_genetive_and_noun,No dominant genitive noun order,Tigrinya,Afro-Asiatic
 tik,A86_order_of_genetive_and_noun,Noun-Genitive,Tikar,Niger-Congo
 tim,A86_order_of_genetive_and_noun,Noun-Genitive,Timugon,Austronesian
 tin,A86_order_of_genetive_and_noun,Noun-Genitive,Tiri,Austronesian
@@ -1063,7 +1063,7 @@ uhi,A86_order_of_genetive_and_noun,Genetive-Noun,Otati,Pama-Nyungan
 uld,A86_order_of_genetive_and_noun,Noun-Genitive,Wuzlam,Afro-Asiatic
 uli,A86_order_of_genetive_and_noun,Genetive-Noun,Ulithian,Austronesian
 una,A86_order_of_genetive_and_noun,Genetive-Noun,Goliath,Trans-New Guinea
-ung,A86_order_of_genetive_and_noun,No dominant order,Ungarinjin,Worrorran
+ung,A86_order_of_genetive_and_noun,No dominant genitive noun order,Ungarinjin,Worrorran
 ura,A86_order_of_genetive_and_noun,Noun-Genitive,Ura,Austronesian
 urd,A86_order_of_genetive_and_noun,Genetive-Noun,Urdu,Indo-European
 urk,A86_order_of_genetive_and_noun,Genetive-Noun,Urubu,Tupian
@@ -1080,7 +1080,7 @@ vnm,A86_order_of_genetive_and_noun,Noun-Genitive,Vinmavis,Austronesian
 wah,A86_order_of_genetive_and_noun,Genetive-Noun,Wahgi,Trans-New Guinea
 wai,A86_order_of_genetive_and_noun,Genetive-Noun,Waiwai,Cariban
 wak,A86_order_of_genetive_and_noun,Genetive-Noun,Wakhi,Indo-European
-wal,A86_order_of_genetive_and_noun,No dominant order,Valman,Torricelli
+wal,A86_order_of_genetive_and_noun,No dominant genitive noun order,Valman,Torricelli
 wap,A86_order_of_genetive_and_noun,Genetive-Noun,Wappo,Wappo-Yukian
 war,A86_order_of_genetive_and_noun,Noun-Genitive,Pakaasnovos,Chapacura-Wanham
 wat,A86_order_of_genetive_and_noun,Genetive-Noun,Wadjari,Pama-Nyungan
@@ -1101,8 +1101,8 @@ wmu,A86_order_of_genetive_and_noun,Genetive-Noun,Wik-Mungkan,Pama-Nyungan
 wna,A86_order_of_genetive_and_noun,Genetive-Noun,Nwa,Mande
 wog,A86_order_of_genetive_and_noun,Genetive-Noun,Wogamusin,Sepik
 woi,A86_order_of_genetive_and_noun,Genetive-Noun,Woisika,Timor-Alor-Pantar
-wol,A86_order_of_genetive_and_noun,No dominant order,Woleaian,Austronesian
-wrd,A86_order_of_genetive_and_noun,No dominant order,Wardaman,Yangmanic
+wol,A86_order_of_genetive_and_noun,No dominant genitive noun order,Woleaian,Austronesian
+wrd,A86_order_of_genetive_and_noun,No dominant genitive noun order,Wardaman,Yangmanic
 wrk,A86_order_of_genetive_and_noun,Noun-Genitive,Guarequena,Arawakan
 wrm,A86_order_of_genetive_and_noun,Genetive-Noun,Warenbori,Austronesian
 wrn,A86_order_of_genetive_and_noun,Noun-Genitive,Warndarang,Mangarrayi-Maran
@@ -1110,7 +1110,7 @@ wrw,A86_order_of_genetive_and_noun,Genetive-Noun,Warwa,Nyulnyulan
 wsk,A86_order_of_genetive_and_noun,Genetive-Noun,Waskia,Trans-New Guinea
 wwa,A86_order_of_genetive_and_noun,Genetive-Noun,Wama,Niger-Congo
 xam,A86_order_of_genetive_and_noun,Genetive-Noun,/Xam,Tu
-xar,A86_order_of_genetive_and_noun,No dominant order,Xaracuu,Austronesian
+xar,A86_order_of_genetive_and_noun,No dominant genitive noun order,Xaracuu,Austronesian
 xas,A86_order_of_genetive_and_noun,Genetive-Noun,Xasonke,Mande
 xav,A86_order_of_genetive_and_noun,Genetive-Noun,Chavante,Macro-Ge
 xbi,A86_order_of_genetive_and_noun,Noun-Genitive,Kombio,Torricelli
@@ -1134,21 +1134,21 @@ yin,A86_order_of_genetive_and_noun,Genetive-Noun,Yindjibarndi,Pama-Nyungan
 yiw,A86_order_of_genetive_and_noun,Genetive-Noun,Nasu,Sino-Tibetan
 yko,A86_order_of_genetive_and_noun,Genetive-Noun,Kolyma,Yukaghir
 ykt,A86_order_of_genetive_and_noun,Genetive-Noun,Yakut,Altaic
-ylm,A86_order_of_genetive_and_noun,No dominant order,Yelmek,Bulaka River
+ylm,A86_order_of_genetive_and_noun,No dominant genitive noun order,Yelmek,Bulaka River
 yns,A86_order_of_genetive_and_noun,Noun-Genitive,Yanzi,Niger-Congo
-yok,A86_order_of_genetive_and_noun,No dominant order,Yokutsan,Penutian
+yok,A86_order_of_genetive_and_noun,No dominant genitive noun order,Yokutsan,Penutian
 yor,A86_order_of_genetive_and_noun,Noun-Genitive,Yoruba,Niger-Congo
 yqy,A86_order_of_genetive_and_noun,Genetive-Noun,Yaqay,Anim
 ytu,A86_order_of_genetive_and_noun,Genetive-Noun,"Yukaghir, Tundra dialect",Yukaghir
 yuk,A86_order_of_genetive_and_noun,Genetive-Noun,Yugulda,Tangkic
 yur,A86_order_of_genetive_and_noun,Genetive-Noun,Yurok,Algic
 yus,A86_order_of_genetive_and_noun,Genetive-Noun,Siberian Yupik,Eskimo-Aleut
-yuw,A86_order_of_genetive_and_noun,No dominant order,Gamilaraay,Pama-Nyungan
+yuw,A86_order_of_genetive_and_noun,No dominant genitive noun order,Gamilaraay,Pama-Nyungan
 ywr,A86_order_of_genetive_and_noun,Noun-Genitive,Yawuru,Nyulnyulan
 yyg,A86_order_of_genetive_and_noun,Genetive-Noun,Yaygir,Pama-Nyungan
-zag,A86_order_of_genetive_and_noun,No dominant order,Zagawa,Saharan
+zag,A86_order_of_genetive_and_noun,No dominant genitive noun order,Zagawa,Saharan
 zai,A86_order_of_genetive_and_noun,Noun-Genitive,"Zapotec, Isthmus",Oto-Manguean
-zan,A86_order_of_genetive_and_noun,No dominant order,Zande,Niger-Congo
+zan,A86_order_of_genetive_and_noun,No dominant genitive noun order,Zande,Niger-Congo
 zap,A86_order_of_genetive_and_noun,Noun-Genitive,Mitla Zapotec,Oto-Manguean
 zar,A86_order_of_genetive_and_noun,Genetive-Noun,Zerma,Songhay
 zay,A86_order_of_genetive_and_noun,Genetive-Noun,Zayse,Afro-Asiatic
