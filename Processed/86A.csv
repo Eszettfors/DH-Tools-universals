@@ -15,7 +15,6 @@ aco,86A,Genetive-Noun,Keres (Western),Keresan
 acu,86A,Genetive-Noun,Achuar,Jivaroan
 adg,86A,Genetive-Noun,Adang,Timor-Alor-Pantar
 adi,86A,Genetive-Noun,Adyukru,Niger-Congo
-adk,86A,Genetive-Noun,Andoke,
 adn,86A,Genetive-Noun,Adynyamathanha,Pama-Nyungan
 adz,86A,Genetive-Noun,Adzera,Austronesian
 aeg,86A,Noun-Genitive,Egyptian Colloquial Arabic,Afro-Asiatic
@@ -25,9 +24,7 @@ agc,86A,Noun-Genitive,Agta,Austronesian
 agd,86A,Noun-Genitive,d Agta,Austronesian
 agh,86A,Noun-Genitive,Aghem,Niger-Congo
 agm,86A,Genetive-Noun,Angami,Sino-Tibetan
-ain,86A,Genetive-Noun,Ainu,
 aja,86A,Noun-Genitive,Aja,Central Sudanic
-ajg,86A,No dominant order,,Niger-Congo
 akh,86A,Genetive-Noun,Akha,Sino-Tibetan
 akn,86A,Genetive-Noun,Akan,Niger-Congo
 ala,86A,Genetive-Noun,Alamblak,Sepik
@@ -48,11 +45,9 @@ amn,86A,Genetive-Noun,Amanab,Border
 amq,86A,Genetive-Noun,Ambai,Austronesian
 amr,86A,Noun-Genitive,Moroccan Arabic,Afro-Asiatic
 ams,86A,Noun-Genitive,Modern Literary Arabic,Afro-Asiatic
-amt,86A,Genetive-Noun,,Sino-Tibetan
 amx,86A,Genetive-Noun,Ikundun,Trans-New Guinea
 ana,86A,Genetive-Noun,Araona,Tacanan
 anc,86A,Noun-Genitive,Angas,Afro-Asiatic
-ane,86A,No dominant order,Anem,
 ang,86A,Genetive-Noun,Anggor,Senagi
 ani,86A,Genetive-Noun,||Ani,Khoe-Kwadi
 anj,86A,Noun-Genitive,Aneityum,Austronesian
@@ -70,7 +65,6 @@ ara,86A,Genetive-Noun,Arawak,Arawakan
 arc,86A,Genetive-Noun,Archi,Nakh-Daghestanian
 arg,86A,Noun-Genitive,Khaliji,Afro-Asiatic
 ari,86A,Genetive-Noun,Lae,Austronesian
-arj,86A,Noun-Genitive,,Afro-Asiatic
 arm,86A,Genetive-Noun,Eastern Armenian,Indo-European
 aro,86A,Noun-Genitive,Arosi,Austronesian
 arp,86A,No dominant order,Bukiyip,Torricelli
@@ -81,7 +75,6 @@ ass,86A,Genetive-Noun,Assamese,Indo-European
 asy,86A,Noun-Genitive,Syrian Arabic,Afro-Asiatic
 ata,86A,Noun-Genitive,Atayal,Austronesian
 ath,86A,Genetive-Noun,Athpare,Sino-Tibetan
-atk,86A,Genetive-Noun,Atakapa,
 au,86A,No dominant order,Au,Torricelli
 ava,86A,Genetive-Noun,Avar,Nakh-Daghestanian
 avo,86A,No dominant order,Avukaya,Central Sudanic
@@ -121,7 +114,6 @@ bga,86A,Noun-Genitive,Benga,Niger-Congo
 bgo,86A,Noun-Genitive,Bongo,Central Sudanic
 bgr,86A,Noun-Genitive,Furu,Central Sudanic
 bho,86A,Genetive-Noun,Bhojpuri,Indo-European
-bhu,86A,Genetive-Noun,,Austro-Asiatic
 bid,86A,Noun-Genitive,Bidiyo,Afro-Asiatic
 bii,86A,Genetive-Noun,Biri,Pama-Nyungan
 bik,86A,Genetive-Noun,Biak,Austronesian
@@ -145,7 +137,6 @@ bnb,86A,Genetive-Noun,Bunaba,Bunuban
 bni,86A,Noun-Genitive,Bini,Niger-Congo
 bnk,86A,Noun-Genitive,Bankon,Niger-Congo
 bnn,86A,Noun-Genitive,Banoni,Austronesian
-bnr,86A,No dominant order,,Pama-Nyungan
 bob,86A,Noun-Genitive,Bobangi,Niger-Congo
 bod,86A,Genetive-Noun,Boro,Sino-Tibetan
 bok,86A,Genetive-Noun,Boko,Mande
@@ -158,11 +149,9 @@ bri,86A,Genetive-Noun,Bribri,Chibchan
 brm,86A,Genetive-Noun,Burmese,Sino-Tibetan
 brn,86A,Noun-Genitive,Burunge,Afro-Asiatic
 brp,86A,Noun-Genitive,d Warapu,Skou
-brq,86A,Noun-Genitive,,Niger-Congo
 brs,86A,Genetive-Noun,Barasano (Southern),Tucanoan
 bry,86A,Genetive-Noun,Baruya,Trans-New Guinea
 bsk,86A,Genetive-Noun,Bashkir,Altaic
-bsq,86A,Genetive-Noun,"Basque, central",
 bsr,86A,Noun-Genitive,Oniyan,Niger-Congo
 btk,86A,Noun-Genitive,Bontok (Central),Austronesian
 bto,86A,Noun-Genitive,Toba Batak,Austronesian
@@ -170,7 +159,6 @@ bud,86A,Noun-Genitive,Buduma,Afro-Asiatic
 bug,86A,Noun-Genitive,Bugis,Austronesian
 bul,86A,No dominant order,Bulgarian,Indo-European
 bum,86A,Noun-Genitive,Buma,Austronesian
-bur,86A,Genetive-Noun,Burushaski,
 bus,86A,Genetive-Noun,Busa,Mande
 but,86A,Genetive-Noun,Buriat,Altaic
 buu,86A,Genetive-Noun,Buru,Austronesian
@@ -179,9 +167,7 @@ bvi,86A,Noun-Genitive,Vitu,Austronesian
 bwc,86A,Noun-Genitive,"Bajau, West Coast",Austronesian
 bya,86A,Genetive-Noun,Byangsi,Sino-Tibetan
 cah,86A,Genetive-Noun,Cahuilla,Uto-Aztecan
-cai,86A,Noun-Genitive,,Eastern Sudanic
 cak,86A,Noun-Genitive,Cakchiquel,Mayan
-can,86A,Genetive-Noun,Candoshi,
 car,86A,Genetive-Noun,Galibi,Cariban
 cas,86A,Genetive-Noun,Cashibo,Panoan
 cav,86A,Genetive-Noun,Cavineña,Tacanan
@@ -235,15 +221,11 @@ cpy,86A,Genetive-Noun,Chipaya,Uru-Chipaya
 cqt,86A,Noun-Genitive,Chiquito,Chiquito
 crn,86A,Noun-Genitive,Cornish,Indo-European
 cro,86A,Genetive-Noun,Crow,Siouan
-cso,86A,Noun-Genitive,,Oto-Manguean
 cti,86A,Genetive-Noun,Tiddim Chin,Sino-Tibetan
 ctl,86A,Noun-Genitive,Catalan,Indo-European
-ctm,86A,Genetive-Noun,Chitimacha,
 ctw,86A,Genetive-Noun,Catawba,Siouan
 cub,86A,Genetive-Noun,Cubeo,Tucanoan
 cup,86A,Genetive-Noun,Cupeño,Uto-Aztecan
-cya,86A,Noun-Genitive,,Oto-Manguean
-cyv,86A,Noun-Genitive,Cayuvava,
 cze,86A,No dominant order,Czech,Indo-European
 dag,86A,Genetive-Noun,Daga,Dagan
 dan,86A,Genetive-Noun,Dan,Mande
@@ -284,7 +266,6 @@ duk,86A,Noun-Genitive,Duka,Niger-Congo
 dul,86A,Genetive-Noun,Trung,Sino-Tibetan
 dum,86A,Genetive-Noun,Vanimo,Skou
 dun,86A,Genetive-Noun,Duna,Trans-New Guinea
-dut,86A,Noun-Genitive,,Indo-European
 dyi,86A,Genetive-Noun,Dyirbal,Pama-Nyungan
 edo,86A,Genetive-Noun,Beami,Bosavi
 ega,86A,Genetive-Noun,Ega,Niger-Congo
@@ -302,7 +283,6 @@ esm,86A,Noun-Genitive,Esmeralda,Tacame
 est,86A,Genetive-Noun,Estonian,Uralic
 eud,86A,Genetive-Noun,Opata,Uto-Aztecan
 eve,86A,Genetive-Noun,Evenki,Altaic
-ewe,86A,Genetive-Noun,,Niger-Congo
 ewo,86A,Noun-Genitive,Ewondo,Niger-Congo
 fas,86A,Genetive-Noun,Fasu,Trans-New Guinea
 fij,86A,Noun-Genitive,Nadroga,Austronesian
@@ -311,30 +291,24 @@ fon,86A,Noun-Genitive,Fon,Niger-Congo
 for,86A,Genetive-Noun,Fore,Trans-New Guinea
 fqs,86A,Genetive-Noun,Fas,Baibai-Fas
 fre,86A,Noun-Genitive,French,Indo-European
-fri,86A,No dominant order,,Indo-European
 fua,86A,Noun-Genitive,Fulfulde (Cameroonian),Niger-Congo
 ful,86A,Genetive-Noun,Fulnio,Yaté
-fur,86A,Genetive-Noun,Fur,
 fut,86A,Noun-Genitive,Futuna-Aniwa,Austronesian
 fye,86A,Noun-Genitive,Fyam,Niger-Congo
 ga,86A,Genetive-Noun,Gã,Niger-Congo
 gae,86A,Noun-Genitive,Scottish Gaelic,Indo-European
 gam,86A,Genetive-Noun,Gamo,Afro-Asiatic
-gan,86A,Genetive-Noun,"Andamanese, Great Andaman dialect",
 gap,86A,Genetive-Noun,Gapapaiwa,Austronesian
 gar,86A,Genetive-Noun,Garo,Sino-Tibetan
 gav,86A,Genetive-Noun,Gavião,Tupian
 gbb,86A,Noun-Genitive,Gbeya,Niger-Congo
-gbs,86A,Noun-Genitive,,Niger-Congo
 gds,86A,Genetive-Noun,Gadsup,Trans-New Guinea
 gel,86A,Noun-Genitive,Gela,Austronesian
 geo,86A,Genetive-Noun,Georgian,Kartvelian
-ger,86A,Noun-Genitive,,Indo-European
 gjj,86A,Genetive-Noun,Guajajara,Tupian
 gku,86A,No dominant order,Puelche,Chon
 gln,86A,Genetive-Noun,Golin,Trans-New Guinea
 gmw,86A,Genetive-Noun,Gumasi,Austronesian
-gmz,86A,Noun-Genitive,Bega,
 gnd,86A,Noun-Genitive,Ga'anda,Afro-Asiatic
 gnn,86A,Genetive-Noun,Wunambal,Worrorran
 goa,86A,Noun-Genitive,Goajiro,Arawakan
@@ -349,7 +323,6 @@ grj,86A,Genetive-Noun,Guarijío,Uto-Aztecan
 grk,86A,Noun-Genitive,Modern Greek,Indo-European
 grr,86A,Genetive-Noun,Garawa,Garrwan
 grw,86A,Genetive-Noun,Greenland Eskimo (West),Eskimo-Aleut
-gto,86A,Noun-Genitive,Guato,
 gua,86A,Genetive-Noun,Guarani (Paraguayan),Tupian
 gud,86A,Noun-Genitive,Gude,Afro-Asiatic
 gul,86A,Noun-Genitive,Gula,Central Sudanic
@@ -359,8 +332,6 @@ guu,86A,No dominant order,Guugu Yimidhirr,Pama-Nyungan
 guw,86A,No dominant order,Gun,Niger-Congo
 gwa,86A,Genetive-Noun,Gwari,Niger-Congo
 gwo,86A,Noun-Genitive,Katab,Niger-Congo
-gyc,86A,Genetive-Noun,,Sino-Tibetan
-hai,86A,Genetive-Noun,"Haida, Southern",
 hal,86A,Noun-Genitive,Halia,Austronesian
 har,86A,Genetive-Noun,Waibuk,Piawi
 hat,86A,Genetive-Noun,Hattam,West Papuan
@@ -384,7 +355,6 @@ hoa,86A,Noun-Genitive,Hoava,Austronesian
 hop,86A,Genetive-Noun,Hopi,Uto-Aztecan
 hpd,86A,Genetive-Noun,Hupda,Nadahup
 htc,86A,Noun-Genitive,Huastec,Mayan
-hua,86A,Genetive-Noun,,Trans-New Guinea
 huc,86A,Genetive-Noun,|=HÍ,Kxa
 hui,86A,Genetive-Noun,Huichol,Uto-Aztecan
 hum,86A,Genetive-Noun,Murui,Huitotoan
@@ -408,17 +378,14 @@ ika,86A,Genetive-Noun,Ica,Chibchan
 ila,86A,Noun-Genitive,Ila,Niger-Congo
 imo,86A,Genetive-Noun,Imonda,Border
 ina,86A,Genetive-Noun,Inanwatan,South Bird's Head
-ind,86A,Noun-Genitive,,Austronesian
 ing,86A,Genetive-Noun,Ingush,Nakh-Daghestanian
 iqu,86A,Genetive-Noun,Iquito,Zaparoan
 iri,86A,Noun-Genitive,Gaelic,Indo-European
 irq,86A,Noun-Genitive,Iraqw,Afro-Asiatic
 irr,86A,Genetive-Noun,Irahutu,Austronesian
-irx,86A,Genetive-Noun,Iranshe,
 isa,86A,Noun-Genitive,Krisa,Skou
 ita,86A,Noun-Genitive,Italian (Roman),Indo-European
 ite,86A,No dominant order,Kamchadal,Chukotko-Kamchatkan
-ito,86A,No dominant order,Itonama,
 iwa,86A,Genetive-Noun,Iwaidja,Iwaidjan
 izi,86A,Noun-Genitive,Izi,Niger-Congo
 jab,86A,Genetive-Noun,Yabim,Austronesian
@@ -432,7 +399,6 @@ jlu,86A,Noun-Genitive,Jur,Eastern Sudanic
 jmo,86A,Noun-Genitive,Morokodo,Central Sudanic
 jms,86A,Genetive-Noun,d Dogon,Dogon
 jng,86A,Genetive-Noun,Jingphaw,Sino-Tibetan
-jpn,86A,Genetive-Noun,Japanese,
 juh,86A,Genetive-Noun,Zhu-/Hoa (Si),Kxa
 juk,86A,Noun-Genitive,Jukun,Niger-Congo
 jva,86A,Genetive-Noun,Karaja,Macro-Ge
@@ -465,7 +431,6 @@ kga,86A,Noun-Genitive,Kinga,Niger-Congo
 kgu,86A,Genetive-Noun,Kalkatungu,Pama-Nyungan
 kgy,86A,Genetive-Noun,Kyerung,Sino-Tibetan
 kha,86A,Genetive-Noun,Khalkha,Altaic
-khd,86A,Genetive-Noun,,Sino-Tibetan
 khg,86A,Genetive-Noun,Khaling,Sino-Tibetan
 khi,86A,Genetive-Noun,Xinalug,Nakh-Daghestanian
 khl,86A,Genetive-Noun,Khalaj,Altaic
@@ -497,7 +462,6 @@ kma,86A,Genetive-Noun,Kamayura,Tupian
 kmb,86A,Genetive-Noun,Wanggom,Trans-New Guinea
 kmh,86A,Genetive-Noun,Kham,Sino-Tibetan
 kmj,86A,Noun-Genitive,Karamojong,Eastern Sudanic
-kmk,86A,Genetive-Noun,,Altaic
 kmo,86A,Genetive-Noun,Koiari (Mountain),Trans-New Guinea
 kmp,86A,Genetive-Noun,Kunimaipa,Trans-New Guinea
 kmr,86A,No dominant order,Kamoro,Trans-New Guinea
@@ -510,12 +474,9 @@ knd,86A,Genetive-Noun,Kannada,Dravidian
 kng,86A,Genetive-Noun,Kaingang,Macro-Ge
 kni,86A,Genetive-Noun,Koma,Niger-Congo
 knk,86A,Noun-Genitive,Kanakuru,Afro-Asiatic
-knm,86A,Genetive-Noun,Kunama,
 knn,86A,Genetive-Noun,Kanauri,Sino-Tibetan
-kno,86A,Genetive-Noun,,Kapixana
 knr,86A,Noun-Genitive,Kanuri,Saharan
 knw,86A,Genetive-Noun,Maidu (Northwest),Penutian
-knz,86A,Genetive-Noun,,Sino-Tibetan
 koa,86A,Genetive-Noun,Koasati,Muskogean
 kob,86A,Genetive-Noun,Kobon,Trans-New Guinea
 koe,86A,Noun-Genitive,Kwegu,Eastern Sudanic
@@ -524,7 +485,6 @@ kol,86A,Genetive-Noun,Kolami,Dravidian
 kom,86A,Noun-Genitive,Komo,Koman
 kon,86A,Noun-Genitive,Kikongo,Niger-Congo
 kop,86A,Genetive-Noun,Permyak,Uralic
-kor,86A,Genetive-Noun,Korean,
 kos,86A,Noun-Genitive,Kosraean,Austronesian
 koy,86A,Genetive-Noun,Koya,Dravidian
 kpe,86A,Genetive-Noun,Kpelle,Mande
@@ -533,11 +493,9 @@ kpw,86A,Genetive-Noun,Pho,Sino-Tibetan
 kqq,86A,Genetive-Noun,Botocudo,Macro-Ge
 krb,86A,Noun-Genitive,Gilbertese,Austronesian
 krc,86A,Genetive-Noun,Karachay,Altaic
-krd,86A,Noun-Genitive,,Indo-European
 kre,86A,Noun-Genitive,Kresh,Central Sudanic
 kri,86A,Noun-Genitive,Kiriri,Kariri
 krj,86A,No dominant order,Garadyari,Pama-Nyungan
-krk,86A,Genetive-Noun,Karok,
 krn,86A,Genetive-Noun,!Ora,Khoe-Kwadi
 kro,86A,Noun-Genitive,Krongo,Kadu
 krr,86A,Noun-Genitive,Kairiru,Austronesian
@@ -555,16 +513,12 @@ ktu,86A,Noun-Genitive,Katu,Austro-Asiatic
 kty,86A,Genetive-Noun,Xanty,Uralic
 kum,86A,Genetive-Noun,Kumaoni,Indo-European
 kun,86A,No dominant order,Cuna,Chibchan
-kuo,86A,Noun-Genitive,Panaras,
-kut,86A,Noun-Genitive,Kutenai,
 kuv,86A,Genetive-Noun,Kuvi,Dravidian
 kwk,86A,Noun-Genitive,Kwakwala,Wakashan
 kwm,86A,Noun-Genitive,Kwaami,Afro-Asiatic
 kwn,86A,Noun-Genitive,Kwangali,Niger-Congo
 kwo,86A,Genetive-Noun,Kwoma,Sepik
 kws,86A,No dominant order,Kawaiisu,Uto-Aztecan
-kwt,86A,Genetive-Noun,Kwomtari,
-kwz,86A,Genetive-Noun,Koaia,
 kxo,86A,Genetive-Noun,Xû,Khoe-Kwadi
 kya,86A,No dominant order,Gugu Yalandyi,Pama-Nyungan
 kyl,86A,Genetive-Noun,Kayah,Sino-Tibetan
@@ -573,7 +527,6 @@ kyo,86A,Noun-Genitive,Kanyok,Niger-Congo
 kyr,86A,Genetive-Noun,Yuri,Pauwasi
 kyz,86A,Genetive-Noun,Kayabí,Tupian
 kzy,86A,Genetive-Noun,Zyrian,Uralic
-laa,86A,Noun-Genitive,Laal,
 lab,86A,Genetive-Noun,Labu,Austronesian
 lac,86A,Noun-Genitive,Lacandon,Mayan
 lad,86A,Genetive-Noun,Western Tibetan,Sino-Tibetan
@@ -621,7 +574,6 @@ lot,86A,Genetive-Noun,Lotha,Sino-Tibetan
 lou,86A,Noun-Genitive,Lou,Austronesian
 lug,86A,Genetive-Noun,Logbara,Central Sudanic
 lui,86A,Genetive-Noun,Luiseño,Uto-Aztecan
-lul,86A,Genetive-Noun,Lule,
 luo,86A,Noun-Genitive,Luo,Eastern Sudanic
 luv,86A,Noun-Genitive,Lwena,Niger-Congo
 ma,86A,Noun-Genitive,Amadi,Niger-Congo
@@ -646,7 +598,6 @@ may,86A,No dominant order,Brat,West Papuan
 mba,86A,Genetive-Noun,Mba,Niger-Congo
 mbl,86A,Noun-Genitive,Mbole,Niger-Congo
 mbm,86A,Noun-Genitive,Mbum,Niger-Congo
-mbo,86A,Genetive-Noun,Monumbo,
 mbr,86A,Noun-Genitive,Mbara,Afro-Asiatic
 mbt,86A,No dominant order,Mangbetu,Central Sudanic
 mby,86A,Noun-Genitive,Mbai,Central Sudanic
@@ -714,7 +665,6 @@ moa,86A,No dominant order,Mono Alu,Austronesian
 mof,86A,Noun-Genitive,Mofu,Afro-Asiatic
 moh,86A,Genetive-Noun,Mohawk,Iroquoian
 mok,86A,No dominant order,Mokilese,Austronesian
-mom,86A,Genetive-Noun,Mombum,
 mon,86A,Noun-Genitive,Mon,Austro-Asiatic
 moo,86A,Genetive-Noun,More,Niger-Congo
 mor,86A,Genetive-Noun,Mor,Austronesian
@@ -727,7 +677,6 @@ mpt,86A,Genetive-Noun,Mianmin,Trans-New Guinea
 mra,86A,No dominant order,Mara,Mangarrayi-Maran
 mrd,86A,Genetive-Noun,Marind,Anim
 mrg,86A,Noun-Genitive,Margi,Afro-Asiatic
-mri,86A,Genetive-Noun,Moraori,
 mrl,86A,Noun-Genitive,Murle,Eastern Sudanic
 mro,86A,Noun-Genitive,Moro,Kordofanian
 mrq,86A,Noun-Genitive,Marquesan,Austronesian
@@ -773,7 +722,6 @@ nad,86A,Genetive-Noun,Nadëb,Nadahup
 naj,86A,Noun-Genitive,Neo-Aramaic (Arbel),Afro-Asiatic
 nak,86A,Noun-Genitive,Bileki,Austronesian
 nam,86A,Genetive-Noun,Namie,Sepik
-,86A,Noun-Genitive,Nandi,Eastern Sudanic
 nar,86A,Genetive-Noun,Nera,Eastern Sudanic
 nas,86A,No dominant order,Nasioi,East Bougainville
 nav,86A,Genetive-Noun,Navajo,Na-Dene
@@ -791,7 +739,6 @@ ndu,86A,Noun-Genitive,Ndumu,Niger-Congo
 ndy,86A,No dominant order,Djuka,other
 neh,86A,Noun-Genitive,Nehan,Austronesian
 nep,86A,Genetive-Noun,Nepali,Indo-European
-nev,86A,Genetive-Noun,,Uto-Aztecan
 new,86A,Genetive-Noun,"Newari, Kathmandu dialect",Sino-Tibetan
 ney,86A,Genetive-Noun,Neyo,Niger-Congo
 nez,86A,Genetive-Noun,Nez Perce,Penutian
@@ -811,7 +758,6 @@ nht,86A,Noun-Genitive,Tetelcingo Nahuatl,Uto-Aztecan
 nia,86A,Noun-Genitive,Nias,Austronesian
 nis,86A,Genetive-Noun,Nishi,Sino-Tibetan
 niu,86A,Noun-Genitive,Niuean,Austronesian
-niv,86A,Genetive-Noun,Amur,
 nkb,86A,Noun-Genitive,Ngalkbon,Gunwinyguan
 nkn,86A,Genetive-Noun,Nkonya,Niger-Congo
 nko,86A,Noun-Genitive,Ciga,Niger-Congo
@@ -832,7 +778,6 @@ nsg,86A,Noun-Genitive,Nishga,Penutian
 nsn,86A,Genetive-Noun,Maidu (Southern),Penutian
 nti,86A,Genetive-Noun,Dru,Central Sudanic
 ntj,86A,Genetive-Noun,Ngaanyatjara,Pama-Nyungan
-ntu,86A,Genetive-Noun,,Uralic
 nua,86A,Genetive-Noun,Nuaulu,Austronesian
 nue,86A,Noun-Genitive,Nuer,Eastern Sudanic
 nug,86A,No dominant order,Nunggubuyu,Gunwinyguan
@@ -846,7 +791,6 @@ nza,86A,Noun-Genitive,Nzakara,Niger-Congo
 obo,86A,Noun-Genitive,Obolo,Niger-Congo
 ocu,86A,No dominant order,Ocuiltec,Oto-Manguean
 oji,86A,Genetive-Noun,Ojibwa,Algic
-oks,86A,Genetive-Noun,Oksapmin,
 olo,86A,No dominant order,Olo,Torricelli
 omh,86A,Genetive-Noun,Omaha,Siouan
 omi,86A,Genetive-Noun,Ömie,Trans-New Guinea
@@ -927,19 +871,16 @@ ral,86A,Genetive-Noun,Ralte,Sino-Tibetan
 ram,86A,Genetive-Noun,Rama,Chibchan
 rao,86A,Genetive-Noun,Rao,Lower Sepik-Ramu
 rap,86A,Noun-Genitive,Rapanui,Austronesian
-ras,86A,Noun-Genitive,,Kordofanian
 raw,86A,Genetive-Noun,Rawang,Sino-Tibetan
 rem,86A,Genetive-Noun,Remo,Austro-Asiatic
 res,86A,Genetive-Noun,Resigaro,Arawakan
 ret,86A,Genetive-Noun,Tanimuca,Tucanoan
 rga,86A,Noun-Genitive,Ronga,Niger-Congo
-rgc,86A,Genetive-Noun,,Sino-Tibetan
 rny,86A,Noun-Genitive,Nyankole,Niger-Congo
 rom,86A,Noun-Genitive,Rumanian,Indo-European
 ron,86A,Noun-Genitive,Ron (Chadic),Afro-Asiatic
 rot,86A,Noun-Genitive,Rotuman,Austronesian
 rov,86A,Noun-Genitive,Roviana,Austronesian
-rsu,86A,Noun-Genitive,,Indo-European
 ruk,86A,Noun-Genitive,Rukai,Austronesian
 rum,86A,Genetive-Noun,Kairi,Turama-Kikorian
 run,86A,Genetive-Noun,Runga,Maban
@@ -949,13 +890,11 @@ rwe,86A,Genetive-Noun,Welsh Romany,Indo-European
 saa,86A,Noun-Genitive,Sa'a,Austronesian
 sah,86A,Genetive-Noun,Sahu,West Papuan
 sak,86A,Noun-Genitive,Sakao,Austronesian
-sal,86A,Noun-Genitive,Salinan,
 sam,86A,Noun-Genitive,Samoan,Austronesian
 san,86A,Noun-Genitive,Sango,Niger-Congo
 sar,86A,Genetive-Noun,Kapriman,Sepik
 sav,86A,Genetive-Noun,Sau,Indo-European
 scr,86A,No dominant order,Serbocroat,Indo-European
-sdw,86A,Genetive-Noun,Sandawe,
 seb,86A,Noun-Genitive,Sapiny,Eastern Sudanic
 sec,86A,Genetive-Noun,Secoya,Tucanoan
 sed,86A,Noun-Genitive,Sedang,Austro-Asiatic
@@ -992,12 +931,10 @@ slo,86A,No dominant order,Slovene,Indo-European
 slp,86A,Genetive-Noun,Selepet,Trans-New Guinea
 sme,86A,Genetive-Noun,Seme,Niger-Congo
 sml,86A,Noun-Genitive,Semelai,Austro-Asiatic
-smn,86A,Genetive-Noun,,Muskogean
 sna,86A,Genetive-Noun,Shina,Indo-European
 sng,86A,Genetive-Noun,Sinagoro,Austronesian
 snm,86A,Genetive-Noun,Sanuma,Yanomam
 sno,86A,Genetive-Noun,Saami (Northern),Uralic
-snt,86A,Genetive-Noun,Sentani,
 so,86A,Noun-Genitive,So,Eastern Sudanic
 sob,86A,Genetive-Noun,Sobei,Austronesian
 sod,86A,Genetive-Noun,Soddo,Afro-Asiatic
@@ -1017,20 +954,17 @@ sud,86A,Genetive-Noun,Tagula,Austronesian
 sue,86A,Genetive-Noun,Suena,Trans-New Guinea
 sug,86A,Genetive-Noun,Sungor,Eastern Sudanic
 suk,86A,Genetive-Noun,Suki,Gogodala-Suki
-sul,86A,No dominant order,Sulka,
 sun,86A,Noun-Genitive,Sundanese,Austronesian
 sup,86A,Genetive-Noun,Suppire,Niger-Congo
 sus,86A,Genetive-Noun,Susu,Mande
 svs,86A,Genetive-Noun,Savsavo,Solomons East Papuan
 swa,86A,Noun-Genitive,Swahili,Niger-Congo
-swe,86A,Genetive-Noun,,Indo-European
 swt,86A,Noun-Genitive,Swati,Niger-Congo
 tab,86A,Genetive-Noun,Makian (East),Austronesian
 tac,86A,Genetive-Noun,Tacana,Tacanan
 taf,86A,Noun-Genitive,Saposa,Austronesian
 tag,86A,Noun-Genitive,Tagalog,Austronesian
 tah,86A,No dominant order,Tahitian,Austronesian
-tai,86A,Noun-Genitive,,Afro-Asiatic
 taj,86A,Noun-Genitive,Tajiki,Indo-European
 tak,86A,Genetive-Noun,Takia,Austronesian
 tam,86A,Genetive-Noun,Tamang,Sino-Tibetan
@@ -1044,7 +978,6 @@ tbo,86A,Noun-Genitive,Tboli,Austronesian
 tbt,86A,Genetive-Noun,Yotafa,Austronesian
 tbu,86A,Noun-Genitive,Tubu,Saharan
 tbw,86A,Noun-Genitive,Taabwa,Niger-Congo
-tdi,86A,Genetive-Noun,,Sino-Tibetan
 tee,86A,Noun-Genitive,d Tepehua,Totonacan
 tel,86A,Genetive-Noun,Telugu,Dravidian
 ten,86A,Noun-Genitive,Tenet,Eastern Sudanic
@@ -1057,7 +990,6 @@ tgh,86A,Noun-Genitive,Ghadames,Afro-Asiatic
 tgk,86A,Noun-Genitive,Tigak,Austronesian
 tgl,86A,Genetive-Noun,Monpa,Sino-Tibetan
 tgn,86A,Genetive-Noun,Tugun,Austronesian
-tgr,86A,Noun-Genitive,,Afro-Asiatic
 tha,86A,Noun-Genitive,Thai,Tai-Kadai
 thk,86A,Genetive-Noun,Thakali,Sino-Tibetan
 thn,86A,Genetive-Noun,Thami,Sino-Tibetan
@@ -1066,30 +998,24 @@ thu,86A,Genetive-Noun,Thulung,Sino-Tibetan
 thy,86A,Noun-Genitive,Thaayorre,Pama-Nyungan
 tia,86A,Noun-Genitive,Tima,Kordofanian
 tib,86A,Genetive-Noun,"Tibetan, Lhasa dialect",Sino-Tibetan
-tic,86A,No dominant order,Ticuna,
 tid,86A,Genetive-Noun,Tidore,West Papuan
 tig,86A,No dominant order,Tigrinya,Afro-Asiatic
 tik,86A,Noun-Genitive,Tikar,Niger-Congo
 tim,86A,Noun-Genitive,Timugon,Austronesian
 tin,86A,Noun-Genitive,Tiri,Austronesian
 tir,86A,Genetive-Noun,Trio,Cariban
-tis,86A,Genetive-Noun,,Sino-Tibetan
 tiv,86A,Noun-Genitive,Tiv,Niger-Congo
 tiw,86A,Genetive-Noun,Tiwi,Tiwian
 tja,86A,Genetive-Noun,Jamul Tiipay,Hokan
-tkl,86A,Genetive-Noun,Takelma,
 tkm,86A,Genetive-Noun,Turkmen,Altaic
 tla,86A,Noun-Genitive,Tolai,Austronesian
 tlf,86A,Genetive-Noun,Telefol,Trans-New Guinea
 tli,86A,Genetive-Noun,Tlingit,Na-Dene
 tlo,86A,Genetive-Noun,Tobelo,West Papuan
 tlp,86A,Noun-Genitive,Tlapanec,Oto-Manguean
-tls,86A,Genetive-Noun,,Indo-European
 tma,86A,Genetive-Noun,Tamok,Eastern Sudanic
-tml,86A,Genetive-Noun,,Dravidian
 tmm,86A,Noun-Genitive,Malo,Austronesian
 tmn,86A,Noun-Genitive,Ronge,Eastern Sudanic
-tmo,86A,Genetive-Noun,,Sino-Tibetan
 tna,86A,Noun-Genitive,Turkana,Eastern Sudanic
 tnb,86A,Genetive-Noun,Uw Cuwa,Chibchan
 tnc,86A,Genetive-Noun,Tanacross,Na-Dene
@@ -1099,7 +1025,6 @@ tnk,86A,Noun-Genitive,Lavongai,Austronesian
 tnn,86A,Noun-Genitive,Tunen,Niger-Congo
 tno,86A,Noun-Genitive,Tondano,Austronesian
 tob,86A,Noun-Genitive,Toba,Guaicuruan
-ton,86A,Genetive-Noun,Tonkawa,
 tou,86A,Genetive-Noun,Tusya,Niger-Congo
 toz,86A,Noun-Genitive,Tonga,Niger-Congo
 tpn,86A,Genetive-Noun,Tepehuan (Northern),Uto-Aztecan
@@ -1108,14 +1033,12 @@ trb,86A,Genetive-Noun,Teribe,Chibchan
 tri,86A,Noun-Genitive,Copala-Trique,Oto-Manguean
 trr,86A,Genetive-Noun,Tairora,Trans-New Guinea
 trt,86A,Genetive-Noun,Ternate,West Papuan
-tru,86A,Genetive-Noun,Trumai,
 trw,86A,Genetive-Noun,Torwali,Indo-European
 tsf,86A,Genetive-Noun,Colorado,Barbacoan
 tsg,86A,Noun-Genitive,Tausug,Austronesian
 tsh,86A,Genetive-Noun,Panamint,Uto-Aztecan
 tsi,86A,Noun-Genitive,Tsimshian,Penutian
 tsk,86A,Noun-Genitive,Tamasheq,Afro-Asiatic
-tsm,86A,Genetive-Noun,,
 tsz,86A,Genetive-Noun,Dido,Nakh-Daghestanian
 ttd,86A,Genetive-Noun,d Tetun,Austronesian
 tte,86A,Genetive-Noun,Tutelo,Siouan
@@ -1124,7 +1047,6 @@ tts,86A,Genetive-Noun,Tati,Indo-European
 ttu,86A,Genetive-Noun,Bats,Nakh-Daghestanian
 tuk,86A,Noun-Genitive,Tukang-Besi,Austronesian
 tul,86A,Genetive-Noun,Tulu,Dravidian
-tun,86A,Genetive-Noun,Tunica,
 tur,86A,Genetive-Noun,Turkish,Altaic
 tuv,86A,Genetive-Noun,Tuva,Altaic
 tvl,86A,Noun-Genitive,Ellice,Austronesian
@@ -1146,11 +1068,9 @@ ura,86A,Noun-Genitive,Ura,Austronesian
 urd,86A,Genetive-Noun,Urdu,Indo-European
 urk,86A,Genetive-Noun,Urubu,Tupian
 url,86A,Noun-Genitive,Urak Lawoi',Austronesian
-urn,86A,Genetive-Noun,Urarina,
 urt,86A,Noun-Genitive,Urat,Torricelli
 usa,86A,Genetive-Noun,Wanuma,Trans-New Guinea
 usr,86A,Genetive-Noun,Auyana,Trans-New Guinea
-ute,86A,Genetive-Noun,,Uto-Aztecan
 uzb,86A,Genetive-Noun,"Uzbek, Southern",Altaic
 vaf,86A,Noun-Genitive,Vafsi,Indo-European
 vai,86A,Genetive-Noun,Vai,Mande
@@ -1161,16 +1081,13 @@ wah,86A,Genetive-Noun,Wahgi,Trans-New Guinea
 wai,86A,Genetive-Noun,Waiwai,Cariban
 wak,86A,Genetive-Noun,Wakhi,Indo-European
 wal,86A,No dominant order,Valman,Torricelli
-wao,86A,Genetive-Noun,Waorani,
 wap,86A,Genetive-Noun,Wappo,Wappo-Yukian
 war,86A,Noun-Genitive,Pakaasnovos,Chapacura-Wanham
-was,86A,Genetive-Noun,Washo,
 wat,86A,Genetive-Noun,Wadjari,Pama-Nyungan
 way,86A,Genetive-Noun,Oyampi,Tupian
 wbn,86A,Genetive-Noun,Wambon,Trans-New Guinea
 wch,86A,Genetive-Noun,Matako,Matacoan
 wed,86A,Genetive-Noun,Wedau,Austronesian
-wel,86A,Noun-Genitive,,Indo-European
 wem,86A,Genetive-Noun,Wemba Wemba,Pama-Nyungan
 wik,86A,Genetive-Noun,Yokuts (Wikchamni),Penutian
 win,86A,Genetive-Noun,Wintun,Penutian
@@ -1185,8 +1102,6 @@ wna,86A,Genetive-Noun,Nwa,Mande
 wog,86A,Genetive-Noun,Wogamusin,Sepik
 woi,86A,Genetive-Noun,Woisika,Timor-Alor-Pantar
 wol,86A,No dominant order,Woleaian,Austronesian
-wom,86A,Genetive-Noun,,Skou
-wra,86A,Genetive-Noun,Warao,
 wrd,86A,No dominant order,Wardaman,Yangmanic
 wrk,86A,Noun-Genitive,Guarequena,Arawakan
 wrm,86A,Genetive-Noun,Warenbori,Austronesian
@@ -1224,11 +1139,8 @@ yns,86A,Noun-Genitive,Yanzi,Niger-Congo
 yok,86A,No dominant order,Yokutsan,Penutian
 yor,86A,Noun-Genitive,Yoruba,Niger-Congo
 yqy,86A,Genetive-Noun,Yaqay,Anim
-yrm,86A,Genetive-Noun,Yurimangui,
 ytu,86A,Genetive-Noun,"Yukaghir, Tundra dialect",Yukaghir
-yuc,86A,Genetive-Noun,Yuchi,
 yuk,86A,Genetive-Noun,Yugulda,Tangkic
-yul,86A,Noun-Genitive,,Central Sudanic
 yur,86A,Genetive-Noun,Yurok,Algic
 yus,86A,Genetive-Noun,Siberian Yupik,Eskimo-Aleut
 yuw,86A,No dominant order,Gamilaraay,Pama-Nyungan
@@ -1246,5 +1158,4 @@ zpr,86A,Genetive-Noun,Zaparo,Zaparoan
 zqc,86A,Genetive-Noun,Copainalá Zoque,Mixe-Zoque
 zqs,86A,Genetive-Noun,Popoluca (Sierra),Mixe-Zoque
 zul,86A,Noun-Genitive,IsiZulu,Niger-Congo
-zun,86A,Genetive-Noun,Zuni,
 zya,86A,Noun-Genitive,"Zapotec, Yatzachi",Oto-Manguean
