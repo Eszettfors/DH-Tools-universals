@@ -2,7 +2,7 @@
 Query used to load two preproceesed files
 
 LOAD CSV WITH HEADERS FROM "file:///86A.csv" AS row
-MERGE (language:Language {id: row.Language_ID})
+MERGE (language:Language {id: row.Language_ID, name:row.Name})
 MERGE (value:Value {id: row.Parameter_ID, value: row.Value})
 MERGE (family:Family {name: row.Family})
 MERGE (language)-[:HAS_VALUE]->(value)
@@ -10,8 +10,16 @@ MERGE (language)-[:BELONGS_TO]->(family);
 
 
 LOAD CSV WITH HEADERS FROM "file:///85A.csv" AS row
-MERGE (language:Language {id: row.Language_ID})
+MERGE (language:Language {id: row.Language_ID, name:row.Name})
 MERGE (value:Value {id: row.Parameter_ID, value: row.Value})
 MERGE (family:Family {name: row.Family})
 MERGE (language)-[:HAS_VALUE]->(value)
 MERGE (language)-[:BELONGS_TO]->(family);
+
+Query to test U2
+
+MATCH (language:Language)-[:HAS_VALUE]->(value:Value {value: 'Prepositions'})
+MATCH (language:Language)-[:HAS_VALUE]->(value2:Value {value: 'Genetive-Noun'})
+RETURN COUNT(*);
+
+/// change value according to need
