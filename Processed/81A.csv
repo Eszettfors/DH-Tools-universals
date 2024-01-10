@@ -1,1276 +1,1276 @@
 Language_ID,Parameter_ID,Value,Name,Family
-aba,81A,SOV,Abau,Sepik
-abi,81A,SVO,Abipon,Guaicuruan
-abk,81A,SOV,Abkhaz,Northwest Caucasian
-abn,81A,SOV,Arabana,Pama-Nyungan
-abo,81A,SOV,Arbore,Afro-Asiatic
-abu,81A,SVO,Yimbun,West Papuan
-abv,81A,SOV,Abui,Timor-Alor-Pantar
-ace,81A,No dominant order,Achinese,Austronesian
-acg,81A,SVO,Achagua,Arawakan
-acl,81A,SVO,Acholi,Eastern Sudanic
-acm,81A,SVO,Achumawi,Hokan
-aco,81A,No dominant order,Keres (Western),Keresan
-adg,81A,SOV,Adang,Timor-Alor-Pantar
-adi,81A,SVO,Adyukru,Niger-Congo
-adn,81A,No dominant order,Adynyamathanha,Pama-Nyungan
-ady,81A,SOV,Abzax,Northwest Caucasian
-adz,81A,SVO,Adzera,Austronesian
-aeg,81A,SVO,Egyptian Colloquial Arabic,Afro-Asiatic
-aga,81A,SOV,Gadsup,Trans-New Guinea
-agb,81A,SVO,Legbo,Niger-Congo
-agc,81A,VSO,Agta,Austronesian
-agd,81A,VSO,d Agta,Austronesian
-agh,81A,SVO,Aghem,Niger-Congo
-agm,81A,SOV,Angami,Sino-Tibetan
-agt,81A,SOV,Awngthim,Pama-Nyungan
-aja,81A,SVO,Aja,Central Sudanic
-akh,81A,SOV,Akha,Sino-Tibetan
-akn,81A,SVO,Akan,Niger-Congo
-ala,81A,SOV,Alamblak,Sepik
-alb,81A,SVO,Albanian,Indo-European
-ale,81A,SOV,"Aleut, Eastern",Eskimo-Aleut
-alk,81A,SVO,Lukep,Austronesian
-all,81A,SOV,Nara,Austronesian
-aln,81A,SVO,Alune,Austronesian
-alw,81A,No dominant order,Alawa,Mangarrayi-Maran
-aly,81A,SOV,Alyawarra,Pama-Nyungan
-ama,81A,SVO,Longa,Austronesian
-amb,81A,SOV,Abelam,Sepik
-amc,81A,No dominant order,Amahuaca,Panoan
-ame,81A,SOV,Amele,Trans-New Guinea
-amh,81A,SOV,Amharic,Afro-Asiatic
-ami,81A,No dominant order,Ami,Austronesian
-aml,81A,SVO,Aoban (Northeast),Austronesian
-amn,81A,SOV,Amanab,Border
-amp,81A,SOV,Mparntwe Arrernte,Pama-Nyungan
-amq,81A,SVO,Ambai,Austronesian
-ams,81A,VSO,Modern Literary Arabic,Afro-Asiatic
-anc,81A,SVO,Angas,Afro-Asiatic
-ang,81A,SOV,Anggor,Senagi
-ani,81A,No dominant order,||Ani,Khoe-Kwadi
-anj,81A,VOS,Aneityum,Austronesian
-ann,81A,No dominant order,Enindhilyagwa,Gunwinyguan
-ano,81A,SOV,Anung,Sino-Tibetan
-anu,81A,SVO,Chakosi,Niger-Congo
-any,81A,No dominant order,Anuak,Eastern Sudanic
-ao,81A,SOV,Ao,Sino-Tibetan
-aoj,81A,SVO,Arapesh (Southern),Torricelli
-api,81A,SOV,Apinaye,Macro-Ge
-apl,81A,No dominant order,Apalai,Cariban
-apt,81A,SOV,Apatani,Sino-Tibetan
-apu,81A,SVO,Apurina,Arawakan
-apw,81A,SOV,Apache (Western),Na-Dene
-ara,81A,SVO,Arawak,Arawakan
-arc,81A,SOV,Archi,Nakh-Daghestanian
-arg,81A,SVO,Khaliji,Afro-Asiatic
-ari,81A,SVO,Lae,Austronesian
-arm,81A,No dominant order,Eastern Armenian,Indo-European
-aro,81A,SVO,Arosi,Austronesian
-arp,81A,SVO,Bukiyip,Torricelli
-arq,81A,SVO,Iraqi Arabic,Afro-Asiatic
-arw,81A,SOV,Western Armenian,Indo-European
-asm,81A,SOV,Asmat (Flamingo Bay),Trans-New Guinea
-ass,81A,SOV,Assamese,Indo-European
-asu,81A,OVS,Asurini,Tupian
-asy,81A,No dominant order,Syrian Arabic,Afro-Asiatic
-ath,81A,SOV,Athpare,Sino-Tibetan
-atm,81A,SOV,Kunza,Kunza
-ats,81A,No dominant order,Atsugewi,Hokan
-au,81A,SVO,Au,Torricelli
-ava,81A,SOV,Avar,Nakh-Daghestanian
-avk,81A,SVO,Avikam,Niger-Congo
-avo,81A,No dominant order,Avukaya,Central Sudanic
-awa,81A,SOV,Awa,Trans-New Guinea
-awi,81A,SOV,Awin,Awin-Pare
-awp,81A,SOV,Cuaiquer,Barbacoan
-awt,81A,SOV,Autu,Sepik
-awy,81A,SOV,Awyi,Border
-ayi,81A,SVO,Anyi,Niger-Congo
-aym,81A,SOV,Aymara,Aymaran
-ayr,81A,SVO,Ayoreo,Zamucoan
-ayw,81A,SVO,Aiwo,Austronesian
-aze,81A,SOV,"Azerbaijani, North",Altaic
-azi,81A,SOV,Azerbaijani,Altaic
-baa,81A,SOV,Barai,Trans-New Guinea
-bab,81A,SVO,Babungo,Niger-Congo
-bac,81A,No dominant order,Wadjiginy,Anson Bay
-bae,81A,SVO,Bare,Arawakan
-baf,81A,SVO,Bafut,Niger-Congo
-bag,81A,SVO,Bagirmi,Central Sudanic
-bai,81A,SVO,Minchia,Sino-Tibetan
-baj,81A,No dominant order,Orang Laut,Austronesian
-bak,81A,SVO,Baka (Cameroon),Niger-Congo
-bam,81A,SOV,Bambara,Mande
-bao,81A,SOV,Pao-an,Altaic
-baq,81A,VOS,Baure,Arawakan
-bar,81A,SVO,Beri,Eastern Sudanic
-bas,81A,SVO,Basaa,Niger-Congo
-baw,81A,SOV,Bom,Sino-Tibetan
-bbl,81A,SVO,Southern Bomitaba,Niger-Congo
-bbu,81A,No dominant order,Barambo,Niger-Congo
-bbw,81A,No dominant order,Gunwinygu,Gunwinyguan
-bch,81A,No dominant order,Shawiya,Afro-Asiatic
-bco,81A,VSO,Bella Coola,Salishan
-bdm,81A,SOV,Badimay,Pama-Nyungan
-bdu,81A,SVO,Budu,Niger-Congo
-bdw,81A,SOV,Baham,West Bomberai
-bej,81A,SOV,Beja,Afro-Asiatic
-ben,81A,SOV,Bangla,Indo-European
-bfg,81A,VSO,Fiqiq,Afro-Asiatic
-bgo,81A,SVO,Bongo,Central Sudanic
-bgr,81A,SVO,Furu,Central Sudanic
-bgs,81A,SVO,Baga Sitemu,Niger-Congo
-bgz,81A,SVO,Banggi,Austronesian
-bho,81A,SOV,Bhojpuri,Indo-European
-bid,81A,SVO,Bidiyo,Afro-Asiatic
-bii,81A,SVO,Biri,Pama-Nyungan
-bik,81A,SVO,Biak,Austronesian
-bil,81A,No dominant order,Bilua,Solomons East Papuan
-bin,81A,SOV,Binandere,Trans-New Guinea
-bir,81A,SVO,Birom,Niger-Congo
-biu,81A,SOV,Bisu,Sino-Tibetan
-bka,81A,SVO,Baka,Central Sudanic
-bkb,81A,SOV,Kurumba,Dravidian
-bkr,81A,No dominant order,Karo Batak,Austronesian
-bkt,81A,SOV,Brok-skad,Indo-European
-bku,81A,SVO,Kwiri,Niger-Congo
-bla,81A,No dominant order,Blackfoot,Algic
-ble,81A,SVO,Baule,Niger-Congo
-bln,81A,No dominant order,Bilin,Afro-Asiatic
-blr,81A,No dominant order,Byelorussian,Indo-European
-blt,81A,SOV,Balti,Sino-Tibetan
-blx,81A,SOV,Biloxi,Siouan
-blz,81A,SVO,Balant,Niger-Congo
-bma,81A,VSO,Tamazight (Middle Atlas),Afro-Asiatic
-bmb,81A,SVO,Moba,Niger-Congo
-bnb,81A,No dominant order,Bunaba,Bunuban
-bni,81A,SVO,Bini,Niger-Congo
-bnk,81A,SVO,Bankon,Niger-Congo
-bnn,81A,SVO,Banoni,Austronesian
-boa,81A,SOV,Boazi,Anim
-bob,81A,SVO,Bobangi,Niger-Congo
-bok,81A,SOV,Boko,Mande
-bol,81A,SVO,Bolia,Niger-Congo
-bon,81A,SOV,Bongu,Trans-New Guinea
-bra,81A,SVO,Brao,Austro-Asiatic
-bre,81A,SVO,Breton,Indo-European
-brf,81A,SVO,Riff,Afro-Asiatic
-bri,81A,SOV,Bribri,Chibchan
-brl,81A,SOV,Baragaon,Sino-Tibetan
-brm,81A,SOV,Burmese,Sino-Tibetan
-brn,81A,SVO,Burunge,Afro-Asiatic
-brp,81A,SOV,d Warapu,Skou
-brs,81A,No dominant order,Barasano (Southern),Tucanoan
-bsh,81A,SVO,Bushong,Niger-Congo
-btk,81A,No dominant order,Bontok (Central),Austronesian
-bto,81A,VOS,Toba Batak,Austronesian
-bua,81A,SOV,Burarra,Mangrida
-bub,81A,SVO,Bubi,Niger-Congo
-bud,81A,SVO,Buduma,Afro-Asiatic
-bug,81A,SVO,Bugis,Austronesian
-bul,81A,SVO,Bulgarian,Indo-European
-bum,81A,SVO,Buma,Austronesian
-bus,81A,SOV,Busa,Mande
-but,81A,SOV,Buriat,Altaic
-buu,81A,SVO,Buru,Austronesian
-bvi,81A,SVO,Vitu,Austronesian
-bwc,81A,No dominant order,"Bajau, West Coast",Austronesian
-bzi,81A,SOV,Bauzi,East Geelvink Bay
-cah,81A,SOV,Cahuilla,Uto-Aztecan
-cak,81A,VOS,Cakchiquel,Mayan
-car,81A,SOV,Galibi,Cariban
-cas,81A,SOV,Cashibo,Panoan
-cav,81A,No dominant order,Cavineña,Tacanan
-cax,81A,No dominant order,Ashaninca,Arawakan
-cay,81A,SOV,Cayapa,Barbacoan
-cba,81A,VOS,Chumash (Barbareno),Chumash
-cbo,81A,No dominant order,Chacobo,Panoan
-ccm,81A,VSO,Comaltepec Chinantec,Oto-Manguean
-cct,81A,SOV,Choctaw,Muskogean
-cde,81A,SOV,Ye'cuana,Cariban
-cea,81A,No dominant order,Cree (Swampy),Algic
-ceb,81A,VSO,Cebuano,Austronesian
-cem,81A,VOS,Cemuhi,Austronesian
-cga,81A,SVO,Chaga,Niger-Congo
-cha,81A,VSO,Chamorro,Austronesian
-chb,81A,SOV,Chambri,Lower Sepik-Ramu
-chc,81A,SOV,Chechen,Nakh-Daghestanian
-chd,81A,SOV,Chaudangsi,Sino-Tibetan
-che,81A,No dominant order,Cherokee,Iroquoian
-chg,81A,SOV,Chang,Sino-Tibetan
-chh,81A,SOV,Gurage (Central West),Afro-Asiatic
-chj,81A,VOS,Chuj,Mayan
-chk,81A,No dominant order,Chukchi,Chukotko-Kamchatkan
-chp,81A,SOV,Chipewyan,Na-Dene
-chq,81A,VSO,Quiotepec Chinantec,Oto-Manguean
-chr,81A,SVO,Chrau,Austro-Asiatic
-chv,81A,SOV,Chuvash,Altaic
-chw,81A,SVO,Cham (West),Austronesian
-cic,81A,SVO,Nyanja,Niger-Congo
-ckl,81A,VOS,Chinook (Lower),Penutian
-cle,81A,VOS,San Juan Chinanteco Lealao,Oto-Manguean
-cln,81A,SOV,Cholona,Cholon
-cme,81A,SVO,Cham (East),Austronesian
-cmh,81A,No dominant order,Chemehuevi,Uto-Aztecan
-cml,81A,SOV,Kiranti,Sino-Tibetan
-cmn,81A,SOV,Comanche,Uto-Aztecan
-cmy,81A,SVO,Yocot'an,Mayan
-cnl,81A,SOV,Canela,Macro-Ge
-cnt,81A,SVO,Yue,Sino-Tibetan
-coa,81A,SOV,Coahuiltec,Coahuiltecan
-coc,81A,SVO,Cocama,Tupian
-coo,81A,No dominant order,Coos,Oregon Coast
-cop,81A,SVO,Coptic,Afro-Asiatic
-cor,81A,VSO,Cora,Uto-Aztecan
-cpl,81A,VSO,Palantla Chinantec,Oto-Manguean
-cpn,81A,SOV,Chepang,Sino-Tibetan
-cpy,81A,SOV,Chipaya,Uru-Chipaya
-cre,81A,No dominant order,Cree,Algic
-crn,81A,SVO,Cornish,Indo-European
-cro,81A,SOV,Crow,Siouan
-ctl,81A,SVO,Catalan,Indo-European
-ctw,81A,SOV,Catawba,Siouan
-cua,81A,SVO,Cua,Austro-Asiatic
-cub,81A,OVS,Cubeo,Tucanoan
-cuc,81A,SVO,Cuica,Timote-Cuica
-cui,81A,SOV,Cuiba,Guahiban
-cup,81A,SOV,Cupeño,Uto-Aztecan
-cze,81A,SVO,Czech,Indo-European
-dag,81A,SOV,Daga,Dagan
-dam,81A,No dominant order,Malayo,Chibchan
-dan,81A,SOV,Dan,Mande
-daw,81A,SOV,Kamán,Nadahup
-day,81A,SVO,Day,Niger-Congo
-ddj,81A,No dominant order,d Godie,Niger-Congo
-dds,81A,SOV,Donno So Dogon,Dogon
-deg,81A,SVO,Degema,Niger-Congo
-der,81A,SOV,Dera,Senagi
-des,81A,SOV,Desano,Tucanoan
-deu,81A,SOV,Chutiya,Sino-Tibetan
-dga,81A,SVO,Dagara,Niger-Congo
-dgb,81A,SVO,Dagbani,Niger-Congo
-dgo,81A,No dominant order,Dongo,Niger-Congo
-dgr,81A,SOV,Dagur,Altaic
-dha,81A,SOV,Dasenech,Afro-Asiatic
-dhb,81A,SOV,Darambal,Pama-Nyungan
-dhm,81A,SOV,Dhimal,Sino-Tibetan
-dhr,81A,No dominant order,Thargari,Pama-Nyungan
-did,81A,VSO,Xaroxa,Eastern Sudanic
-die,81A,SOV,Kumeyaay,Hokan
-dig,81A,SOV,Digaro,Sino-Tibetan
-dim,81A,SOV,Dime,Afro-Asiatic
-din,81A,No dominant order,Jieng (Dinka),Eastern Sudanic
-dio,81A,SVO,Diola,Niger-Congo
-diy,81A,SOV,Diyari,Pama-Nyungan
-dja,81A,SOV,Dyaabugay,Pama-Nyungan
-dji,81A,SOV,Djingili,Mirndi
-djm,81A,No dominant order,Djambarbwingu,Pama-Nyungan
-djn,81A,No dominant order,Djinang,Pama-Nyungan
-djp,81A,SOV,Yolngu (Djapu),Pama-Nyungan
-djr,81A,No dominant order,Djaru,Pama-Nyungan
-dma,81A,SVO,Duma,Niger-Congo
-dni,81A,SOV,Dani (Grand Valley),Trans-New Guinea
-dok,81A,SVO,Ngombe,Niger-Congo
-dom,81A,No dominant order,Zutt,Indo-European
-don,81A,SVO,Kam,Tai-Kadai
-doy,81A,SVO,Dayãyo,Niger-Congo
-dre,81A,No dominant order,Dehu,Austronesian
-drg,81A,SOV,Dargwa,Nakh-Daghestanian
-drm,81A,SOV,Darmiya,Sino-Tibetan
-dsh,81A,SVO,Danish,Indo-European
-dua,81A,SVO,Duala,Niger-Congo
-duk,81A,SVO,Duka,Niger-Congo
-dum,81A,SOV,Vanimo,Skou
-dun,81A,SOV,Duna,Trans-New Guinea
-dyi,81A,No dominant order,Dyirbal,Pama-Nyungan
-ebi,81A,SVO,Ebira,Niger-Congo
-edo,81A,SOV,Beami,Bosavi
-ega,81A,SVO,Ega,Niger-Congo
-egn,81A,SVO,Engenni,Niger-Congo
-eip,81A,SOV,Eipo,Trans-New Guinea
-eka,81A,SOV,Ekagi,Trans-New Guinea
-eko,81A,SVO,Koti,Niger-Congo
-eme,81A,SOV,Emerillon,Tupian
-emm,81A,No dominant order,Ami,Western Daly
-ene,81A,SOV,Enets,Uralic
-eng,81A,SVO,English,Indo-European
-eno,81A,SVO,Enggano,Austronesian
-epe,81A,SOV,Saija,Choco
-erk,81A,SVO,Efate (South),Austronesian
-err,81A,SVO,Sie,Austronesian
-ese,81A,SOV,Ese'ejja,Tacanan
-est,81A,SVO,Estonian,Uralic
-eud,81A,SOV,Opata,Uto-Aztecan
-eve,81A,SOV,Evenki,Altaic
-evn,81A,SOV,Even,Altaic
-ewo,81A,SVO,Ewondo,Niger-Congo
-fij,81A,No dominant order,Nadroga,Austronesian
-fin,81A,SVO,Finnish,Uralic
-foe,81A,SOV,Foe,Trans-New Guinea
-fon,81A,SVO,Fon,Niger-Congo
-for,81A,SOV,Fore,Trans-New Guinea
-fqs,81A,SOV,Fas,Baibai-Fas
-fre,81A,SVO,French,Indo-European
-fua,81A,SVO,Fulfulde (Cameroonian),Niger-Congo
-fut,81A,SVO,Futuna-Aniwa,Austronesian
-fye,81A,SVO,Fyam,Niger-Congo
-ga,81A,SVO,Gã,Niger-Congo
-gae,81A,VSO,Scottish Gaelic,Indo-European
-gah,81A,SOV,Gahuku,Trans-New Guinea
-gal,81A,SOV,Gallong,Sino-Tibetan
-gam,81A,SOV,Gamo,Afro-Asiatic
-gap,81A,SOV,Gapapaiwa,Austronesian
-gar,81A,SOV,Garo,Sino-Tibetan
-gbb,81A,SVO,Gbeya,Niger-Congo
-gds,81A,SOV,Gadsup,Trans-New Guinea
-gel,81A,VOS,Gela,Austronesian
-geo,81A,SOV,Georgian,Kartvelian
-ggu,81A,No dominant order,Gureng Gureng,Pama-Nyungan
-ghb,81A,SOV,Guahibo,Guahiban
-ghr,81A,SOV,Bunan,Sino-Tibetan
-gid,81A,No dominant order,Gidabul,Pama-Nyungan
-gim,81A,SOV,Bencho,Afro-Asiatic
-git,81A,No dominant order,Nass-Gitksan,Penutian
-gjj,81A,VSO,Guajajara,Tupian
-gku,81A,No dominant order,Puelche,Chon
-gla,81A,SVO,Gelao,Tai-Kadai
-gln,81A,SOV,Golin,Trans-New Guinea
-gmw,81A,SOV,Gumasi,Austronesian
-gnb,81A,SVO,Warlang,Gunwinyguan
-gnn,81A,No dominant order,Wunambal,Worrorran
-goa,81A,VSO,Goajiro,Arawakan
-goe,81A,SVO,Goemai,Afro-Asiatic
-gog,81A,SOV,Gogodala,Gogodala-Suki
-gok,81A,SVO,Gokana,Niger-Congo
-gon,81A,SOV,Gondi,Dravidian
-goo,81A,No dominant order,Guniyan,Bunuban
-grb,81A,SVO,Grebo,Niger-Congo
-grf,81A,VSO,"Island Carib, Carib (Island)",Arawakan
-grg,81A,No dominant order,Guragone,Mangrida
-grj,81A,No dominant order,Guarijío,Uto-Aztecan
-grk,81A,No dominant order,Modern Greek,Indo-European
-grr,81A,No dominant order,Garawa,Garrwan
-grw,81A,SOV,Greenland Eskimo (West),Eskimo-Aleut
-gua,81A,SVO,Guarani (Paraguayan),Tupian
-gud,81A,VSO,Gude,Afro-Asiatic
-gug,81A,SOV,Kokata,Pama-Nyungan
-guh,81A,SOV,Guhu-Semane,Trans-New Guinea
-guj,81A,SOV,Gujarati,Indo-European
-gul,81A,SVO,Gula,Central Sudanic
-gum,81A,No dominant order,Gumbayunggir,Pama-Nyungan
-gur,81A,SOV,Gurung,Sino-Tibetan
-guu,81A,SOV,Guugu Yimidhirr,Pama-Nyungan
-guw,81A,SVO,Gun,Niger-Congo
-gwa,81A,No dominant order,Gwari,Niger-Congo
-gwo,81A,SVO,Katab,Niger-Congo
-hak,81A,SVO,Kejia,Sino-Tibetan
-hal,81A,SVO,Halia,Austronesian
-ham,81A,SOV,Hamtai,Trans-New Guinea
-hat,81A,SVO,Hattam,West Papuan
-hau,81A,SVO,Hausa,Afro-Asiatic
-haw,81A,VSO,Hawaiian,Austronesian
-hay,81A,SOV,Vayu,Sino-Tibetan
-hdi,81A,VSO,Xedi,Afro-Asiatic
-heb,81A,SVO,Modern Hebrew,Afro-Asiatic
-heh,81A,SVO,Hehe,Niger-Congo
-hei,81A,VSO,Heiltsuk,Wakashan
-hem,81A,SVO,Hemba,Niger-Congo
-hhu,81A,SOV,Kwasengen,Sepik
-hid,81A,SOV,Hidatsa,Siouan
-hil,81A,VSO,Hiligaynon,Austronesian
-hin,81A,SOV,Hindi,Indo-European
-hix,81A,OVS,Hishkariana,Cariban
-hlp,81A,SOV,Walapai,Hokan
-hlu,81A,VSO,Halkomelem,Salishan
-hmi,81A,SOV,Meneca,Huitotoan
-hmo,81A,SVO,Mong Njua,Hmong-Mien
-hna,81A,SVO,Hina,Afro-Asiatic
-hnd,81A,SVO,Hunde,Niger-Congo
-hoa,81A,VSO,Hoava,Austronesian
-hol,81A,SVO,Holoholo,Niger-Congo
-hop,81A,SOV,Hopi,Uto-Aztecan
-hpd,81A,SOV,Hupda,Nadahup
-htc,81A,SVO,Huastec,Mayan
-huc,81A,SVO,|=HÍ,Kxa
-hui,81A,SOV,Huichol,Uto-Aztecan
-hum,81A,SOV,Murui,Huitotoan
-hun,81A,No dominant order,Hungarian,Uralic
-hup,81A,No dominant order,Hupa,Na-Dene
-hve,81A,SVO,Huave,Huavean
-hya,81A,SVO,Haya,Niger-Congo
-hzb,81A,SOV,Hunzib,Nakh-Daghestanian
-iaa,81A,SVO,Iaai,Austronesian
-iat,81A,SOV,Iatmul,Sepik
-iba,81A,SVO,Iban,Austronesian
-ice,81A,SVO,Icelandic,Indo-European
-idn,81A,SOV,Iduna,Austronesian
-ido,81A,No dominant order,Idoma,Niger-Congo
-ifm,81A,SVO,Central Teke,Niger-Congo
-igb,81A,SVO,Igbo,Niger-Congo
-ige,81A,SVO,Igede,Niger-Congo
-igs,81A,SVO,Gaam,Eastern Sudanic
-iha,81A,SOV,Iha,West Bomberai
-ijo,81A,SOV,Kolokuma,Ijoid
-ik,81A,VSO,Ik,Eastern Sudanic
-ika,81A,SOV,Ica,Chibchan
-ila,81A,SVO,Ila,Niger-Congo
-ilo,81A,VSO,Ilokano,Austronesian
-ina,81A,No dominant order,Inanwatan,South Bird's Head
-inn,81A,SOV,Yandruwandha,Pama-Nyungan
-iqu,81A,SVO,Iquito,Zaparoan
-iri,81A,VSO,Gaelic,Indo-European
-irq,81A,SOV,Iraqw,Afro-Asiatic
-irr,81A,SVO,Irahutu,Austronesian
-isa,81A,SOV,Krisa,Skou
-isi,81A,SOV,Saberi,Kwerba
-ita,81A,SVO,Italian (Roman),Indo-European
-ite,81A,SOV,Kamchadal,Chukotko-Kamchatkan
-iwa,81A,SVO,Iwaidja,Iwaidjan
-iwm,81A,SOV,Iwam,Sepik
-ixi,81A,VSO,Ixil,Mayan
-izi,81A,SVO,Izi,Niger-Congo
-jab,81A,SVO,Yabim,Austronesian
-jad,81A,SOV,Tibetan,Sino-Tibetan
-jak,81A,VSO,Jacaltec,Mayan
-jam,81A,No dominant order,Djamindjung,Mirndi
-jar,81A,SVO,Jarawa,Niger-Congo
-jbt,81A,SOV,Yabuti,Macro-Ge
-jeb,81A,No dominant order,Jebero,Cahuapanan
-jin,81A,SOV,Jinuo,Sino-Tibetan
-jiv,81A,SOV,Shuar,Jivaroan
-jmo,81A,SVO,Morokodo,Central Sudanic
-jms,81A,SOV,d Dogon,Dogon
-jng,81A,SOV,Jingphaw,Sino-Tibetan
-jrw,81A,SOV,Jarawa,South Andamanese
-juh,81A,SVO,Zhu-/Hoa (Si),Kxa
-juk,81A,SVO,Jukun,Niger-Congo
-jva,81A,SOV,Karaja,Macro-Ge
-kaa,81A,SOV,Arara (Tupi),Tupian
-kab,81A,SOV,Kabardian,Northwest Caucasian
-kac,81A,SOV,Bara,Sino-Tibetan
-kad,81A,SVO,Kadugli,Kadu
-kae,81A,SOV,Tate,Eleman
-kan,81A,SVO,Kana,Niger-Congo
-kar,81A,SVO,Fer,Central Sudanic
-kas,81A,SVO,Kashmiri,Indo-European
-kau,81A,SVO,Pasismanua,Austronesian
-kay,81A,No dominant order,Gayardilt,Tangkic
-kba,81A,SVO,Kamba,Niger-Congo
-kbl,81A,VSO,Kabyle,Afro-Asiatic
-kbo,81A,SOV,Kambot,Lower Sepik-Ramu
-kbu,81A,SOV,Kanembu,Saharan
-kbw,81A,SVO,Bwe,Sino-Tibetan
-kby,81A,SVO,Kabre,Niger-Congo
-kch,81A,SVO,"Songhay, Koyra Chiini dialect",Songhay
-kdw,81A,SVO,Kadiweu,Guaicuruan
-kdz,81A,VSO,"Kadazan, Coastal",Austronesian
-kel,81A,SVO,Gele,Austronesian
-kem,81A,SOV,Kemant,Afro-Asiatic
-ken,81A,SVO,Kenga,Central Sudanic
-ker,81A,SVO,Kera,Afro-Asiatic
-ket,81A,SOV,Ket,Yeniseian
-kew,81A,SOV,Kewa,Trans-New Guinea
-kfe,81A,SVO,Kurumfe,Niger-Congo
-kga,81A,SVO,Kinga,Niger-Congo
-kgu,81A,SOV,Kalkatungu,Pama-Nyungan
-kha,81A,SOV,Khalkha,Altaic
-khg,81A,SOV,Khaling,Sino-Tibetan
-khl,81A,SOV,Khalaj,Altaic
-khm,81A,SVO,Khmer,Austro-Asiatic
-khn,81A,SVO,Khün,Tai-Kadai
-kho,81A,SOV,Nama,Khoe-Kwadi
-khr,81A,No dominant order,Kharia,Austro-Asiatic
-khs,81A,SVO,Khasi,Austro-Asiatic
-khw,81A,SOV,Khowar,Indo-European
-kie,81A,SOV,Giri,Lower Sepik-Ramu
-kik,81A,SVO,Kikuyu,Niger-Congo
-kil,81A,SVO,Luba-Shaba,Niger-Congo
-kim,81A,SOV,Kimaghana,Kolopom
-kin,81A,SVO,Rwanda,Niger-Congo
-kio,81A,SOV,Kiowa,Kiowa-Tanoan
-kir,81A,SVO,Kirma,Niger-Congo
-kis,81A,No dominant order,Gizi,Niger-Congo
-kiw,81A,SOV,"Kiwai, Island dialect",Kiwaian
-kje,81A,VSO,Coreguaje,Tucanoan
-kkp,81A,SOV,Karakalpak,Altaic
-kkq,81A,OVS,Nahukwa,Cariban
-kkt,81A,VSO,Kokota,Austronesian
-kku,81A,SOV,Korku,Austro-Asiatic
-kkv,81A,SVO,Kandoka-Lusi,Austronesian
-kla,81A,SVO,Klau,Niger-Congo
-kll,81A,SOV,Kaluli,Bosavi
-klm,81A,No dominant order,Klamath,Penutian
-kls,81A,VSO,Kalispel,Salishan
-klv,81A,No dominant order,Kilivila,Austronesian
-klw,81A,SOV,Kiliwa,Hokan
-kma,81A,SOV,Kamayura,Tupian
-kmb,81A,SOV,Wanggom,Trans-New Guinea
-kmh,81A,SOV,Kham,Sino-Tibetan
-kmj,81A,VSO,Karamojong,Eastern Sudanic
-kmn,81A,SOV,Kuman,Trans-New Guinea
-kmo,81A,SOV,Koiari (Mountain),Trans-New Guinea
-kmp,81A,SOV,Kunimaipa,Trans-New Guinea
-kmr,81A,SOV,Kamoro,Trans-New Guinea
-kms,81A,SOV,Kamas,Uralic
-kmu,81A,SVO,Khmu',Austro-Asiatic
-kmw,81A,No dominant order,Gamu,Eastern Daly
-kmz,81A,SOV,Kamasau,Torricelli
-knb,81A,SOV,"Kanum, Bädi",Morehead and Upper Maro Rivers
-knd,81A,SOV,Kannada,Dravidian
-kng,81A,SOV,Kaingang,Macro-Ge
-kni,81A,SVO,Koma,Niger-Congo
-knk,81A,SVO,Kanakuru,Afro-Asiatic
-knn,81A,SOV,Kanauri,Sino-Tibetan
-knr,81A,SOV,Kanuri,Saharan
-koa,81A,SOV,Koasati,Muskogean
-kob,81A,SOV,Kobon,Trans-New Guinea
-koe,81A,SVO,Kwegu,Eastern Sudanic
-kok,81A,SOV,Tripuri,Sino-Tibetan
-kol,81A,SOV,Kolami,Dravidian
-kom,81A,SVO,Komo,Koman
-kon,81A,SVO,Kikongo,Niger-Congo
-kos,81A,SVO,Kosraean,Austronesian
-koy,81A,SOV,Koya,Dravidian
-kpw,81A,SVO,Pho,Sino-Tibetan
-kqq,81A,SOV,Botocudo,Macro-Ge
-krb,81A,VOS,Gilbertese,Austronesian
-krc,81A,SOV,Karachay,Altaic
-kre,81A,SVO,Kresh,Central Sudanic
-krh,81A,SOV,Craho,Macro-Ge
-kri,81A,VOS,Kiriri,Kariri
-krn,81A,No dominant order,!Ora,Khoe-Kwadi
-kro,81A,VSO,Krongo,Kadu
-krr,81A,SOV,Kairiru,Austronesian
-krw,81A,SOV,Korowai,Trans-New Guinea
-kry,81A,SOV,Koryak,Chukotko-Kamchatkan
-krz,81A,SOV,Kryts,Nakh-Daghestanian
-ksa,81A,No dominant order,Keres (Eastern),Keresan
-kse,81A,SOV,Songhay (Koyraboro Senni),Songhay
-ksg,81A,SVO,Sgaw,Sino-Tibetan
-ksm,81A,SVO,Kasem,Niger-Congo
-kta,81A,SOV,Koita,Trans-New Guinea
-ktc,81A,SVO,Katcha,Kadu
-kte,81A,SVO,Kete,Niger-Congo
-kti,81A,SOV,Southern Kati,Trans-New Guinea
-ktl,81A,SVO,Katla,Kordofanian
-kty,81A,SOV,Xanty,Uralic
-kum,81A,SOV,Kumaoni,Indo-European
-kun,81A,SOV,Cuna,Chibchan
-kuv,81A,SOV,Kuvi,Dravidian
-kwa,81A,SVO,Kwaio,Austronesian
-kwk,81A,No dominant order,Kwakwala,Wakashan
-kwn,81A,SVO,Kwangali,Niger-Congo
-kwo,81A,SOV,Kwoma,Sepik
-kws,81A,No dominant order,Kawaiisu,Uto-Aztecan
-kxo,81A,OSV,Xû,Khoe-Kwadi
-kya,81A,SOV,Gugu Yalandyi,Pama-Nyungan
-kyk,81A,SOV,Enga,Trans-New Guinea
-kyl,81A,SVO,Kayah,Sino-Tibetan
-kyp,81A,SOV,Cayapo,Macro-Ge
-kyq,81A,VSO,Nuu-chah-nulth,Wakashan
-kyr,81A,SOV,Yuri,Pauwasi
-kyz,81A,SOV,Kayabí,Tupian
-kzy,81A,SVO,Zyrian,Uralic
-lab,81A,SVO,Labu,Austronesian
-lac,81A,No dominant order,Lacandon,Mayan
-lad,81A,SOV,Western Tibetan,Sino-Tibetan
-lag,81A,SVO,Logone,Afro-Asiatic
-lah,81A,SOV,Lahu,Sino-Tibetan
-lai,81A,SOV,Haka,Sino-Tibetan
-lal,81A,SOV,Lalaw,Sino-Tibetan
-lan,81A,SVO,Lango,Eastern Sudanic
-lao,81A,SVO,Lao,Tai-Kadai
-lat,81A,SVO,Latvian,Indo-European
-lav,81A,SOV,Lavukaleve,Solomons East Papuan
-lbu,81A,SVO,Ruund,Niger-Congo
-ldo,81A,SVO,Lundu,Niger-Congo
-ldu,81A,No dominant order,Bale,Central Sudanic
-leb,81A,SVO,Beo,Niger-Congo
-leg,81A,SVO,Lega,Niger-Congo
-lel,81A,SVO,Lele,Afro-Asiatic
-len,81A,SVO,Lenakel,Austronesian
-lep,81A,SOV,Lepcha,Sino-Tibetan
-les,81A,No dominant order,Balese,Central Sudanic
-let,81A,SVO,Leti,Austronesian
-lew,81A,SVO,Lewo,Austronesian
-lez,81A,SOV,Lezgi,Nakh-Daghestanian
-lgi,81A,SVO,Langi,Niger-Congo
-lgt,81A,No dominant order,Logo,Central Sudanic
-lgu,81A,VOS,Longgu,Austronesian
-lic,81A,SVO,Li,Tai-Kadai
-lil,81A,VSO,Lillooet,Salishan
-lin,81A,SVO,Losengo,Niger-Congo
-lis,81A,SOV,Lisu,Sino-Tibetan
-lit,81A,SVO,Lithuanian,Indo-European
-lkt,81A,SOV,Teton,Siouan
-llm,81A,SVO,Lelemi (Bwem),Niger-Congo
-lmb,81A,No dominant order,Lamba,Niger-Congo
-lmg,81A,VSO,Lamang,Afro-Asiatic
-lmh,81A,SVO,Lamaholot,Austronesian
-lml,81A,No dominant order,Limilngan,Darwin Region
-lmn,81A,SOV,Banjari,Indo-European
-lmp,81A,SVO,Lampung,Austronesian
-lmu,81A,SVO,d Lewo,Austronesian
-lnd,81A,SVO,Linda,Niger-Congo
-lon,81A,SVO,Loniu,Austronesian
-lot,81A,SOV,Lotha,Sino-Tibetan
-lou,81A,SVO,Lou,Austronesian
-luc,81A,SVO,Luchazi,Niger-Congo
-lug,81A,No dominant order,Logbara,Central Sudanic
-lui,81A,No dominant order,Luiseño,Uto-Aztecan
-luo,81A,SVO,Luo,Eastern Sudanic
-luv,81A,SVO,Lwena,Niger-Congo
-ma,81A,SVO,Amadi,Niger-Congo
-maa,81A,VSO,Maasai,Eastern Sudanic
-mab,81A,SOV,Mabang,Maban
-mac,81A,No dominant order,Makushi,Cariban
-mad,81A,No dominant order,Madi,Central Sudanic
-mae,81A,SVO,Mae,Austronesian
-mag,81A,SOV,Magari,Sino-Tibetan
-maj,81A,VSO,Majang,Eastern Sudanic
-mak,81A,VSO,Makah,Wakashan
-mal,81A,VOS,Malagassy,Austronesian
-mam,81A,VSO,Mam,Mayan
-man,81A,SOV,Mano,Mande
-mao,81A,VSO,Maori,Austronesian
-map,81A,SVO,Mapudungu,Araucanian
-mar,81A,SOV,Maricopa,Hokan
-mas,81A,SVO,Masa,Afro-Asiatic
-mau,81A,SVO,Maung,Iwaidjan
-maw,81A,SOV,Maninka,Mande
-max,81A,SOV,Mashakali,Macro-Ge
-may,81A,SVO,Brat,West Papuan
-mba,81A,SVO,Mba,Niger-Congo
-mbe,81A,SVO,Mbede,Niger-Congo
-mbi,81A,SVO,Bambui,Niger-Congo
-mbm,81A,SVO,Mbum,Niger-Congo
-mbr,81A,SVO,Mbara,Afro-Asiatic
-mbt,81A,SVO,Mangbetu,Central Sudanic
-mby,81A,SVO,Mbai,Central Sudanic
-mcd,81A,SVO,Macedonian,Indo-European
-mcv,81A,SVO,Mocovi,Guaicuruan
-mda,81A,SVO,Mada (Chadic),Afro-Asiatic
-mde,81A,SOV,Mende,Mande
-mdg,81A,SVO,Mundang,Niger-Congo
-mdl,81A,SOV,Madngele,Eastern Daly
-mdm,81A,No dominant order,Muthimuthi,Pama-Nyungan
-mdn,81A,SOV,Mandan,Siouan
-mdo,81A,SVO,Gbaya-Mbodomo,Niger-Congo
-mds,81A,SVO,Manado Malay,Austronesian
-mdw,81A,SVO,Mboshi,Niger-Congo
-mea,81A,SVO,Meax,East Bird's Head
-mee,81A,SVO,Me'en,Eastern Sudanic
-meh,81A,No dominant order,Mahri,Afro-Asiatic
-mek,81A,SOV,Sakirabiá,Tupian
-mem,81A,SOV,Manem,Border
-men,81A,No dominant order,Menominee,Algic
-mer,81A,SOV,Meriam,Western Fly
-mey,81A,SOV,Menya,Trans-New Guinea
-mga,81A,SVO,Mondunga,Niger-Congo
-mgg,81A,SOV,Monguor,Altaic
-mgh,81A,SOV,Magahi,Indo-European
-mgi,81A,SOV,Magi,Trans-New Guinea
-mgk,81A,SVO,Mungaka,Niger-Congo
-mgo,81A,SVO,Mongo,Niger-Congo
-mgu,81A,SVO,Musgu,Afro-Asiatic
-mhi,81A,SOV,Marathi,Indo-European
-mhu,81A,SVO,Mbalantu,Niger-Congo
-mie,81A,SVO,Mjen,Hmong-Mien
-mij,81A,SOV,Kaman,Sino-Tibetan
-mik,81A,SOV,Mikir,Sino-Tibetan
-min,81A,No dominant order,Minangkabau,Austronesian
-mis,81A,SOV,Miskito,Misumalpan
-miy,81A,No dominant order,Miya,Afro-Asiatic
-miz,81A,SOV,Mizo,Sino-Tibetan
-mka,81A,SOV,Mau(ka),Mande
-mkd,81A,SVO,Makonde,Niger-Congo
-mkg,81A,SOV,Mandinka,Mande
-mkh,81A,SOV,Khamnigan Mongol,Altaic
-mki,81A,SOV,Mikasuki,Muskogean
-mkj,81A,SOV,Makasai,Timor-Alor-Pantar
-mkl,81A,SOV,Maklew,Bulaka River
-mkq,81A,SVO,Mankon,Niger-Congo
-mku,81A,SOV,Maranungku,Western Daly
-mkz,81A,SVO,Makaa,Niger-Congo
-mla,81A,SVO,Mambila,Niger-Congo
-mlg,81A,SVO,Wandala,Afro-Asiatic
-mlm,81A,SVO,Mrabri,Austro-Asiatic
-mlu,81A,SVO,Maleu,Austronesian
-mmb,81A,SVO,Mangap,Austronesian
-mmn,81A,VSO,Mamanwa,Austronesian
-mmv,81A,SVO,Mamvu,Central Sudanic
-mna,81A,SVO,Muna,Austronesian
-mnc,81A,SOV,Manchu,Altaic
-mnd,81A,SVO,Mandarin Chinese,Sino-Tibetan
-mne,81A,SOV,Maidu (Mountain),Penutian
-mng,81A,SVO,Manggarai,Austronesian
-mni,81A,SOV,Moni,Trans-New Guinea
-mnm,81A,SOV,Manam,Austronesian
-mno,81A,SOV,Mono,Uto-Aztecan
-mns,81A,SOV,Mansi,Uralic
-mnv,81A,SOV,Kukuya,Austronesian
-mny,81A,SOV,Margany,Pama-Nyungan
-moa,81A,No dominant order,Mono Alu,Austronesian
-moe,81A,SVO,Mordvin,Uralic
-mof,81A,SVO,Mofu,Afro-Asiatic
-mog,81A,SOV,Moghol,Altaic
-moh,81A,No dominant order,Mohawk,Iroquoian
-mok,81A,SVO,Mokilese,Austronesian
-mon,81A,SVO,Mon,Austro-Asiatic
-moo,81A,SVO,More,Niger-Congo
-mor,81A,SVO,Mor,Austronesian
-mos,81A,SVO,Chimane,Mosetenan
-mou,81A,No dominant order,Moru,Central Sudanic
-mpa,81A,SOV,Murrinh-Patha,Southern Daly
-mpr,81A,SVO,Maipure,Arawakan
-mpt,81A,SOV,Mianmin,Trans-New Guinea
-mpu,81A,SVO,Amberbaken,West Papuan
-mqf,81A,SOV,Momuna,Trans-New Guinea
-mra,81A,No dominant order,Mara,Mangarrayi-Maran
-mrc,81A,SOV,Rangpa,Sino-Tibetan
-mrd,81A,SOV,Marind,Anim
-mrg,81A,SVO,Margi,Afro-Asiatic
-mrh,81A,SOV,Marithiyel,Western Daly
-mrl,81A,VSO,Murle,Eastern Sudanic
-mro,81A,SVO,Moro,Kordofanian
-mrq,81A,VSO,Marquesan,Austronesian
-mrr,81A,SOV,Maringarr,Western Daly
-mrs,81A,SOV,Kaniran,Trans-New Guinea
-mrt,81A,SVO,Martuyhunira,Pama-Nyungan
-mru,81A,SOV,Maru,Sino-Tibetan
-mrw,81A,No dominant order,Muruwari,Pama-Nyungan
-msc,81A,SOV,Chibcha,Chibchan
-msg,81A,SOV,Miri,Sino-Tibetan
-msk,81A,No dominant order,Ngile,Kordofanian
-msl,81A,SOV,Mesalit,Maban
-msm,81A,SVO,Musom,Austronesian
-msn,81A,SOV,Maisin,Austronesian
-msq,81A,VSO,d Halkomelem,Salishan
-mss,81A,No dominant order,Miwok (Southern Sierra),Penutian
-mtb,81A,SVO,Matumbi,Niger-Congo
-mto,81A,SOV,Malto,Dravidian
-mts,81A,SOV,Matís,Panoan
-mtt,81A,No dominant order,Massachusett,Algic
-mtu,81A,SOV,Motu,Austronesian
-mua,81A,SVO,Makua,Niger-Congo
-mum,81A,SVO,Mumuye,Niger-Congo
-mun,81A,SOV,Kolh,Austro-Asiatic
-mup,81A,SVO,Sura,Afro-Asiatic
-mur,81A,SVO,Murzi,Eastern Sudanic
-mus,81A,SVO,Mussau,Austronesian
-mut,81A,SVO,Mutsun,Penutian
-muu,81A,SOV,Munduruku,Tupian
-mwb,81A,VSO,Western Bukidnon,Austronesian
-mwe,81A,SVO,Mwera,Niger-Congo
-mwo,81A,SVO,Motlav,Austronesian
-mxc,81A,VSO,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-mxe,81A,SVO,Mele,Austronesian
-mxj,81A,VSO,Western Jamiltepec Mixteco,Oto-Manguean
-mxo,81A,VSO,Santo Tomás Ocotepec Mixteco,Oto-Manguean
-mxp,81A,VSO,Peñoles Mixtec,Oto-Manguean
-mxx,81A,No dominant order,d Mixe,Mixe-Zoque
-mxy,81A,VSO,Yosundua Mixtec,Oto-Manguean
-myg,81A,SVO,Mayogo,Niger-Congo
-myi,81A,OVS,Mangarayi,Mangarrayi-Maran
-mym,81A,SOV,Malayalam,Dravidian
-myn,81A,SVO,Ma'anyan,Austronesian
-myr,81A,SOV,Matses,Panoan
-mzh,81A,No dominant order,"Mazatec, Huautla",Oto-Manguean
-nab,81A,SOV,Nabak,Trans-New Guinea
-nad,81A,OSV,Nadëb,Nadahup
-nag,81A,SOV,Nagatman,Yale
-naj,81A,SOV,Neo-Aramaic (Arbel),Afro-Asiatic
-nak,81A,SVO,Bileki,Austronesian
-nal,81A,SVO,Nalik,Austronesian
-nam,81A,SOV,Namie,Sepik
-nar,81A,SOV,Nera,Eastern Sudanic
-nas,81A,SOV,Nasioi,East Bougainville
-nau,81A,No dominant order,Nauruan,Austronesian
-nav,81A,SOV,Navajo,Na-Dene
-nbd,81A,SOV,"Nubian, Dongolese",Eastern Sudanic
-nbe,81A,SVO,Lingombe,Niger-Congo
-nbm,81A,SVO,Ngbaka Ma'bo,Niger-Congo
-nbr,81A,SOV,Guaymi,Chibchan
-nca,81A,VOS,Car Nicobarese,Austro-Asiatic
-ncm,81A,SVO,Ntcham,Niger-Congo
-ndb,81A,SVO,Ndebele,Niger-Congo
-ndi,81A,SVO,Ngbandi,Niger-Congo
-ndj,81A,No dominant order,Ndjébbana,Mangrida
-ndo,81A,SVO,Ndonga,Niger-Congo
-ndr,81A,No dominant order,d Fijian,Austronesian
-ndt,81A,SVO,Ndut,Niger-Congo
-ndu,81A,SVO,Ndumu,Niger-Congo
-ndy,81A,SVO,Djuka,other
-neh,81A,SVO,Nehan,Austronesian
-nep,81A,SOV,Nepali,Indo-European
-new,81A,SOV,"Newari, Kathmandu dialect",Sino-Tibetan
-ney,81A,No dominant order,Neyo,Niger-Congo
-nez,81A,No dominant order,Nez Perce,Penutian
-nga,81A,SOV,Nganasan,Uralic
-ngb,81A,SVO,Ngbaka,Niger-Congo
-ngd,81A,SVO,Ngada,Austronesian
-ngk,81A,No dominant order,Ngenkikurunggkur,Southern Daly
-ngl,81A,No dominant order,Ngalakan,Gunwinyguan
-ngm,81A,SVO,Gambai,Central Sudanic
-ngo,81A,SVO,Ngoni (in Tanzania),Niger-Congo
-ngt,81A,SOV,Tangkhul,Sino-Tibetan
-ngu,81A,SVO,Efate (North),Austronesian
-ngw,81A,SVO,Ngawun,Pama-Nyungan
-ngz,81A,SVO,Ngizim,Afro-Asiatic
-nha,81A,No dominant order,Nhanda,Pama-Nyungan
-nhh,81A,VSO,Tamazunchale Nahuatl,Uto-Aztecan
-nhm,81A,SVO,Michoacán Aztec,Uto-Aztecan
-nhn,81A,SVO,North Puebla Sierra Nahuatl,Uto-Aztecan
-nht,81A,SVO,Tetelcingo Nahuatl,Uto-Aztecan
-nia,81A,VOS,Nias,Austronesian
-nif,81A,VSO,Niuafo'ou,Austronesian
-niu,81A,VSO,Niuean,Austronesian
-nkb,81A,SOV,Ngalkbon,Gunwinyguan
-nke,81A,SVO,Nkem,Niger-Congo
-nkn,81A,SVO,Nkonya,Niger-Congo
-nko,81A,SVO,Ciga,Niger-Congo
-nku,81A,SOV,Nubian (Aswan),Eastern Sudanic
-nma,81A,SOV,Mao,Sino-Tibetan
-nmb,81A,SOV,Nambikuara (Southern),Nambikuaran
-nmd,81A,SOV,Nomad,East Strickland
-nnc,81A,No dominant order,Nicobarese (Nancowry),Austro-Asiatic
-nnd,81A,SOV,Angaua,Trans-New Guinea
-nne,81A,SVO,Nengone,Austronesian
-nng,81A,SVO,Nyanga,Niger-Congo
-nnk,81A,SOV,Nankina,Trans-New Guinea
-noc,81A,SOV,Nocte,Sino-Tibetan
-nog,81A,SOV,Nogay,Altaic
-non,81A,SVO,Noni,Niger-Congo
-noo,81A,SVO,Non,Niger-Congo
-nor,81A,SVO,Norwegian,Indo-European
-nse,81A,SVO,Senga,Niger-Congo
-nsg,81A,VSO,Nishga,Penutian
-nti,81A,No dominant order,Dru,Central Sudanic
-ntj,81A,SOV,Ngaanyatjara,Pama-Nyungan
-nto,81A,SVO,Lontomba,Niger-Congo
-nua,81A,SVO,Nuaulu,Austronesian
-nue,81A,No dominant order,Nuer,Eastern Sudanic
-nug,81A,No dominant order,Nunggubuyu,Gunwinyguan
-nun,81A,SVO,Zhuang (Southern),Tai-Kadai
-nup,81A,SVO,Nupe,Niger-Congo
-nus,81A,SOV,Nusu,Sino-Tibetan
-nuu,81A,No dominant order,"Nuuchahnutlh (Tseshaht, Tsishaath)",Wakashan
-nwd,81A,SOV,Dolakha Newari,Sino-Tibetan
-nyi,81A,SOV,Nyimang,Eastern Sudanic
-nyk,81A,SOV,Tukpa,Sino-Tibetan
-nym,81A,No dominant order,Nyamwezi,Niger-Congo
-nyn,81A,No dominant order,Nyigina,Nyulnyulan
-nza,81A,SVO,Nzakara,Niger-Congo
-obg,81A,SVO,Ogbronuagum,Niger-Congo
-obo,81A,SVO,Obolo,Niger-Congo
-ocu,81A,SVO,Ocuiltec,Oto-Manguean
-oir,81A,SOV,Oirat,Altaic
-oji,81A,No dominant order,Ojibwa,Algic
-olo,81A,SVO,Olo,Torricelli
-omh,81A,SOV,Omaha,Siouan
-ond,81A,No dominant order,Oneida,Iroquoian
-one,81A,SVO,One,Torricelli
-ong,81A,SOV,Onge,South Andamanese
-ood,81A,No dominant order,Tohono O'odham,Uto-Aztecan
-ora,81A,SVO,Emai,Niger-Congo
-ord,81A,SOV,Ordos,Altaic
-orh,81A,SOV,Oromo (Eastern),Afro-Asiatic
-ori,81A,SOV,Turjok,Kordofanian
-oro,81A,SOV,Orokaiva,Trans-New Guinea
-orw,81A,SOV,Waata Oromo,Afro-Asiatic
-ory,81A,SOV,Uria,Tor-Orya
-osa,81A,SOV,Osage,Siouan
-oss,81A,SOV,Ossetic,Indo-European
-otm,81A,VOS,Otomí,Oto-Manguean
-otr,81A,SVO,Utoro,Kordofanian
-owi,81A,SOV,Owiniga,Left May
-oya,81A,SOV,Oriya,Indo-European
-paa,81A,SVO,Pa'a,Afro-Asiatic
-pae,81A,SOV,Paez,Páezan
-pai,81A,No dominant order,Paiwan,Austronesian
-pal,81A,SVO,Palauan,Austronesian
-pam,81A,SVO,Pame,Oto-Manguean
-pan,81A,SOV,Punjabi,Indo-European
-par,81A,OVS,Parï,Eastern Sudanic
-pat,81A,SVO,Mumeng,Austronesian
-pau,81A,SVO,Paumari,Arauan
-paw,81A,SOV,Pawaian,Teberan-Pawaian
-pba,81A,SOV,Pima (Bajo),Uto-Aztecan
-pdp,81A,SOV,Podopa,Teberan-Pawaian
-per,81A,SVO,Pero,Afro-Asiatic
-pga,81A,SVO,Pilaga,Guaicuruan
-pip,81A,No dominant order,Pipil,Uto-Aztecan
-pir,81A,SOV,Piro,Arawakan
-pis,81A,SOV,Pisa,Trans-New Guinea
-pkn,81A,SVO,Baagandji,Pama-Nyungan
-pkt,81A,VSO,Pakot,Eastern Sudanic
-plg,81A,SVO,"Palaung, Rumai",Austro-Asiatic
-plh,81A,SVO,Paulohi,Austronesian
-plk,81A,SVO,Palicur,Arawakan
-pme,81A,SOV,Pomo (Eastern),Hokan
-pms,81A,SVO,Paama,Austronesian
-png,81A,SVO,Pangwa,Niger-Congo
-pnn,81A,VSO,Pangasinan,Austronesian
-pno,81A,SOV,Paiute (Northern),Uto-Aztecan
-pnu,81A,SVO,Punu,Hmong-Mien
-pnx,81A,No dominant order,Kreen-Akarore,Macro-Ge
-pny,81A,No dominant order,Panytyima,Pama-Nyungan
-pod,81A,VSO,Paduko,Afro-Asiatic
-pog,81A,SVO,Pogoro,Niger-Congo
-poh,81A,SVO,Ponapean,Austronesian
-pok,81A,No dominant order,Rawo,Skou
-pol,81A,SVO,Polish,Indo-European
-por,81A,SVO,Portuguese,Indo-European
-ppi,81A,No dominant order,Pitta-Pitta,Pama-Nyungan
-pra,81A,SOV,Wasi-weri,Indo-European
-pre,81A,SVO,Zigula,Niger-Congo
-prh,81A,SOV,Mura,Mura
-prk,81A,SOV,Purik,Sino-Tibetan
-prs,81A,SOV,Persian,Indo-European
-psh,81A,SOV,Pashto,Indo-European
-psm,81A,No dominant order,Passamaquoddy,Algic
-pso,81A,SOV,Pomo (Southeastern),Hokan
-psw,81A,SVO,Port Sandwich,Austronesian
-ptt,81A,SOV,Chamba,Sino-Tibetan
-ptw,81A,No dominant order,Patwin,Penutian
-pul,81A,SVO,Puluwatese,Austronesian
-pum,81A,SOV,Prinmi,Sino-Tibetan
-pun,81A,SOV,Kuwama,Anson Bay
-pur,81A,SVO,Tarascan,Tarascan
-qaf,81A,SOV,Afar,Afro-Asiatic
-qhu,81A,SOV,Huallaga Quechua,Quechuan
-qim,81A,SOV,HighlanKichua,Quechuan
-qui,81A,VSO,Quileute,Chimakuan
-qum,81A,VSO,Sipacapa,Mayan
-rag,81A,SVO,Raga,Austronesian
-ral,81A,SOV,Ralte,Sino-Tibetan
-ram,81A,SOV,Rama,Chibchan
-rao,81A,SOV,Rao,Lower Sepik-Ramu
-rap,81A,VSO,Rapanui,Austronesian
-raw,81A,SOV,Rawang,Sino-Tibetan
-res,81A,SOV,Resigaro,Arawakan
-ret,81A,SOV,Tanimuca,Tucanoan
-rga,81A,SVO,Ronga,Niger-Congo
-ria,81A,SOV,Riantana,Kolopom
-rik,81A,SOV,Rikbaktsa,Macro-Ge
-rim,81A,SVO,Rimi,Niger-Congo
-rit,81A,No dominant order,Ritharngu,Pama-Nyungan
-rmb,81A,SOV,Rembarrnga,Gunwinyguan
-rny,81A,SVO,Nyankole,Niger-Congo
-rom,81A,SVO,Rumanian,Indo-European
-ron,81A,SVO,Ron (Chadic),Afro-Asiatic
-rot,81A,SVO,Rotuman,Austronesian
-rov,81A,VSO,Roviana,Austronesian
-rru,81A,SVO,Nyoro,Niger-Congo
-ruk,81A,No dominant order,Rukai,Austronesian
-rum,81A,SOV,Kairi,Turama-Kikorian
-run,81A,SOV,Runga,Maban
-rus,81A,SVO,Russian,Indo-European
-rut,81A,SOV,Rutul,Nakh-Daghestanian
-rwa,81A,SOV,Rawa,Trans-New Guinea
-rwe,81A,No dominant order,Welsh Romany,Indo-European
-sah,81A,SVO,Sahu,West Papuan
-sak,81A,SVO,Sakao,Austronesian
-sam,81A,No dominant order,Samoan,Austronesian
-san,81A,SVO,Sango,Niger-Congo
-sap,81A,SVO,Sapuan,Austro-Asiatic
-sar,81A,SOV,Kapriman,Sepik
-sav,81A,SOV,Sau,Indo-European
-scr,81A,SVO,Serbocroat,Indo-European
-sea,81A,SVO,Southeast Ambrym,Austronesian
-seb,81A,VSO,Sapiny,Eastern Sudanic
-sed,81A,SVO,Sedang,Austro-Asiatic
-see,81A,VOS,Sedeq,Austronesian
-sel,81A,OVS,Selknam,Chon
-ser,81A,SOV,Seri,Hokan
-ses,81A,SVO,Sotho (Southern),Niger-Congo
-sgb,81A,SVO,Mantion,East Bird's Head
-sgl,81A,SVO,Sengele,Niger-Congo
-sgu,81A,SVO,Sangu,Niger-Congo
-sha,81A,SVO,Shan,Tai-Kadai
-she,81A,SOV,Sharpa,Sino-Tibetan
-shh,81A,SOV,Sharanahua,Panoan
-shi,81A,SOV,Ninam,Yanomam
-shk,81A,SOV,Shipibo,Panoan
-shl,81A,SVO,Shilluk,Eastern Sudanic
-shm,81A,SVO,Shambala,Niger-Congo
-shn,81A,SVO,Shona,Niger-Congo
-sho,81A,SOV,Big Smokey Valley Shoshoni,Uto-Aztecan
-shp,81A,VSO,Yakima,Penutian
-shs,81A,No dominant order,Shasta,Hokan
-sht,81A,SVO,Shatt,Eastern Sudanic
-shu,81A,No dominant order,Shuswap,Salishan
-sia,81A,SOV,Siane,Trans-New Guinea
-sid,81A,SOV,Sidamo,Afro-Asiatic
-sil,81A,SOV,Sila,Eastern Sudanic
-sio,81A,SVO,Sio,Austronesian
-sir,81A,SVO,Siar,Austronesian
-sis,81A,SVO,Babatana,Austronesian
-siu,81A,No dominant order,Siuslaw,Oregon Coast
-skm,81A,SVO,Sukuma,Niger-Congo
-sko,81A,SOV,Sko,Skou
-skp,81A,SOV,Selkup,Uralic
-sku,81A,SVO,Suku,Niger-Congo
-skw,81A,SOV,Marwari,Indo-European
-sla,81A,SOV,"Slave, Hare dialect",Na-Dene
-slb,81A,SOV,Suau,Austronesian
-sle,81A,SVO,(Samba) Leko,Niger-Congo
-slo,81A,SVO,Slovene,Indo-European
-sme,81A,SOV,Seme,Niger-Congo
-sml,81A,No dominant order,Semelai,Austro-Asiatic
-sna,81A,SOV,Shina,Indo-European
-snc,81A,No dominant order,Seneca,Iroquoian
-sng,81A,SOV,Sinagoro,Austronesian
-snh,81A,SOV,Sinhalese,Indo-European
-snm,81A,SOV,Sanuma,Yanomam
-snn,81A,SOV,Soninke,Mande
-sno,81A,SVO,Saami (Northern),Uralic
-so,81A,VSO,So,Eastern Sudanic
-sob,81A,SVO,Sobei,Austronesian
-sod,81A,SOV,Soddo,Afro-Asiatic
-som,81A,SOV,Somali,Afro-Asiatic
-son,81A,SVO,Sonsorolese,Austronesian
-spa,81A,SVO,Spanish (Peninsular Castilian),Indo-European
-spi,81A,SOV,Spiti,Sino-Tibetan
-squ,81A,VSO,Squamish,Salishan
-src,81A,SOV,Sarcee,Na-Dene
-srd,81A,SVO,Sardinian,Indo-European
-sre,81A,SVO,Sre,Austro-Asiatic
-srn,81A,SOV,Siriono,Tupian
-sro,81A,SOV,Siroi,Trans-New Guinea
-ssa,81A,SVO,Isala,Niger-Congo
-sta,81A,SOV,Santa,Altaic
-sti,81A,SVO,Stieng,Austro-Asiatic
-stl,81A,SOV,Santali,Austro-Asiatic
-stn,81A,SVO,Sotho (Northern),Niger-Congo
-sud,81A,SVO,Tagula,Austronesian
-sue,81A,SOV,Suena,Trans-New Guinea
-suk,81A,SOV,Suki,Gogodala-Suki
-sun,81A,SVO,Sundanese,Austronesian
-sup,81A,SOV,Suppire,Niger-Congo
-sus,81A,SOV,Susu,Mande
-svs,81A,SOV,Savsavo,Solomons East Papuan
-swa,81A,SVO,Swahili,Niger-Congo
-swt,81A,No dominant order,Swati,Niger-Congo
-syu,81A,SOV,Salt (Yui),Trans-New Guinea
-tab,81A,SVO,Makian (East),Austronesian
-tac,81A,No dominant order,Tacana,Tacanan
-taf,81A,SVO,Saposa,Austronesian
-tag,81A,VSO,Tagalog,Austronesian
-tah,81A,VSO,Tahitian,Austronesian
-taj,81A,SOV,Tajiki,Indo-European
-tak,81A,SOV,Takia,Austronesian
-tal,81A,SVO,Talinge,Niger-Congo
-tam,81A,SOV,Tamang,Sino-Tibetan
-tan,81A,SVO,Tangale,Afro-Asiatic
-tao,81A,SOV,Tarao,Sino-Tibetan
-tar,81A,SOV,Tariano,Arawakan
-tas,81A,No dominant order,Shilha,Afro-Asiatic
-tau,81A,SOV,Tauya,Trans-New Guinea
-taw,81A,SOV,Kehelala,Austronesian
-tba,81A,SOV,Sinasina,Trans-New Guinea
-tbl,81A,SOV,Tanah Merah(2),Sentani
-tbo,81A,VSO,Tboli,Austronesian
-tbt,81A,OSV,Yotafa,Austronesian
-tbu,81A,SOV,Tubu,Saharan
-tbw,81A,SVO,Taabwa,Niger-Congo
-tce,81A,SOV,Tarahumara-Cent,Uto-Aztecan
-tee,81A,No dominant order,d Tepehua,Totonacan
-tel,81A,SOV,Telugu,Dravidian
-ten,81A,VSO,Tenet,Eastern Sudanic
-teo,81A,SVO,Teop,Austronesian
-tep,81A,SVO,Tepehua,Totonacan
-ter,81A,SVO,Tera,Afro-Asiatic
-tes,81A,VSO,Teso,Eastern Sudanic
-tet,81A,SVO,Tetela,Niger-Congo
-tgk,81A,SVO,Tigak,Austronesian
-tgl,81A,SOV,Monpa,Sino-Tibetan
-tgn,81A,SVO,Tugun,Austronesian
-tha,81A,SVO,Thai,Tai-Kadai
-thk,81A,SOV,Thakali,Sino-Tibetan
-thn,81A,SOV,Thami,Sino-Tibetan
-tho,81A,No dominant order,Thompson,Salishan
-thu,81A,SOV,Thulung,Sino-Tibetan
-thy,81A,SOV,Thaayorre,Pama-Nyungan
-tia,81A,SVO,Tima,Kordofanian
-tib,81A,SOV,"Tibetan, Lhasa dialect",Sino-Tibetan
-tid,81A,SVO,Tidore,West Papuan
-tig,81A,SOV,Tigrinya,Afro-Asiatic
-tik,81A,No dominant order,Tikar,Niger-Congo
-tim,81A,VSO,Timugon,Austronesian
-tin,81A,No dominant order,Tiri,Austronesian
-tir,81A,OVS,Trio,Cariban
-tiv,81A,SVO,Tiv,Niger-Congo
-tiw,81A,SVO,Tiwi,Tiwian
-tja,81A,SOV,Jamul Tiipay,Hokan
-tki,81A,SVO,Ki,Niger-Congo
-tkm,81A,SOV,Turkmen,Altaic
-tla,81A,SVO,Tolai,Austronesian
-tlf,81A,SOV,Telefol,Trans-New Guinea
-tli,81A,SOV,Tlingit,Na-Dene
-tlo,81A,SOV,Tobelo,West Papuan
-tlp,81A,VSO,Tlapanec,Oto-Manguean
-tma,81A,SOV,Tamok,Eastern Sudanic
-tmg,81A,SOV,Tamagario,Kayagar
-tmm,81A,SVO,Malo,Austronesian
-tmn,81A,SVO,Ronge,Eastern Sudanic
-tmr,81A,SVO,Temiar,Austro-Asiatic
-tna,81A,VSO,Turkana,Eastern Sudanic
-tne,81A,SVO,Temne,Niger-Congo
-tng,81A,No dominant order,Tongan,Austronesian
-tni,81A,SOV,Rangloi,Sino-Tibetan
-tnk,81A,SVO,Lavongai,Austronesian
-tnn,81A,SOV,Tunen,Niger-Congo
-tno,81A,No dominant order,Tondano,Austronesian
-tob,81A,No dominant order,Toba,Guaicuruan
-tod,81A,SOV,Stod,Sino-Tibetan
-toz,81A,SVO,Tonga,Niger-Congo
-tpn,81A,VSO,Tepehuan (Northern),Uto-Aztecan
-tpr,81A,SVO,Tupuri,Niger-Congo
-tpt,81A,SOV,Tapiete,Tupian
-trb,81A,SOV,Teribe,Chibchan
-tri,81A,VSO,Copala-Trique,Oto-Manguean
-trr,81A,SOV,Tairora,Trans-New Guinea
-trw,81A,SOV,Torwali,Indo-European
-tsf,81A,SOV,Colorado,Barbacoan
-tsh,81A,SOV,Panamint,Uto-Aztecan
-tsi,81A,VSO,Tsimshian,Penutian
-tsk,81A,VSO,Tamasheq,Afro-Asiatic
-tsz,81A,SOV,Dido,Nakh-Daghestanian
-ttd,81A,SVO,d Tetun,Austronesian
-tte,81A,SOV,Tutelo,Siouan
-ttn,81A,SVO,Tetun,Austronesian
-ttu,81A,SOV,Bats,Nakh-Daghestanian
-tuk,81A,VOS,Tukang-Besi,Austronesian
-tul,81A,SOV,Tulu,Dravidian
-tum,81A,SVO,Tumleo,Austronesian
-tur,81A,SOV,Turkish,Altaic
-tus,81A,No dominant order,Tuscarora,Iroquoian
-tuv,81A,SOV,Tuva,Altaic
-tuy,81A,SOV,Tuyuca,Tucanoan
-tvl,81A,OVS,Ellice,Austronesian
-tvo,81A,SOV,Volga Tatar,Altaic
-twe,81A,SOV,Western Tarahumara,Uto-Aztecan
-twn,81A,No dominant order,Taos,Kiowa-Tanoan
-txj,81A,SVO,Totonaca (Xicotepec de Juaréz),Totonacan
-tye,81A,SOV,Dyeraidy,Northern Daly
-tzo,81A,VOS,Tzotzil,Mayan
-tzu,81A,No dominant order,Tzutujil,Mayan
-uby,81A,SOV,Ubyx,Northwest Caucasian
-udh,81A,SOV,Udihe,Altaic
-udi,81A,SOV,Udi,Nakh-Daghestanian
-udm,81A,SOV,Udmurt,Uralic
-uhi,81A,SOV,Otati,Pama-Nyungan
-ukr,81A,SVO,Ukrainian,Indo-European
-uld,81A,SVO,Wuzlam,Afro-Asiatic
-uli,81A,SVO,Ulithian,Austronesian
-una,81A,SOV,Goliath,Trans-New Guinea
-ung,81A,OVS,Ungarinjin,Worrorran
-ura,81A,SVO,Ura,Austronesian
-urd,81A,SOV,Urdu,Indo-European
-urk,81A,SOV,Urubu,Tupian
-url,81A,SVO,Urak Lawoi',Austronesian
-urt,81A,SVO,Urat,Torricelli
-usa,81A,SOV,Wanuma,Trans-New Guinea
-usr,81A,SOV,Auyana,Trans-New Guinea
-uyg,81A,SOV,Uighur,Altaic
-uzb,81A,SOV,"Uzbek, Southern",Altaic
-vai,81A,SOV,Vai,Mande
-ven,81A,SVO,Venda,Niger-Congo
-vie,81A,SVO,Vietnamese,Austro-Asiatic
-vnm,81A,SVO,Vinmavis,Austronesian
-wah,81A,SOV,Wahgi,Trans-New Guinea
-wai,81A,No dominant order,Waiwai,Cariban
-wak,81A,SOV,Wakhi,Indo-European
-wal,81A,SVO,Valman,Torricelli
-wam,81A,No dominant order,Wambaya,Mirndi
-wan,81A,No dominant order,Wangkumara,Pama-Nyungan
-wap,81A,SOV,Wappo,Wappo-Yukian
-war,81A,VOS,Pakaasnovos,Chapacura-Wanham
-way,81A,SOV,Oyampi,Tupian
-wbn,81A,SOV,Wambon,Trans-New Guinea
-wch,81A,SVO,Matako,Matacoan
-wed,81A,SOV,Wedau,Austronesian
-wem,81A,VOS,Wemba Wemba,Pama-Nyungan
-wic,81A,No dominant order,Wichita,Caddoan
-wik,81A,No dominant order,Yokuts (Wikchamni),Penutian
-win,81A,No dominant order,Wintun,Penutian
-wiy,81A,No dominant order,Wiyot,Algic
-wlf,81A,SVO,Wolof,Niger-Congo
-wlo,81A,VSO,Wolio,Austronesian
-wlw,81A,SOV,Warluwara,Pama-Nyungan
-wly,81A,SOV,Wolaitta,Afro-Asiatic
-wma,81A,SVO,West Makian,West Papuan
-wme,81A,SOV,Wambule,Sino-Tibetan
-wmu,81A,SOV,Wik-Mungkan,Pama-Nyungan
-wn,81A,OSV,Wik-Ngathana,Pama-Nyungan
-wna,81A,SOV,Nwa,Mande
-wol,81A,SVO,Woleaian,Austronesian
-wrd,81A,No dominant order,Wardaman,Yangmanic
-wrg,81A,No dominant order,Warrgamay,Pama-Nyungan
-wrk,81A,SVO,Guarequena,Arawakan
-wrl,81A,No dominant order,Warlpiri,Pama-Nyungan
-wrm,81A,SVO,Warenbori,Austronesian
-wrn,81A,SVO,Warndarang,Mangarrayi-Maran
-wrw,81A,No dominant order,Warwa,Nyulnyulan
-wry,81A,SVO,Waray,Gunwinyguan
-wsk,81A,SOV,Waskia,Trans-New Guinea
-wth,81A,VOS,Wathawurung,Pama-Nyungan
-wwa,81A,SVO,Wama,Niger-Congo
-wya,81A,No dominant order,Huron,Iroquoian
-xam,81A,SVO,/Xam,Tu
-xar,81A,SVO,Xaracuu,Austronesian
-xas,81A,SOV,Xasonke,Mande
-xbi,81A,SVO,Kombio,Torricelli
-xer,81A,SOV,Sherente,Macro-Ge
-xho,81A,SVO,Xhosa,Niger-Congo
-xns,81A,SOV,Kanashi,Sino-Tibetan
-xoo,81A,SVO,N/amani,Tu
-yag,81A,No dominant order,Yagua,Peba-Yaguan
-yah,81A,SOV,Yamana,Yámana
-yal,81A,SOV,Kosarek,Trans-New Guinea
-yam,81A,SOV,Yaminahua,Panoan
-yao,81A,SVO,Yao,Niger-Congo
-yap,81A,VSO,Yapese,Austronesian
-yaq,81A,SOV,Yaqui,Uto-Aztecan
-yar,81A,SOV,Yareba,Yareban
-yay,81A,SVO,Yay,Tai-Kadai
-ycn,81A,SVO,Yucuna,Arawakan
-yei,81A,SOV,Yey,Morehead and Upper Maro Rivers
-yel,81A,SOV,Yele,Yele
-ygr,81A,SOV,"Yagaria, Move dialect",Trans-New Guinea
-yid,81A,SOV,Yidiny,Pama-Nyungan
-yin,81A,SVO,Yindjibarndi,Pama-Nyungan
-yiw,81A,SOV,Nasu,Sino-Tibetan
-yko,81A,SOV,Kolyma,Yukaghir
-ykt,81A,SOV,Yakut,Altaic
-ylm,81A,SOV,Yelmek,Bulaka River
-yng,81A,SVO,Yinggarda,Pama-Nyungan
-yok,81A,No dominant order,Yokutsan,Penutian
-yor,81A,SVO,Yoruba,Niger-Congo
-ypk,81A,No dominant order,Yupik (General Central),Eskimo-Aleut
-yqy,81A,SOV,Yaqay,Anim
-ytu,81A,SOV,"Yukaghir, Tundra dialect",Yukaghir
-yuk,81A,SVO,Yugulda,Tangkic
-yur,81A,No dominant order,Yurok,Algic
-yus,81A,No dominant order,Siberian Yupik,Eskimo-Aleut
-yuw,81A,SOV,Gamilaraay,Pama-Nyungan
-ywl,81A,No dominant order,Yokuts (Yawelmani),Penutian
-ywr,81A,No dominant order,Yawuru,Nyulnyulan
-zag,81A,SOV,Zagawa,Saharan
-zai,81A,VSO,"Zapotec, Isthmus",Oto-Manguean
-zan,81A,SVO,Zande,Niger-Congo
-zap,81A,VSO,Mitla Zapotec,Oto-Manguean
-zar,81A,No dominant order,Zerma,Songhay
-zay,81A,SOV,Zayse,Afro-Asiatic
-zaz,81A,SOV,Zaza,Indo-European
-zch,81A,SVO,Zoque (San Miguel Chimalapa),Mixe-Zoque
-zhn,81A,SVO,Zhuang,Tai-Kadai
-zim,81A,SOV,Zimakani,Anim
-zpr,81A,SVO,Zaparo,Zaparoan
-zqc,81A,VOS,Copainalá Zoque,Mixe-Zoque
-zqo,81A,No dominant order,Ostuacan Zoque,Mixe-Zoque
-zqs,81A,SVO,Popoluca (Sierra),Mixe-Zoque
-zul,81A,SVO,IsiZulu,Niger-Congo
-zzo,81A,VSO,"Zapotec, Zoogocho",Oto-Manguean
+aba,A81,SOV,Abau,Sepik
+abi,A81,SVO,Abipon,Guaicuruan
+abk,A81,SOV,Abkhaz,Northwest Caucasian
+abn,A81,SOV,Arabana,Pama-Nyungan
+abo,A81,SOV,Arbore,Afro-Asiatic
+abu,A81,SVO,Yimbun,West Papuan
+abv,A81,SOV,Abui,Timor-Alor-Pantar
+ace,A81,No_dominant_word_order,Achinese,Austronesian
+acg,A81,SVO,Achagua,Arawakan
+acl,A81,SVO,Acholi,Eastern Sudanic
+acm,A81,SVO,Achumawi,Hokan
+aco,A81,No_dominant_word_order,Keres (Western),Keresan
+adg,A81,SOV,Adang,Timor-Alor-Pantar
+adi,A81,SVO,Adyukru,Niger-Congo
+adn,A81,No_dominant_word_order,Adynyamathanha,Pama-Nyungan
+ady,A81,SOV,Abzax,Northwest Caucasian
+adz,A81,SVO,Adzera,Austronesian
+aeg,A81,SVO,Egyptian Colloquial Arabic,Afro-Asiatic
+aga,A81,SOV,Gadsup,Trans-New Guinea
+agb,A81,SVO,Legbo,Niger-Congo
+agc,A81,VSO,Agta,Austronesian
+agd,A81,VSO,d Agta,Austronesian
+agh,A81,SVO,Aghem,Niger-Congo
+agm,A81,SOV,Angami,Sino-Tibetan
+agt,A81,SOV,Awngthim,Pama-Nyungan
+aja,A81,SVO,Aja,Central Sudanic
+akh,A81,SOV,Akha,Sino-Tibetan
+akn,A81,SVO,Akan,Niger-Congo
+ala,A81,SOV,Alamblak,Sepik
+alb,A81,SVO,Albanian,Indo-European
+ale,A81,SOV,"Aleut, Eastern",Eskimo-Aleut
+alk,A81,SVO,Lukep,Austronesian
+all,A81,SOV,Nara,Austronesian
+aln,A81,SVO,Alune,Austronesian
+alw,A81,No_dominant_word_order,Alawa,Mangarrayi-Maran
+aly,A81,SOV,Alyawarra,Pama-Nyungan
+ama,A81,SVO,Longa,Austronesian
+amb,A81,SOV,Abelam,Sepik
+amc,A81,No_dominant_word_order,Amahuaca,Panoan
+ame,A81,SOV,Amele,Trans-New Guinea
+amh,A81,SOV,Amharic,Afro-Asiatic
+ami,A81,No_dominant_word_order,Ami,Austronesian
+aml,A81,SVO,Aoban (Northeast),Austronesian
+amn,A81,SOV,Amanab,Border
+amp,A81,SOV,Mparntwe Arrernte,Pama-Nyungan
+amq,A81,SVO,Ambai,Austronesian
+ams,A81,VSO,Modern Literary Arabic,Afro-Asiatic
+anc,A81,SVO,Angas,Afro-Asiatic
+ang,A81,SOV,Anggor,Senagi
+ani,A81,No_dominant_word_order,||Ani,Khoe-Kwadi
+anj,A81,VOS,Aneityum,Austronesian
+ann,A81,No_dominant_word_order,Enindhilyagwa,Gunwinyguan
+ano,A81,SOV,Anung,Sino-Tibetan
+anu,A81,SVO,Chakosi,Niger-Congo
+any,A81,No_dominant_word_order,Anuak,Eastern Sudanic
+ao,A81,SOV,Ao,Sino-Tibetan
+aoj,A81,SVO,Arapesh (Southern),Torricelli
+api,A81,SOV,Apinaye,Macro-Ge
+apl,A81,No_dominant_word_order,Apalai,Cariban
+apt,A81,SOV,Apatani,Sino-Tibetan
+apu,A81,SVO,Apurina,Arawakan
+apw,A81,SOV,Apache (Western),Na-Dene
+ara,A81,SVO,Arawak,Arawakan
+arc,A81,SOV,Archi,Nakh-Daghestanian
+arg,A81,SVO,Khaliji,Afro-Asiatic
+ari,A81,SVO,Lae,Austronesian
+arm,A81,No_dominant_word_order,Eastern Armenian,Indo-European
+aro,A81,SVO,Arosi,Austronesian
+arp,A81,SVO,Bukiyip,Torricelli
+arq,A81,SVO,Iraqi Arabic,Afro-Asiatic
+arw,A81,SOV,Western Armenian,Indo-European
+asm,A81,SOV,Asmat (Flamingo Bay),Trans-New Guinea
+ass,A81,SOV,Assamese,Indo-European
+asu,A81,OVS,Asurini,Tupian
+asy,A81,No_dominant_word_order,Syrian Arabic,Afro-Asiatic
+ath,A81,SOV,Athpare,Sino-Tibetan
+atm,A81,SOV,Kunza,Kunza
+ats,A81,No_dominant_word_order,Atsugewi,Hokan
+au,A81,SVO,Au,Torricelli
+ava,A81,SOV,Avar,Nakh-Daghestanian
+avk,A81,SVO,Avikam,Niger-Congo
+avo,A81,No_dominant_word_order,Avukaya,Central Sudanic
+awa,A81,SOV,Awa,Trans-New Guinea
+awi,A81,SOV,Awin,Awin-Pare
+awp,A81,SOV,Cuaiquer,Barbacoan
+awt,A81,SOV,Autu,Sepik
+awy,A81,SOV,Awyi,Border
+ayi,A81,SVO,Anyi,Niger-Congo
+aym,A81,SOV,Aymara,Aymaran
+ayr,A81,SVO,Ayoreo,Zamucoan
+ayw,A81,SVO,Aiwo,Austronesian
+aze,A81,SOV,"Azerbaijani, North",Altaic
+azi,A81,SOV,Azerbaijani,Altaic
+baa,A81,SOV,Barai,Trans-New Guinea
+bab,A81,SVO,Babungo,Niger-Congo
+bac,A81,No_dominant_word_order,Wadjiginy,Anson Bay
+bae,A81,SVO,Bare,Arawakan
+baf,A81,SVO,Bafut,Niger-Congo
+bag,A81,SVO,Bagirmi,Central Sudanic
+bai,A81,SVO,Minchia,Sino-Tibetan
+baj,A81,No_dominant_word_order,Orang Laut,Austronesian
+bak,A81,SVO,Baka (Cameroon),Niger-Congo
+bam,A81,SOV,Bambara,Mande
+bao,A81,SOV,Pao-an,Altaic
+baq,A81,VOS,Baure,Arawakan
+bar,A81,SVO,Beri,Eastern Sudanic
+bas,A81,SVO,Basaa,Niger-Congo
+baw,A81,SOV,Bom,Sino-Tibetan
+bbl,A81,SVO,Southern Bomitaba,Niger-Congo
+bbu,A81,No_dominant_word_order,Barambo,Niger-Congo
+bbw,A81,No_dominant_word_order,Gunwinygu,Gunwinyguan
+bch,A81,No_dominant_word_order,Shawiya,Afro-Asiatic
+bco,A81,VSO,Bella Coola,Salishan
+bdm,A81,SOV,Badimay,Pama-Nyungan
+bdu,A81,SVO,Budu,Niger-Congo
+bdw,A81,SOV,Baham,West Bomberai
+bej,A81,SOV,Beja,Afro-Asiatic
+ben,A81,SOV,Bangla,Indo-European
+bfg,A81,VSO,Fiqiq,Afro-Asiatic
+bgo,A81,SVO,Bongo,Central Sudanic
+bgr,A81,SVO,Furu,Central Sudanic
+bgs,A81,SVO,Baga Sitemu,Niger-Congo
+bgz,A81,SVO,Banggi,Austronesian
+bho,A81,SOV,Bhojpuri,Indo-European
+bid,A81,SVO,Bidiyo,Afro-Asiatic
+bii,A81,SVO,Biri,Pama-Nyungan
+bik,A81,SVO,Biak,Austronesian
+bil,A81,No_dominant_word_order,Bilua,Solomons East Papuan
+bin,A81,SOV,Binandere,Trans-New Guinea
+bir,A81,SVO,Birom,Niger-Congo
+biu,A81,SOV,Bisu,Sino-Tibetan
+bka,A81,SVO,Baka,Central Sudanic
+bkb,A81,SOV,Kurumba,Dravidian
+bkr,A81,No_dominant_word_order,Karo Batak,Austronesian
+bkt,A81,SOV,Brok-skad,Indo-European
+bku,A81,SVO,Kwiri,Niger-Congo
+bla,A81,No_dominant_word_order,Blackfoot,Algic
+ble,A81,SVO,Baule,Niger-Congo
+bln,A81,No_dominant_word_order,Bilin,Afro-Asiatic
+blr,A81,No_dominant_word_order,Byelorussian,Indo-European
+blt,A81,SOV,Balti,Sino-Tibetan
+blx,A81,SOV,Biloxi,Siouan
+blz,A81,SVO,Balant,Niger-Congo
+bma,A81,VSO,Tamazight (Middle Atlas),Afro-Asiatic
+bmb,A81,SVO,Moba,Niger-Congo
+bnb,A81,No_dominant_word_order,Bunaba,Bunuban
+bni,A81,SVO,Bini,Niger-Congo
+bnk,A81,SVO,Bankon,Niger-Congo
+bnn,A81,SVO,Banoni,Austronesian
+boa,A81,SOV,Boazi,Anim
+bob,A81,SVO,Bobangi,Niger-Congo
+bok,A81,SOV,Boko,Mande
+bol,A81,SVO,Bolia,Niger-Congo
+bon,A81,SOV,Bongu,Trans-New Guinea
+bra,A81,SVO,Brao,Austro-Asiatic
+bre,A81,SVO,Breton,Indo-European
+brf,A81,SVO,Riff,Afro-Asiatic
+bri,A81,SOV,Bribri,Chibchan
+brl,A81,SOV,Baragaon,Sino-Tibetan
+brm,A81,SOV,Burmese,Sino-Tibetan
+brn,A81,SVO,Burunge,Afro-Asiatic
+brp,A81,SOV,d Warapu,Skou
+brs,A81,No_dominant_word_order,Barasano (Southern),Tucanoan
+bsh,A81,SVO,Bushong,Niger-Congo
+btk,A81,No_dominant_word_order,Bontok (Central),Austronesian
+bto,A81,VOS,Toba Batak,Austronesian
+bua,A81,SOV,Burarra,Mangrida
+bub,A81,SVO,Bubi,Niger-Congo
+bud,A81,SVO,Buduma,Afro-Asiatic
+bug,A81,SVO,Bugis,Austronesian
+bul,A81,SVO,Bulgarian,Indo-European
+bum,A81,SVO,Buma,Austronesian
+bus,A81,SOV,Busa,Mande
+but,A81,SOV,Buriat,Altaic
+buu,A81,SVO,Buru,Austronesian
+bvi,A81,SVO,Vitu,Austronesian
+bwc,A81,No_dominant_word_order,"Bajau, West Coast",Austronesian
+bzi,A81,SOV,Bauzi,East Geelvink Bay
+cah,A81,SOV,Cahuilla,Uto-Aztecan
+cak,A81,VOS,Cakchiquel,Mayan
+car,A81,SOV,Galibi,Cariban
+cas,A81,SOV,Cashibo,Panoan
+cav,A81,No_dominant_word_order,Cavineña,Tacanan
+cax,A81,No_dominant_word_order,Ashaninca,Arawakan
+cay,A81,SOV,Cayapa,Barbacoan
+cba,A81,VOS,Chumash (Barbareno),Chumash
+cbo,A81,No_dominant_word_order,Chacobo,Panoan
+ccm,A81,VSO,Comaltepec Chinantec,Oto-Manguean
+cct,A81,SOV,Choctaw,Muskogean
+cde,A81,SOV,Ye'cuana,Cariban
+cea,A81,No_dominant_word_order,Cree (Swampy),Algic
+ceb,A81,VSO,Cebuano,Austronesian
+cem,A81,VOS,Cemuhi,Austronesian
+cga,A81,SVO,Chaga,Niger-Congo
+cha,A81,VSO,Chamorro,Austronesian
+chb,A81,SOV,Chambri,Lower Sepik-Ramu
+chc,A81,SOV,Chechen,Nakh-Daghestanian
+chd,A81,SOV,Chaudangsi,Sino-Tibetan
+che,A81,No_dominant_word_order,Cherokee,Iroquoian
+chg,A81,SOV,Chang,Sino-Tibetan
+chh,A81,SOV,Gurage (Central West),Afro-Asiatic
+chj,A81,VOS,Chuj,Mayan
+chk,A81,No_dominant_word_order,Chukchi,Chukotko-Kamchatkan
+chp,A81,SOV,Chipewyan,Na-Dene
+chq,A81,VSO,Quiotepec Chinantec,Oto-Manguean
+chr,A81,SVO,Chrau,Austro-Asiatic
+chv,A81,SOV,Chuvash,Altaic
+chw,A81,SVO,Cham (West),Austronesian
+cic,A81,SVO,Nyanja,Niger-Congo
+ckl,A81,VOS,Chinook (Lower),Penutian
+cle,A81,VOS,San Juan Chinanteco Lealao,Oto-Manguean
+cln,A81,SOV,Cholona,Cholon
+cme,A81,SVO,Cham (East),Austronesian
+cmh,A81,No_dominant_word_order,Chemehuevi,Uto-Aztecan
+cml,A81,SOV,Kiranti,Sino-Tibetan
+cmn,A81,SOV,Comanche,Uto-Aztecan
+cmy,A81,SVO,Yocot'an,Mayan
+cnl,A81,SOV,Canela,Macro-Ge
+cnt,A81,SVO,Yue,Sino-Tibetan
+coa,A81,SOV,Coahuiltec,Coahuiltecan
+coc,A81,SVO,Cocama,Tupian
+coo,A81,No_dominant_word_order,Coos,Oregon Coast
+cop,A81,SVO,Coptic,Afro-Asiatic
+cor,A81,VSO,Cora,Uto-Aztecan
+cpl,A81,VSO,Palantla Chinantec,Oto-Manguean
+cpn,A81,SOV,Chepang,Sino-Tibetan
+cpy,A81,SOV,Chipaya,Uru-Chipaya
+cre,A81,No_dominant_word_order,Cree,Algic
+crn,A81,SVO,Cornish,Indo-European
+cro,A81,SOV,Crow,Siouan
+ctl,A81,SVO,Catalan,Indo-European
+ctw,A81,SOV,Catawba,Siouan
+cua,A81,SVO,Cua,Austro-Asiatic
+cub,A81,OVS,Cubeo,Tucanoan
+cuc,A81,SVO,Cuica,Timote-Cuica
+cui,A81,SOV,Cuiba,Guahiban
+cup,A81,SOV,Cupeño,Uto-Aztecan
+cze,A81,SVO,Czech,Indo-European
+dag,A81,SOV,Daga,Dagan
+dam,A81,No_dominant_word_order,Malayo,Chibchan
+dan,A81,SOV,Dan,Mande
+daw,A81,SOV,Kamán,Nadahup
+day,A81,SVO,Day,Niger-Congo
+ddj,A81,No_dominant_word_order,d Godie,Niger-Congo
+dds,A81,SOV,Donno So Dogon,Dogon
+deg,A81,SVO,Degema,Niger-Congo
+der,A81,SOV,Dera,Senagi
+des,A81,SOV,Desano,Tucanoan
+deu,A81,SOV,Chutiya,Sino-Tibetan
+dga,A81,SVO,Dagara,Niger-Congo
+dgb,A81,SVO,Dagbani,Niger-Congo
+dgo,A81,No_dominant_word_order,Dongo,Niger-Congo
+dgr,A81,SOV,Dagur,Altaic
+dha,A81,SOV,Dasenech,Afro-Asiatic
+dhb,A81,SOV,Darambal,Pama-Nyungan
+dhm,A81,SOV,Dhimal,Sino-Tibetan
+dhr,A81,No_dominant_word_order,Thargari,Pama-Nyungan
+did,A81,VSO,Xaroxa,Eastern Sudanic
+die,A81,SOV,Kumeyaay,Hokan
+dig,A81,SOV,Digaro,Sino-Tibetan
+dim,A81,SOV,Dime,Afro-Asiatic
+din,A81,No_dominant_word_order,Jieng (Dinka),Eastern Sudanic
+dio,A81,SVO,Diola,Niger-Congo
+diy,A81,SOV,Diyari,Pama-Nyungan
+dja,A81,SOV,Dyaabugay,Pama-Nyungan
+dji,A81,SOV,Djingili,Mirndi
+djm,A81,No_dominant_word_order,Djambarbwingu,Pama-Nyungan
+djn,A81,No_dominant_word_order,Djinang,Pama-Nyungan
+djp,A81,SOV,Yolngu (Djapu),Pama-Nyungan
+djr,A81,No_dominant_word_order,Djaru,Pama-Nyungan
+dma,A81,SVO,Duma,Niger-Congo
+dni,A81,SOV,Dani (Grand Valley),Trans-New Guinea
+dok,A81,SVO,Ngombe,Niger-Congo
+dom,A81,No_dominant_word_order,Zutt,Indo-European
+don,A81,SVO,Kam,Tai-Kadai
+doy,A81,SVO,Dayãyo,Niger-Congo
+dre,A81,No_dominant_word_order,Dehu,Austronesian
+drg,A81,SOV,Dargwa,Nakh-Daghestanian
+drm,A81,SOV,Darmiya,Sino-Tibetan
+dsh,A81,SVO,Danish,Indo-European
+dua,A81,SVO,Duala,Niger-Congo
+duk,A81,SVO,Duka,Niger-Congo
+dum,A81,SOV,Vanimo,Skou
+dun,A81,SOV,Duna,Trans-New Guinea
+dyi,A81,No_dominant_word_order,Dyirbal,Pama-Nyungan
+ebi,A81,SVO,Ebira,Niger-Congo
+edo,A81,SOV,Beami,Bosavi
+ega,A81,SVO,Ega,Niger-Congo
+egn,A81,SVO,Engenni,Niger-Congo
+eip,A81,SOV,Eipo,Trans-New Guinea
+eka,A81,SOV,Ekagi,Trans-New Guinea
+eko,A81,SVO,Koti,Niger-Congo
+eme,A81,SOV,Emerillon,Tupian
+emm,A81,No_dominant_word_order,Ami,Western Daly
+ene,A81,SOV,Enets,Uralic
+eng,A81,SVO,English,Indo-European
+eno,A81,SVO,Enggano,Austronesian
+epe,A81,SOV,Saija,Choco
+erk,A81,SVO,Efate (South),Austronesian
+err,A81,SVO,Sie,Austronesian
+ese,A81,SOV,Ese'ejja,Tacanan
+est,A81,SVO,Estonian,Uralic
+eud,A81,SOV,Opata,Uto-Aztecan
+eve,A81,SOV,Evenki,Altaic
+evn,A81,SOV,Even,Altaic
+ewo,A81,SVO,Ewondo,Niger-Congo
+fij,A81,No_dominant_word_order,Nadroga,Austronesian
+fin,A81,SVO,Finnish,Uralic
+foe,A81,SOV,Foe,Trans-New Guinea
+fon,A81,SVO,Fon,Niger-Congo
+for,A81,SOV,Fore,Trans-New Guinea
+fqs,A81,SOV,Fas,Baibai-Fas
+fre,A81,SVO,French,Indo-European
+fua,A81,SVO,Fulfulde (Cameroonian),Niger-Congo
+fut,A81,SVO,Futuna-Aniwa,Austronesian
+fye,A81,SVO,Fyam,Niger-Congo
+ga,A81,SVO,Gã,Niger-Congo
+gae,A81,VSO,Scottish Gaelic,Indo-European
+gah,A81,SOV,Gahuku,Trans-New Guinea
+gal,A81,SOV,Gallong,Sino-Tibetan
+gam,A81,SOV,Gamo,Afro-Asiatic
+gap,A81,SOV,Gapapaiwa,Austronesian
+gar,A81,SOV,Garo,Sino-Tibetan
+gbb,A81,SVO,Gbeya,Niger-Congo
+gds,A81,SOV,Gadsup,Trans-New Guinea
+gel,A81,VOS,Gela,Austronesian
+geo,A81,SOV,Georgian,Kartvelian
+ggu,A81,No_dominant_word_order,Gureng Gureng,Pama-Nyungan
+ghb,A81,SOV,Guahibo,Guahiban
+ghr,A81,SOV,Bunan,Sino-Tibetan
+gid,A81,No_dominant_word_order,Gidabul,Pama-Nyungan
+gim,A81,SOV,Bencho,Afro-Asiatic
+git,A81,No_dominant_word_order,Nass-Gitksan,Penutian
+gjj,A81,VSO,Guajajara,Tupian
+gku,A81,No_dominant_word_order,Puelche,Chon
+gla,A81,SVO,Gelao,Tai-Kadai
+gln,A81,SOV,Golin,Trans-New Guinea
+gmw,A81,SOV,Gumasi,Austronesian
+gnb,A81,SVO,Warlang,Gunwinyguan
+gnn,A81,No_dominant_word_order,Wunambal,Worrorran
+goa,A81,VSO,Goajiro,Arawakan
+goe,A81,SVO,Goemai,Afro-Asiatic
+gog,A81,SOV,Gogodala,Gogodala-Suki
+gok,A81,SVO,Gokana,Niger-Congo
+gon,A81,SOV,Gondi,Dravidian
+goo,A81,No_dominant_word_order,Guniyan,Bunuban
+grb,A81,SVO,Grebo,Niger-Congo
+grf,A81,VSO,"Island Carib, Carib (Island)",Arawakan
+grg,A81,No_dominant_word_order,Guragone,Mangrida
+grj,A81,No_dominant_word_order,Guarijío,Uto-Aztecan
+grk,A81,No_dominant_word_order,Modern Greek,Indo-European
+grr,A81,No_dominant_word_order,Garawa,Garrwan
+grw,A81,SOV,Greenland Eskimo (West),Eskimo-Aleut
+gua,A81,SVO,Guarani (Paraguayan),Tupian
+gud,A81,VSO,Gude,Afro-Asiatic
+gug,A81,SOV,Kokata,Pama-Nyungan
+guh,A81,SOV,Guhu-Semane,Trans-New Guinea
+guj,A81,SOV,Gujarati,Indo-European
+gul,A81,SVO,Gula,Central Sudanic
+gum,A81,No_dominant_word_order,Gumbayunggir,Pama-Nyungan
+gur,A81,SOV,Gurung,Sino-Tibetan
+guu,A81,SOV,Guugu Yimidhirr,Pama-Nyungan
+guw,A81,SVO,Gun,Niger-Congo
+gwa,A81,No_dominant_word_order,Gwari,Niger-Congo
+gwo,A81,SVO,Katab,Niger-Congo
+hak,A81,SVO,Kejia,Sino-Tibetan
+hal,A81,SVO,Halia,Austronesian
+ham,A81,SOV,Hamtai,Trans-New Guinea
+hat,A81,SVO,Hattam,West Papuan
+hau,A81,SVO,Hausa,Afro-Asiatic
+haw,A81,VSO,Hawaiian,Austronesian
+hay,A81,SOV,Vayu,Sino-Tibetan
+hdi,A81,VSO,Xedi,Afro-Asiatic
+heb,A81,SVO,Modern Hebrew,Afro-Asiatic
+heh,A81,SVO,Hehe,Niger-Congo
+hei,A81,VSO,Heiltsuk,Wakashan
+hem,A81,SVO,Hemba,Niger-Congo
+hhu,A81,SOV,Kwasengen,Sepik
+hid,A81,SOV,Hidatsa,Siouan
+hil,A81,VSO,Hiligaynon,Austronesian
+hin,A81,SOV,Hindi,Indo-European
+hix,A81,OVS,Hishkariana,Cariban
+hlp,A81,SOV,Walapai,Hokan
+hlu,A81,VSO,Halkomelem,Salishan
+hmi,A81,SOV,Meneca,Huitotoan
+hmo,A81,SVO,Mong Njua,Hmong-Mien
+hna,A81,SVO,Hina,Afro-Asiatic
+hnd,A81,SVO,Hunde,Niger-Congo
+hoa,A81,VSO,Hoava,Austronesian
+hol,A81,SVO,Holoholo,Niger-Congo
+hop,A81,SOV,Hopi,Uto-Aztecan
+hpd,A81,SOV,Hupda,Nadahup
+htc,A81,SVO,Huastec,Mayan
+huc,A81,SVO,|=HÍ,Kxa
+hui,A81,SOV,Huichol,Uto-Aztecan
+hum,A81,SOV,Murui,Huitotoan
+hun,A81,No_dominant_word_order,Hungarian,Uralic
+hup,A81,No_dominant_word_order,Hupa,Na-Dene
+hve,A81,SVO,Huave,Huavean
+hya,A81,SVO,Haya,Niger-Congo
+hzb,A81,SOV,Hunzib,Nakh-Daghestanian
+iaa,A81,SVO,Iaai,Austronesian
+iat,A81,SOV,Iatmul,Sepik
+iba,A81,SVO,Iban,Austronesian
+ice,A81,SVO,Icelandic,Indo-European
+idn,A81,SOV,Iduna,Austronesian
+ido,A81,No_dominant_word_order,Idoma,Niger-Congo
+ifm,A81,SVO,Central Teke,Niger-Congo
+igb,A81,SVO,Igbo,Niger-Congo
+ige,A81,SVO,Igede,Niger-Congo
+igs,A81,SVO,Gaam,Eastern Sudanic
+iha,A81,SOV,Iha,West Bomberai
+ijo,A81,SOV,Kolokuma,Ijoid
+ik,A81,VSO,Ik,Eastern Sudanic
+ika,A81,SOV,Ica,Chibchan
+ila,A81,SVO,Ila,Niger-Congo
+ilo,A81,VSO,Ilokano,Austronesian
+ina,A81,No_dominant_word_order,Inanwatan,South Bird's Head
+inn,A81,SOV,Yandruwandha,Pama-Nyungan
+iqu,A81,SVO,Iquito,Zaparoan
+iri,A81,VSO,Gaelic,Indo-European
+irq,A81,SOV,Iraqw,Afro-Asiatic
+irr,A81,SVO,Irahutu,Austronesian
+isa,A81,SOV,Krisa,Skou
+isi,A81,SOV,Saberi,Kwerba
+ita,A81,SVO,Italian (Roman),Indo-European
+ite,A81,SOV,Kamchadal,Chukotko-Kamchatkan
+iwa,A81,SVO,Iwaidja,Iwaidjan
+iwm,A81,SOV,Iwam,Sepik
+ixi,A81,VSO,Ixil,Mayan
+izi,A81,SVO,Izi,Niger-Congo
+jab,A81,SVO,Yabim,Austronesian
+jad,A81,SOV,Tibetan,Sino-Tibetan
+jak,A81,VSO,Jacaltec,Mayan
+jam,A81,No_dominant_word_order,Djamindjung,Mirndi
+jar,A81,SVO,Jarawa,Niger-Congo
+jbt,A81,SOV,Yabuti,Macro-Ge
+jeb,A81,No_dominant_word_order,Jebero,Cahuapanan
+jin,A81,SOV,Jinuo,Sino-Tibetan
+jiv,A81,SOV,Shuar,Jivaroan
+jmo,A81,SVO,Morokodo,Central Sudanic
+jms,A81,SOV,d Dogon,Dogon
+jng,A81,SOV,Jingphaw,Sino-Tibetan
+jrw,A81,SOV,Jarawa,South Andamanese
+juh,A81,SVO,Zhu-/Hoa (Si),Kxa
+juk,A81,SVO,Jukun,Niger-Congo
+jva,A81,SOV,Karaja,Macro-Ge
+kaa,A81,SOV,Arara (Tupi),Tupian
+kab,A81,SOV,Kabardian,Northwest Caucasian
+kac,A81,SOV,Bara,Sino-Tibetan
+kad,A81,SVO,Kadugli,Kadu
+kae,A81,SOV,Tate,Eleman
+kan,A81,SVO,Kana,Niger-Congo
+kar,A81,SVO,Fer,Central Sudanic
+kas,A81,SVO,Kashmiri,Indo-European
+kau,A81,SVO,Pasismanua,Austronesian
+kay,A81,No_dominant_word_order,Gayardilt,Tangkic
+kba,A81,SVO,Kamba,Niger-Congo
+kbl,A81,VSO,Kabyle,Afro-Asiatic
+kbo,A81,SOV,Kambot,Lower Sepik-Ramu
+kbu,A81,SOV,Kanembu,Saharan
+kbw,A81,SVO,Bwe,Sino-Tibetan
+kby,A81,SVO,Kabre,Niger-Congo
+kch,A81,SVO,"Songhay, Koyra Chiini dialect",Songhay
+kdw,A81,SVO,Kadiweu,Guaicuruan
+kdz,A81,VSO,"Kadazan, Coastal",Austronesian
+kel,A81,SVO,Gele,Austronesian
+kem,A81,SOV,Kemant,Afro-Asiatic
+ken,A81,SVO,Kenga,Central Sudanic
+ker,A81,SVO,Kera,Afro-Asiatic
+ket,A81,SOV,Ket,Yeniseian
+kew,A81,SOV,Kewa,Trans-New Guinea
+kfe,A81,SVO,Kurumfe,Niger-Congo
+kga,A81,SVO,Kinga,Niger-Congo
+kgu,A81,SOV,Kalkatungu,Pama-Nyungan
+kha,A81,SOV,Khalkha,Altaic
+khg,A81,SOV,Khaling,Sino-Tibetan
+khl,A81,SOV,Khalaj,Altaic
+khm,A81,SVO,Khmer,Austro-Asiatic
+khn,A81,SVO,Khün,Tai-Kadai
+kho,A81,SOV,Nama,Khoe-Kwadi
+khr,A81,No_dominant_word_order,Kharia,Austro-Asiatic
+khs,A81,SVO,Khasi,Austro-Asiatic
+khw,A81,SOV,Khowar,Indo-European
+kie,A81,SOV,Giri,Lower Sepik-Ramu
+kik,A81,SVO,Kikuyu,Niger-Congo
+kil,A81,SVO,Luba-Shaba,Niger-Congo
+kim,A81,SOV,Kimaghana,Kolopom
+kin,A81,SVO,Rwanda,Niger-Congo
+kio,A81,SOV,Kiowa,Kiowa-Tanoan
+kir,A81,SVO,Kirma,Niger-Congo
+kis,A81,No_dominant_word_order,Gizi,Niger-Congo
+kiw,A81,SOV,"Kiwai, Island dialect",Kiwaian
+kje,A81,VSO,Coreguaje,Tucanoan
+kkp,A81,SOV,Karakalpak,Altaic
+kkq,A81,OVS,Nahukwa,Cariban
+kkt,A81,VSO,Kokota,Austronesian
+kku,A81,SOV,Korku,Austro-Asiatic
+kkv,A81,SVO,Kandoka-Lusi,Austronesian
+kla,A81,SVO,Klau,Niger-Congo
+kll,A81,SOV,Kaluli,Bosavi
+klm,A81,No_dominant_word_order,Klamath,Penutian
+kls,A81,VSO,Kalispel,Salishan
+klv,A81,No_dominant_word_order,Kilivila,Austronesian
+klw,A81,SOV,Kiliwa,Hokan
+kma,A81,SOV,Kamayura,Tupian
+kmb,A81,SOV,Wanggom,Trans-New Guinea
+kmh,A81,SOV,Kham,Sino-Tibetan
+kmj,A81,VSO,Karamojong,Eastern Sudanic
+kmn,A81,SOV,Kuman,Trans-New Guinea
+kmo,A81,SOV,Koiari (Mountain),Trans-New Guinea
+kmp,A81,SOV,Kunimaipa,Trans-New Guinea
+kmr,A81,SOV,Kamoro,Trans-New Guinea
+kms,A81,SOV,Kamas,Uralic
+kmu,A81,SVO,Khmu',Austro-Asiatic
+kmw,A81,No_dominant_word_order,Gamu,Eastern Daly
+kmz,A81,SOV,Kamasau,Torricelli
+knb,A81,SOV,"Kanum, Bädi",Morehead and Upper Maro Rivers
+knd,A81,SOV,Kannada,Dravidian
+kng,A81,SOV,Kaingang,Macro-Ge
+kni,A81,SVO,Koma,Niger-Congo
+knk,A81,SVO,Kanakuru,Afro-Asiatic
+knn,A81,SOV,Kanauri,Sino-Tibetan
+knr,A81,SOV,Kanuri,Saharan
+koa,A81,SOV,Koasati,Muskogean
+kob,A81,SOV,Kobon,Trans-New Guinea
+koe,A81,SVO,Kwegu,Eastern Sudanic
+kok,A81,SOV,Tripuri,Sino-Tibetan
+kol,A81,SOV,Kolami,Dravidian
+kom,A81,SVO,Komo,Koman
+kon,A81,SVO,Kikongo,Niger-Congo
+kos,A81,SVO,Kosraean,Austronesian
+koy,A81,SOV,Koya,Dravidian
+kpw,A81,SVO,Pho,Sino-Tibetan
+kqq,A81,SOV,Botocudo,Macro-Ge
+krb,A81,VOS,Gilbertese,Austronesian
+krc,A81,SOV,Karachay,Altaic
+kre,A81,SVO,Kresh,Central Sudanic
+krh,A81,SOV,Craho,Macro-Ge
+kri,A81,VOS,Kiriri,Kariri
+krn,A81,No_dominant_word_order,!Ora,Khoe-Kwadi
+kro,A81,VSO,Krongo,Kadu
+krr,A81,SOV,Kairiru,Austronesian
+krw,A81,SOV,Korowai,Trans-New Guinea
+kry,A81,SOV,Koryak,Chukotko-Kamchatkan
+krz,A81,SOV,Kryts,Nakh-Daghestanian
+ksa,A81,No_dominant_word_order,Keres (Eastern),Keresan
+kse,A81,SOV,Songhay (Koyraboro Senni),Songhay
+ksg,A81,SVO,Sgaw,Sino-Tibetan
+ksm,A81,SVO,Kasem,Niger-Congo
+kta,A81,SOV,Koita,Trans-New Guinea
+ktc,A81,SVO,Katcha,Kadu
+kte,A81,SVO,Kete,Niger-Congo
+kti,A81,SOV,Southern Kati,Trans-New Guinea
+ktl,A81,SVO,Katla,Kordofanian
+kty,A81,SOV,Xanty,Uralic
+kum,A81,SOV,Kumaoni,Indo-European
+kun,A81,SOV,Cuna,Chibchan
+kuv,A81,SOV,Kuvi,Dravidian
+kwa,A81,SVO,Kwaio,Austronesian
+kwk,A81,No_dominant_word_order,Kwakwala,Wakashan
+kwn,A81,SVO,Kwangali,Niger-Congo
+kwo,A81,SOV,Kwoma,Sepik
+kws,A81,No_dominant_word_order,Kawaiisu,Uto-Aztecan
+kxo,A81,OSV,Xû,Khoe-Kwadi
+kya,A81,SOV,Gugu Yalandyi,Pama-Nyungan
+kyk,A81,SOV,Enga,Trans-New Guinea
+kyl,A81,SVO,Kayah,Sino-Tibetan
+kyp,A81,SOV,Cayapo,Macro-Ge
+kyq,A81,VSO,Nuu-chah-nulth,Wakashan
+kyr,A81,SOV,Yuri,Pauwasi
+kyz,A81,SOV,Kayabí,Tupian
+kzy,A81,SVO,Zyrian,Uralic
+lab,A81,SVO,Labu,Austronesian
+lac,A81,No_dominant_word_order,Lacandon,Mayan
+lad,A81,SOV,Western Tibetan,Sino-Tibetan
+lag,A81,SVO,Logone,Afro-Asiatic
+lah,A81,SOV,Lahu,Sino-Tibetan
+lai,A81,SOV,Haka,Sino-Tibetan
+lal,A81,SOV,Lalaw,Sino-Tibetan
+lan,A81,SVO,Lango,Eastern Sudanic
+lao,A81,SVO,Lao,Tai-Kadai
+lat,A81,SVO,Latvian,Indo-European
+lav,A81,SOV,Lavukaleve,Solomons East Papuan
+lbu,A81,SVO,Ruund,Niger-Congo
+ldo,A81,SVO,Lundu,Niger-Congo
+ldu,A81,No_dominant_word_order,Bale,Central Sudanic
+leb,A81,SVO,Beo,Niger-Congo
+leg,A81,SVO,Lega,Niger-Congo
+lel,A81,SVO,Lele,Afro-Asiatic
+len,A81,SVO,Lenakel,Austronesian
+lep,A81,SOV,Lepcha,Sino-Tibetan
+les,A81,No_dominant_word_order,Balese,Central Sudanic
+let,A81,SVO,Leti,Austronesian
+lew,A81,SVO,Lewo,Austronesian
+lez,A81,SOV,Lezgi,Nakh-Daghestanian
+lgi,A81,SVO,Langi,Niger-Congo
+lgt,A81,No_dominant_word_order,Logo,Central Sudanic
+lgu,A81,VOS,Longgu,Austronesian
+lic,A81,SVO,Li,Tai-Kadai
+lil,A81,VSO,Lillooet,Salishan
+lin,A81,SVO,Losengo,Niger-Congo
+lis,A81,SOV,Lisu,Sino-Tibetan
+lit,A81,SVO,Lithuanian,Indo-European
+lkt,A81,SOV,Teton,Siouan
+llm,A81,SVO,Lelemi (Bwem),Niger-Congo
+lmb,A81,No_dominant_word_order,Lamba,Niger-Congo
+lmg,A81,VSO,Lamang,Afro-Asiatic
+lmh,A81,SVO,Lamaholot,Austronesian
+lml,A81,No_dominant_word_order,Limilngan,Darwin Region
+lmn,A81,SOV,Banjari,Indo-European
+lmp,A81,SVO,Lampung,Austronesian
+lmu,A81,SVO,d Lewo,Austronesian
+lnd,A81,SVO,Linda,Niger-Congo
+lon,A81,SVO,Loniu,Austronesian
+lot,A81,SOV,Lotha,Sino-Tibetan
+lou,A81,SVO,Lou,Austronesian
+luc,A81,SVO,Luchazi,Niger-Congo
+lug,A81,No_dominant_word_order,Logbara,Central Sudanic
+lui,A81,No_dominant_word_order,Luiseño,Uto-Aztecan
+luo,A81,SVO,Luo,Eastern Sudanic
+luv,A81,SVO,Lwena,Niger-Congo
+ma,A81,SVO,Amadi,Niger-Congo
+maa,A81,VSO,Maasai,Eastern Sudanic
+mab,A81,SOV,Mabang,Maban
+mac,A81,No_dominant_word_order,Makushi,Cariban
+mad,A81,No_dominant_word_order,Madi,Central Sudanic
+mae,A81,SVO,Mae,Austronesian
+mag,A81,SOV,Magari,Sino-Tibetan
+maj,A81,VSO,Majang,Eastern Sudanic
+mak,A81,VSO,Makah,Wakashan
+mal,A81,VOS,Malagassy,Austronesian
+mam,A81,VSO,Mam,Mayan
+man,A81,SOV,Mano,Mande
+mao,A81,VSO,Maori,Austronesian
+map,A81,SVO,Mapudungu,Araucanian
+mar,A81,SOV,Maricopa,Hokan
+mas,A81,SVO,Masa,Afro-Asiatic
+mau,A81,SVO,Maung,Iwaidjan
+maw,A81,SOV,Maninka,Mande
+max,A81,SOV,Mashakali,Macro-Ge
+may,A81,SVO,Brat,West Papuan
+mba,A81,SVO,Mba,Niger-Congo
+mbe,A81,SVO,Mbede,Niger-Congo
+mbi,A81,SVO,Bambui,Niger-Congo
+mbm,A81,SVO,Mbum,Niger-Congo
+mbr,A81,SVO,Mbara,Afro-Asiatic
+mbt,A81,SVO,Mangbetu,Central Sudanic
+mby,A81,SVO,Mbai,Central Sudanic
+mcd,A81,SVO,Macedonian,Indo-European
+mcv,A81,SVO,Mocovi,Guaicuruan
+mda,A81,SVO,Mada (Chadic),Afro-Asiatic
+mde,A81,SOV,Mende,Mande
+mdg,A81,SVO,Mundang,Niger-Congo
+mdl,A81,SOV,Madngele,Eastern Daly
+mdm,A81,No_dominant_word_order,Muthimuthi,Pama-Nyungan
+mdn,A81,SOV,Mandan,Siouan
+mdo,A81,SVO,Gbaya-Mbodomo,Niger-Congo
+mds,A81,SVO,Manado Malay,Austronesian
+mdw,A81,SVO,Mboshi,Niger-Congo
+mea,A81,SVO,Meax,East Bird's Head
+mee,A81,SVO,Me'en,Eastern Sudanic
+meh,A81,No_dominant_word_order,Mahri,Afro-Asiatic
+mek,A81,SOV,Sakirabiá,Tupian
+mem,A81,SOV,Manem,Border
+men,A81,No_dominant_word_order,Menominee,Algic
+mer,A81,SOV,Meriam,Western Fly
+mey,A81,SOV,Menya,Trans-New Guinea
+mga,A81,SVO,Mondunga,Niger-Congo
+mgg,A81,SOV,Monguor,Altaic
+mgh,A81,SOV,Magahi,Indo-European
+mgi,A81,SOV,Magi,Trans-New Guinea
+mgk,A81,SVO,Mungaka,Niger-Congo
+mgo,A81,SVO,Mongo,Niger-Congo
+mgu,A81,SVO,Musgu,Afro-Asiatic
+mhi,A81,SOV,Marathi,Indo-European
+mhu,A81,SVO,Mbalantu,Niger-Congo
+mie,A81,SVO,Mjen,Hmong-Mien
+mij,A81,SOV,Kaman,Sino-Tibetan
+mik,A81,SOV,Mikir,Sino-Tibetan
+min,A81,No_dominant_word_order,Minangkabau,Austronesian
+mis,A81,SOV,Miskito,Misumalpan
+miy,A81,No_dominant_word_order,Miya,Afro-Asiatic
+miz,A81,SOV,Mizo,Sino-Tibetan
+mka,A81,SOV,Mau(ka),Mande
+mkd,A81,SVO,Makonde,Niger-Congo
+mkg,A81,SOV,Mandinka,Mande
+mkh,A81,SOV,Khamnigan Mongol,Altaic
+mki,A81,SOV,Mikasuki,Muskogean
+mkj,A81,SOV,Makasai,Timor-Alor-Pantar
+mkl,A81,SOV,Maklew,Bulaka River
+mkq,A81,SVO,Mankon,Niger-Congo
+mku,A81,SOV,Maranungku,Western Daly
+mkz,A81,SVO,Makaa,Niger-Congo
+mla,A81,SVO,Mambila,Niger-Congo
+mlg,A81,SVO,Wandala,Afro-Asiatic
+mlm,A81,SVO,Mrabri,Austro-Asiatic
+mlu,A81,SVO,Maleu,Austronesian
+mmb,A81,SVO,Mangap,Austronesian
+mmn,A81,VSO,Mamanwa,Austronesian
+mmv,A81,SVO,Mamvu,Central Sudanic
+mna,A81,SVO,Muna,Austronesian
+mnc,A81,SOV,Manchu,Altaic
+mnd,A81,SVO,Mandarin Chinese,Sino-Tibetan
+mne,A81,SOV,Maidu (Mountain),Penutian
+mng,A81,SVO,Manggarai,Austronesian
+mni,A81,SOV,Moni,Trans-New Guinea
+mnm,A81,SOV,Manam,Austronesian
+mno,A81,SOV,Mono,Uto-Aztecan
+mns,A81,SOV,Mansi,Uralic
+mnv,A81,SOV,Kukuya,Austronesian
+mny,A81,SOV,Margany,Pama-Nyungan
+moa,A81,No_dominant_word_order,Mono Alu,Austronesian
+moe,A81,SVO,Mordvin,Uralic
+mof,A81,SVO,Mofu,Afro-Asiatic
+mog,A81,SOV,Moghol,Altaic
+moh,A81,No_dominant_word_order,Mohawk,Iroquoian
+mok,A81,SVO,Mokilese,Austronesian
+mon,A81,SVO,Mon,Austro-Asiatic
+moo,A81,SVO,More,Niger-Congo
+mor,A81,SVO,Mor,Austronesian
+mos,A81,SVO,Chimane,Mosetenan
+mou,A81,No_dominant_word_order,Moru,Central Sudanic
+mpa,A81,SOV,Murrinh-Patha,Southern Daly
+mpr,A81,SVO,Maipure,Arawakan
+mpt,A81,SOV,Mianmin,Trans-New Guinea
+mpu,A81,SVO,Amberbaken,West Papuan
+mqf,A81,SOV,Momuna,Trans-New Guinea
+mra,A81,No_dominant_word_order,Mara,Mangarrayi-Maran
+mrc,A81,SOV,Rangpa,Sino-Tibetan
+mrd,A81,SOV,Marind,Anim
+mrg,A81,SVO,Margi,Afro-Asiatic
+mrh,A81,SOV,Marithiyel,Western Daly
+mrl,A81,VSO,Murle,Eastern Sudanic
+mro,A81,SVO,Moro,Kordofanian
+mrq,A81,VSO,Marquesan,Austronesian
+mrr,A81,SOV,Maringarr,Western Daly
+mrs,A81,SOV,Kaniran,Trans-New Guinea
+mrt,A81,SVO,Martuyhunira,Pama-Nyungan
+mru,A81,SOV,Maru,Sino-Tibetan
+mrw,A81,No_dominant_word_order,Muruwari,Pama-Nyungan
+msc,A81,SOV,Chibcha,Chibchan
+msg,A81,SOV,Miri,Sino-Tibetan
+msk,A81,No_dominant_word_order,Ngile,Kordofanian
+msl,A81,SOV,Mesalit,Maban
+msm,A81,SVO,Musom,Austronesian
+msn,A81,SOV,Maisin,Austronesian
+msq,A81,VSO,d Halkomelem,Salishan
+mss,A81,No_dominant_word_order,Miwok (Southern Sierra),Penutian
+mtb,A81,SVO,Matumbi,Niger-Congo
+mto,A81,SOV,Malto,Dravidian
+mts,A81,SOV,Matís,Panoan
+mtt,A81,No_dominant_word_order,Massachusett,Algic
+mtu,A81,SOV,Motu,Austronesian
+mua,A81,SVO,Makua,Niger-Congo
+mum,A81,SVO,Mumuye,Niger-Congo
+mun,A81,SOV,Kolh,Austro-Asiatic
+mup,A81,SVO,Sura,Afro-Asiatic
+mur,A81,SVO,Murzi,Eastern Sudanic
+mus,A81,SVO,Mussau,Austronesian
+mut,A81,SVO,Mutsun,Penutian
+muu,A81,SOV,Munduruku,Tupian
+mwb,A81,VSO,Western Bukidnon,Austronesian
+mwe,A81,SVO,Mwera,Niger-Congo
+mwo,A81,SVO,Motlav,Austronesian
+mxc,A81,VSO,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
+mxe,A81,SVO,Mele,Austronesian
+mxj,A81,VSO,Western Jamiltepec Mixteco,Oto-Manguean
+mxo,A81,VSO,Santo Tomás Ocotepec Mixteco,Oto-Manguean
+mxp,A81,VSO,Peñoles Mixtec,Oto-Manguean
+mxx,A81,No_dominant_word_order,d Mixe,Mixe-Zoque
+mxy,A81,VSO,Yosundua Mixtec,Oto-Manguean
+myg,A81,SVO,Mayogo,Niger-Congo
+myi,A81,OVS,Mangarayi,Mangarrayi-Maran
+mym,A81,SOV,Malayalam,Dravidian
+myn,A81,SVO,Ma'anyan,Austronesian
+myr,A81,SOV,Matses,Panoan
+mzh,A81,No_dominant_word_order,"Mazatec, Huautla",Oto-Manguean
+nab,A81,SOV,Nabak,Trans-New Guinea
+nad,A81,OSV,Nadëb,Nadahup
+nag,A81,SOV,Nagatman,Yale
+naj,A81,SOV,Neo-Aramaic (Arbel),Afro-Asiatic
+nak,A81,SVO,Bileki,Austronesian
+nal,A81,SVO,Nalik,Austronesian
+nam,A81,SOV,Namie,Sepik
+nar,A81,SOV,Nera,Eastern Sudanic
+nas,A81,SOV,Nasioi,East Bougainville
+nau,A81,No_dominant_word_order,Nauruan,Austronesian
+nav,A81,SOV,Navajo,Na-Dene
+nbd,A81,SOV,"Nubian, Dongolese",Eastern Sudanic
+nbe,A81,SVO,Lingombe,Niger-Congo
+nbm,A81,SVO,Ngbaka Ma'bo,Niger-Congo
+nbr,A81,SOV,Guaymi,Chibchan
+nca,A81,VOS,Car Nicobarese,Austro-Asiatic
+ncm,A81,SVO,Ntcham,Niger-Congo
+ndb,A81,SVO,Ndebele,Niger-Congo
+ndi,A81,SVO,Ngbandi,Niger-Congo
+ndj,A81,No_dominant_word_order,Ndjébbana,Mangrida
+ndo,A81,SVO,Ndonga,Niger-Congo
+ndr,A81,No_dominant_word_order,d Fijian,Austronesian
+ndt,A81,SVO,Ndut,Niger-Congo
+ndu,A81,SVO,Ndumu,Niger-Congo
+ndy,A81,SVO,Djuka,other
+neh,A81,SVO,Nehan,Austronesian
+nep,A81,SOV,Nepali,Indo-European
+new,A81,SOV,"Newari, Kathmandu dialect",Sino-Tibetan
+ney,A81,No_dominant_word_order,Neyo,Niger-Congo
+nez,A81,No_dominant_word_order,Nez Perce,Penutian
+nga,A81,SOV,Nganasan,Uralic
+ngb,A81,SVO,Ngbaka,Niger-Congo
+ngd,A81,SVO,Ngada,Austronesian
+ngk,A81,No_dominant_word_order,Ngenkikurunggkur,Southern Daly
+ngl,A81,No_dominant_word_order,Ngalakan,Gunwinyguan
+ngm,A81,SVO,Gambai,Central Sudanic
+ngo,A81,SVO,Ngoni (in Tanzania),Niger-Congo
+ngt,A81,SOV,Tangkhul,Sino-Tibetan
+ngu,A81,SVO,Efate (North),Austronesian
+ngw,A81,SVO,Ngawun,Pama-Nyungan
+ngz,A81,SVO,Ngizim,Afro-Asiatic
+nha,A81,No_dominant_word_order,Nhanda,Pama-Nyungan
+nhh,A81,VSO,Tamazunchale Nahuatl,Uto-Aztecan
+nhm,A81,SVO,Michoacán Aztec,Uto-Aztecan
+nhn,A81,SVO,North Puebla Sierra Nahuatl,Uto-Aztecan
+nht,A81,SVO,Tetelcingo Nahuatl,Uto-Aztecan
+nia,A81,VOS,Nias,Austronesian
+nif,A81,VSO,Niuafo'ou,Austronesian
+niu,A81,VSO,Niuean,Austronesian
+nkb,A81,SOV,Ngalkbon,Gunwinyguan
+nke,A81,SVO,Nkem,Niger-Congo
+nkn,A81,SVO,Nkonya,Niger-Congo
+nko,A81,SVO,Ciga,Niger-Congo
+nku,A81,SOV,Nubian (Aswan),Eastern Sudanic
+nma,A81,SOV,Mao,Sino-Tibetan
+nmb,A81,SOV,Nambikuara (Southern),Nambikuaran
+nmd,A81,SOV,Nomad,East Strickland
+nnc,A81,No_dominant_word_order,Nicobarese (Nancowry),Austro-Asiatic
+nnd,A81,SOV,Angaua,Trans-New Guinea
+nne,A81,SVO,Nengone,Austronesian
+nng,A81,SVO,Nyanga,Niger-Congo
+nnk,A81,SOV,Nankina,Trans-New Guinea
+noc,A81,SOV,Nocte,Sino-Tibetan
+nog,A81,SOV,Nogay,Altaic
+non,A81,SVO,Noni,Niger-Congo
+noo,A81,SVO,Non,Niger-Congo
+nor,A81,SVO,Norwegian,Indo-European
+nse,A81,SVO,Senga,Niger-Congo
+nsg,A81,VSO,Nishga,Penutian
+nti,A81,No_dominant_word_order,Dru,Central Sudanic
+ntj,A81,SOV,Ngaanyatjara,Pama-Nyungan
+nto,A81,SVO,Lontomba,Niger-Congo
+nua,A81,SVO,Nuaulu,Austronesian
+nue,A81,No_dominant_word_order,Nuer,Eastern Sudanic
+nug,A81,No_dominant_word_order,Nunggubuyu,Gunwinyguan
+nun,A81,SVO,Zhuang (Southern),Tai-Kadai
+nup,A81,SVO,Nupe,Niger-Congo
+nus,A81,SOV,Nusu,Sino-Tibetan
+nuu,A81,No_dominant_word_order,"Nuuchahnutlh (Tseshaht, Tsishaath)",Wakashan
+nwd,A81,SOV,Dolakha Newari,Sino-Tibetan
+nyi,A81,SOV,Nyimang,Eastern Sudanic
+nyk,A81,SOV,Tukpa,Sino-Tibetan
+nym,A81,No_dominant_word_order,Nyamwezi,Niger-Congo
+nyn,A81,No_dominant_word_order,Nyigina,Nyulnyulan
+nza,A81,SVO,Nzakara,Niger-Congo
+obg,A81,SVO,Ogbronuagum,Niger-Congo
+obo,A81,SVO,Obolo,Niger-Congo
+ocu,A81,SVO,Ocuiltec,Oto-Manguean
+oir,A81,SOV,Oirat,Altaic
+oji,A81,No_dominant_word_order,Ojibwa,Algic
+olo,A81,SVO,Olo,Torricelli
+omh,A81,SOV,Omaha,Siouan
+ond,A81,No_dominant_word_order,Oneida,Iroquoian
+one,A81,SVO,One,Torricelli
+ong,A81,SOV,Onge,South Andamanese
+ood,A81,No_dominant_word_order,Tohono O'odham,Uto-Aztecan
+ora,A81,SVO,Emai,Niger-Congo
+ord,A81,SOV,Ordos,Altaic
+orh,A81,SOV,Oromo (Eastern),Afro-Asiatic
+ori,A81,SOV,Turjok,Kordofanian
+oro,A81,SOV,Orokaiva,Trans-New Guinea
+orw,A81,SOV,Waata Oromo,Afro-Asiatic
+ory,A81,SOV,Uria,Tor-Orya
+osa,A81,SOV,Osage,Siouan
+oss,A81,SOV,Ossetic,Indo-European
+otm,A81,VOS,Otomí,Oto-Manguean
+otr,A81,SVO,Utoro,Kordofanian
+owi,A81,SOV,Owiniga,Left May
+oya,A81,SOV,Oriya,Indo-European
+paa,A81,SVO,Pa'a,Afro-Asiatic
+pae,A81,SOV,Paez,Páezan
+pai,A81,No_dominant_word_order,Paiwan,Austronesian
+pal,A81,SVO,Palauan,Austronesian
+pam,A81,SVO,Pame,Oto-Manguean
+pan,A81,SOV,Punjabi,Indo-European
+par,A81,OVS,Parï,Eastern Sudanic
+pat,A81,SVO,Mumeng,Austronesian
+pau,A81,SVO,Paumari,Arauan
+paw,A81,SOV,Pawaian,Teberan-Pawaian
+pba,A81,SOV,Pima (Bajo),Uto-Aztecan
+pdp,A81,SOV,Podopa,Teberan-Pawaian
+per,A81,SVO,Pero,Afro-Asiatic
+pga,A81,SVO,Pilaga,Guaicuruan
+pip,A81,No_dominant_word_order,Pipil,Uto-Aztecan
+pir,A81,SOV,Piro,Arawakan
+pis,A81,SOV,Pisa,Trans-New Guinea
+pkn,A81,SVO,Baagandji,Pama-Nyungan
+pkt,A81,VSO,Pakot,Eastern Sudanic
+plg,A81,SVO,"Palaung, Rumai",Austro-Asiatic
+plh,A81,SVO,Paulohi,Austronesian
+plk,A81,SVO,Palicur,Arawakan
+pme,A81,SOV,Pomo (Eastern),Hokan
+pms,A81,SVO,Paama,Austronesian
+png,A81,SVO,Pangwa,Niger-Congo
+pnn,A81,VSO,Pangasinan,Austronesian
+pno,A81,SOV,Paiute (Northern),Uto-Aztecan
+pnu,A81,SVO,Punu,Hmong-Mien
+pnx,A81,No_dominant_word_order,Kreen-Akarore,Macro-Ge
+pny,A81,No_dominant_word_order,Panytyima,Pama-Nyungan
+pod,A81,VSO,Paduko,Afro-Asiatic
+pog,A81,SVO,Pogoro,Niger-Congo
+poh,A81,SVO,Ponapean,Austronesian
+pok,A81,No_dominant_word_order,Rawo,Skou
+pol,A81,SVO,Polish,Indo-European
+por,A81,SVO,Portuguese,Indo-European
+ppi,A81,No_dominant_word_order,Pitta-Pitta,Pama-Nyungan
+pra,A81,SOV,Wasi-weri,Indo-European
+pre,A81,SVO,Zigula,Niger-Congo
+prh,A81,SOV,Mura,Mura
+prk,A81,SOV,Purik,Sino-Tibetan
+prs,A81,SOV,Persian,Indo-European
+psh,A81,SOV,Pashto,Indo-European
+psm,A81,No_dominant_word_order,Passamaquoddy,Algic
+pso,A81,SOV,Pomo (Southeastern),Hokan
+psw,A81,SVO,Port Sandwich,Austronesian
+ptt,A81,SOV,Chamba,Sino-Tibetan
+ptw,A81,No_dominant_word_order,Patwin,Penutian
+pul,A81,SVO,Puluwatese,Austronesian
+pum,A81,SOV,Prinmi,Sino-Tibetan
+pun,A81,SOV,Kuwama,Anson Bay
+pur,A81,SVO,Tarascan,Tarascan
+qaf,A81,SOV,Afar,Afro-Asiatic
+qhu,A81,SOV,Huallaga Quechua,Quechuan
+qim,A81,SOV,HighlanKichua,Quechuan
+qui,A81,VSO,Quileute,Chimakuan
+qum,A81,VSO,Sipacapa,Mayan
+rag,A81,SVO,Raga,Austronesian
+ral,A81,SOV,Ralte,Sino-Tibetan
+ram,A81,SOV,Rama,Chibchan
+rao,A81,SOV,Rao,Lower Sepik-Ramu
+rap,A81,VSO,Rapanui,Austronesian
+raw,A81,SOV,Rawang,Sino-Tibetan
+res,A81,SOV,Resigaro,Arawakan
+ret,A81,SOV,Tanimuca,Tucanoan
+rga,A81,SVO,Ronga,Niger-Congo
+ria,A81,SOV,Riantana,Kolopom
+rik,A81,SOV,Rikbaktsa,Macro-Ge
+rim,A81,SVO,Rimi,Niger-Congo
+rit,A81,No_dominant_word_order,Ritharngu,Pama-Nyungan
+rmb,A81,SOV,Rembarrnga,Gunwinyguan
+rny,A81,SVO,Nyankole,Niger-Congo
+rom,A81,SVO,Rumanian,Indo-European
+ron,A81,SVO,Ron (Chadic),Afro-Asiatic
+rot,A81,SVO,Rotuman,Austronesian
+rov,A81,VSO,Roviana,Austronesian
+rru,A81,SVO,Nyoro,Niger-Congo
+ruk,A81,No_dominant_word_order,Rukai,Austronesian
+rum,A81,SOV,Kairi,Turama-Kikorian
+run,A81,SOV,Runga,Maban
+rus,A81,SVO,Russian,Indo-European
+rut,A81,SOV,Rutul,Nakh-Daghestanian
+rwa,A81,SOV,Rawa,Trans-New Guinea
+rwe,A81,No_dominant_word_order,Welsh Romany,Indo-European
+sah,A81,SVO,Sahu,West Papuan
+sak,A81,SVO,Sakao,Austronesian
+sam,A81,No_dominant_word_order,Samoan,Austronesian
+san,A81,SVO,Sango,Niger-Congo
+sap,A81,SVO,Sapuan,Austro-Asiatic
+sar,A81,SOV,Kapriman,Sepik
+sav,A81,SOV,Sau,Indo-European
+scr,A81,SVO,Serbocroat,Indo-European
+sea,A81,SVO,Southeast Ambrym,Austronesian
+seb,A81,VSO,Sapiny,Eastern Sudanic
+sed,A81,SVO,Sedang,Austro-Asiatic
+see,A81,VOS,Sedeq,Austronesian
+sel,A81,OVS,Selknam,Chon
+ser,A81,SOV,Seri,Hokan
+ses,A81,SVO,Sotho (Southern),Niger-Congo
+sgb,A81,SVO,Mantion,East Bird's Head
+sgl,A81,SVO,Sengele,Niger-Congo
+sgu,A81,SVO,Sangu,Niger-Congo
+sha,A81,SVO,Shan,Tai-Kadai
+she,A81,SOV,Sharpa,Sino-Tibetan
+shh,A81,SOV,Sharanahua,Panoan
+shi,A81,SOV,Ninam,Yanomam
+shk,A81,SOV,Shipibo,Panoan
+shl,A81,SVO,Shilluk,Eastern Sudanic
+shm,A81,SVO,Shambala,Niger-Congo
+shn,A81,SVO,Shona,Niger-Congo
+sho,A81,SOV,Big Smokey Valley Shoshoni,Uto-Aztecan
+shp,A81,VSO,Yakima,Penutian
+shs,A81,No_dominant_word_order,Shasta,Hokan
+sht,A81,SVO,Shatt,Eastern Sudanic
+shu,A81,No_dominant_word_order,Shuswap,Salishan
+sia,A81,SOV,Siane,Trans-New Guinea
+sid,A81,SOV,Sidamo,Afro-Asiatic
+sil,A81,SOV,Sila,Eastern Sudanic
+sio,A81,SVO,Sio,Austronesian
+sir,A81,SVO,Siar,Austronesian
+sis,A81,SVO,Babatana,Austronesian
+siu,A81,No_dominant_word_order,Siuslaw,Oregon Coast
+skm,A81,SVO,Sukuma,Niger-Congo
+sko,A81,SOV,Sko,Skou
+skp,A81,SOV,Selkup,Uralic
+sku,A81,SVO,Suku,Niger-Congo
+skw,A81,SOV,Marwari,Indo-European
+sla,A81,SOV,"Slave, Hare dialect",Na-Dene
+slb,A81,SOV,Suau,Austronesian
+sle,A81,SVO,(Samba) Leko,Niger-Congo
+slo,A81,SVO,Slovene,Indo-European
+sme,A81,SOV,Seme,Niger-Congo
+sml,A81,No_dominant_word_order,Semelai,Austro-Asiatic
+sna,A81,SOV,Shina,Indo-European
+snc,A81,No_dominant_word_order,Seneca,Iroquoian
+sng,A81,SOV,Sinagoro,Austronesian
+snh,A81,SOV,Sinhalese,Indo-European
+snm,A81,SOV,Sanuma,Yanomam
+snn,A81,SOV,Soninke,Mande
+sno,A81,SVO,Saami (Northern),Uralic
+so,A81,VSO,So,Eastern Sudanic
+sob,A81,SVO,Sobei,Austronesian
+sod,A81,SOV,Soddo,Afro-Asiatic
+som,A81,SOV,Somali,Afro-Asiatic
+son,A81,SVO,Sonsorolese,Austronesian
+spa,A81,SVO,Spanish (Peninsular Castilian),Indo-European
+spi,A81,SOV,Spiti,Sino-Tibetan
+squ,A81,VSO,Squamish,Salishan
+src,A81,SOV,Sarcee,Na-Dene
+srd,A81,SVO,Sardinian,Indo-European
+sre,A81,SVO,Sre,Austro-Asiatic
+srn,A81,SOV,Siriono,Tupian
+sro,A81,SOV,Siroi,Trans-New Guinea
+ssa,A81,SVO,Isala,Niger-Congo
+sta,A81,SOV,Santa,Altaic
+sti,A81,SVO,Stieng,Austro-Asiatic
+stl,A81,SOV,Santali,Austro-Asiatic
+stn,A81,SVO,Sotho (Northern),Niger-Congo
+sud,A81,SVO,Tagula,Austronesian
+sue,A81,SOV,Suena,Trans-New Guinea
+suk,A81,SOV,Suki,Gogodala-Suki
+sun,A81,SVO,Sundanese,Austronesian
+sup,A81,SOV,Suppire,Niger-Congo
+sus,A81,SOV,Susu,Mande
+svs,A81,SOV,Savsavo,Solomons East Papuan
+swa,A81,SVO,Swahili,Niger-Congo
+swt,A81,No_dominant_word_order,Swati,Niger-Congo
+syu,A81,SOV,Salt (Yui),Trans-New Guinea
+tab,A81,SVO,Makian (East),Austronesian
+tac,A81,No_dominant_word_order,Tacana,Tacanan
+taf,A81,SVO,Saposa,Austronesian
+tag,A81,VSO,Tagalog,Austronesian
+tah,A81,VSO,Tahitian,Austronesian
+taj,A81,SOV,Tajiki,Indo-European
+tak,A81,SOV,Takia,Austronesian
+tal,A81,SVO,Talinge,Niger-Congo
+tam,A81,SOV,Tamang,Sino-Tibetan
+tan,A81,SVO,Tangale,Afro-Asiatic
+tao,A81,SOV,Tarao,Sino-Tibetan
+tar,A81,SOV,Tariano,Arawakan
+tas,A81,No_dominant_word_order,Shilha,Afro-Asiatic
+tau,A81,SOV,Tauya,Trans-New Guinea
+taw,A81,SOV,Kehelala,Austronesian
+tba,A81,SOV,Sinasina,Trans-New Guinea
+tbl,A81,SOV,Tanah Merah(2),Sentani
+tbo,A81,VSO,Tboli,Austronesian
+tbt,A81,OSV,Yotafa,Austronesian
+tbu,A81,SOV,Tubu,Saharan
+tbw,A81,SVO,Taabwa,Niger-Congo
+tce,A81,SOV,Tarahumara-Cent,Uto-Aztecan
+tee,A81,No_dominant_word_order,d Tepehua,Totonacan
+tel,A81,SOV,Telugu,Dravidian
+ten,A81,VSO,Tenet,Eastern Sudanic
+teo,A81,SVO,Teop,Austronesian
+tep,A81,SVO,Tepehua,Totonacan
+ter,A81,SVO,Tera,Afro-Asiatic
+tes,A81,VSO,Teso,Eastern Sudanic
+tet,A81,SVO,Tetela,Niger-Congo
+tgk,A81,SVO,Tigak,Austronesian
+tgl,A81,SOV,Monpa,Sino-Tibetan
+tgn,A81,SVO,Tugun,Austronesian
+tha,A81,SVO,Thai,Tai-Kadai
+thk,A81,SOV,Thakali,Sino-Tibetan
+thn,A81,SOV,Thami,Sino-Tibetan
+tho,A81,No_dominant_word_order,Thompson,Salishan
+thu,A81,SOV,Thulung,Sino-Tibetan
+thy,A81,SOV,Thaayorre,Pama-Nyungan
+tia,A81,SVO,Tima,Kordofanian
+tib,A81,SOV,"Tibetan, Lhasa dialect",Sino-Tibetan
+tid,A81,SVO,Tidore,West Papuan
+tig,A81,SOV,Tigrinya,Afro-Asiatic
+tik,A81,No_dominant_word_order,Tikar,Niger-Congo
+tim,A81,VSO,Timugon,Austronesian
+tin,A81,No_dominant_word_order,Tiri,Austronesian
+tir,A81,OVS,Trio,Cariban
+tiv,A81,SVO,Tiv,Niger-Congo
+tiw,A81,SVO,Tiwi,Tiwian
+tja,A81,SOV,Jamul Tiipay,Hokan
+tki,A81,SVO,Ki,Niger-Congo
+tkm,A81,SOV,Turkmen,Altaic
+tla,A81,SVO,Tolai,Austronesian
+tlf,A81,SOV,Telefol,Trans-New Guinea
+tli,A81,SOV,Tlingit,Na-Dene
+tlo,A81,SOV,Tobelo,West Papuan
+tlp,A81,VSO,Tlapanec,Oto-Manguean
+tma,A81,SOV,Tamok,Eastern Sudanic
+tmg,A81,SOV,Tamagario,Kayagar
+tmm,A81,SVO,Malo,Austronesian
+tmn,A81,SVO,Ronge,Eastern Sudanic
+tmr,A81,SVO,Temiar,Austro-Asiatic
+tna,A81,VSO,Turkana,Eastern Sudanic
+tne,A81,SVO,Temne,Niger-Congo
+tng,A81,No_dominant_word_order,Tongan,Austronesian
+tni,A81,SOV,Rangloi,Sino-Tibetan
+tnk,A81,SVO,Lavongai,Austronesian
+tnn,A81,SOV,Tunen,Niger-Congo
+tno,A81,No_dominant_word_order,Tondano,Austronesian
+tob,A81,No_dominant_word_order,Toba,Guaicuruan
+tod,A81,SOV,Stod,Sino-Tibetan
+toz,A81,SVO,Tonga,Niger-Congo
+tpn,A81,VSO,Tepehuan (Northern),Uto-Aztecan
+tpr,A81,SVO,Tupuri,Niger-Congo
+tpt,A81,SOV,Tapiete,Tupian
+trb,A81,SOV,Teribe,Chibchan
+tri,A81,VSO,Copala-Trique,Oto-Manguean
+trr,A81,SOV,Tairora,Trans-New Guinea
+trw,A81,SOV,Torwali,Indo-European
+tsf,A81,SOV,Colorado,Barbacoan
+tsh,A81,SOV,Panamint,Uto-Aztecan
+tsi,A81,VSO,Tsimshian,Penutian
+tsk,A81,VSO,Tamasheq,Afro-Asiatic
+tsz,A81,SOV,Dido,Nakh-Daghestanian
+ttd,A81,SVO,d Tetun,Austronesian
+tte,A81,SOV,Tutelo,Siouan
+ttn,A81,SVO,Tetun,Austronesian
+ttu,A81,SOV,Bats,Nakh-Daghestanian
+tuk,A81,VOS,Tukang-Besi,Austronesian
+tul,A81,SOV,Tulu,Dravidian
+tum,A81,SVO,Tumleo,Austronesian
+tur,A81,SOV,Turkish,Altaic
+tus,A81,No_dominant_word_order,Tuscarora,Iroquoian
+tuv,A81,SOV,Tuva,Altaic
+tuy,A81,SOV,Tuyuca,Tucanoan
+tvl,A81,OVS,Ellice,Austronesian
+tvo,A81,SOV,Volga Tatar,Altaic
+twe,A81,SOV,Western Tarahumara,Uto-Aztecan
+twn,A81,No_dominant_word_order,Taos,Kiowa-Tanoan
+txj,A81,SVO,Totonaca (Xicotepec de Juaréz),Totonacan
+tye,A81,SOV,Dyeraidy,Northern Daly
+tzo,A81,VOS,Tzotzil,Mayan
+tzu,A81,No_dominant_word_order,Tzutujil,Mayan
+uby,A81,SOV,Ubyx,Northwest Caucasian
+udh,A81,SOV,Udihe,Altaic
+udi,A81,SOV,Udi,Nakh-Daghestanian
+udm,A81,SOV,Udmurt,Uralic
+uhi,A81,SOV,Otati,Pama-Nyungan
+ukr,A81,SVO,Ukrainian,Indo-European
+uld,A81,SVO,Wuzlam,Afro-Asiatic
+uli,A81,SVO,Ulithian,Austronesian
+una,A81,SOV,Goliath,Trans-New Guinea
+ung,A81,OVS,Ungarinjin,Worrorran
+ura,A81,SVO,Ura,Austronesian
+urd,A81,SOV,Urdu,Indo-European
+urk,A81,SOV,Urubu,Tupian
+url,A81,SVO,Urak Lawoi',Austronesian
+urt,A81,SVO,Urat,Torricelli
+usa,A81,SOV,Wanuma,Trans-New Guinea
+usr,A81,SOV,Auyana,Trans-New Guinea
+uyg,A81,SOV,Uighur,Altaic
+uzb,A81,SOV,"Uzbek, Southern",Altaic
+vai,A81,SOV,Vai,Mande
+ven,A81,SVO,Venda,Niger-Congo
+vie,A81,SVO,Vietnamese,Austro-Asiatic
+vnm,A81,SVO,Vinmavis,Austronesian
+wah,A81,SOV,Wahgi,Trans-New Guinea
+wai,A81,No_dominant_word_order,Waiwai,Cariban
+wak,A81,SOV,Wakhi,Indo-European
+wal,A81,SVO,Valman,Torricelli
+wam,A81,No_dominant_word_order,Wambaya,Mirndi
+wan,A81,No_dominant_word_order,Wangkumara,Pama-Nyungan
+wap,A81,SOV,Wappo,Wappo-Yukian
+war,A81,VOS,Pakaasnovos,Chapacura-Wanham
+way,A81,SOV,Oyampi,Tupian
+wbn,A81,SOV,Wambon,Trans-New Guinea
+wch,A81,SVO,Matako,Matacoan
+wed,A81,SOV,Wedau,Austronesian
+wem,A81,VOS,Wemba Wemba,Pama-Nyungan
+wic,A81,No_dominant_word_order,Wichita,Caddoan
+wik,A81,No_dominant_word_order,Yokuts (Wikchamni),Penutian
+win,A81,No_dominant_word_order,Wintun,Penutian
+wiy,A81,No_dominant_word_order,Wiyot,Algic
+wlf,A81,SVO,Wolof,Niger-Congo
+wlo,A81,VSO,Wolio,Austronesian
+wlw,A81,SOV,Warluwara,Pama-Nyungan
+wly,A81,SOV,Wolaitta,Afro-Asiatic
+wma,A81,SVO,West Makian,West Papuan
+wme,A81,SOV,Wambule,Sino-Tibetan
+wmu,A81,SOV,Wik-Mungkan,Pama-Nyungan
+wn,A81,OSV,Wik-Ngathana,Pama-Nyungan
+wna,A81,SOV,Nwa,Mande
+wol,A81,SVO,Woleaian,Austronesian
+wrd,A81,No_dominant_word_order,Wardaman,Yangmanic
+wrg,A81,No_dominant_word_order,Warrgamay,Pama-Nyungan
+wrk,A81,SVO,Guarequena,Arawakan
+wrl,A81,No_dominant_word_order,Warlpiri,Pama-Nyungan
+wrm,A81,SVO,Warenbori,Austronesian
+wrn,A81,SVO,Warndarang,Mangarrayi-Maran
+wrw,A81,No_dominant_word_order,Warwa,Nyulnyulan
+wry,A81,SVO,Waray,Gunwinyguan
+wsk,A81,SOV,Waskia,Trans-New Guinea
+wth,A81,VOS,Wathawurung,Pama-Nyungan
+wwa,A81,SVO,Wama,Niger-Congo
+wya,A81,No_dominant_word_order,Huron,Iroquoian
+xam,A81,SVO,/Xam,Tu
+xar,A81,SVO,Xaracuu,Austronesian
+xas,A81,SOV,Xasonke,Mande
+xbi,A81,SVO,Kombio,Torricelli
+xer,A81,SOV,Sherente,Macro-Ge
+xho,A81,SVO,Xhosa,Niger-Congo
+xns,A81,SOV,Kanashi,Sino-Tibetan
+xoo,A81,SVO,N/amani,Tu
+yag,A81,No_dominant_word_order,Yagua,Peba-Yaguan
+yah,A81,SOV,Yamana,Yámana
+yal,A81,SOV,Kosarek,Trans-New Guinea
+yam,A81,SOV,Yaminahua,Panoan
+yao,A81,SVO,Yao,Niger-Congo
+yap,A81,VSO,Yapese,Austronesian
+yaq,A81,SOV,Yaqui,Uto-Aztecan
+yar,A81,SOV,Yareba,Yareban
+yay,A81,SVO,Yay,Tai-Kadai
+ycn,A81,SVO,Yucuna,Arawakan
+yei,A81,SOV,Yey,Morehead and Upper Maro Rivers
+yel,A81,SOV,Yele,Yele
+ygr,A81,SOV,"Yagaria, Move dialect",Trans-New Guinea
+yid,A81,SOV,Yidiny,Pama-Nyungan
+yin,A81,SVO,Yindjibarndi,Pama-Nyungan
+yiw,A81,SOV,Nasu,Sino-Tibetan
+yko,A81,SOV,Kolyma,Yukaghir
+ykt,A81,SOV,Yakut,Altaic
+ylm,A81,SOV,Yelmek,Bulaka River
+yng,A81,SVO,Yinggarda,Pama-Nyungan
+yok,A81,No_dominant_word_order,Yokutsan,Penutian
+yor,A81,SVO,Yoruba,Niger-Congo
+ypk,A81,No_dominant_word_order,Yupik (General Central),Eskimo-Aleut
+yqy,A81,SOV,Yaqay,Anim
+ytu,A81,SOV,"Yukaghir, Tundra dialect",Yukaghir
+yuk,A81,SVO,Yugulda,Tangkic
+yur,A81,No_dominant_word_order,Yurok,Algic
+yus,A81,No_dominant_word_order,Siberian Yupik,Eskimo-Aleut
+yuw,A81,SOV,Gamilaraay,Pama-Nyungan
+ywl,A81,No_dominant_word_order,Yokuts (Yawelmani),Penutian
+ywr,A81,No_dominant_word_order,Yawuru,Nyulnyulan
+zag,A81,SOV,Zagawa,Saharan
+zai,A81,VSO,"Zapotec, Isthmus",Oto-Manguean
+zan,A81,SVO,Zande,Niger-Congo
+zap,A81,VSO,Mitla Zapotec,Oto-Manguean
+zar,A81,No_dominant_word_order,Zerma,Songhay
+zay,A81,SOV,Zayse,Afro-Asiatic
+zaz,A81,SOV,Zaza,Indo-European
+zch,A81,SVO,Zoque (San Miguel Chimalapa),Mixe-Zoque
+zhn,A81,SVO,Zhuang,Tai-Kadai
+zim,A81,SOV,Zimakani,Anim
+zpr,A81,SVO,Zaparo,Zaparoan
+zqc,A81,VOS,Copainalá Zoque,Mixe-Zoque
+zqo,A81,No_dominant_word_order,Ostuacan Zoque,Mixe-Zoque
+zqs,A81,SVO,Popoluca (Sierra),Mixe-Zoque
+zul,A81,SVO,IsiZulu,Niger-Congo
+zzo,A81,VSO,"Zapotec, Zoogocho",Oto-Manguean

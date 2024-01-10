@@ -1,0 +1,58 @@
+Language_ID,Parameter_ID,Value,Name,Family
+ami,81B,VSO_or_VOS,Ami,Austronesian
+apl,81B,SOV_or_OVS,Apalai,Cariban
+arm,81B,SOV_or_SVO,Eastern Armenian,Indo-European
+asy,81B,SVO_or_VSO,Syrian Arabic,Afro-Asiatic
+avo,81B,SOV_or_SVO,Avukaya,Central Sudanic
+bbu,81B,SVO_or_VSO,Barambo,Niger-Congo
+bch,81B,SVO_or_VSO,Shawiya,Afro-Asiatic
+bkr,81B,SVO_or_VSO,Karo Batak,Austronesian
+btk,81B,SVO_or_VSO,Bontok (Central),Austronesian
+bwc,81B,SVO_or_VSO,"Bajau, West Coast",Austronesian
+dam,81B,SOV_or_SVO,Malayo,Chibchan
+ddj,81B,SOV_or_SVO,d Godie,Niger-Congo
+dgo,81B,SOV_or_SVO,Dongo,Niger-Congo
+din,81B,SOV_or_SVO,Jieng (Dinka),Eastern Sudanic
+dre,81B,SVO_or_VOS,Dehu,Austronesian
+fij,81B,VSO_or_VOS,Nadroga,Austronesian
+gku,81B,SVO_or_VOS,Puelche,Chon
+grk,81B,SVO_or_VSO,Modern Greek,Indo-European
+grr,81B,SVO_or_VSO,Garawa,Garrwan
+gwa,81B,SOV_or_SVO,Gwari,Niger-Congo
+hun,81B,SOV_or_SVO,Hungarian,Uralic
+ina,81B,SOV_or_SVO,Inanwatan,South Bird's Head
+kis,81B,SOV_or_SVO,Gizi,Niger-Congo
+klv,81B,SVO_or_VOS,Kilivila,Austronesian
+kwk,81B,SVO_or_VSO,Kwakwala,Wakashan
+lac,81B,SVO_or_VOS,Lacandon,Mayan
+ldu,81B,SOV_or_SVO,Bale,Central Sudanic
+lgt,81B,SOV_or_SVO,Logo,Central Sudanic
+lug,81B,SOV_or_SVO,Logbara,Central Sudanic
+mac,81B,SOV_or_OVS,Makushi,Cariban
+mad,81B,SOV_or_SVO,Madi,Central Sudanic
+meh,81B,SVO_or_VSO,Mahri,Afro-Asiatic
+miy,81B,SVO_or_VOS,Miya,Afro-Asiatic
+mou,81B,SOV_or_SVO,Moru,Central Sudanic
+msk,81B,SVO_or_VSO,Ngile,Kordofanian
+ney,81B,SOV_or_SVO,Neyo,Niger-Congo
+nnc,81B,VSO_or_VOS,Nicobarese (Nancowry),Austro-Asiatic
+nti,81B,SOV_or_SVO,Dru,Central Sudanic
+nue,81B,SOV_or_SVO,Nuer,Eastern Sudanic
+nuu,81B,VSO_or_VOS,"Nuuchahnutlh (Tseshaht, Tsishaath)",Wakashan
+oji,81B,VSO_or_VOS,Ojibwa,Algic
+pai,81B,VSO_or_VOS,Paiwan,Austronesian
+pnx,81B,SOV_or_SVO,Kreen-Akarore,Macro-Ge
+pok,81B,SOV_or_SVO,Rawo,Skou
+ruk,81B,VSO_or_VOS,Rukai,Austronesian
+rwe,81B,SVO_or_VSO,Welsh Romany,Indo-European
+sam,81B,VSO_or_VOS,Samoan,Austronesian
+shu,81B,VSO_or_VOS,Shuswap,Salishan
+sml,81B,VSO_or_VOS,Semelai,Austro-Asiatic
+tee,81B,SVO_or_VSO,d Tepehua,Totonacan
+tho,81B,VSO_or_VOS,Thompson,Salishan
+tin,81B,SVO_or_VOS,Tiri,Austronesian
+tng,81B,VSO_or_VOS,Tongan,Austronesian
+tob,81B,SVO_or_VOS,Toba,Guaicuruan
+twn,81B,SOV_or_SVO,Taos,Kiowa-Tanoan
+tzu,81B,SVO_or_VOS,Tzutujil,Mayan
+wic,81B,SOV_or_OVS,Wichita,Caddoan
