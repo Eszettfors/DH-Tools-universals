@@ -1,740 +1,755 @@
 Language_ID,Parameter_ID,Value,Name,Family
-aar,26A,Strongly suffixing,Ari,Afro-Asiatic
-abi,26A,Strongly suffixing,Abipon,Guaicuruan
+aar,26A,Strongly suffixing,Aari,Afro-Asiatic
+abi,26A,Strongly suffixing,Abipón,Guaicuruan
 abk,26A,Equal prefixing and suffixing,Abkhaz,Northwest Caucasian
 abn,26A,Strongly suffixing,Arabana,Pama-Nyungan
-abu,26A,Little affixation,Yimbun,West Papuan
+abu,26A,Little affixation,Abun,West Papuan
 abv,26A,Equal prefixing and suffixing,Abui,Timor-Alor-Pantar
-ace,26A,Little affixation,Achinese,Austronesian
+ace,26A,Little affixation,Acehnese,Austronesian
 acg,26A,Equal prefixing and suffixing,Achagua,Arawakan
 acl,26A,Equal prefixing and suffixing,Acholi,Eastern Sudanic
-aco,26A,Equal prefixing and suffixing,Keres (Western),Keresan
+aco,26A,Equal prefixing and suffixing,Acoma,Keresan
 acu,26A,Strongly suffixing,Achuar,Jivaroan
 adg,26A,Little affixation,Adang,Timor-Alor-Pantar
-adi,26A,Weakly prefixing,Adyukru,Niger-Congo
+adi,26A,Weakly prefixing,Adioukrou,Niger-Congo
 adn,26A,Strongly suffixing,Adynyamathanha,Pama-Nyungan
-aeg,26A,Weakly suffixing,Egyptian Colloquial Arabic,Afro-Asiatic
-aga,26A,Weakly suffixing,Gadsup,Trans-New Guinea
-agc,26A,Strongly suffixing,Agta,Austronesian
+aeg,26A,Weakly suffixing,Arabic (Egyptian),Afro-Asiatic
+aga,26A,Weakly suffixing,Agarabi,Trans-New Guinea
+agc,26A,Strongly suffixing,Agta (Central),Austronesian
 agm,26A,Little affixation,Angami,Sino-Tibetan
-agt,26A,Strongly suffixing,Awngthim,Pama-Nyungan
+agt,26A,Strongly suffixing,Anguthimri,Pama-Nyungan
 akh,26A,Little affixation,Akha,Sino-Tibetan
 akn,26A,Strong prefixing,Akan,Niger-Congo
 ala,26A,Strongly suffixing,Alamblak,Sepik
 alb,26A,Strongly suffixing,Albanian,Indo-European
-ale,26A,Strongly suffixing,"Aleut, Eastern",Eskimo-Aleut
-all,26A,Equal prefixing and suffixing,Nara,Austronesian
+ale,26A,Strongly suffixing,Aleut,Eskimo-Aleut
+all,26A,Equal prefixing and suffixing,Ala'ala,Austronesian
 aln,26A,Equal prefixing and suffixing,Alune,Austronesian
 alw,26A,Strongly suffixing,Alawa,Mangarrayi-Maran
 aly,26A,Strongly suffixing,Alyawarra,Pama-Nyungan
 amc,26A,Strongly suffixing,Amahuaca,Panoan
 ame,26A,Strongly suffixing,Amele,Trans-New Guinea
 amh,26A,Weakly suffixing,Amharic,Afro-Asiatic
-aml,26A,Little affixation,Aoban (Northeast),Austronesian
+aml,26A,Little affixation,Ambae (Lolovoli Northeast),Austronesian
 amn,26A,Strongly suffixing,Amanab,Border
 amo,26A,Weakly prefixing,Amo,Niger-Congo
-amp,26A,Strongly suffixing,Mparntwe Arrernte,Pama-Nyungan
+amp,26A,Strongly suffixing,Arrernte (Mparntwe),Pama-Nyungan
 amq,26A,Weakly prefixing,Ambai,Austronesian
-amr,26A,Weakly suffixing,Moroccan Arabic,Afro-Asiatic
-ams,26A,Strongly suffixing,Modern Literary Arabic,Afro-Asiatic
-amx,26A,Weakly suffixing,Ikundun,Trans-New Guinea
+amr,26A,Weakly suffixing,Arabic (Moroccan),Afro-Asiatic
+ams,26A,Strongly suffixing,Arabic (Modern Standard),Afro-Asiatic
+amx,26A,Weakly suffixing,Anamuxra,Trans-New Guinea
 ana,26A,Strongly suffixing,Araona,Tacanan
 anc,26A,Little affixation,Angas,Afro-Asiatic
 ang,26A,Strongly suffixing,Anggor,Senagi
-anj,26A,Equal prefixing and suffixing,Aneityum,Austronesian
-ann,26A,Equal prefixing and suffixing,Enindhilyagwa,Gunwinyguan
-anu,26A,Little affixation,Chakosi,Niger-Congo
-any,26A,Equal prefixing and suffixing,Anuak,Eastern Sudanic
+anj,26A,Equal prefixing and suffixing,Anejom,Austronesian
+ann,26A,Equal prefixing and suffixing,Anindilyakwa,Gunwinyguan
+anu,26A,Little affixation,Anufo,Niger-Congo
+any,26A,Equal prefixing and suffixing,Anywa,Eastern Sudanic
 ao,26A,Weakly suffixing,Ao,Sino-Tibetan
-aoj,26A,Weakly prefixing,Arapesh (Southern),Torricelli
-apl,26A,Equal prefixing and suffixing,Apalai,Cariban
+aoj,26A,Weakly prefixing,Mufian,Torricelli
+apl,26A,Equal prefixing and suffixing,Apalaí,Cariban
 apt,26A,Strongly suffixing,Apatani,Sino-Tibetan
-apu,26A,Equal prefixing and suffixing,Apurina,Arawakan
+apu,26A,Equal prefixing and suffixing,Apurinã,Arawakan
 apw,26A,Equal prefixing and suffixing,Apache (Western),Na-Dene
-ara,26A,Equal prefixing and suffixing,Arawak,Arawakan
+ara,26A,Equal prefixing and suffixing,Lokono,Arawakan
 arc,26A,Strongly suffixing,Archi,Nakh-Daghestanian
-arg,26A,Weakly suffixing,Khaliji,Afro-Asiatic
-arm,26A,Strongly suffixing,Eastern Armenian,Indo-European
+arg,26A,Weakly suffixing,Arabic (Gulf),Afro-Asiatic
+arm,26A,Strongly suffixing,Armenian (Eastern),Indo-European
 aro,26A,Little affixation,Arosi,Austronesian
-arp,26A,Weakly prefixing,Bukiyip,Torricelli
-arq,26A,Equal prefixing and suffixing,Iraqi Arabic,Afro-Asiatic
-arw,26A,Strongly suffixing,Western Armenian,Indo-European
-asm,26A,Strongly suffixing,Asmat (Flamingo Bay),Trans-New Guinea
+arp,26A,Weakly prefixing,Arapesh (Mountain),Torricelli
+arq,26A,Equal prefixing and suffixing,Arabic (Iraqi),Afro-Asiatic
+arw,26A,Strongly suffixing,Armenian (Western),Indo-European
+asm,26A,Strongly suffixing,Asmat,Trans-New Guinea
 ass,26A,Strongly suffixing,Assamese,Indo-European
-asy,26A,Weakly suffixing,Syrian Arabic,Afro-Asiatic
+asy,26A,Weakly suffixing,Arabic (Syrian),Afro-Asiatic
 ata,26A,Little affixation,Atayal,Austronesian
 ath,26A,Strongly suffixing,Athpare,Sino-Tibetan
 au,26A,Weakly prefixing,Au,Torricelli
 ava,26A,Strongly suffixing,Avar,Nakh-Daghestanian
 awa,26A,Strongly suffixing,Awa,Trans-New Guinea
-awe,26A,Strongly suffixing,"Aranda, Western",Pama-Nyungan
-awp,26A,Strongly suffixing,Cuaiquer,Barbacoan
-awt,26A,Weakly suffixing,Autu,Sepik
-aym,26A,Strongly suffixing,Aymara,Aymaran
-aze,26A,Strongly suffixing,"Azerbaijani, North",Altaic
-azi,26A,Strongly suffixing,Azerbaijani,Altaic
+awe,26A,Strongly suffixing,Arrernte (Western),Pama-Nyungan
+awp,26A,Strongly suffixing,Awa Pit,Barbacoan
+awt,26A,Weakly suffixing,Awtuw,Sepik
+aym,26A,Strongly suffixing,Aymara (Central),Aymaran
+aze,26A,Strongly suffixing,Azerbaijani,Altaic
+azi,26A,Strongly suffixing,Azari (Iranian),Altaic
 baa,26A,Strongly suffixing,Barai,Trans-New Guinea
-bac,26A,Equal prefixing and suffixing,Wadjiginy,Anson Bay
-bae,26A,Weakly suffixing,Bare,Arawakan
+bac,26A,Equal prefixing and suffixing,Bachamal,Anson Bay
+bae,26A,Weakly suffixing,Baré,Arawakan
 bag,26A,Weakly suffixing,Bagirmi,Central Sudanic
-bai,26A,Little affixation,Minchia,Sino-Tibetan
+bai,26A,Little affixation,Bai,Sino-Tibetan
 bam,26A,Strongly suffixing,Bambara,Mande
 baq,26A,Weakly suffixing,Baure,Arawakan
-bar,26A,Weakly prefixing,Beri,Eastern Sudanic
-baw,26A,Little affixation,Bom,Sino-Tibetan
-bbu,26A,Weakly prefixing,Barambo,Niger-Congo
-bbw,26A,Weakly prefixing,Gunwinygu,Gunwinyguan
+bar,26A,Weakly prefixing,Bari,Eastern Sudanic
+baw,26A,Little affixation,Bawm,Sino-Tibetan
+bbu,26A,Weakly prefixing,Barambu,Niger-Congo
+bbw,26A,Weakly prefixing,Bininj Gun-Wok,Gunwinyguan
 bco,26A,Strongly suffixing,Bella Coola,Salishan
 bdu,26A,Strong prefixing,Budu,Niger-Congo
 bej,26A,Weakly suffixing,Beja,Afro-Asiatic
-bel,26A,Weakly suffixing,Belhariya,Sino-Tibetan
-bfg,26A,Weakly prefixing,Fiqiq,Afro-Asiatic
+bel,26A,Weakly suffixing,Belhare,Sino-Tibetan
+bfg,26A,Weakly prefixing,Berber (Figuig),Afro-Asiatic
 bgo,26A,Weakly prefixing,Bongo,Central Sudanic
-bgr,26A,Weakly prefixing,Furu,Central Sudanic
+bgr,26A,Weakly prefixing,Bagiro,Central Sudanic
 bho,26A,Strongly suffixing,Bhojpuri,Indo-European
 bii,26A,Strongly suffixing,Biri,Pama-Nyungan
 bik,26A,Weakly prefixing,Biak,Austronesian
 bil,26A,Weakly suffixing,Bilua,Solomons East Papuan
-bio,26A,Strongly suffixing,Biaka,Kwomtari
+bio,26A,Strongly suffixing,Nai,Kwomtari
 bir,26A,Strong prefixing,Birom,Niger-Congo
-bka,26A,Little affixation,Baka,Central Sudanic
-bkb,26A,Strongly suffixing,Kurumba,Dravidian
-bkl,26A,Little affixation,Bicolano (Central),Austronesian
-bkr,26A,Strongly suffixing,Karo Batak,Austronesian
+bka,26A,Little affixation,Baka (in South Sudan),Central Sudanic
+bkb,26A,Strongly suffixing,Betta Kurumba,Dravidian
+bkl,26A,Little affixation,Bikol,Austronesian
+bkr,26A,Strongly suffixing,Batak (Karo),Austronesian
 bla,26A,Weakly prefixing,Blackfoot,Algic
 bln,26A,Strongly suffixing,Bilin,Afro-Asiatic
-blr,26A,Strongly suffixing,Byelorussian,Indo-European
+blr,26A,Strongly suffixing,Belorussian,Indo-European
 blt,26A,Strongly suffixing,Balti,Sino-Tibetan
 blx,26A,Equal prefixing and suffixing,Biloxi,Siouan
-bma,26A,Equal prefixing and suffixing,Tamazight (Middle Atlas),Afro-Asiatic
-bmb,26A,Strongly suffixing,Moba,Niger-Congo
+bma,26A,Equal prefixing and suffixing,Berber (Middle Atlas),Afro-Asiatic
+bmb,26A,Strongly suffixing,Bimoba,Niger-Congo
 bmr,26A,Strongly suffixing,Burum,Trans-New Guinea
-bnj,26A,Strongly suffixing,Bundjalung,Pama-Nyungan
+bnj,26A,Strongly suffixing,Bandjalang,Pama-Nyungan
 bnn,26A,Weakly prefixing,Banoni,Austronesian
-bod,26A,Strongly suffixing,Boro,Sino-Tibetan
+bnr,26A,Strongly suffixing,Bilinarra,Pama-Nyungan
+bnu,26A,Strongly suffixing,Bularnu,Pama-Nyungan
+bod,26A,Strongly suffixing,Bodo,Sino-Tibetan
 bre,26A,Weakly suffixing,Breton,Indo-European
-brf,26A,Weakly prefixing,Riff,Afro-Asiatic
+brf,26A,Weakly prefixing,Berber (Rif),Afro-Asiatic
 brh,26A,Strongly suffixing,Brahui,Dravidian
 bri,26A,Strongly suffixing,Bribri,Chibchan
 brm,26A,Strongly suffixing,Burmese,Sino-Tibetan
 brn,26A,Strongly suffixing,Burunge,Afro-Asiatic
-brp,26A,Weakly prefixing,d Warapu,Skou
+brp,26A,Weakly prefixing,Barupu,Skou
 brr,26A,Weakly suffixing,Bororo,Bororoan
-brs,26A,Strongly suffixing,Barasano (Southern),Tucanoan
+brs,26A,Strongly suffixing,Barasano,Tucanoan
 bry,26A,Weakly suffixing,Baruya,Trans-New Guinea
-bsh,26A,Strong prefixing,Bushong,Niger-Congo
+bsh,26A,Strong prefixing,Bushoong,Niger-Congo
 bsk,26A,Strongly suffixing,Bashkir,Altaic
-btk,26A,Equal prefixing and suffixing,Bontok (Central),Austronesian
-bto,26A,Equal prefixing and suffixing,Toba Batak,Austronesian
+btk,26A,Equal prefixing and suffixing,Bontok,Austronesian
+bto,26A,Equal prefixing and suffixing,Batak (Toba),Austronesian
 bua,26A,Weakly prefixing,Burarra,Mangrida
 bud,26A,Equal prefixing and suffixing,Buduma,Afro-Asiatic
 bul,26A,Strongly suffixing,Bulgarian,Indo-European
 bun,26A,Strongly suffixing,Buin,East Bougainville
 but,26A,Strongly suffixing,Buriat,Altaic
-bvi,26A,Little affixation,Vitu,Austronesian
-bwc,26A,Little affixation,"Bajau, West Coast",Austronesian
-bya,26A,Strongly suffixing,Byangsi,Sino-Tibetan
+bvi,26A,Little affixation,Bali-Vitu,Austronesian
+bwc,26A,Little affixation,Bajau (West Coast),Austronesian
+bya,26A,Strongly suffixing,Byansi,Sino-Tibetan
 cah,26A,Equal prefixing and suffixing,Cahuilla,Uto-Aztecan
-car,26A,Equal prefixing and suffixing,Galibi,Cariban
+car,26A,Equal prefixing and suffixing,Carib,Cariban
 cas,26A,Strongly suffixing,Cashibo,Panoan
-cax,26A,Strongly suffixing,Ashaninca,Arawakan
+cax,26A,Strongly suffixing,Campa (Axininca),Arawakan
 cay,26A,Strongly suffixing,Cayapa,Barbacoan
-cba,26A,Equal prefixing and suffixing,Chumash (Barbareno),Chumash
-cbo,26A,Strongly suffixing,Chacobo,Panoan
-ccm,26A,Strong prefixing,Comaltepec Chinantec,Oto-Manguean
+cba,26A,Equal prefixing and suffixing,Chumash (Barbareño),Chumash
+cbo,26A,Strongly suffixing,Chácobo,Panoan
+ccm,26A,Strong prefixing,Chinantec (Comaltepec),Oto-Manguean
 cct,26A,Equal prefixing and suffixing,Choctaw,Muskogean
-cde,26A,Equal prefixing and suffixing,Ye'cuana,Cariban
-cem,26A,Little affixation,Cemuhi,Austronesian
+cde,26A,Equal prefixing and suffixing,Carib (De'kwana),Cariban
+cem,26A,Little affixation,Cèmuhî,Austronesian
 cha,26A,Little affixation,Chamorro,Austronesian
 chc,26A,Strongly suffixing,Chechen,Nakh-Daghestanian
 che,26A,Weakly prefixing,Cherokee,Iroquoian
 chg,26A,Equal prefixing and suffixing,Chang,Sino-Tibetan
-chh,26A,Equal prefixing and suffixing,Gurage (Central West),Afro-Asiatic
+chh,26A,Equal prefixing and suffixing,Chaha,Afro-Asiatic
 chi,26A,Weakly suffixing,Chimariko,Hokan
 chk,26A,Weakly suffixing,Chukchi,Chukotko-Kamchatkan
 chp,26A,Strong prefixing,Chipewyan,Na-Dene
-chq,26A,Equal prefixing and suffixing,Quiotepec Chinantec,Oto-Manguean
+chq,26A,Equal prefixing and suffixing,Chinantec (Quiotepec),Oto-Manguean
 chr,26A,Little affixation,Chrau,Austro-Asiatic
-chs,26A,Little affixation,Siyin,Sino-Tibetan
+chs,26A,Little affixation,Chin (Siyin),Sino-Tibetan
 chv,26A,Strongly suffixing,Chuvash,Altaic
-chx,26A,Weakly suffixing,Oaxaca Chontal,Tequistlatecan
+chx,26A,Weakly suffixing,Chontal (Huamelultec Oaxaca),Tequistlatecan
 ckl,26A,Weakly prefixing,Chinook (Lower),Penutian
-cle,26A,Little affixation,San Juan Chinanteco Lealao,Oto-Manguean
-cln,26A,Weakly suffixing,Cholona,Cholon
+cle,26A,Little affixation,Chinantec (Lealao),Oto-Manguean
+cln,26A,Weakly suffixing,Cholón,Cholon
 cmh,26A,Strongly suffixing,Chemehuevi,Uto-Aztecan
 cmn,26A,Strongly suffixing,Comanche,Uto-Aztecan
-cmy,26A,Strongly suffixing,Yocot'an,Mayan
+cmy,26A,Strongly suffixing,Chontal Maya,Mayan
 cnl,26A,Little affixation,Canela,Macro-Ge
-cnm,26A,Equal prefixing and suffixing,Canamari,Katukinan
-cnt,26A,Little affixation,Yue,Sino-Tibetan
-coa,26A,Equal prefixing and suffixing,Coahuiltec,Coahuiltecan
+cnm,26A,Equal prefixing and suffixing,Canamarí,Katukinan
+cnt,26A,Little affixation,Cantonese,Sino-Tibetan
+coa,26A,Equal prefixing and suffixing,Coahuilteco,Coahuiltecan
 coc,26A,Strongly suffixing,Cocama,Tupian
-coo,26A,Weakly suffixing,Coos,Oregon Coast
+coo,26A,Weakly suffixing,Coos (Hanis),Oregon Coast
 cop,26A,Weakly prefixing,Coptic,Afro-Asiatic
-cos,26A,Strongly suffixing,Ohlone,Penutian
-cpl,26A,Equal prefixing and suffixing,Palantla Chinantec,Oto-Manguean
+cos,26A,Strongly suffixing,Rumsien,Penutian
+cpl,26A,Equal prefixing and suffixing,Chinantec (Palantla),Oto-Manguean
 cpy,26A,Strongly suffixing,Chipaya,Uru-Chipaya
-cre,26A,Equal prefixing and suffixing,Cree,Algic
+cre,26A,Equal prefixing and suffixing,Cree (Plains),Algic
 crn,26A,Strongly suffixing,Cornish,Indo-European
 crp,26A,Strongly suffixing,Carapana,Tucanoan
-cti,26A,Strong prefixing,Tiddim Chin,Sino-Tibetan
+cti,26A,Strong prefixing,Chin (Tiddim),Sino-Tibetan
 cub,26A,Strongly suffixing,Cubeo,Tucanoan
 cup,26A,Equal prefixing and suffixing,Cupeño,Uto-Aztecan
 cze,26A,Weakly suffixing,Czech,Indo-European
 dag,26A,Strongly suffixing,Daga,Dagan
-dds,26A,Strongly suffixing,Donno So Dogon,Dogon
+dds,26A,Strongly suffixing,Donno So,Dogon
 des,26A,Strongly suffixing,Desano,Tucanoan
-deu,26A,Strongly suffixing,Chutiya,Sino-Tibetan
+deu,26A,Strongly suffixing,Deuri,Sino-Tibetan
 dgb,26A,Weakly suffixing,Dagbani,Niger-Congo
 dgo,26A,Weakly suffixing,Dongo,Niger-Congo
 dgr,26A,Strongly suffixing,Dagur,Altaic
-dhr,26A,Strongly suffixing,Thargari,Pama-Nyungan
+dhr,26A,Strongly suffixing,Dhargari,Pama-Nyungan
 dhw,26A,Strongly suffixing,Dharawal,Pama-Nyungan
-did,26A,Strongly suffixing,Xaroxa,Eastern Sudanic
-die,26A,Weakly prefixing,Kumeyaay,Hokan
+did,26A,Strongly suffixing,Didinga,Eastern Sudanic
+die,26A,Weakly prefixing,Diegueño (Mesa Grande),Hokan
 dig,26A,Strongly suffixing,Digaro,Sino-Tibetan
 dim,26A,Strongly suffixing,Dime,Afro-Asiatic
-din,26A,Little affixation,Jieng (Dinka),Eastern Sudanic
-dio,26A,Equal prefixing and suffixing,Diola,Niger-Congo
+din,26A,Little affixation,Dinka,Eastern Sudanic
+dio,26A,Equal prefixing and suffixing,Diola-Fogny,Niger-Congo
 diy,26A,Strongly suffixing,Diyari,Pama-Nyungan
-dja,26A,Strongly suffixing,Dyaabugay,Pama-Nyungan
+dja,26A,Strongly suffixing,Djabugay,Pama-Nyungan
 dji,26A,Strongly suffixing,Djingili,Mirndi
-djm,26A,Strongly suffixing,Djambarbwingu,Pama-Nyungan
+djm,26A,Strongly suffixing,Djambarrpuyngu,Pama-Nyungan
 djn,26A,Strongly suffixing,Djinang,Pama-Nyungan
-djp,26A,Strongly suffixing,Yolngu (Djapu),Pama-Nyungan
+djp,26A,Strongly suffixing,Djapu,Pama-Nyungan
 djr,26A,Strongly suffixing,Djaru,Pama-Nyungan
-dlm,26A,Strongly suffixing,d Dera,Senagi
-dmk,26A,Strongly suffixing,Dumaki,Indo-European
+dlm,26A,Strongly suffixing,Dla (Menggwa),Senagi
+dmk,26A,Strongly suffixing,Domaaki,Indo-European
 dms,26A,Strongly suffixing,Dimasa,Sino-Tibetan
-dni,26A,Strongly suffixing,Dani (Grand Valley),Trans-New Guinea
-dom,26A,Strongly suffixing,Zutt,Indo-European
-doy,26A,Strongly suffixing,Dayãyo,Niger-Congo
-dre,26A,Little affixation,Dehu,Austronesian
-drm,26A,Weakly suffixing,Darmiya,Sino-Tibetan
+dni,26A,Strongly suffixing,Dani (Lower Grand Valley),Trans-New Guinea
+dom,26A,Strongly suffixing,Domari,Indo-European
+doy,26A,Strongly suffixing,Doyayo,Niger-Congo
+dre,26A,Little affixation,Drehu,Austronesian
+drm,26A,Weakly suffixing,Darma,Sino-Tibetan
 dsh,26A,Strongly suffixing,Danish,Indo-European
 duk,26A,Little affixation,Duka,Niger-Congo
 dun,26A,Little affixation,Duna,Trans-New Guinea
+dut,26A,Strongly suffixing,Dutch,Indo-European
 dyi,26A,Strongly suffixing,Dyirbal,Pama-Nyungan
 egn,26A,Little affixation,Engenni,Niger-Congo
 eip,26A,Strongly suffixing,Eipo,Trans-New Guinea
-emb,26A,Strongly suffixing,Embera,Choco
-eme,26A,Equal prefixing and suffixing,Emerillon,Tupian
+emb,26A,Strongly suffixing,Emberá (Northern),Choco
+eme,26A,Equal prefixing and suffixing,Émérillon,Tupian
 ene,26A,Strongly suffixing,Enets,Uralic
 eng,26A,Strongly suffixing,English,Indo-European
 eno,26A,Weakly prefixing,Enggano,Austronesian
-epe,26A,Strongly suffixing,Saija,Choco
+epe,26A,Strongly suffixing,Epena Pedee,Choco
 erk,26A,Weakly prefixing,Efate (South),Austronesian
-ese,26A,Little affixation,Ese'ejja,Tacanan
+ese,26A,Little affixation,Ese Ejja,Tacanan
 est,26A,Strongly suffixing,Estonian,Uralic
-eud,26A,Weakly suffixing,Opata,Uto-Aztecan
+eud,26A,Weakly suffixing,Eudeve,Uto-Aztecan
 eve,26A,Strongly suffixing,Evenki,Altaic
 evn,26A,Strongly suffixing,Even,Altaic
+ewe,26A,Equal prefixing and suffixing,Ewe,Niger-Congo
 ewo,26A,Strong prefixing,Ewondo,Niger-Congo
 fas,26A,Strongly suffixing,Fasu,Trans-New Guinea
-fij,26A,Little affixation,Nadroga,Austronesian
+fij,26A,Little affixation,Fijian,Austronesian
 fin,26A,Strongly suffixing,Finnish,Uralic
 for,26A,Strongly suffixing,Fore,Trans-New Guinea
-fqs,26A,Weakly suffixing,Fas,Baibai-Fas
+fqs,26A,Weakly suffixing,Momu,Baibai-Fas
 fre,26A,Strongly suffixing,French,Indo-European
-fua,26A,Weakly suffixing,Fulfulde (Cameroonian),Niger-Congo
-ful,26A,Equal prefixing and suffixing,Fulnio,Yaté
+fua,26A,Weakly suffixing,Fulfulde (Adamawa),Niger-Congo
+ful,26A,Equal prefixing and suffixing,Fulniô,Yaté
 fut,26A,Little affixation,Futuna-Aniwa,Austronesian
-fye,26A,Weakly suffixing,Fyam,Niger-Congo
-gae,26A,Weakly suffixing,Scottish Gaelic,Indo-European
+fye,26A,Weakly suffixing,Fyem,Niger-Congo
+gae,26A,Weakly suffixing,Gaelic (Scots),Indo-European
 gah,26A,Strongly suffixing,Gahuku,Trans-New Guinea
-gal,26A,Strongly suffixing,Gallong,Sino-Tibetan
+gal,26A,Strongly suffixing,Galo,Sino-Tibetan
 gar,26A,Strongly suffixing,Garo,Sino-Tibetan
-gbb,26A,Strongly suffixing,Gbeya,Niger-Congo
+gbb,26A,Strongly suffixing,Gbeya Bossangoa,Niger-Congo
+gbs,26A,Equal prefixing and suffixing,Gbaya (Southwest),Niger-Congo
 gds,26A,Weakly suffixing,Gadsup,Trans-New Guinea
 geo,26A,Weakly suffixing,Georgian,Kartvelian
+ger,26A,Strongly suffixing,German,Indo-European
 ggu,26A,Strongly suffixing,Gureng Gureng,Pama-Nyungan
-gim,26A,Strongly suffixing,Bencho,Afro-Asiatic
-gku,26A,Weakly suffixing,Puelche,Chon
+gim,26A,Strongly suffixing,Gimira,Afro-Asiatic
+gku,26A,Weakly suffixing,Gününa Küne,Chon
 gln,26A,Strongly suffixing,Golin,Trans-New Guinea
-gmw,26A,Equal prefixing and suffixing,Gumasi,Austronesian
-gnn,26A,Weakly prefixing,Wunambal,Worrorran
+gmw,26A,Equal prefixing and suffixing,Gumawana,Austronesian
+gnn,26A,Weakly prefixing,Gunin,Worrorran
 goa,26A,Weakly suffixing,Goajiro,Arawakan
 goe,26A,Little affixation,Goemai,Afro-Asiatic
 gok,26A,Little affixation,Gokana,Niger-Congo
 gon,26A,Strongly suffixing,Gondi,Dravidian
-goo,26A,Weakly prefixing,Guniyan,Bunuban
+goo,26A,Weakly prefixing,Gooniyandi,Bunuban
 grb,26A,Strongly suffixing,Grebo,Niger-Congo
-grk,26A,Strongly suffixing,Modern Greek,Indo-European
-grr,26A,Strongly suffixing,Garawa,Garrwan
-grw,26A,Strongly suffixing,Greenland Eskimo (West),Eskimo-Aleut
-gua,26A,Strong prefixing,Guarani (Paraguayan),Tupian
+grk,26A,Strongly suffixing,Greek (Modern),Indo-European
+grr,26A,Strongly suffixing,Garrwa,Garrwan
+grw,26A,Strongly suffixing,Greenlandic (West),Eskimo-Aleut
+gua,26A,Strong prefixing,Guaraní,Tupian
 gud,26A,Strongly suffixing,Gude,Afro-Asiatic
-gug,26A,Strongly suffixing,Kokata,Pama-Nyungan
-gul,26A,Little affixation,Gula,Central Sudanic
+gug,26A,Strongly suffixing,Gugada,Pama-Nyungan
+gul,26A,Little affixation,Gula (in Central African Republic),Central Sudanic
 gur,26A,Weakly suffixing,Gurung,Sino-Tibetan
 guu,26A,Strongly suffixing,Guugu Yimidhirr,Pama-Nyungan
+gyc,26A,Weakly prefixing,Gyarong (Cogtse),Sino-Tibetan
 hal,26A,Strongly suffixing,Halia,Austronesian
 ham,26A,Equal prefixing and suffixing,Hamtai,Trans-New Guinea
-hat,26A,Strong prefixing,Hattam,West Papuan
+hat,26A,Strong prefixing,Hatam,West Papuan
 hau,26A,Little affixation,Hausa,Afro-Asiatic
 haw,26A,Little affixation,Hawaiian,Austronesian
-hay,26A,Strongly suffixing,Vayu,Sino-Tibetan
-heb,26A,Weakly suffixing,Modern Hebrew,Afro-Asiatic
+hay,26A,Strongly suffixing,Hayu,Sino-Tibetan
+heb,26A,Weakly suffixing,Hebrew (Modern),Afro-Asiatic
 hin,26A,Strongly suffixing,Hindi,Indo-European
-hix,26A,Equal prefixing and suffixing,Hishkariana,Cariban
-hlp,26A,Weakly suffixing,Walapai,Hokan
+hix,26A,Equal prefixing and suffixing,Hixkaryana,Cariban
+hlp,26A,Weakly suffixing,Hualapai,Hokan
 hma,26A,Little affixation,Hmar,Sino-Tibetan
-hmi,26A,Strongly suffixing,Meneca,Huitotoan
-hmo,26A,Little affixation,Mong Njua,Hmong-Mien
+hmi,26A,Strongly suffixing,Huitoto (Minica),Huitotoan
+hmo,26A,Little affixation,Hmong Njua,Hmong-Mien
 hnd,26A,Strong prefixing,Hunde,Niger-Congo
 ho,26A,Strongly suffixing,Ho,Austro-Asiatic
 hoa,26A,Little affixation,Hoava,Austronesian
 hop,26A,Strongly suffixing,Hopi,Uto-Aztecan
-hpd,26A,Strongly suffixing,Hupda,Nadahup
+hpd,26A,Strongly suffixing,Hup,Nadahup
 htc,26A,Little affixation,Huastec,Mayan
+hua,26A,Weakly suffixing,Hua,Trans-New Guinea
 hui,26A,Equal prefixing and suffixing,Huichol,Uto-Aztecan
-hum,26A,Strongly suffixing,Murui,Huitotoan
+hum,26A,Strongly suffixing,Huitoto (Murui),Huitotoan
 hun,26A,Strongly suffixing,Hungarian,Uralic
 hup,26A,Weakly prefixing,Hupa,Na-Dene
-hve,26A,Equal prefixing and suffixing,Huave,Huavean
+hve,26A,Equal prefixing and suffixing,Huave (San Mateo del Mar),Huavean
 hzb,26A,Strongly suffixing,Hunzib,Nakh-Daghestanian
 iaa,26A,Little affixation,Iaai,Austronesian
 iba,26A,Little affixation,Iban,Austronesian
 ice,26A,Strongly suffixing,Icelandic,Indo-European
 idn,26A,Weakly prefixing,Iduna,Austronesian
-ifu,26A,Equal prefixing and suffixing,Ifugao,Austronesian
+ifu,26A,Equal prefixing and suffixing,Ifugao (Batad),Austronesian
 ign,26A,Equal prefixing and suffixing,Ignaciano,Arawakan
-igs,26A,Weakly suffixing,Gaam,Eastern Sudanic
-ijo,26A,Weakly suffixing,Kolokuma,Ijoid
+igs,26A,Weakly suffixing,Ingessana,Eastern Sudanic
+ijo,26A,Weakly suffixing,Ijo (Kolokuma),Ijoid
 ik,26A,Strongly suffixing,Ik,Eastern Sudanic
-ika,26A,Weakly suffixing,Ica,Chibchan
+ika,26A,Weakly suffixing,Ika,Chibchan
 ina,26A,Equal prefixing and suffixing,Inanwatan,South Bird's Head
+ind,26A,Strongly suffixing,Indonesian,Austronesian
 ing,26A,Strongly suffixing,Ingush,Nakh-Daghestanian
-inn,26A,Strongly suffixing,Yandruwandha,Pama-Nyungan
+inn,26A,Strongly suffixing,Innamincka,Pama-Nyungan
 iqu,26A,Equal prefixing and suffixing,Iquito,Zaparoan
-iri,26A,Equal prefixing and suffixing,Gaelic,Indo-European
+iri,26A,Equal prefixing and suffixing,Irish,Indo-European
 irq,26A,Strongly suffixing,Iraqw,Afro-Asiatic
-irr,26A,Strong prefixing,Irahutu,Austronesian
-isa,26A,Little affixation,Krisa,Skou
-ita,26A,Strongly suffixing,Italian (Roman),Indo-European
-ite,26A,Strongly suffixing,Kamchadal,Chukotko-Kamchatkan
+irr,26A,Strong prefixing,Irarutu,Austronesian
+isa,26A,Little affixation,I'saka,Skou
+ita,26A,Strongly suffixing,Italian,Indo-European
+ite,26A,Strongly suffixing,Itelmen,Chukotko-Kamchatkan
 izi,26A,Equal prefixing and suffixing,Izi,Niger-Congo
-jab,26A,Equal prefixing and suffixing,Yabim,Austronesian
-jak,26A,Strong prefixing,Jacaltec,Mayan
+jab,26A,Equal prefixing and suffixing,Jabêm,Austronesian
+jak,26A,Strong prefixing,Jakaltek,Mayan
 jaq,26A,Strongly suffixing,Jaqaru,Aymaran
 jeb,26A,Strongly suffixing,Jebero,Cahuapanan
-jiv,26A,Strongly suffixing,Shuar,Jivaroan
-jmo,26A,Little affixation,Morokodo,Central Sudanic
-jms,26A,Strongly suffixing,d Dogon,Dogon
-jng,26A,Little affixation,Jingphaw,Sino-Tibetan
-juh,26A,Little affixation,Zhu-/Hoa (Si),Kxa
+jiv,26A,Strongly suffixing,Jivaro,Jivaroan
+jmo,26A,Little affixation,Jur Mödö,Central Sudanic
+jms,26A,Strongly suffixing,Jamsay,Dogon
+jng,26A,Little affixation,Jingpho,Sino-Tibetan
+juh,26A,Little affixation,Ju|'hoan,Kxa
 juk,26A,Little affixation,Jukun,Niger-Congo
-kaa,26A,Little affixation,Arara (Tupi),Tupian
+kaa,26A,Little affixation,Karó (Arára),Tupian
 kab,26A,Equal prefixing and suffixing,Kabardian,Northwest Caucasian
-kac,26A,Strongly suffixing,Bara,Sino-Tibetan
+kac,26A,Strongly suffixing,Kachari,Sino-Tibetan
 kan,26A,Weakly prefixing,Kana,Niger-Congo
-kar,26A,Strongly suffixing,Fer,Central Sudanic
-kay,26A,Strongly suffixing,Gayardilt,Tangkic
+kar,26A,Strongly suffixing,Kara (in Central African Republic),Central Sudanic
+kay,26A,Strongly suffixing,Kayardild,Tangkic
 kba,26A,Strong prefixing,Kamba,Niger-Congo
 kbu,26A,Strongly suffixing,Kanembu,Saharan
-kbw,26A,Weakly prefixing,Bwe,Sino-Tibetan
-kch,26A,Little affixation,"Songhay, Koyra Chiini dialect",Songhay
-kel,26A,Strong prefixing,Gele,Austronesian
+kbw,26A,Weakly prefixing,Karen (Bwe),Sino-Tibetan
+kch,26A,Little affixation,Koyra Chiini,Songhay
+kel,26A,Strong prefixing,Kele,Austronesian
 kem,26A,Strongly suffixing,Kemant,Afro-Asiatic
 ken,26A,Strongly suffixing,Kenga,Central Sudanic
 ker,26A,Strongly suffixing,Kera,Afro-Asiatic
 ket,26A,Weakly prefixing,Ket,Yeniseian
 kew,26A,Strongly suffixing,Kewa,Trans-New Guinea
-kfe,26A,Weakly suffixing,Kurumfe,Niger-Congo
-kgz,26A,Strongly suffixing,Kyrgyz,Altaic
+kfe,26A,Weakly suffixing,Koromfe,Niger-Congo
+kgz,26A,Strongly suffixing,Kirghiz,Altaic
 kha,26A,Strongly suffixing,Khalkha,Altaic
 khg,26A,Strongly suffixing,Khaling,Sino-Tibetan
-khi,26A,Strongly suffixing,Xinalug,Nakh-Daghestanian
+khi,26A,Strongly suffixing,Khinalug,Nakh-Daghestanian
 khl,26A,Strongly suffixing,Khalaj,Altaic
 khm,26A,Little affixation,Khmer,Austro-Asiatic
 kho,26A,Strongly suffixing,Nama,Khoe-Kwadi
 khr,26A,Little affixation,Kharia,Austro-Asiatic
 khs,26A,Little affixation,Khasi,Austro-Asiatic
 kik,26A,Strong prefixing,Kikuyu,Niger-Congo
-kim,26A,Little affixation,Kimaghana,Kolopom
+kim,26A,Little affixation,Kimaghama,Kolopom
 kio,26A,Equal prefixing and suffixing,Kiowa,Kiowa-Tanoan
 kir,26A,Little affixation,Kirma,Niger-Congo
-kiw,26A,Weakly suffixing,"Kiwai, Island dialect",Kiwaian
+kiw,26A,Weakly suffixing,Kiwai (Southern),Kiwaian
 kkp,26A,Strongly suffixing,Karakalpak,Altaic
 kkt,26A,Little affixation,Kokota,Austronesian
 kku,26A,Strongly suffixing,Korku,Austro-Asiatic
-kkv,26A,Weakly prefixing,Kandoka-Lusi,Austronesian
+kkv,26A,Weakly prefixing,Lusi,Austronesian
 klm,26A,Strongly suffixing,Klamath,Penutian
 kls,26A,Weakly prefixing,Kalispel,Salishan
 klv,26A,Weakly prefixing,Kilivila,Austronesian
 klw,26A,Equal prefixing and suffixing,Kiliwa,Hokan
-kma,26A,Equal prefixing and suffixing,Kamayura,Tupian
-kmb,26A,Strongly suffixing,Wanggom,Trans-New Guinea
+kma,26A,Equal prefixing and suffixing,Kamaiurá,Tupian
+kmb,26A,Strongly suffixing,Kombai,Trans-New Guinea
 kmh,26A,Weakly suffixing,Kham,Sino-Tibetan
-kmj,26A,Weakly prefixing,Karamojong,Eastern Sudanic
+kmj,26A,Weakly prefixing,Karimojong,Eastern Sudanic
+kmk,26A,Strongly suffixing,Kalmyk,Altaic
 kmn,26A,Strongly suffixing,Kuman,Trans-New Guinea
-kmo,26A,Strongly suffixing,Koiari (Mountain),Trans-New Guinea
+kmo,26A,Strongly suffixing,Koiali (Mountain),Trans-New Guinea
 kmp,26A,Weakly suffixing,Kunimaipa,Trans-New Guinea
 kmr,26A,Weakly suffixing,Kamoro,Trans-New Guinea
-kms,26A,Strongly suffixing,Kamas,Uralic
+kms,26A,Strongly suffixing,Kamass,Uralic
 kmu,26A,Little affixation,Khmu',Austro-Asiatic
 kmz,26A,Weakly prefixing,Kamasau,Torricelli
-knc,26A,Strongly suffixing,Kugu-Uwanh,Pama-Nyungan
+knc,26A,Strongly suffixing,Kugu Nganhcara,Pama-Nyungan
 knd,26A,Strongly suffixing,Kannada,Dravidian
-kni,26A,Strongly suffixing,Koma,Niger-Congo
+kni,26A,Strongly suffixing,Konni,Niger-Congo
 knk,26A,Strongly suffixing,Kanakuru,Afro-Asiatic
-knn,26A,Strongly suffixing,Kanauri,Sino-Tibetan
+knn,26A,Strongly suffixing,Kinnauri,Sino-Tibetan
 knr,26A,Strongly suffixing,Kanuri,Saharan
-knw,26A,Weakly suffixing,Maidu (Northwest),Penutian
+knw,26A,Weakly suffixing,Konkow,Penutian
 koa,26A,Equal prefixing and suffixing,Koasati,Muskogean
 kob,26A,Strongly suffixing,Kobon,Trans-New Guinea
-koe,26A,Equal prefixing and suffixing,Kwegu,Eastern Sudanic
-kok,26A,Strongly suffixing,Tripuri,Sino-Tibetan
+koe,26A,Equal prefixing and suffixing,Koegu,Eastern Sudanic
+kok,26A,Strongly suffixing,Kokborok,Sino-Tibetan
 kol,26A,Strongly suffixing,Kolami,Dravidian
 kom,26A,Weakly suffixing,Komo,Koman
-kon,26A,Strong prefixing,Kikongo,Niger-Congo
-kop,26A,Strongly suffixing,Permyak,Uralic
+kon,26A,Strong prefixing,Kongo,Niger-Congo
+kop,26A,Strongly suffixing,Komi-Permyak,Uralic
 kos,26A,Little affixation,Kosraean,Austronesian
 koy,26A,Strongly suffixing,Koya,Dravidian
-krb,26A,Equal prefixing and suffixing,Gilbertese,Austronesian
-krc,26A,Strongly suffixing,Karachay,Altaic
+krb,26A,Equal prefixing and suffixing,Kiribati,Austronesian
+krc,26A,Strongly suffixing,Karachay-Balkar,Altaic
+krd,26A,Weakly suffixing,Kurdish (Central),Indo-European
 kre,26A,Equal prefixing and suffixing,Kresh,Central Sudanic
-kri,26A,Equal prefixing and suffixing,Kiriri,Kariri
-krj,26A,Strongly suffixing,Garadyari,Pama-Nyungan
-krn,26A,Strongly suffixing,!Ora,Khoe-Kwadi
+kri,26A,Equal prefixing and suffixing,Kipea,Kariri
+krj,26A,Strongly suffixing,Karadjeri,Pama-Nyungan
+krn,26A,Strongly suffixing,Korana,Khoe-Kwadi
 kro,26A,Weakly prefixing,Krongo,Kadu
 krr,26A,Equal prefixing and suffixing,Kairiru,Austronesian
 krw,26A,Strongly suffixing,Korowai,Trans-New Guinea
 kry,26A,Weakly suffixing,Koryak,Chukotko-Kamchatkan
-ksa,26A,Weakly prefixing,Keres (Eastern),Keresan
-kse,26A,Little affixation,Songhay (Koyraboro Senni),Songhay
-ksg,26A,Little affixation,Sgaw,Sino-Tibetan
+ksa,26A,Weakly prefixing,Keresan (Santa Ana),Keresan
+kse,26A,Little affixation,Koyraboro Senni,Songhay
+ksg,26A,Little affixation,Karen (Sgaw),Sino-Tibetan
 kta,26A,Strongly suffixing,Koita,Trans-New Guinea
 ktc,26A,Weakly prefixing,Katcha,Kadu
 ktl,26A,Equal prefixing and suffixing,Katla,Kordofanian
-kty,26A,Strongly suffixing,Xanty,Uralic
+kty,26A,Strongly suffixing,Khanty,Uralic
 kuv,26A,Strongly suffixing,Kuvi,Dravidian
 kwn,26A,Strong prefixing,Kwangali,Niger-Congo
 kwo,26A,Strongly suffixing,Kwoma,Sepik
 kws,26A,Strongly suffixing,Kawaiisu,Uto-Aztecan
-kya,26A,Strongly suffixing,Gugu Yalandyi,Pama-Nyungan
-kyk,26A,Strongly suffixing,Enga,Trans-New Guinea
-kyl,26A,Little affixation,Kayah,Sino-Tibetan
-lac,26A,Strongly suffixing,Lacandon,Mayan
-lad,26A,Strongly suffixing,Western Tibetan,Sino-Tibetan
-lag,26A,Equal prefixing and suffixing,Logone,Afro-Asiatic
+kya,26A,Strongly suffixing,Kuku-Yalanji,Pama-Nyungan
+kyk,26A,Strongly suffixing,Kyaka,Trans-New Guinea
+kyl,26A,Little affixation,Kayah Li (Eastern),Sino-Tibetan
+lac,26A,Strongly suffixing,Lacandón,Mayan
+lad,26A,Strongly suffixing,Ladakhi,Sino-Tibetan
+lag,26A,Equal prefixing and suffixing,Lagwan,Afro-Asiatic
 lah,26A,Little affixation,Lahu,Sino-Tibetan
-lai,26A,Little affixation,Haka,Sino-Tibetan
-lal,26A,Little affixation,Lalaw,Sino-Tibetan
+lai,26A,Little affixation,Lai,Sino-Tibetan
+lal,26A,Little affixation,Lalo,Sino-Tibetan
 lan,26A,Equal prefixing and suffixing,Lango,Eastern Sudanic
 lao,26A,Little affixation,Lao,Tai-Kadai
-lar,26A,Weakly prefixing,Laragiya,Darwin Region
+lar,26A,Weakly prefixing,Laragia,Darwin Region
 lat,26A,Weakly suffixing,Latvian,Indo-European
 lav,26A,Weakly suffixing,Lavukaleve,Solomons East Papuan
-lbu,26A,Weakly prefixing,Ruund,Niger-Congo
+lbu,26A,Weakly prefixing,Lunda,Niger-Congo
 lda,26A,Strong prefixing,Luganda,Niger-Congo
-ldu,26A,Equal prefixing and suffixing,Bale,Central Sudanic
+ldu,26A,Equal prefixing and suffixing,Lendu,Central Sudanic
 lel,26A,Strongly suffixing,Lele,Afro-Asiatic
 len,26A,Weakly prefixing,Lenakel,Austronesian
 lep,26A,Little affixation,Lepcha,Sino-Tibetan
 lew,26A,Weakly prefixing,Lewo,Austronesian
-lez,26A,Strongly suffixing,Lezgi,Nakh-Daghestanian
+lez,26A,Strongly suffixing,Lezgian,Nakh-Daghestanian
 lgu,26A,Little affixation,Longgu,Austronesian
 lho,26A,Strongly suffixing,Lhomi,Sino-Tibetan
 lim,26A,Strongly suffixing,Limbu,Sino-Tibetan
 lit,26A,Strongly suffixing,Lithuanian,Indo-European
-lkt,26A,Weakly prefixing,Teton,Siouan
-llm,26A,Strong prefixing,Lelemi (Bwem),Niger-Congo
+lkt,26A,Weakly prefixing,Lakhota,Siouan
+llm,26A,Strong prefixing,Lelemi,Niger-Congo
 lmg,26A,Strongly suffixing,Lamang,Afro-Asiatic
 lmh,26A,Weakly prefixing,Lamaholot,Austronesian
-lmn,26A,Strongly suffixing,Banjari,Indo-European
+lmn,26A,Strongly suffixing,Lamani,Indo-European
 lmp,26A,Little affixation,Lampung,Austronesian
 lnd,26A,Little affixation,Linda,Niger-Congo
 lon,26A,Weakly prefixing,Loniu,Austronesian
 lot,26A,Weakly suffixing,Lotha,Sino-Tibetan
 lou,26A,Little affixation,Lou,Austronesian
-lug,26A,Weakly prefixing,Logbara,Central Sudanic
+lug,26A,Weakly prefixing,Lugbara,Central Sudanic
 lui,26A,Strongly suffixing,Luiseño,Uto-Aztecan
 luo,26A,Equal prefixing and suffixing,Luo,Eastern Sudanic
-luv,26A,Strong prefixing,Lwena,Niger-Congo
+luv,26A,Strong prefixing,Luvale,Niger-Congo
 maa,26A,Weakly prefixing,Maasai,Eastern Sudanic
-mab,26A,Weakly suffixing,Mabang,Maban
-mac,26A,Strongly suffixing,Makushi,Cariban
-mad,26A,Little affixation,Madi,Central Sudanic
+mab,26A,Weakly suffixing,Maba,Maban
+mac,26A,Strongly suffixing,Macushi,Cariban
+mad,26A,Little affixation,Ma'di,Central Sudanic
 mae,26A,Little affixation,Mae,Austronesian
 mai,26A,Strongly suffixing,Maithili,Indo-European
 maj,26A,Strongly suffixing,Majang,Eastern Sudanic
 mak,26A,Little affixation,Makah,Wakashan
-mal,26A,Little affixation,Malagassy,Austronesian
+mal,26A,Little affixation,Malagasy,Austronesian
 mam,26A,Weakly prefixing,Mam,Mayan
 man,26A,Little affixation,Mano,Mande
 mao,26A,Little affixation,Maori,Austronesian
-map,26A,Strongly suffixing,Mapudungu,Araucanian
+map,26A,Strongly suffixing,Mapudungun,Araucanian
 mar,26A,Equal prefixing and suffixing,Maricopa,Hokan
 mau,26A,Weakly prefixing,Maung,Iwaidjan
-may,26A,Strong prefixing,Brat,West Papuan
+may,26A,Strong prefixing,Maybrat,West Papuan
 mba,26A,Weakly prefixing,Mba,Niger-Congo
 mbm,26A,Little affixation,Mbum,Niger-Congo
 mbr,26A,Strongly suffixing,Mbara,Afro-Asiatic
 mbt,26A,Equal prefixing and suffixing,Mangbetu,Central Sudanic
-mby,26A,Strongly suffixing,Mbai,Central Sudanic
-mcc,26A,Weakly suffixing,Chimu,Chimúan
-mcv,26A,Equal prefixing and suffixing,Mocovi,Guaicuruan
+mby,26A,Strongly suffixing,Mbay,Central Sudanic
+mcc,26A,Weakly suffixing,Mochica,Chimúan
+mcv,26A,Equal prefixing and suffixing,Mocoví,Guaicuruan
 mde,26A,Strongly suffixing,Mende,Mande
-mdm,26A,Strongly suffixing,Muthimuthi,Pama-Nyungan
+mdm,26A,Strongly suffixing,Madimadi,Pama-Nyungan
 mdn,26A,Weakly suffixing,Mandan,Siouan
-mdo,26A,Weakly suffixing,Gbaya-Mbodomo,Niger-Congo
-mea,26A,Weakly prefixing,Meax,East Bird's Head
+mdo,26A,Weakly suffixing,Mbodomo,Niger-Congo
+mea,26A,Weakly prefixing,Meyah,East Bird's Head
 mee,26A,Strongly suffixing,Me'en,Eastern Sudanic
-meh,26A,Equal prefixing and suffixing,Mahri,Afro-Asiatic
+meh,26A,Equal prefixing and suffixing,Mehri,Afro-Asiatic
 mei,26A,Weakly suffixing,Meithei,Sino-Tibetan
-mek,26A,Little affixation,Sakirabiá,Tupian
-men,26A,Equal prefixing and suffixing,Menominee,Algic
-mer,26A,Equal prefixing and suffixing,Meriam,Western Fly
+mek,26A,Little affixation,Mekens,Tupian
+men,26A,Equal prefixing and suffixing,Menomini,Algic
+mer,26A,Equal prefixing and suffixing,Meryam Mir,Western Fly
 mga,26A,Equal prefixing and suffixing,Mondunga,Niger-Congo
-mgg,26A,Strongly suffixing,Monguor,Altaic
+mgg,26A,Strongly suffixing,Mangghuer,Altaic
 mgk,26A,Strong prefixing,Mungaka,Niger-Congo
 mgu,26A,Strongly suffixing,Musgu,Afro-Asiatic
 mhi,26A,Strongly suffixing,Marathi,Indo-European
-mie,26A,Little affixation,Mjen,Hmong-Mien
+mie,26A,Little affixation,Mien,Hmong-Mien
 mik,26A,Strongly suffixing,Mikir,Sino-Tibetan
 min,26A,Little affixation,Minangkabau,Austronesian
 mis,26A,Strongly suffixing,Miskito,Misumalpan
 miy,26A,Strongly suffixing,Miya,Afro-Asiatic
 miz,26A,Little affixation,Mizo,Sino-Tibetan
-mka,26A,Little affixation,Mau(ka),Mande
-mkh,26A,Strongly suffixing,Khamnigan Mongol,Altaic
+mka,26A,Little affixation,Mauka,Mande
+mkh,26A,Strongly suffixing,Mongol (Khamnigan),Altaic
 mki,26A,Weakly suffixing,Mikasuki,Muskogean
-mkj,26A,Little affixation,Makasai,Timor-Alor-Pantar
+mkj,26A,Little affixation,Makasae,Timor-Alor-Pantar
 mku,26A,Little affixation,Maranungku,Western Daly
-mlg,26A,Strongly suffixing,Wandala,Afro-Asiatic
-mme,26A,Strongly suffixing,Mari (Cheremis),Uralic
+mlg,26A,Strongly suffixing,Malgwa,Afro-Asiatic
+mme,26A,Strongly suffixing,Mari (Meadow),Uralic
 mmn,26A,Little affixation,Mamanwa,Austronesian
 mmv,26A,Weakly prefixing,Mamvu,Central Sudanic
 mna,26A,Equal prefixing and suffixing,Muna,Austronesian
 mnc,26A,Strongly suffixing,Manchu,Altaic
-mnd,26A,Strongly suffixing,Mandarin Chinese,Sino-Tibetan
-mne,26A,Strongly suffixing,Maidu (Mountain),Penutian
+mnd,26A,Strongly suffixing,Mandarin,Sino-Tibetan
+mne,26A,Strongly suffixing,Maidu (Northeast),Penutian
 mng,26A,Little affixation,Manggarai,Austronesian
 mnm,26A,Weakly suffixing,Manam,Austronesian
-mno,26A,Strongly suffixing,Mono,Uto-Aztecan
+mno,26A,Strongly suffixing,Mono (in United States),Uto-Aztecan
 mns,26A,Strongly suffixing,Mansi,Uralic
 mny,26A,Strongly suffixing,Margany,Pama-Nyungan
-moe,26A,Strongly suffixing,Mordvin,Uralic
+moe,26A,Strongly suffixing,Mordvin (Erzya),Uralic
 mog,26A,Strongly suffixing,Moghol,Altaic
 moh,26A,Weakly prefixing,Mohawk,Iroquoian
 mok,26A,Weakly suffixing,Mokilese,Austronesian
 mon,26A,Little affixation,Mon,Austro-Asiatic
-moo,26A,Strongly suffixing,More,Niger-Congo
-mot,26A,Strongly suffixing,Siwai,East Bougainville
+moo,26A,Strongly suffixing,Mooré,Niger-Congo
+mot,26A,Strongly suffixing,Motuna,East Bougainville
 mou,26A,Weakly suffixing,Moru,Central Sudanic
 mpr,26A,Equal prefixing and suffixing,Maipure,Arawakan
-mpt,26A,Strongly suffixing,Mianmin,Trans-New Guinea
+mpt,26A,Strongly suffixing,Mian,Trans-New Guinea
 mra,26A,Weakly prefixing,Mara,Mangarrayi-Maran
 mrg,26A,Weakly suffixing,Margi,Afro-Asiatic
 mrl,26A,Weakly suffixing,Murle,Eastern Sudanic
 mro,26A,Weakly prefixing,Moro,Kordofanian
-mrt,26A,Strongly suffixing,Martuyhunira,Pama-Nyungan
+mrt,26A,Strongly suffixing,Martuthunira,Pama-Nyungan
 mru,26A,Little affixation,Maru,Sino-Tibetan
 mrw,26A,Strongly suffixing,Muruwari,Pama-Nyungan
-msc,26A,Weakly suffixing,Chibcha,Chibchan
-msg,26A,Strongly suffixing,Miri,Sino-Tibetan
-msk,26A,Equal prefixing and suffixing,Ngile,Kordofanian
-msl,26A,Strongly suffixing,Mesalit,Maban
+msc,26A,Weakly suffixing,Muisca,Chibchan
+msg,26A,Strongly suffixing,Mising,Sino-Tibetan
+msk,26A,Equal prefixing and suffixing,Masakin,Kordofanian
+msl,26A,Strongly suffixing,Masalit,Maban
 msn,26A,Weakly prefixing,Maisin,Austronesian
 mss,26A,Strongly suffixing,Miwok (Southern Sierra),Penutian
-mtb,26A,Strong prefixing,Matumbi,Niger-Congo
-mts,26A,Strongly suffixing,Matís,Panoan
+mtb,26A,Strong prefixing,Matuumbi,Niger-Congo
+mts,26A,Strongly suffixing,Matis,Panoan
 mtu,26A,Strongly suffixing,Motu,Austronesian
 mui,26A,Weakly suffixing,Muinane,Huitotoan
 mum,26A,Little affixation,Mumuye,Niger-Congo
-mun,26A,Strongly suffixing,Kolh,Austro-Asiatic
-mup,26A,Little affixation,Sura,Afro-Asiatic
-mur,26A,Weakly suffixing,Murzi,Eastern Sudanic
+mun,26A,Strongly suffixing,Mundari,Austro-Asiatic
+mup,26A,Little affixation,Mupun,Afro-Asiatic
+mur,26A,Weakly suffixing,Mursi,Eastern Sudanic
 mus,26A,Little affixation,Mussau,Austronesian
 mut,26A,Strongly suffixing,Mutsun,Penutian
-mwb,26A,Strong prefixing,Western Bukidnon,Austronesian
-mxc,26A,Strong prefixing,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-mxj,26A,Equal prefixing and suffixing,Western Jamiltepec Mixteco,Oto-Manguean
-mxo,26A,Little affixation,Santo Tomás Ocotepec Mixteco,Oto-Manguean
-mxp,26A,Weakly prefixing,Peñoles Mixtec,Oto-Manguean
-myi,26A,Equal prefixing and suffixing,Mangarayi,Mangarrayi-Maran
-mzh,26A,Weakly suffixing,"Mazatec, Huautla",Oto-Manguean
+mwb,26A,Strong prefixing,Manobo (Western Bukidnon),Austronesian
+mxc,26A,Strong prefixing,Mixtec (Chalcatongo),Oto-Manguean
+mxj,26A,Equal prefixing and suffixing,Mixtec (Jicaltepec),Oto-Manguean
+mxo,26A,Little affixation,Mixtec (Ocotepec),Oto-Manguean
+mxp,26A,Weakly prefixing,Mixtec (Peñoles),Oto-Manguean
+myi,26A,Equal prefixing and suffixing,Mangarrayi,Mangarrayi-Maran
+mzh,26A,Weakly suffixing,Mazatec (Huautla),Oto-Manguean
 nab,26A,Strongly suffixing,Nabak,Trans-New Guinea
 nag,26A,Strongly suffixing,Nagatman,Yale
-naj,26A,Strongly suffixing,Neo-Aramaic (Arbel),Afro-Asiatic
-nak,26A,Weakly suffixing,Bileki,Austronesian
-nam,26A,Equal prefixing and suffixing,Namie,Sepik
-nar,26A,Strongly suffixing,Nera,Eastern Sudanic
+naj,26A,Strongly suffixing,Neo-Aramaic (Arbel Jewish),Afro-Asiatic
+nak,26A,Weakly suffixing,Nakanai,Austronesian
+nam,26A,Equal prefixing and suffixing,Namia,Sepik
+nar,26A,Strongly suffixing,Nara (in Ethiopia),Eastern Sudanic
 nas,26A,Strongly suffixing,Nasioi,East Bougainville
 nav,26A,Strong prefixing,Navajo,Na-Dene
-nbd,26A,Strongly suffixing,"Nubian, Dongolese",Eastern Sudanic
-nca,26A,Strongly suffixing,Car Nicobarese,Austro-Asiatic
+nbd,26A,Strongly suffixing,Nubian (Dongolese),Eastern Sudanic
+nca,26A,Strongly suffixing,Nicobarese (Car),Austro-Asiatic
 ndb,26A,Strong prefixing,Ndebele,Niger-Congo
 ndj,26A,Equal prefixing and suffixing,Ndjébbana,Mangrida
 ndo,26A,Equal prefixing and suffixing,Ndonga,Niger-Congo
 ndt,26A,Strongly suffixing,Ndut,Niger-Congo
-ndy,26A,Little affixation,Djuka,other
+ndy,26A,Little affixation,Ndyuka,other
 nep,26A,Strongly suffixing,Nepali,Indo-European
-new,26A,Strongly suffixing,"Newari, Kathmandu dialect",Sino-Tibetan
+nev,26A,Equal prefixing and suffixing,Nevome,Uto-Aztecan
+new,26A,Strongly suffixing,Newari (Kathmandu),Sino-Tibetan
 nez,26A,Equal prefixing and suffixing,Nez Perce,Penutian
 nga,26A,Strongly suffixing,Nganasan,Uralic
-ngd,26A,Little affixation,Ngada,Austronesian
-ngi,26A,Strongly suffixing,Wongaibon,Pama-Nyungan
-ngj,26A,Strongly suffixing,Ngadjunmaya,Pama-Nyungan
+ngd,26A,Little affixation,Ngad'a,Austronesian
+ngi,26A,Strongly suffixing,Ngiyambaa,Pama-Nyungan
+ngj,26A,Strongly suffixing,Ngadjumaja,Pama-Nyungan
 ngl,26A,Weakly suffixing,Ngalakan,Gunwinyguan
-ngm,26A,Weakly suffixing,Gambai,Central Sudanic
+ngm,26A,Weakly suffixing,Ngambay,Central Sudanic
 ngn,26A,Equal prefixing and suffixing,Ngandi,Gunwinyguan
-ngo,26A,Strong prefixing,Ngoni (in Tanzania),Niger-Congo
-ngt,26A,Strongly suffixing,Tangkhul,Sino-Tibetan
+ngo,26A,Strong prefixing,Ngoni,Niger-Congo
+ngt,26A,Strongly suffixing,Naga (Tangkhul),Sino-Tibetan
 ngw,26A,Strongly suffixing,Ngawun,Pama-Nyungan
 ngz,26A,Strongly suffixing,Ngizim,Afro-Asiatic
 nha,26A,Strongly suffixing,Nhanda,Pama-Nyungan
-nhh,26A,Equal prefixing and suffixing,Tamazunchale Nahuatl,Uto-Aztecan
-nhm,26A,Weakly prefixing,Michoacán Aztec,Uto-Aztecan
-nht,26A,Equal prefixing and suffixing,Tetelcingo Nahuatl,Uto-Aztecan
+nhh,26A,Equal prefixing and suffixing,Nahuatl (Huasteca),Uto-Aztecan
+nhm,26A,Weakly prefixing,Nahuatl (Michoacán),Uto-Aztecan
+nht,26A,Equal prefixing and suffixing,Nahuatl (Tetelcingo),Uto-Aztecan
 nia,26A,Strong prefixing,Nias,Austronesian
-nis,26A,Strongly suffixing,Nishi,Sino-Tibetan
+nis,26A,Strongly suffixing,Nyishi,Sino-Tibetan
 niu,26A,Little affixation,Niuean,Austronesian
-nkb,26A,Weakly suffixing,Ngalkbon,Gunwinyguan
+nkb,26A,Weakly suffixing,Ngalkbun,Gunwinyguan
 nkn,26A,Strong prefixing,Nkonya,Niger-Congo
-nko,26A,Strong prefixing,Ciga,Niger-Congo
-nmb,26A,Strongly suffixing,Nambikuara (Southern),Nambikuaran
+nko,26A,Strong prefixing,Nkore-Kiga,Niger-Congo
+nmb,26A,Strongly suffixing,Nambikuára (Southern),Nambikuaran
 noc,26A,Strongly suffixing,Nocte,Sino-Tibetan
-nog,26A,Strongly suffixing,Nogay,Altaic
+nog,26A,Strongly suffixing,Noghay,Altaic
 non,26A,Equal prefixing and suffixing,Noni,Niger-Congo
-noo,26A,Strongly suffixing,Non,Niger-Congo
+noo,26A,Strongly suffixing,Noon,Niger-Congo
 nor,26A,Strongly suffixing,Norwegian,Indo-European
-nph,26A,Weakly suffixing,Nar Phu,Sino-Tibetan
-nsg,26A,Little affixation,Nishga,Penutian
-nsn,26A,Strongly suffixing,Maidu (Southern),Penutian
-nti,26A,Equal prefixing and suffixing,Dru,Central Sudanic
+nph,26A,Weakly suffixing,Nar-Phu,Sino-Tibetan
+nsg,26A,Little affixation,Nisgha,Penutian
+nsn,26A,Strongly suffixing,Nisenan,Penutian
+nti,26A,Equal prefixing and suffixing,Ngiti,Central Sudanic
+ntu,26A,Strongly suffixing,Nenets,Uralic
 nua,26A,Weakly prefixing,Nuaulu,Austronesian
 nue,26A,Strongly suffixing,Nuer,Eastern Sudanic
 nug,26A,Equal prefixing and suffixing,Nunggubuyu,Gunwinyguan
-nun,26A,Little affixation,Zhuang (Southern),Tai-Kadai
+nun,26A,Little affixation,Nung (in Vietnam),Tai-Kadai
 nup,26A,Little affixation,Nupe,Niger-Congo
-nwd,26A,Weakly suffixing,Dolakha Newari,Sino-Tibetan
+nwd,26A,Weakly suffixing,Newar (Dolakha),Sino-Tibetan
 nyi,26A,Strongly suffixing,Nyimang,Eastern Sudanic
 nym,26A,Strong prefixing,Nyamwezi,Niger-Congo
 nyu,26A,Weakly prefixing,Nyulnyul,Nyulnyulan
 nza,26A,Weakly prefixing,Nzakara,Niger-Congo
-nze,26A,Little affixation,Zeme,Sino-Tibetan
+nze,26A,Little affixation,Naga (Zeme),Sino-Tibetan
 obg,26A,Strong prefixing,Ogbronuagum,Niger-Congo
 obo,26A,Strong prefixing,Obolo,Niger-Congo
-ocu,26A,Strong prefixing,Ocuiltec,Oto-Manguean
+ocu,26A,Strong prefixing,Ocuilteco,Oto-Manguean
 olo,26A,Weakly suffixing,Olo,Torricelli
 omi,26A,Strongly suffixing,Ömie,Trans-New Guinea
 ond,26A,Weakly prefixing,Oneida,Iroquoian
 ong,26A,Weakly suffixing,Onge,South Andamanese
-ood,26A,Equal prefixing and suffixing,Tohono O'odham,Uto-Aztecan
-orh,26A,Strongly suffixing,Oromo (Eastern),Afro-Asiatic
+ood,26A,Equal prefixing and suffixing,O'odham,Uto-Aztecan
+orh,26A,Strongly suffixing,Oromo (Harar),Afro-Asiatic
 ork,26A,Strongly suffixing,Orok,Altaic
 osa,26A,Little affixation,Osage,Siouan
 oss,26A,Strongly suffixing,Ossetic,Indo-European
-otm,26A,Weakly prefixing,Otomí,Oto-Manguean
-otr,26A,Weakly prefixing,Utoro,Kordofanian
+otm,26A,Weakly prefixing,Otomí (Mezquital),Oto-Manguean
+otr,26A,Weakly prefixing,Otoro,Kordofanian
 oya,26A,Strongly suffixing,Oriya,Indo-European
 paa,26A,Strongly suffixing,Pa'a,Afro-Asiatic
-pae,26A,Strongly suffixing,Paez,Páezan
+pae,26A,Strongly suffixing,Páez,Páezan
 pai,26A,Equal prefixing and suffixing,Paiwan,Austronesian
 pal,26A,Weakly prefixing,Palauan,Austronesian
 pam,26A,Weakly prefixing,Pame,Oto-Manguean
-pan,26A,Strongly suffixing,Punjabi,Indo-European
-par,26A,Weakly suffixing,Parï,Eastern Sudanic
-pau,26A,Equal prefixing and suffixing,Paumari,Arauan
+pan,26A,Strongly suffixing,Panjabi,Indo-European
+par,26A,Weakly suffixing,Päri,Eastern Sudanic
+pau,26A,Equal prefixing and suffixing,Paumarí,Arauan
 paw,26A,Strongly suffixing,Pawaian,Teberan-Pawaian
-pba,26A,Weakly suffixing,Pima (Bajo),Uto-Aztecan
-pdp,26A,Strongly suffixing,Podopa,Teberan-Pawaian
+pba,26A,Weakly suffixing,Pima Bajo,Uto-Aztecan
+pdp,26A,Strongly suffixing,Folopa,Teberan-Pawaian
 per,26A,Equal prefixing and suffixing,Pero,Afro-Asiatic
-pga,26A,Weakly prefixing,Pilaga,Guaicuruan
+pga,26A,Weakly prefixing,Pilagá,Guaicuruan
 pia,26A,Weakly suffixing,Piaroa,Sáliban
 pip,26A,Equal prefixing and suffixing,Pipil,Uto-Aztecan
 pir,26A,Weakly suffixing,Piro,Arawakan
-pkn,26A,Strongly suffixing,Baagandji,Pama-Nyungan
-pkt,26A,Weakly suffixing,Pakot,Eastern Sudanic
+pkn,26A,Strongly suffixing,Paakantyi,Pama-Nyungan
+pkt,26A,Weakly suffixing,Pokot,Eastern Sudanic
 plh,26A,Equal prefixing and suffixing,Paulohi,Austronesian
-plk,26A,Strongly suffixing,Palicur,Arawakan
+plk,26A,Strongly suffixing,Palikur,Arawakan
 pme,26A,Strongly suffixing,Pomo (Eastern),Hokan
-pms,26A,Weakly prefixing,Paama,Austronesian
+pms,26A,Weakly prefixing,Paamese,Austronesian
 pno,26A,Strongly suffixing,Paiute (Northern),Uto-Aztecan
-pnu,26A,Little affixation,Punu,Hmong-Mien
-poh,26A,Weakly suffixing,Ponapean,Austronesian
-pok,26A,Little affixation,Rawo,Skou
+pnu,26A,Little affixation,Bunu (Younuo),Hmong-Mien
+poh,26A,Weakly suffixing,Pohnpeian,Austronesian
+pok,26A,Little affixation,Poko-Rawo,Skou
 pol,26A,Strongly suffixing,Polish,Indo-European
 por,26A,Strongly suffixing,Portuguese,Indo-European
-ppi,26A,Strongly suffixing,Pitta-Pitta,Pama-Nyungan
-pre,26A,Strong prefixing,Zigula,Niger-Congo
-prh,26A,Strongly suffixing,Mura,Mura
-prk,26A,Strongly suffixing,Purik,Sino-Tibetan
+ppi,26A,Strongly suffixing,Pitta Pitta,Pama-Nyungan
+pre,26A,Strong prefixing,Pare,Niger-Congo
+prh,26A,Strongly suffixing,Pirahã,Mura
+prk,26A,Strongly suffixing,Purki,Sino-Tibetan
 prs,26A,Weakly suffixing,Persian,Indo-European
 psh,26A,Strongly suffixing,Pashto,Indo-European
 pso,26A,Strongly suffixing,Pomo (Southeastern),Hokan
 ptw,26A,Strongly suffixing,Patwin,Penutian
-pul,26A,Little affixation,Puluwatese,Austronesian
-pum,26A,Strongly suffixing,Prinmi,Sino-Tibetan
-pur,26A,Strongly suffixing,Tarascan,Tarascan
+pul,26A,Little affixation,Puluwat,Austronesian
+pum,26A,Strongly suffixing,Pumi,Sino-Tibetan
+pur,26A,Strongly suffixing,Purépecha,Tarascan
 pwn,26A,Equal prefixing and suffixing,Pawnee,Caddoan
 qaw,26A,Strongly suffixing,Qawasqar,Alacalufan
-qhu,26A,Strongly suffixing,Huallaga Quechua,Quechuan
-qia,26A,Weakly suffixing,Ch'iang,Sino-Tibetan
-qim,26A,Strongly suffixing,HighlanKichua,Quechuan
+qhu,26A,Strongly suffixing,Quechua (Huallaga),Quechuan
+qia,26A,Weakly suffixing,Qiang,Sino-Tibetan
+qim,26A,Strongly suffixing,Quechua (Imbabura),Quechuan
 qui,26A,Weakly suffixing,Quileute,Chimakuan
-qum,26A,Strong prefixing,Sipacapa,Mayan
+qum,26A,Strong prefixing,Sipakapense,Mayan
 ram,26A,Equal prefixing and suffixing,Rama,Chibchan
 rap,26A,Little affixation,Rapanui,Austronesian
+ras,26A,Weakly prefixing,Rashad,Kordofanian
 raw,26A,Little affixation,Rawang,Sino-Tibetan
 rem,26A,Strongly suffixing,Remo,Austro-Asiatic
-res,26A,Equal prefixing and suffixing,Resigaro,Arawakan
+res,26A,Equal prefixing and suffixing,Resígaro,Arawakan
 rit,26A,Strongly suffixing,Ritharngu,Pama-Nyungan
-rny,26A,Strong prefixing,Nyankole,Niger-Congo
-rom,26A,Strongly suffixing,Rumanian,Indo-European
+rny,26A,Strong prefixing,Runyankore,Niger-Congo
+rom,26A,Strongly suffixing,Romanian,Indo-European
 rot,26A,Little affixation,Rotuman,Austronesian
-ruk,26A,Equal prefixing and suffixing,Rukai,Austronesian
-rum,26A,Strongly suffixing,Kairi,Turama-Kikorian
+ruk,26A,Equal prefixing and suffixing,Rukai (Tanan),Austronesian
+rum,26A,Strongly suffixing,Rumu,Turama-Kikorian
 run,26A,Equal prefixing and suffixing,Runga,Maban
 rus,26A,Strongly suffixing,Russian,Indo-European
 rut,26A,Weakly suffixing,Rutul,Nakh-Daghestanian
-rwe,26A,Strongly suffixing,Welsh Romany,Indo-European
+rwe,26A,Strongly suffixing,Romani (Welsh),Indo-European
 saa,26A,Little affixation,Sa'a,Austronesian
 sah,26A,Strong prefixing,Sahu,West Papuan
 sak,26A,Weakly prefixing,Sakao,Austronesian
 sam,26A,Little affixation,Samoan,Austronesian
 san,26A,Strong prefixing,Sango,Niger-Congo
-sav,26A,Strongly suffixing,Sau,Indo-European
-scr,26A,Strongly suffixing,Serbocroat,Indo-European
+sav,26A,Strongly suffixing,Savi,Indo-European
+scr,26A,Strongly suffixing,Serbian-Croatian,Indo-European
 sed,26A,Little affixation,Sedang,Austro-Asiatic
-sem,26A,Weakly suffixing,"Naga, Sumi",Sino-Tibetan
+sem,26A,Weakly suffixing,Sema,Sino-Tibetan
 ser,26A,Strong prefixing,Seri,Hokan
-shi,26A,Strongly suffixing,Ninam,Yanomam
-shk,26A,Strongly suffixing,Shipibo,Panoan
+shi,26A,Strongly suffixing,Shiriana,Yanomam
+shk,26A,Strongly suffixing,Shipibo-Konibo,Panoan
 shl,26A,Equal prefixing and suffixing,Shilluk,Eastern Sudanic
 shm,26A,Strong prefixing,Shambala,Niger-Congo
 shn,26A,Strong prefixing,Shona,Niger-Congo
-sho,26A,Strongly suffixing,Big Smokey Valley Shoshoni,Uto-Aztecan
-shp,26A,Weakly suffixing,Yakima,Penutian
+sho,26A,Strongly suffixing,Shoshone,Uto-Aztecan
+shp,26A,Weakly suffixing,Klikitat,Penutian
 sht,26A,Weakly suffixing,Shatt,Eastern Sudanic
 shu,26A,Equal prefixing and suffixing,Shuswap,Salishan
 sia,26A,Strongly suffixing,Siane,Trans-New Guinea
-sid,26A,Strongly suffixing,Sidamo,Afro-Asiatic
+sid,26A,Strongly suffixing,Sidaama,Afro-Asiatic
 sin,26A,Strongly suffixing,Siona,Tucanoan
 sio,26A,Equal prefixing and suffixing,Sio,Austronesian
-sis,26A,Little affixation,Babatana,Austronesian
+sis,26A,Little affixation,Sisiqa,Austronesian
 siu,26A,Strongly suffixing,Siuslaw,Oregon Coast
-skk,26A,Little affixation,Bhotia,Sino-Tibetan
+skk,26A,Little affixation,Sikkimese,Sino-Tibetan
 skp,26A,Strongly suffixing,Selkup,Uralic
-sla,26A,Strong prefixing,"Slave, Hare dialect",Na-Dene
-slb,26A,Weakly suffixing,Suau,Austronesian
+sla,26A,Strong prefixing,Slave,Na-Dene
+slb,26A,Weakly suffixing,Saliba (in Papua New Guinea),Austronesian
 slo,26A,Strongly suffixing,Slovene,Indo-European
 slp,26A,Strongly suffixing,Selepet,Trans-New Guinea
+smn,26A,Weakly suffixing,Seminole,Muskogean
 sna,26A,Strongly suffixing,Shina,Indo-European
-sng,26A,Weakly prefixing,Sinagoro,Austronesian
+sng,26A,Weakly prefixing,Sinaugoro,Austronesian
 snm,26A,Little affixation,Sanuma,Yanomam
 sno,26A,Strongly suffixing,Saami (Northern),Uralic
 so,26A,Weakly suffixing,So,Eastern Sudanic
 sob,26A,Equal prefixing and suffixing,Sobei,Austronesian
 som,26A,Strongly suffixing,Somali,Afro-Asiatic
-son,26A,Little affixation,Sonsorolese,Austronesian
-spa,26A,Strongly suffixing,Spanish (Peninsular Castilian),Indo-European
+son,26A,Little affixation,Sonsorol-Tobi,Austronesian
+spa,26A,Strongly suffixing,Spanish,Indo-European
 squ,26A,Strongly suffixing,Squamish,Salishan
 src,26A,Weakly prefixing,Sarcee,Na-Dene
 srd,26A,Strongly suffixing,Sardinian,Indo-European
-srn,26A,Weakly prefixing,Siriono,Tupian
+srn,26A,Weakly prefixing,Sirionó,Tupian
 sro,26A,Strongly suffixing,Siroi,Trans-New Guinea
 sta,26A,Strongly suffixing,Santa,Altaic
 sti,26A,Little affixation,Stieng,Austro-Asiatic
@@ -742,49 +757,53 @@ stl,26A,Strongly suffixing,Santali,Austro-Asiatic
 sue,26A,Strongly suffixing,Suena,Trans-New Guinea
 suk,26A,Strongly suffixing,Suki,Gogodala-Suki
 sun,26A,Little affixation,Sundanese,Austronesian
-sup,26A,Weakly suffixing,Suppire,Niger-Congo
-svs,26A,Strongly suffixing,Savsavo,Solomons East Papuan
+sup,26A,Weakly suffixing,Supyire,Niger-Congo
+svs,26A,Strongly suffixing,Savosavo,Solomons East Papuan
 swa,26A,Weakly prefixing,Swahili,Niger-Congo
-syu,26A,Strongly suffixing,Salt (Yui),Trans-New Guinea
-tab,26A,Little affixation,Makian (East),Austronesian
+swe,26A,Strongly suffixing,Swedish,Indo-European
+syu,26A,Strongly suffixing,Salt-Yui,Trans-New Guinea
+tab,26A,Little affixation,Taba,Austronesian
 tac,26A,Strongly suffixing,Tacana,Tacanan
 tag,26A,Little affixation,Tagalog,Austronesian
 tah,26A,Little affixation,Tahitian,Austronesian
-taj,26A,Weakly suffixing,Tajiki,Indo-European
+taj,26A,Weakly suffixing,Tajik,Indo-European
 tak,26A,Equal prefixing and suffixing,Takia,Austronesian
-tam,26A,Strongly suffixing,Tamang,Sino-Tibetan
+tam,26A,Strongly suffixing,Tamang (Eastern),Sino-Tibetan
 tao,26A,Weakly suffixing,Tarao,Sino-Tibetan
-tar,26A,Equal prefixing and suffixing,Tariano,Arawakan
-tas,26A,Weakly prefixing,Shilha,Afro-Asiatic
+tar,26A,Equal prefixing and suffixing,Tariana,Arawakan
+tas,26A,Weakly prefixing,Tashlhiyt,Afro-Asiatic
 tau,26A,Weakly suffixing,Tauya,Trans-New Guinea
-taw,26A,Weakly prefixing,Kehelala,Austronesian
+taw,26A,Weakly prefixing,Tawala,Austronesian
 tbo,26A,Weakly prefixing,Tboli,Austronesian
 tbu,26A,Strongly suffixing,Tubu,Saharan
-tee,26A,Weakly prefixing,d Tepehua,Totonacan
+tee,26A,Weakly prefixing,Tepehua (Huehuetla),Totonacan
 tel,26A,Strongly suffixing,Telugu,Dravidian
-ten,26A,Weakly suffixing,Tenet,Eastern Sudanic
+ten,26A,Weakly suffixing,Tennet,Eastern Sudanic
 teo,26A,Little affixation,Teop,Austronesian
-tep,26A,Equal prefixing and suffixing,Tepehua,Totonacan
+tep,26A,Equal prefixing and suffixing,Tepehua (Tlachichilco),Totonacan
 ter,26A,Strongly suffixing,Tera,Afro-Asiatic
 tes,26A,Strong prefixing,Teso,Eastern Sudanic
-tgh,26A,Weakly prefixing,Ghadames,Afro-Asiatic
+tgh,26A,Weakly prefixing,Tuareg (Ghat),Afro-Asiatic
 tgk,26A,Little affixation,Tigak,Austronesian
-tgl,26A,Strongly suffixing,Monpa,Sino-Tibetan
+tgl,26A,Strongly suffixing,Tshangla,Sino-Tibetan
+tgr,26A,Weakly suffixing,Tigré,Afro-Asiatic
 tha,26A,Little affixation,Thai,Tai-Kadai
-thn,26A,Strongly suffixing,Thami,Sino-Tibetan
-thy,26A,Little affixation,Thaayorre,Pama-Nyungan
+thn,26A,Strongly suffixing,Thangmi,Sino-Tibetan
+thy,26A,Little affixation,Kuuk Thaayorre,Pama-Nyungan
 tid,26A,Strong prefixing,Tidore,West Papuan
 tim,26A,Little affixation,Timugon,Austronesian
-tin,26A,Little affixation,Tiri,Austronesian
-tir,26A,Equal prefixing and suffixing,Trio,Cariban
+tin,26A,Little affixation,Tinrin,Austronesian
+tir,26A,Equal prefixing and suffixing,Tiriyo,Cariban
 tiw,26A,Strong prefixing,Tiwi,Tiwian
-tja,26A,Weakly prefixing,Jamul Tiipay,Hokan
+tja,26A,Weakly prefixing,Tiipay (Jamul),Hokan
 tla,26A,Little affixation,Tolai,Austronesian
 tli,26A,Equal prefixing and suffixing,Tlingit,Na-Dene
 tlo,26A,Equal prefixing and suffixing,Tobelo,West Papuan
 tlp,26A,Equal prefixing and suffixing,Tlapanec,Oto-Manguean
-tma,26A,Weakly suffixing,Tamok,Eastern Sudanic
-tmn,26A,Weakly prefixing,Ronge,Eastern Sudanic
+tma,26A,Weakly suffixing,Tama,Eastern Sudanic
+tml,26A,Strongly suffixing,Tamil,Dravidian
+tmn,26A,Weakly prefixing,Temein,Eastern Sudanic
+tmo,26A,Strongly suffixing,Tibetan (Modern Literary),Sino-Tibetan
 tmr,26A,Strong prefixing,Temiar,Austro-Asiatic
 tna,26A,Strong prefixing,Turkana,Eastern Sudanic
 tnc,26A,Strong prefixing,Tanacross,Na-Dene
@@ -792,116 +811,120 @@ tne,26A,Equal prefixing and suffixing,Temne,Niger-Congo
 tng,26A,Little affixation,Tongan,Austronesian
 tnn,26A,Weakly suffixing,Tunen,Niger-Congo
 tno,26A,Weakly prefixing,Tondano,Austronesian
-tny,26A,Strongly suffixing,Karaboro,Niger-Congo
+tny,26A,Strongly suffixing,Tenyer,Niger-Congo
 tob,26A,Equal prefixing and suffixing,Toba,Guaicuruan
-tot,26A,Equal prefixing and suffixing,"Totonac, Yecuatla",Totonacan
-tou,26A,Weakly prefixing,Tusya,Niger-Congo
-toz,26A,Strong prefixing,Tonga,Niger-Congo
+tot,26A,Equal prefixing and suffixing,Totonac (Misantla),Totonacan
+tou,26A,Weakly prefixing,Southern Toussian,Niger-Congo
+toz,26A,Strong prefixing,Tonga (in Zambia),Niger-Congo
 tpn,26A,Equal prefixing and suffixing,Tepehuan (Northern),Uto-Aztecan
-tpt,26A,Equal prefixing and suffixing,Tapiete,Tupian
+tpt,26A,Equal prefixing and suffixing,Tapieté,Tupian
 trb,26A,Strongly suffixing,Teribe,Chibchan
-tri,26A,Equal prefixing and suffixing,Copala-Trique,Oto-Manguean
+tri,26A,Equal prefixing and suffixing,Trique (Copala),Oto-Manguean
+trm,26A,Strongly suffixing,Tirmaga,Eastern Sudanic
 trr,26A,Strongly suffixing,Tairora,Trans-New Guinea
-tsh,26A,Strongly suffixing,Panamint,Uto-Aztecan
-tsi,26A,Weakly suffixing,Tsimshian,Penutian
-tsk,26A,Equal prefixing and suffixing,Tamasheq,Afro-Asiatic
-tsz,26A,Weakly suffixing,Dido,Nakh-Daghestanian
+tsh,26A,Strongly suffixing,Tümpisa Shoshone,Uto-Aztecan
+tsi,26A,Weakly suffixing,Tsimshian (Coast),Penutian
+tsk,26A,Equal prefixing and suffixing,Tamashek,Afro-Asiatic
+tsz,26A,Weakly suffixing,Tsez,Nakh-Daghestanian
 tte,26A,Equal prefixing and suffixing,Tutelo,Siouan
 ttn,26A,Little affixation,Tetun,Austronesian
-ttu,26A,Strongly suffixing,Bats,Nakh-Daghestanian
+ttu,26A,Strongly suffixing,Tsova-Tush,Nakh-Daghestanian
 tuc,26A,Strongly suffixing,Tucano,Tucanoan
-tuk,26A,Weakly prefixing,Tukang-Besi,Austronesian
+tuk,26A,Weakly prefixing,Tukang Besi,Austronesian
 tur,26A,Strongly suffixing,Turkish,Altaic
 tus,26A,Weakly prefixing,Tuscarora,Iroquoian
-tuv,26A,Strongly suffixing,Tuva,Altaic
-tvo,26A,Strongly suffixing,Volga Tatar,Altaic
-twe,26A,Strongly suffixing,Western Tarahumara,Uto-Aztecan
-twn,26A,Equal prefixing and suffixing,Taos,Kiowa-Tanoan
-txj,26A,Equal prefixing and suffixing,Totonaca (Xicotepec de Juaréz),Totonacan
+tuv,26A,Strongly suffixing,Tuvan,Altaic
+tvo,26A,Strongly suffixing,Tatar,Altaic
+twe,26A,Strongly suffixing,Tarahumara (Western),Uto-Aztecan
+twn,26A,Equal prefixing and suffixing,Tiwa (Northern),Kiowa-Tanoan
+txj,26A,Equal prefixing and suffixing,Totonac (Xicotepec de Juárez),Totonacan
 tzo,26A,Equal prefixing and suffixing,Tzotzil,Mayan
 tzu,26A,Strong prefixing,Tzutujil,Mayan
-uby,26A,Equal prefixing and suffixing,Ubyx,Northwest Caucasian
+uby,26A,Equal prefixing and suffixing,Ubykh,Northwest Caucasian
 udi,26A,Strongly suffixing,Udi,Nakh-Daghestanian
 udm,26A,Strongly suffixing,Udmurt,Uralic
-uhi,26A,Strongly suffixing,Otati,Pama-Nyungan
+uhi,26A,Strongly suffixing,Uradhi,Pama-Nyungan
 ukr,26A,Strongly suffixing,Ukrainian,Indo-European
-uld,26A,Strong prefixing,Wuzlam,Afro-Asiatic
+uld,26A,Strong prefixing,Uldeme,Afro-Asiatic
 uli,26A,Little affixation,Ulithian,Austronesian
-una,26A,Strongly suffixing,Goliath,Trans-New Guinea
+una,26A,Strongly suffixing,Una,Trans-New Guinea
 ung,26A,Little affixation,Ungarinjin,Worrorran
 urd,26A,Strongly suffixing,Urdu,Indo-European
-urk,26A,Weakly prefixing,Urubu,Tupian
+urk,26A,Weakly prefixing,Urubú-Kaapor,Tupian
 url,26A,Little affixation,Urak Lawoi',Austronesian
 urt,26A,Little affixation,Urat,Torricelli
-usr,26A,Weakly suffixing,Auyana,Trans-New Guinea
-uyg,26A,Strongly suffixing,Uighur,Altaic
-uzb,26A,Strongly suffixing,"Uzbek, Southern",Altaic
+usr,26A,Weakly suffixing,Usarufa,Trans-New Guinea
+ute,26A,Strongly suffixing,Ute,Uto-Aztecan
+uyg,26A,Strongly suffixing,Uyghur,Altaic
+uzb,26A,Strongly suffixing,Uzbek,Altaic
 vai,26A,Little affixation,Vai,Mande
 vie,26A,Little affixation,Vietnamese,Austro-Asiatic
 wah,26A,Strongly suffixing,Wahgi,Trans-New Guinea
 wak,26A,Strongly suffixing,Wakhi,Indo-European
-wal,26A,Weakly prefixing,Valman,Torricelli
+wal,26A,Weakly prefixing,Walman,Torricelli
 wam,26A,Strongly suffixing,Wambaya,Mirndi
 wap,26A,Strongly suffixing,Wappo,Wappo-Yukian
-war,26A,Little affixation,Pakaasnovos,Chapacura-Wanham
-wat,26A,Strongly suffixing,Wadjari,Pama-Nyungan
+war,26A,Little affixation,Wari',Chapacura-Wanham
+wat,26A,Strongly suffixing,Watjarri,Pama-Nyungan
 wau,26A,Strongly suffixing,Waunana,Choco
 wbn,26A,Strongly suffixing,Wambon,Trans-New Guinea
-wch,26A,Equal prefixing and suffixing,Matako,Matacoan
+wch,26A,Equal prefixing and suffixing,Wichí,Matacoan
 wed,26A,Weakly suffixing,Wedau,Austronesian
-wem,26A,Strongly suffixing,Wemba Wemba,Pama-Nyungan
+wel,26A,Strongly suffixing,Welsh,Indo-European
+wem,26A,Strongly suffixing,Wembawemba,Pama-Nyungan
 wic,26A,Weakly prefixing,Wichita,Caddoan
-wik,26A,Strongly suffixing,Yokuts (Wikchamni),Penutian
-win,26A,Strongly suffixing,Wintun,Penutian
+wik,26A,Strongly suffixing,Wikchamni,Penutian
+win,26A,Strongly suffixing,Wintu,Penutian
 wiy,26A,Strongly suffixing,Wiyot,Algic
 wlf,26A,Little affixation,Wolof,Niger-Congo
 wlo,26A,Equal prefixing and suffixing,Wolio,Austronesian
-wly,26A,Strongly suffixing,Wolaitta,Afro-Asiatic
+wly,26A,Strongly suffixing,Wolaytta,Afro-Asiatic
 wma,26A,Strong prefixing,West Makian,West Papuan
-wmu,26A,Strongly suffixing,Wik-Mungkan,Pama-Nyungan
+wmu,26A,Strongly suffixing,Wik Munkan,Pama-Nyungan
 wol,26A,Little affixation,Woleaian,Austronesian
-wrb,26A,Strongly suffixing,Kuurn Kopan Noot,Pama-Nyungan
+wrb,26A,Strongly suffixing,Warrnambool,Pama-Nyungan
 wrd,26A,Equal prefixing and suffixing,Wardaman,Yangmanic
 wrg,26A,Strongly suffixing,Warrgamay,Pama-Nyungan
-wrk,26A,Weakly suffixing,Guarequena,Arawakan
+wrk,26A,Weakly suffixing,Warekena,Arawakan
 wrl,26A,Strongly suffixing,Warlpiri,Pama-Nyungan
 wrn,26A,Equal prefixing and suffixing,Warndarang,Mangarrayi-Maran
-wrw,26A,Weakly prefixing,Warwa,Nyulnyulan
+wrw,26A,Weakly prefixing,Warrwa,Nyulnyulan
 wsk,26A,Strongly suffixing,Waskia,Trans-New Guinea
-xar,26A,Little affixation,Xaracuu,Austronesian
-xas,26A,Little affixation,Xasonke,Mande
-xav,26A,Weakly prefixing,Chavante,Macro-Ge
+xar,26A,Little affixation,Xârâcùù,Austronesian
+xas,26A,Little affixation,Xasonga,Mande
+xav,26A,Weakly prefixing,Xavánte,Macro-Ge
 xbi,26A,Little affixation,Kombio,Torricelli
 xho,26A,Strong prefixing,Xhosa,Niger-Congo
 yag,26A,Strongly suffixing,Yagua,Peba-Yaguan
-yal,26A,Strongly suffixing,Kosarek,Trans-New Guinea
+yal,26A,Strongly suffixing,Yale (Kosarek),Trans-New Guinea
 yap,26A,Little affixation,Yapese,Austronesian
 yaq,26A,Strongly suffixing,Yaqui,Uto-Aztecan
 yar,26A,Strongly suffixing,Yareba,Yareban
-ygr,26A,Equal prefixing and suffixing,"Yagaria, Move dialect",Trans-New Guinea
+ygr,26A,Equal prefixing and suffixing,Yagaria,Trans-New Guinea
 yid,26A,Strongly suffixing,Yidiny,Pama-Nyungan
 yim,26A,Equal prefixing and suffixing,Yimas,Lower Sepik-Ramu
 yin,26A,Strongly suffixing,Yindjibarndi,Pama-Nyungan
-yko,26A,Strongly suffixing,Kolyma,Yukaghir
+yko,26A,Strongly suffixing,Yukaghir (Kolyma),Yukaghir
 ykt,26A,Strongly suffixing,Yakut,Altaic
-yng,26A,Strongly suffixing,Yinggarda,Pama-Nyungan
-yok,26A,Strongly suffixing,Yokutsan,Penutian
+yng,26A,Strongly suffixing,Yingkarta,Pama-Nyungan
+yok,26A,Strongly suffixing,Yokuts (Yaudanchi),Penutian
 yor,26A,Little affixation,Yoruba,Niger-Congo
-ypk,26A,Strongly suffixing,Yupik (General Central),Eskimo-Aleut
-ytu,26A,Strongly suffixing,"Yukaghir, Tundra dialect",Yukaghir
-yuk,26A,Strongly suffixing,Yugulda,Tangkic
+ypk,26A,Strongly suffixing,Yup'ik (Central),Eskimo-Aleut
+ytu,26A,Strongly suffixing,Yukaghir (Tundra),Yukaghir
+yuk,26A,Strongly suffixing,Yukulta,Tangkic
+yul,26A,Equal prefixing and suffixing,Yulu,Central Sudanic
 yur,26A,Weakly suffixing,Yurok,Algic
-yuw,26A,Strongly suffixing,Gamilaraay,Pama-Nyungan
-ywl,26A,Strongly suffixing,Yokuts (Yawelmani),Penutian
-zag,26A,Weakly suffixing,Zagawa,Saharan
-zai,26A,Equal prefixing and suffixing,"Zapotec, Isthmus",Oto-Manguean
+yuw,26A,Strongly suffixing,Yuwaalaraay,Pama-Nyungan
+ywl,26A,Strongly suffixing,Yawelmani,Penutian
+zag,26A,Weakly suffixing,Beria,Saharan
+zai,26A,Equal prefixing and suffixing,Zapotec (Isthmus),Oto-Manguean
 zan,26A,Equal prefixing and suffixing,Zande,Niger-Congo
-zap,26A,Equal prefixing and suffixing,Mitla Zapotec,Oto-Manguean
+zap,26A,Equal prefixing and suffixing,Zapotec (Mitla),Oto-Manguean
 zay,26A,Strongly suffixing,Zayse,Afro-Asiatic
-zhn,26A,Little affixation,Zhuang,Tai-Kadai
+zhn,26A,Little affixation,Zhuang (Northern),Tai-Kadai
 zpr,26A,Weakly suffixing,Zaparo,Zaparoan
-zqc,26A,Equal prefixing and suffixing,Copainalá Zoque,Mixe-Zoque
-zqo,26A,Equal prefixing and suffixing,Ostuacan Zoque,Mixe-Zoque
+zqc,26A,Equal prefixing and suffixing,Zoque (Copainalá),Mixe-Zoque
+zqo,26A,Equal prefixing and suffixing,Zoque (Ostuacan),Mixe-Zoque
 zqs,26A,Equal prefixing and suffixing,Popoluca (Sierra),Mixe-Zoque
-zul,26A,Strong prefixing,IsiZulu,Niger-Congo
-zzo,26A,Equal prefixing and suffixing,"Zapotec, Zoogocho",Oto-Manguean
+zul,26A,Strong prefixing,Zulu,Niger-Congo
+zzo,26A,Equal prefixing and suffixing,Zapotec (Zoogocho),Oto-Manguean

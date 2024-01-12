@@ -1,161 +1,167 @@
 Language_ID,Parameter_ID,Value,Name,Family
-abi,44A,No gender distinctions,Abipon,Guaicuruan
+abi,44A,No gender distinctions,Abipón,Guaicuruan
 abk,44A,In 3rd person + 1st and/or 2nd person,Abkhaz,Northwest Caucasian
 abn,44A,No gender distinctions,Arabana,Pama-Nyungan
-abu,44A,3rd person singular only,Yimbun,West Papuan
-ace,44A,No gender distinctions,Achinese,Austronesian
+abu,44A,3rd person singular only,Abun,West Papuan
+ace,44A,No gender distinctions,Acehnese,Austronesian
 acm,44A,No gender distinctions,Achumawi,Hokan
 adz,44A,No gender distinctions,Adzera,Austronesian
-aeg,44A,In 3rd person + 1st and/or 2nd person,Egyptian Colloquial Arabic,Afro-Asiatic
+aeg,44A,In 3rd person + 1st and/or 2nd person,Arabic (Egyptian),Afro-Asiatic
 ala,44A,3rd person singular only,Alamblak,Sepik
 alb,44A,"3rd person only, but also non-singular",Albanian,Indo-European
 ame,44A,No gender distinctions,Amele,Trans-New Guinea
 amh,44A,In 3rd person + 1st and/or 2nd person,Amharic,Afro-Asiatic
 amu,44A,No gender distinctions,Amuesha,Arawakan
 ana,44A,No gender distinctions,Araona,Tacanan
-ani,44A,In 3rd person + 1st and/or 2nd person,||Ani,Khoe-Kwadi
-anj,44A,No gender distinctions,Aneityum,Austronesian
-apu,44A,3rd person singular only,Apurina,Arawakan
-ara,44A,3rd person singular only,Arawak,Arawakan
-arm,44A,No gender distinctions,Eastern Armenian,Indo-European
-arp,44A,"3rd person only, but also non-singular",Bukiyip,Torricelli
-asm,44A,No gender distinctions,Asmat (Flamingo Bay),Trans-New Guinea
+ani,44A,In 3rd person + 1st and/or 2nd person,//Ani,Khoe-Kwadi
+anj,44A,No gender distinctions,Anejom,Austronesian
+apu,44A,3rd person singular only,Apurinã,Arawakan
+ara,44A,3rd person singular only,Lokono,Arawakan
+arm,44A,No gender distinctions,Armenian (Eastern),Indo-European
+arp,44A,"3rd person only, but also non-singular",Arapesh (Mountain),Torricelli
+asm,44A,No gender distinctions,Asmat,Trans-New Guinea
 ata,44A,No gender distinctions,Atayal,Austronesian
 au,44A,"3rd person only, but also non-singular",Au,Torricelli
-awp,44A,No gender distinctions,Cuaiquer,Barbacoan
-awt,44A,3rd person singular only,Autu,Sepik
-aym,44A,No gender distinctions,Aymara,Aymaran
+awp,44A,No gender distinctions,Awa Pit,Barbacoan
+awt,44A,3rd person singular only,Awtuw,Sepik
+aym,44A,No gender distinctions,Aymara (Central),Aymaran
 baa,44A,No gender distinctions,Barai,Trans-New Guinea
 bab,44A,"3rd person only, but also non-singular",Babungo,Niger-Congo
 bag,44A,No gender distinctions,Bagirmi,Central Sudanic
 bam,44A,No gender distinctions,Bambara,Mande
-bar,44A,No gender distinctions,Beri,Eastern Sudanic
-baw,44A,No gender distinctions,Bom,Sino-Tibetan
+bar,44A,No gender distinctions,Bari,Eastern Sudanic
+baw,44A,No gender distinctions,Bawm,Sino-Tibetan
 bej,44A,In 3rd person + 1st and/or 2nd person,Beja,Afro-Asiatic
-bkr,44A,No gender distinctions,Karo Batak,Austronesian
+bkr,44A,No gender distinctions,Batak (Karo),Austronesian
 bln,44A,3rd person singular only,Bilin,Afro-Asiatic
-bma,44A,In 3rd person + 1st and/or 2nd person,Tamazight (Middle Atlas),Afro-Asiatic
-bnj,44A,3rd person singular only,Bundjalung,Pama-Nyungan
+bma,44A,In 3rd person + 1st and/or 2nd person,Berber (Middle Atlas),Afro-Asiatic
+bnj,44A,3rd person singular only,Bandjalang,Pama-Nyungan
 brh,44A,No gender distinctions,Brahui,Dravidian
 bri,44A,No gender distinctions,Bribri,Chibchan
 brm,44A,3rd person singular only,Burmese,Sino-Tibetan
 brn,44A,1st or 2nd person but not 3rd,Burunge,Afro-Asiatic
-bro,44A,No gender distinctions,Torres Strait Creole,other
+bro,44A,No gender distinctions,Broken,other
 brr,44A,No gender distinctions,Bororo,Bororoan
-brs,44A,3rd person singular only,Barasano (Southern),Tucanoan
-bya,44A,No gender distinctions,Byangsi,Sino-Tibetan
+brs,44A,3rd person singular only,Barasano,Tucanoan
+bya,44A,No gender distinctions,Byansi,Sino-Tibetan
 cah,44A,No gender distinctions,Cahuilla,Uto-Aztecan
 cap,44A,No gender distinctions,Capanahua,Panoan
-car,44A,"3rd person only, but also non-singular",Galibi,Cariban
+car,44A,"3rd person only, but also non-singular",Carib,Cariban
 cav,44A,No gender distinctions,Cavineña,Tacanan
-cax,44A,"3rd person only, but also non-singular",Ashaninca,Arawakan
-cba,44A,No gender distinctions,Chumash (Barbareno),Chumash
-cbo,44A,No gender distinctions,Chacobo,Panoan
+cax,44A,"3rd person only, but also non-singular",Campa (Axininca),Arawakan
+cba,44A,No gender distinctions,Chumash (Barbareño),Chumash
+cbo,44A,No gender distinctions,Chácobo,Panoan
 cha,44A,No gender distinctions,Chamorro,Austronesian
 chk,44A,No gender distinctions,Chukchi,Chukotko-Kamchatkan
 chr,44A,No gender distinctions,Chrau,Austro-Asiatic
 ckl,44A,3rd person singular only,Chinook (Lower),Penutian
-cle,44A,No gender distinctions,San Juan Chinanteco Lealao,Oto-Manguean
+cle,44A,No gender distinctions,Chinantec (Lealao),Oto-Manguean
 cmn,44A,No gender distinctions,Comanche,Uto-Aztecan
 cmx,44A,No gender distinctions,Comox,Salishan
 cnl,44A,No gender distinctions,Canela,Macro-Ge
-coo,44A,No gender distinctions,Coos,Oregon Coast
+coo,44A,No gender distinctions,Coos (Hanis),Oregon Coast
 cop,44A,In 3rd person + 1st and/or 2nd person,Coptic,Afro-Asiatic
 cor,44A,No gender distinctions,Cora,Uto-Aztecan
 cpn,44A,No gender distinctions,Chepang,Sino-Tibetan
-cre,44A,3rd person singular only,Cree,Algic
-cri,44A,No gender distinctions,Crimean Turkish,Altaic
+cre,44A,3rd person singular only,Cree (Plains),Algic
+cri,44A,No gender distinctions,Crimean Tatar,Altaic
 cub,44A,3rd person singular only,Cubeo,Tucanoan
 dag,44A,No gender distinctions,Daga,Dagan
-dga,44A,3rd person non-singular only,Dagara,Niger-Congo
+dga,44A,3rd person non-singular only,Dagaare,Niger-Congo
 dgr,44A,No gender distinctions,Dagur,Altaic
-dio,44A,"3rd person only, but also non-singular",Diola,Niger-Congo
+dio,44A,"3rd person only, but also non-singular",Diola-Fogny,Niger-Congo
 diz,44A,3rd person singular only,Dizi,Afro-Asiatic
-dni,44A,No gender distinctions,Dani (Grand Valley),Trans-New Guinea
-don,44A,No gender distinctions,Kam,Tai-Kadai
-doy,44A,No gender distinctions,Dayãyo,Niger-Congo
-dre,44A,"3rd person only, but also non-singular",Dehu,Austronesian
-dum,44A,In 3rd person + 1st and/or 2nd person,Vanimo,Skou
-eka,44A,No gender distinctions,Ekagi,Trans-New Guinea
+dni,44A,No gender distinctions,Dani (Lower Grand Valley),Trans-New Guinea
+don,44A,No gender distinctions,Dong (Southern),Tai-Kadai
+doy,44A,No gender distinctions,Doyayo,Niger-Congo
+dre,44A,"3rd person only, but also non-singular",Drehu,Austronesian
+dum,44A,In 3rd person + 1st and/or 2nd person,Dumo,Skou
+dut,44A,3rd person singular only,Dutch,Indo-European
+eka,44A,No gender distinctions,Ekari,Trans-New Guinea
 eng,44A,3rd person singular only,English,Indo-European
-epe,44A,No gender distinctions,Saija,Choco
-err,44A,No gender distinctions,Sie,Austronesian
+epe,44A,No gender distinctions,Epena Pedee,Choco
+err,44A,No gender distinctions,Erromangan,Austronesian
 eve,44A,No gender distinctions,Evenki,Altaic
-fij,44A,No gender distinctions,Nadroga,Austronesian
+ewe,44A,No gender distinctions,Ewe,Niger-Congo
+fij,44A,No gender distinctions,Fijian,Austronesian
 fin,44A,No gender distinctions,Finnish,Uralic
 fre,44A,3rd person singular only,French,Indo-European
-fua,44A,"3rd person only, but also non-singular",Fulfulde (Cameroonian),Niger-Congo
+fua,44A,"3rd person only, but also non-singular",Fulfulde (Adamawa),Niger-Congo
 gar,44A,No gender distinctions,Garo,Sino-Tibetan
 geo,44A,No gender distinctions,Georgian,Kartvelian
-gmw,44A,No gender distinctions,Gumasi,Austronesian
+ger,44A,3rd person singular only,German,Indo-European
+gmw,44A,No gender distinctions,Gumawana,Austronesian
 god,44A,"3rd person only, but also non-singular",Godoberi,Nakh-Daghestanian
-goo,44A,No gender distinctions,Guniyan,Bunuban
+goo,44A,No gender distinctions,Gooniyandi,Bunuban
 grb,44A,"3rd person only, but also non-singular",Grebo,Niger-Congo
-grk,44A,3rd person singular only,Modern Greek,Indo-European
-grw,44A,No gender distinctions,Greenland Eskimo (West),Eskimo-Aleut
-gua,44A,No gender distinctions,Guarani (Paraguayan),Tupian
+grk,44A,3rd person singular only,Greek (Modern),Indo-European
+grw,44A,No gender distinctions,Greenlandic (West),Eskimo-Aleut
+gua,44A,No gender distinctions,Guaraní,Tupian
 gud,44A,3rd person singular only,Gude,Afro-Asiatic
 guu,44A,No gender distinctions,Guugu Yimidhirr,Pama-Nyungan
 ham,44A,"3rd person only, but also non-singular",Hamtai,Trans-New Guinea
-hat,44A,No gender distinctions,Hattam,West Papuan
+hat,44A,No gender distinctions,Hatam,West Papuan
 hau,44A,In 3rd person + 1st and/or 2nd person,Hausa,Afro-Asiatic
-heb,44A,In 3rd person + 1st and/or 2nd person,Modern Hebrew,Afro-Asiatic
+heb,44A,In 3rd person + 1st and/or 2nd person,Hebrew (Modern),Afro-Asiatic
 hin,44A,No gender distinctions,Hindi,Indo-European
-hix,44A,"3rd person only, but also non-singular",Hishkariana,Cariban
-hlu,44A,"3rd person only, but also non-singular",Halkomelem,Salishan
-hmo,44A,No gender distinctions,Mong Njua,Hmong-Mien
-hmr,44A,No gender distinctions,Hamar,Afro-Asiatic
-hmu,44A,"3rd person only, but also non-singular",Witoto Muinane,Huitotoan
+hix,44A,"3rd person only, but also non-singular",Hixkaryana,Cariban
+hlu,44A,"3rd person only, but also non-singular",Halkomelem (Upriver),Salishan
+hmo,44A,No gender distinctions,Hmong Njua,Hmong-Mien
+hmr,44A,No gender distinctions,Hamer,Afro-Asiatic
+hmu,44A,"3rd person only, but also non-singular",Huitoto (Muinane),Huitotoan
+hua,44A,No gender distinctions,Hua,Trans-New Guinea
 hun,44A,No gender distinctions,Hungarian,Uralic
 hzb,44A,No gender distinctions,Hunzib,Nakh-Daghestanian
 igb,44A,No gender distinctions,Igbo,Niger-Congo
-ijo,44A,3rd person singular only,Kolokuma,Ijoid
-ika,44A,No gender distinctions,Ica,Chibchan
+ijo,44A,3rd person singular only,Ijo (Kolokuma),Ijoid
+ika,44A,No gender distinctions,Ika,Chibchan
 imo,44A,No gender distinctions,Imonda,Border
+ind,44A,No gender distinctions,Indonesian,Austronesian
 ing,44A,No gender distinctions,Ingush,Nakh-Daghestanian
 iqu,44A,No gender distinctions,Iquito,Zaparoan
-iri,44A,3rd person singular only,Gaelic,Indo-European
+iri,44A,3rd person singular only,Irish,Indo-European
 irq,44A,1st or 2nd person but not 3rd,Iraqw,Afro-Asiatic
-ita,44A,3rd person singular only,Italian (Roman),Indo-European
-jak,44A,No gender distinctions,Jacaltec,Mayan
+ita,44A,3rd person singular only,Italian,Indo-European
+jak,44A,No gender distinctions,Jakaltek,Mayan
 jaq,44A,No gender distinctions,Jaqaru,Aymaran
-juh,44A,"3rd person only, but also non-singular",Zhu-/Hoa (Si),Kxa
+juh,44A,"3rd person only, but also non-singular",Ju|'hoan,Kxa
 kas,44A,"3rd person only, but also non-singular",Kashmiri,Indo-European
-kay,44A,No gender distinctions,Gayardilt,Tangkic
-kch,44A,No gender distinctions,"Songhay, Koyra Chiini dialect",Songhay
+kay,44A,No gender distinctions,Kayardild,Tangkic
+kch,44A,No gender distinctions,Koyra Chiini,Songhay
 ker,44A,In 3rd person + 1st and/or 2nd person,Kera,Afro-Asiatic
 ket,44A,No gender distinctions,Ket,Yeniseian
 kew,44A,No gender distinctions,Kewa,Trans-New Guinea
-kfe,44A,"3rd person only, but also non-singular",Kurumfe,Niger-Congo
+kfe,44A,"3rd person only, but also non-singular",Koromfe,Niger-Congo
 kgu,44A,No gender distinctions,Kalkatungu,Pama-Nyungan
 kha,44A,No gender distinctions,Khalkha,Altaic
 khm,44A,No gender distinctions,Khmer,Austro-Asiatic
 kho,44A,In 3rd person + 1st and/or 2nd person,Nama,Khoe-Kwadi
 khs,44A,3rd person singular only,Khasi,Austro-Asiatic
 kio,44A,No gender distinctions,Kiowa,Kiowa-Tanoan
-kis,44A,No gender distinctions,Gizi,Niger-Congo
-kjo,44A,No gender distinctions,Kondjo,Austronesian
-kkv,44A,No gender distinctions,Kandoka-Lusi,Austronesian
-klk,44A,No gender distinctions,Ko,Niger-Congo
+kis,44A,No gender distinctions,Kisi,Niger-Congo
+kjo,44A,No gender distinctions,Konjo,Austronesian
+kkv,44A,No gender distinctions,Lusi,Austronesian
+klk,44A,No gender distinctions,Koh,Niger-Congo
 klv,44A,3rd person singular only,Kilivila,Austronesian
 kmu,44A,In 3rd person + 1st and/or 2nd person,Khmu',Austro-Asiatic
-kna,44A,No gender distinctions,Karitiana,Tupian
+kna,44A,No gender distinctions,Karitiâna,Tupian
 knd,44A,"3rd person only, but also non-singular",Kannada,Dravidian
 knr,44A,No gender distinctions,Kanuri,Saharan
 koa,44A,No gender distinctions,Koasati,Muskogean
 kob,44A,No gender distinctions,Kobon,Trans-New Guinea
 kom,44A,3rd person singular only,Komo,Koman
-kon,44A,"3rd person only, but also non-singular",Kikongo,Niger-Congo
+kon,44A,"3rd person only, but also non-singular",Kongo,Niger-Congo
 kos,44A,No gender distinctions,Kosraean,Austronesian
 kpm,44A,No gender distinctions,Kapampangan,Austronesian
-krb,44A,No gender distinctions,Gilbertese,Austronesian
+krb,44A,No gender distinctions,Kiribati,Austronesian
+krd,44A,No gender distinctions,Kurdish (Central),Indo-European
 kro,44A,3rd person singular only,Krongo,Kadu
-kse,44A,No gender distinctions,Songhay (Koyraboro Senni),Songhay
+kse,44A,No gender distinctions,Koyraboro Senni,Songhay
 ktl,44A,No gender distinctions,Katla,Kordofanian
-kuk,44A,No gender distinctions,Kukú (d. of Bari),Eastern Sudanic
+kuk,44A,No gender distinctions,Kukú,Eastern Sudanic
 kws,44A,"3rd person only, but also non-singular",Kawaiisu,Uto-Aztecan
-kyl,44A,No gender distinctions,Kayah,Sino-Tibetan
-lad,44A,No gender distinctions,Western Tibetan,Sino-Tibetan
+kyl,44A,No gender distinctions,Kayah Li (Eastern),Sino-Tibetan
+lad,44A,No gender distinctions,Ladakhi,Sino-Tibetan
 lah,44A,No gender distinctions,Lahu,Sino-Tibetan
 lak,44A,No gender distinctions,Lak,Nakh-Daghestanian
 lan,44A,No gender distinctions,Lango,Eastern Sudanic
@@ -163,177 +169,180 @@ lat,44A,"3rd person only, but also non-singular",Latvian,Indo-European
 lav,44A,"3rd person only, but also non-singular",Lavukaleve,Solomons East Papuan
 lel,44A,In 3rd person + 1st and/or 2nd person,Lele,Afro-Asiatic
 lep,44A,No gender distinctions,Lepcha,Sino-Tibetan
-lez,44A,No gender distinctions,Lezgi,Nakh-Daghestanian
+lez,44A,No gender distinctions,Lezgian,Nakh-Daghestanian
 lim,44A,No gender distinctions,Limbu,Sino-Tibetan
-lkt,44A,No gender distinctions,Teton,Siouan
-lrk,44A,No gender distinctions,Wakasihu,Austronesian
-luv,44A,"3rd person only, but also non-singular",Lwena,Niger-Congo
-mab,44A,No gender distinctions,Mabang,Maban
-mac,44A,No gender distinctions,Makushi,Cariban
+lkt,44A,No gender distinctions,Lakhota,Siouan
+lrk,44A,No gender distinctions,Larike,Austronesian
+luv,44A,"3rd person only, but also non-singular",Luvale,Niger-Congo
+mab,44A,No gender distinctions,Maba,Maban
+mac,44A,No gender distinctions,Macushi,Cariban
 mak,44A,No gender distinctions,Makah,Wakashan
-mal,44A,No gender distinctions,Malagassy,Austronesian
+mal,44A,No gender distinctions,Malagasy,Austronesian
 mao,44A,No gender distinctions,Maori,Austronesian
-map,44A,No gender distinctions,Mapudungu,Araucanian
+map,44A,No gender distinctions,Mapudungun,Araucanian
 mar,44A,No gender distinctions,Maricopa,Hokan
 mau,44A,"3rd person only, but also non-singular",Maung,Iwaidjan
-may,44A,3rd person singular only,Brat,West Papuan
-mcr,44A,No gender distinctions,Mauritian French Creole,other
+may,44A,3rd person singular only,Maybrat,West Papuan
+mcr,44A,No gender distinctions,Mauritian Creole,other
 mde,44A,No gender distinctions,Mende,Mande
 mei,44A,No gender distinctions,Meithei,Sino-Tibetan
 mis,44A,No gender distinctions,Miskito,Misumalpan
 miz,44A,No gender distinctions,Mizo,Sino-Tibetan
 mku,44A,3rd person singular only,Maranungku,Western Daly
-mle,44A,3rd person singular only,Male (Omotic),Afro-Asiatic
+mle,44A,3rd person singular only,Maale,Afro-Asiatic
 mlk,44A,3rd person singular only,Malakmalak,Northern Daly
-mlm,44A,No gender distinctions,Mrabri,Austro-Asiatic
+mlm,44A,No gender distinctions,Mlabri (Minor),Austro-Asiatic
 mna,44A,No gender distinctions,Muna,Austronesian
-mnd,44A,3rd person singular only,Mandarin Chinese,Sino-Tibetan
-mne,44A,No gender distinctions,Maidu (Mountain),Penutian
-moa,44A,No gender distinctions,Mono Alu,Austronesian
+mnd,44A,3rd person singular only,Mandarin,Sino-Tibetan
+mne,44A,No gender distinctions,Maidu (Northeast),Penutian
+moa,44A,No gender distinctions,Mono-Alu,Austronesian
 moh,44A,3rd person singular only,Mohawk,Iroquoian
 mrd,44A,3rd person singular only,Marind,Anim
 mrl,44A,No gender distinctions,Murle,Eastern Sudanic
-mrt,44A,No gender distinctions,Martuyhunira,Pama-Nyungan
-msl,44A,No gender distinctions,Mesalit,Maban
+mrt,44A,No gender distinctions,Martuthunira,Pama-Nyungan
+msl,44A,No gender distinctions,Masalit,Maban
 msn,44A,No gender distinctions,Maisin,Austronesian
 mss,44A,No gender distinctions,Miwok (Southern Sierra),Penutian
 mum,44A,No gender distinctions,Mumuye,Niger-Congo
-mun,44A,3rd person singular only,Kolh,Austro-Asiatic
-mup,44A,In 3rd person + 1st and/or 2nd person,Sura,Afro-Asiatic
-mxc,44A,No gender distinctions,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-myi,44A,No gender distinctions,Mangarayi,Mangarrayi-Maran
+mun,44A,3rd person singular only,Mundari,Austro-Asiatic
+mup,44A,In 3rd person + 1st and/or 2nd person,Mupun,Afro-Asiatic
+mxc,44A,No gender distinctions,Mixtec (Chalcatongo),Oto-Manguean
+myi,44A,No gender distinctions,Mangarrayi,Mangarrayi-Maran
 nad,44A,No gender distinctions,Nadëb,Nadahup
-nai,44A,No gender distinctions,Gold,Altaic
-nak,44A,No gender distinctions,Bileki,Austronesian
+nai,44A,No gender distinctions,Nanai,Altaic
+nak,44A,No gender distinctions,Nakanai,Austronesian
 nas,44A,3rd person singular only,Nasioi,East Bougainville
 nav,44A,3rd person singular only,Navajo,Na-Dene
-nbd,44A,No gender distinctions,"Nubian, Dongolese",Eastern Sudanic
-nbr,44A,No gender distinctions,Guaymi,Chibchan
+nbd,44A,No gender distinctions,Nubian (Dongolese),Eastern Sudanic
+nbr,44A,No gender distinctions,Ngäbere,Chibchan
 ndo,44A,"3rd person only, but also non-singular",Ndonga,Niger-Congo
-ndy,44A,No gender distinctions,Djuka,other
+ndy,44A,No gender distinctions,Ndyuka,other
 nez,44A,No gender distinctions,Nez Perce,Penutian
-ngi,44A,No gender distinctions,Wongaibon,Pama-Nyungan
-ngk,44A,3rd person singular only,Ngenkikurunggkur,Southern Daly
+ngi,44A,No gender distinctions,Ngiyambaa,Pama-Nyungan
+ngk,44A,3rd person singular only,Ngankikurungkurr,Southern Daly
 ngl,44A,3rd person singular only,Ngalakan,Gunwinyguan
-nht,44A,No gender distinctions,Tetelcingo Nahuatl,Uto-Aztecan
-nko,44A,"3rd person only, but also non-singular",Ciga,Niger-Congo
-nmb,44A,3rd person singular only,Nambikuara (Southern),Nambikuaran
-noo,44A,"3rd person only, but also non-singular",Non,Niger-Congo
-nti,44A,No gender distinctions,Dru,Central Sudanic
+nht,44A,No gender distinctions,Nahuatl (Tetelcingo),Uto-Aztecan
+nko,44A,"3rd person only, but also non-singular",Nkore-Kiga,Niger-Congo
+nmb,44A,3rd person singular only,Nambikuára (Southern),Nambikuaran
+noo,44A,"3rd person only, but also non-singular",Noon,Niger-Congo
+nti,44A,No gender distinctions,Ngiti,Central Sudanic
+ntu,44A,No gender distinctions,Nenets,Uralic
 nug,44A,In 3rd person + 1st and/or 2nd person,Nunggubuyu,Gunwinyguan
 nup,44A,No gender distinctions,Nupe,Niger-Congo
-nuu,44A,No gender distinctions,"Nuuchahnutlh (Tseshaht, Tsishaath)",Wakashan
+nuu,44A,No gender distinctions,Nuuchahnulth,Wakashan
 nyu,44A,No gender distinctions,Nyulnyul,Nyulnyulan
 ond,44A,No gender distinctions,Oneida,Iroquoian
-orh,44A,3rd person singular only,Oromo (Eastern),Afro-Asiatic
+orh,44A,3rd person singular only,Oromo (Harar),Afro-Asiatic
 oss,44A,No gender distinctions,Ossetic,Indo-European
-otm,44A,No gender distinctions,Otomí,Oto-Manguean
+otm,44A,No gender distinctions,Otomí (Mezquital),Oto-Manguean
 pai,44A,No gender distinctions,Paiwan,Austronesian
 pal,44A,No gender distinctions,Palauan,Austronesian
-par,44A,No gender distinctions,Parï,Eastern Sudanic
-pau,44A,3rd person singular only,Paumari,Arauan
-pec,44A,No gender distinctions,Paya,Chibchan
+par,44A,No gender distinctions,Päri,Eastern Sudanic
+pau,44A,3rd person singular only,Paumarí,Arauan
+pec,44A,No gender distinctions,Pech,Chibchan
 pip,44A,No gender distinctions,Pipil,Uto-Aztecan
-pit,44A,No gender distinctions,Pitjantjara = Western Desert,Pama-Nyungan
-plk,44A,"3rd person only, but also non-singular",Palicur,Arawakan
-pms,44A,No gender distinctions,Paama,Austronesian
-pny,44A,No gender distinctions,Panytyima,Pama-Nyungan
+pit,44A,No gender distinctions,Pitjantjatjara,Pama-Nyungan
+plk,44A,"3rd person only, but also non-singular",Palikur,Arawakan
+pms,44A,No gender distinctions,Paamese,Austronesian
+pny,44A,No gender distinctions,Panyjima,Pama-Nyungan
 pol,44A,"3rd person only, but also non-singular",Polish,Indo-European
-prh,44A,"3rd person only, but also non-singular",Mura,Mura
+prh,44A,"3rd person only, but also non-singular",Pirahã,Mura
 prs,44A,3rd person singular only,Persian,Indo-European
-psj,44A,3rd person singular only,Eastern Popoloka,Oto-Manguean
-psm,44A,3rd person singular only,Passamaquoddy,Algic
+psj,44A,3rd person singular only,Popoloca (San Juan Atzingo),Oto-Manguean
+psm,44A,3rd person singular only,Passamaquoddy-Maliseet,Algic
 pso,44A,3rd person singular only,Pomo (Southeastern),Hokan
-pur,44A,No gender distinctions,Tarascan,Tarascan
+pur,44A,No gender distinctions,Purépecha,Tarascan
 qaw,44A,No gender distinctions,Qawasqar,Alacalufan
-qim,44A,No gender distinctions,HighlanKichua,Quechuan
+qim,44A,No gender distinctions,Quechua (Imbabura),Quechuan
 qui,44A,"3rd person only, but also non-singular",Quileute,Chimakuan
 ram,44A,No gender distinctions,Rama,Chibchan
 rap,44A,No gender distinctions,Rapanui,Austronesian
 rem,44A,No gender distinctions,Remo,Austro-Asiatic
-ret,44A,3rd person singular only,Tanimuca,Tucanoan
+ret,44A,3rd person singular only,Retuarã,Tucanoan
 rus,44A,3rd person singular only,Russian,Indo-European
 sah,44A,"3rd person only, but also non-singular",Sahu,West Papuan
 sam,44A,No gender distinctions,Samoan,Austronesian
 san,44A,No gender distinctions,Sango,Niger-Congo
-saw,44A,No gender distinctions,Savu,Austronesian
+saw,44A,No gender distinctions,Sawu,Austronesian
 sel,44A,No gender distinctions,Selknam,Chon
-sem,44A,3rd person singular only,"Naga, Sumi",Sino-Tibetan
-shk,44A,No gender distinctions,Shipibo,Panoan
+sem,44A,3rd person singular only,Sema,Sino-Tibetan
+shk,44A,No gender distinctions,Shipibo-Konibo,Panoan
 siu,44A,No gender distinctions,Siuslaw,Oregon Coast
-sla,44A,No gender distinctions,"Slave, Hare dialect",Na-Dene
+sla,44A,No gender distinctions,Slave,Na-Dene
 slp,44A,No gender distinctions,Selepet,Trans-New Guinea
 sml,44A,No gender distinctions,Semelai,Austro-Asiatic
 snm,44A,No gender distinctions,Sanuma,Yanomam
 so,44A,No gender distinctions,So,Eastern Sudanic
-spa,44A,In 3rd person + 1st and/or 2nd person,Spanish (Peninsular Castilian),Indo-European
+spa,44A,In 3rd person + 1st and/or 2nd person,Spanish,Indo-European
 squ,44A,No gender distinctions,Squamish,Salishan
 srm,44A,No gender distinctions,Saramaccan,other
 sue,44A,No gender distinctions,Suena,Trans-New Guinea
 sun,44A,No gender distinctions,Sundanese,Austronesian
-sup,44A,"3rd person only, but also non-singular",Suppire,Niger-Congo
+sup,44A,"3rd person only, but also non-singular",Supyire,Niger-Congo
 swa,44A,"3rd person only, but also non-singular",Swahili,Niger-Congo
-syu,44A,No gender distinctions,Salt (Yui),Trans-New Guinea
-tab,44A,No gender distinctions,Makian (East),Austronesian
+syu,44A,No gender distinctions,Salt-Yui,Trans-New Guinea
+tab,44A,No gender distinctions,Taba,Austronesian
 tag,44A,No gender distinctions,Tagalog,Austronesian
-tap,44A,3rd person singular only,Gapun,Gapun
+tap,44A,3rd person singular only,Taiap,Gapun
 tau,44A,No gender distinctions,Tauya,Trans-New Guinea
-taw,44A,No gender distinctions,Kehelala,Austronesian
+taw,44A,No gender distinctions,Tawala,Austronesian
 tgk,44A,No gender distinctions,Tigak,Austronesian
 tha,44A,No gender distinctions,Thai,Tai-Kadai
 tid,44A,"3rd person only, but also non-singular",Tidore,West Papuan
-tin,44A,No gender distinctions,Tiri,Austronesian
-tir,44A,"3rd person only, but also non-singular",Trio,Cariban
+tin,44A,No gender distinctions,Tinrin,Austronesian
+tir,44A,"3rd person only, but also non-singular",Tiriyo,Cariban
 tiw,44A,3rd person singular only,Tiwi,Tiwian
-tja,44A,No gender distinctions,Jamul Tiipay,Hokan
+tja,44A,No gender distinctions,Tiipay (Jamul),Hokan
 tla,44A,No gender distinctions,Tolai,Austronesian
 tli,44A,No gender distinctions,Tlingit,Na-Dene
 tmr,44A,No gender distinctions,Temiar,Austro-Asiatic
+tms,44A,No gender distinctions,Tommo So,Dogon
 tna,44A,No gender distinctions,Turkana,Eastern Sudanic
-tot,44A,No gender distinctions,"Totonac, Yecuatla",Totonacan
+tot,44A,No gender distinctions,Totonac (Misantla),Totonacan
 tpn,44A,No gender distinctions,Tepehuan (Northern),Uto-Aztecan
 trb,44A,No gender distinctions,Teribe,Chibchan
-tri,44A,No gender distinctions,Copala-Trique,Oto-Manguean
-tsi,44A,No gender distinctions,Tsimshian,Penutian
+tri,44A,No gender distinctions,Trique (Copala),Oto-Manguean
+tsi,44A,No gender distinctions,Tsimshian (Coast),Penutian
 tso,44A,No gender distinctions,Tsou,Austronesian
-tuk,44A,No gender distinctions,Tukang-Besi,Austronesian
+tuk,44A,No gender distinctions,Tukang Besi,Austronesian
 tur,44A,No gender distinctions,Turkish,Altaic
 tzu,44A,No gender distinctions,Tzutujil,Mayan
 udh,44A,No gender distinctions,Udihe,Altaic
-uhi,44A,No gender distinctions,Otati,Pama-Nyungan
-uma,44A,No gender distinctions,Pipikoro,Austronesian
-una,44A,No gender distinctions,Goliath,Trans-New Guinea
+uhi,44A,No gender distinctions,Uradhi,Pama-Nyungan
+uma,44A,No gender distinctions,Uma,Austronesian
+una,44A,No gender distinctions,Una,Trans-New Guinea
 ung,44A,3rd person singular only,Ungarinjin,Worrorran
 ura,44A,No gender distinctions,Ura,Austronesian
-urk,44A,No gender distinctions,Urubu,Tupian
-usa,44A,No gender distinctions,Wanuma,Trans-New Guinea
+urk,44A,No gender distinctions,Urubú-Kaapor,Tupian
+usa,44A,No gender distinctions,Usan,Trans-New Guinea
 vie,44A,No gender distinctions,Vietnamese,Austro-Asiatic
 wam,44A,No gender distinctions,Wambaya,Mirndi
 wap,44A,No gender distinctions,Wappo,Wappo-Yukian
-war,44A,"3rd person only, but also non-singular",Pakaasnovos,Chapacura-Wanham
+war,44A,"3rd person only, but also non-singular",Wari',Chapacura-Wanham
 wbn,44A,No gender distinctions,Wambon,Trans-New Guinea
-wch,44A,No gender distinctions,Matako,Matacoan
+wch,44A,No gender distinctions,Wichí,Matacoan
+wel,44A,3rd person singular only,Welsh,Indo-European
 wic,44A,No gender distinctions,Wichita,Caddoan
-wik,44A,No gender distinctions,Yokuts (Wikchamni),Penutian
-win,44A,No gender distinctions,Wintun,Penutian
+wik,44A,No gender distinctions,Wikchamni,Penutian
+win,44A,No gender distinctions,Wintu,Penutian
 wma,44A,No gender distinctions,West Makian,West Papuan
 wrd,44A,No gender distinctions,Wardaman,Yangmanic
-wrk,44A,3rd person singular only,Guarequena,Arawakan
+wrk,44A,3rd person singular only,Warekena,Arawakan
 wsk,44A,No gender distinctions,Waskia,Trans-New Guinea
 xok,44A,3rd person singular only,Xokleng,Macro-Ge
 yag,44A,No gender distinctions,Yagua,Peba-Yaguan
 yap,44A,No gender distinctions,Yapese,Austronesian
 yaq,44A,No gender distinctions,Yaqui,Uto-Aztecan
-yel,44A,No gender distinctions,Yele,Yele
-yes,44A,3rd person singular only,Mayo,Sepik
+yel,44A,No gender distinctions,Yelî Dnye,Yele
+yes,44A,3rd person singular only,Yessan-Mayo,Sepik
 yid,44A,No gender distinctions,Yidiny,Pama-Nyungan
 yim,44A,No gender distinctions,Yimas,Lower Sepik-Ramu
-yko,44A,No gender distinctions,Kolyma,Yukaghir
+yko,44A,No gender distinctions,Yukaghir (Kolyma),Yukaghir
 yor,44A,No gender distinctions,Yoruba,Niger-Congo
-ypk,44A,No gender distinctions,Yupik (General Central),Eskimo-Aleut
-yuk,44A,No gender distinctions,Yugulda,Tangkic
+ypk,44A,No gender distinctions,Yup'ik (Central),Eskimo-Aleut
+yuk,44A,No gender distinctions,Yukulta,Tangkic
 yur,44A,No gender distinctions,Yurok,Algic
 zan,44A,3rd person singular only,Zande,Niger-Congo
-zqc,44A,No gender distinctions,Copainalá Zoque,Mixe-Zoque
-zsq,44A,No gender distinctions,Zapotec (San Lucas),Oto-Manguean
-zul,44A,"3rd person only, but also non-singular",IsiZulu,Niger-Congo
+zqc,44A,No gender distinctions,Zoque (Copainalá),Mixe-Zoque
+zsq,44A,No gender distinctions,Zapotec (San Lucas Quiaviní),Oto-Manguean
+zul,44A,"3rd person only, but also non-singular",Zulu,Niger-Congo

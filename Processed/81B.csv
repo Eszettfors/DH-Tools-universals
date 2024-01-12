@@ -1,58 +1,63 @@
 Language_ID,Parameter_ID,Value,Name,Family
-ami,81B,VSO_or_VOS,Ami,Austronesian
-apl,81B,SOV_or_OVS,Apalai,Cariban
-arm,81B,SOV_or_SVO,Eastern Armenian,Indo-European
-asy,81B,SVO_or_VSO,Syrian Arabic,Afro-Asiatic
-avo,81B,SOV_or_SVO,Avukaya,Central Sudanic
-bbu,81B,SVO_or_VSO,Barambo,Niger-Congo
-bch,81B,SVO_or_VSO,Shawiya,Afro-Asiatic
-bkr,81B,SVO_or_VSO,Karo Batak,Austronesian
-btk,81B,SVO_or_VSO,Bontok (Central),Austronesian
-bwc,81B,SVO_or_VSO,"Bajau, West Coast",Austronesian
-dam,81B,SOV_or_SVO,Malayo,Chibchan
-ddj,81B,SOV_or_SVO,d Godie,Niger-Congo
+ajg,81B,SOV_or_SVO,Ajagbe,Niger-Congo
+ami,81B,VSO_or_VOS,Amis,Austronesian
+apl,81B,SOV_or_OVS,Apalaí,Cariban
+arm,81B,SOV_or_SVO,Armenian (Eastern),Indo-European
+asy,81B,SVO_or_VSO,Arabic (Syrian),Afro-Asiatic
+avo,81B,SOV_or_SVO,Avokaya,Central Sudanic
+bbu,81B,SVO_or_VSO,Barambu,Niger-Congo
+bch,81B,SVO_or_VSO,Berber (Chaouia),Afro-Asiatic
+bkr,81B,SVO_or_VSO,Batak (Karo),Austronesian
+btk,81B,SVO_or_VSO,Bontok,Austronesian
+bwc,81B,SVO_or_VSO,Bajau (West Coast),Austronesian
+cai,81B,SOV_or_SVO,Chai,Eastern Sudanic
+dam,81B,SOV_or_SVO,Damana,Chibchan
+ddj,81B,SOV_or_SVO,Dadjriwalé,Niger-Congo
 dgo,81B,SOV_or_SVO,Dongo,Niger-Congo
-din,81B,SOV_or_SVO,Jieng (Dinka),Eastern Sudanic
-dre,81B,SVO_or_VOS,Dehu,Austronesian
-fij,81B,VSO_or_VOS,Nadroga,Austronesian
-gku,81B,SVO_or_VOS,Puelche,Chon
-grk,81B,SVO_or_VSO,Modern Greek,Indo-European
-grr,81B,SVO_or_VSO,Garawa,Garrwan
+din,81B,SOV_or_SVO,Dinka,Eastern Sudanic
+dre,81B,SVO_or_VOS,Drehu,Austronesian
+dut,81B,SOV_or_SVO,Dutch,Indo-European
+fij,81B,VSO_or_VOS,Fijian,Austronesian
+fri,81B,SOV_or_SVO,Frisian,Indo-European
+ger,81B,SOV_or_SVO,German,Indo-European
+gku,81B,SVO_or_VOS,Gününa Küne,Chon
+grk,81B,SVO_or_VSO,Greek (Modern),Indo-European
+grr,81B,SVO_or_VSO,Garrwa,Garrwan
 gwa,81B,SOV_or_SVO,Gwari,Niger-Congo
 hun,81B,SOV_or_SVO,Hungarian,Uralic
 ina,81B,SOV_or_SVO,Inanwatan,South Bird's Head
-kis,81B,SOV_or_SVO,Gizi,Niger-Congo
+kis,81B,SOV_or_SVO,Kisi,Niger-Congo
 klv,81B,SVO_or_VOS,Kilivila,Austronesian
-kwk,81B,SVO_or_VSO,Kwakwala,Wakashan
-lac,81B,SVO_or_VOS,Lacandon,Mayan
-ldu,81B,SOV_or_SVO,Bale,Central Sudanic
-lgt,81B,SOV_or_SVO,Logo,Central Sudanic
-lug,81B,SOV_or_SVO,Logbara,Central Sudanic
-mac,81B,SOV_or_OVS,Makushi,Cariban
-mad,81B,SOV_or_SVO,Madi,Central Sudanic
-meh,81B,SVO_or_VSO,Mahri,Afro-Asiatic
+kwk,81B,SVO_or_VSO,Kwakw'ala,Wakashan
+lac,81B,SVO_or_VOS,Lacandón,Mayan
+ldu,81B,SOV_or_SVO,Lendu,Central Sudanic
+lgt,81B,SOV_or_SVO,Logoti,Central Sudanic
+lug,81B,SOV_or_SVO,Lugbara,Central Sudanic
+mac,81B,SOV_or_OVS,Macushi,Cariban
+mad,81B,SOV_or_SVO,Ma'di,Central Sudanic
+meh,81B,SVO_or_VSO,Mehri,Afro-Asiatic
 miy,81B,SVO_or_VOS,Miya,Afro-Asiatic
 mou,81B,SOV_or_SVO,Moru,Central Sudanic
-msk,81B,SVO_or_VSO,Ngile,Kordofanian
+msk,81B,SVO_or_VSO,Masakin,Kordofanian
 ney,81B,SOV_or_SVO,Neyo,Niger-Congo
-nnc,81B,VSO_or_VOS,Nicobarese (Nancowry),Austro-Asiatic
-nti,81B,SOV_or_SVO,Dru,Central Sudanic
+nnc,81B,VSO_or_VOS,Nancowry,Austro-Asiatic
+nti,81B,SOV_or_SVO,Ngiti,Central Sudanic
 nue,81B,SOV_or_SVO,Nuer,Eastern Sudanic
-nuu,81B,VSO_or_VOS,"Nuuchahnutlh (Tseshaht, Tsishaath)",Wakashan
-oji,81B,VSO_or_VOS,Ojibwa,Algic
+nuu,81B,VSO_or_VOS,Nuuchahnulth,Wakashan
+oji,81B,VSO_or_VOS,Ojibwa (Eastern),Algic
 pai,81B,VSO_or_VOS,Paiwan,Austronesian
-pnx,81B,SOV_or_SVO,Kreen-Akarore,Macro-Ge
-pok,81B,SOV_or_SVO,Rawo,Skou
-ruk,81B,VSO_or_VOS,Rukai,Austronesian
-rwe,81B,SVO_or_VSO,Welsh Romany,Indo-European
+pnx,81B,SOV_or_SVO,Panará,Macro-Ge
+pok,81B,SOV_or_SVO,Poko-Rawo,Skou
+ruk,81B,VSO_or_VOS,Rukai (Tanan),Austronesian
+rwe,81B,SVO_or_VSO,Romani (Welsh),Indo-European
 sam,81B,VSO_or_VOS,Samoan,Austronesian
 shu,81B,VSO_or_VOS,Shuswap,Salishan
 sml,81B,VSO_or_VOS,Semelai,Austro-Asiatic
-tee,81B,SVO_or_VSO,d Tepehua,Totonacan
+tee,81B,SVO_or_VSO,Tepehua (Huehuetla),Totonacan
 tho,81B,VSO_or_VOS,Thompson,Salishan
-tin,81B,SVO_or_VOS,Tiri,Austronesian
+tin,81B,SVO_or_VOS,Tinrin,Austronesian
 tng,81B,VSO_or_VOS,Tongan,Austronesian
 tob,81B,SVO_or_VOS,Toba,Guaicuruan
-twn,81B,SOV_or_SVO,Taos,Kiowa-Tanoan
+twn,81B,SOV_or_SVO,Tiwa (Northern),Kiowa-Tanoan
 tzu,81B,SVO_or_VOS,Tzutujil,Mayan
 wic,81B,SOV_or_OVS,Wichita,Caddoan

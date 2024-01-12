@@ -1,142 +1,145 @@
 Language_ID,Parameter_ID,Value,Name,Family
-abi,21B,monoexponential TAM,Abipon,Guaicuruan
+abi,21B,monoexponential TAM,Abipón,Guaicuruan
 abk,21B,monoexponential TAM,Abkhaz,Northwest Caucasian
-aco,21B,TAM+agreement,Keres (Western),Keresan
-aeg,21B,TAM+agreement+diathesis,Egyptian Colloquial Arabic,Afro-Asiatic
+aco,21B,TAM+agreement,Acoma,Keresan
+aeg,21B,TAM+agreement+diathesis,Arabic (Egyptian),Afro-Asiatic
 ala,21B,monoexponential TAM,Alamblak,Sepik
 ame,21B,monoexponential TAM,Amele,Trans-New Guinea
-amp,21B,monoexponential TAM,Mparntwe Arrernte,Pama-Nyungan
+amp,21B,monoexponential TAM,Arrernte (Mparntwe),Pama-Nyungan
 ana,21B,monoexponential TAM,Araona,Tacanan
-apu,21B,monoexponential TAM,Apurina,Arawakan
-arp,21B,monoexponential TAM,Bukiyip,Torricelli
-asm,21B,monoexponential TAM,Asmat (Flamingo Bay),Trans-New Guinea
-awp,21B,monoexponential TAM,Cuaiquer,Barbacoan
-aym,21B,TAM+agreement,Aymara,Aymaran
+apu,21B,monoexponential TAM,Apurinã,Arawakan
+arp,21B,monoexponential TAM,Arapesh (Mountain),Torricelli
+asm,21B,monoexponential TAM,Asmat,Trans-New Guinea
+awp,21B,monoexponential TAM,Awa Pit,Barbacoan
+aym,21B,TAM+agreement,Aymara (Central),Aymaran
 bag,21B,TAM+agreement,Bagirmi,Central Sudanic
-bbw,21B,monoexponential TAM,Gunwinygu,Gunwinyguan
+bbw,21B,monoexponential TAM,Bininj Gun-Wok,Gunwinyguan
 bej,21B,monoexponential TAM,Beja,Afro-Asiatic
-bel,21B,monoexponential TAM,Belhariya,Sino-Tibetan
-bma,21B,monoexponential TAM,Tamazight (Middle Atlas),Afro-Asiatic
-bnj,21B,monoexponential TAM,Bundjalung,Pama-Nyungan
+bel,21B,monoexponential TAM,Belhare,Sino-Tibetan
+bma,21B,monoexponential TAM,Berber (Middle Atlas),Afro-Asiatic
+bnj,21B,monoexponential TAM,Bandjalang,Pama-Nyungan
 brh,21B,TAM+agreement,Brahui,Dravidian
 brm,21B,monoexponential TAM,Burmese,Sino-Tibetan
 brr,21B,no TAM,Bororo,Bororoan
-brs,21B,monoexponential TAM,Barasano (Southern),Tucanoan
+brs,21B,monoexponential TAM,Barasano,Tucanoan
 cha,21B,TAM+agreement,Chamorro,Austronesian
 chk,21B,monoexponential TAM,Chukchi,Chukotko-Kamchatkan
-cho,21B,monoexponential TAM,Tequistlatec,Tequistlatecan
+cho,21B,monoexponential TAM,Chontal (Highland),Tequistlatecan
 cku,21B,monoexponential TAM,Chinook (Upper),Penutian
 cnl,21B,monoexponential TAM,Canela,Macro-Ge
-cre,21B,monoexponential TAM,Cree,Algic
+cre,21B,monoexponential TAM,Cree (Plains),Algic
 dag,21B,TAM+agreement,Daga,Dagan
 dig,21B,monoexponential TAM,Digaro,Sino-Tibetan
-dni,21B,monoexponential TAM,Dani (Grand Valley),Trans-New Guinea
-eka,21B,monoexponential TAM,Ekagi,Trans-New Guinea
+dni,21B,monoexponential TAM,Dani (Lower Grand Valley),Trans-New Guinea
+eka,21B,monoexponential TAM,Ekari,Trans-New Guinea
 eng,21B,monoexponential TAM,English,Indo-European
-epe,21B,monoexponential TAM,Saija,Choco
+epe,21B,monoexponential TAM,Epena Pedee,Choco
 eve,21B,monoexponential TAM,Evenki,Altaic
-fij,21B,monoexponential TAM,Nadroga,Austronesian
+fij,21B,monoexponential TAM,Fijian,Austronesian
 fin,21B,monoexponential TAM,Finnish,Uralic
 fre,21B,TAM+agreement,French,Indo-European
 gar,21B,monoexponential TAM,Garo,Sino-Tibetan
 geo,21B,TAM+agreement,Georgian,Kartvelian
-goo,21B,monoexponential TAM,Guniyan,Bunuban
+ger,21B,monoexponential TAM,German,Indo-European
+goo,21B,monoexponential TAM,Gooniyandi,Bunuban
 grb,21B,monoexponential TAM,Grebo,Niger-Congo
-grk,21B,TAM+agreement+diathesis,Modern Greek,Indo-European
-grw,21B,monoexponential TAM,Greenland Eskimo (West),Eskimo-Aleut
-gua,21B,monoexponential TAM,Guarani (Paraguayan),Tupian
-hat,21B,monoexponential TAM,Hattam,West Papuan
+grk,21B,TAM+agreement+diathesis,Greek (Modern),Indo-European
+grw,21B,monoexponential TAM,Greenlandic (West),Eskimo-Aleut
+gua,21B,monoexponential TAM,Guaraní,Tupian
+hat,21B,monoexponential TAM,Hatam,West Papuan
 hau,21B,monoexponential TAM,Hausa,Afro-Asiatic
-heb,21B,TAM+agreement+diathesis,Modern Hebrew,Afro-Asiatic
+heb,21B,TAM+agreement+diathesis,Hebrew (Modern),Afro-Asiatic
 hin,21B,TAM+agreement,Hindi,Indo-European
-hix,21B,monoexponential TAM,Hishkariana,Cariban
-hmo,21B,monoexponential TAM,Mong Njua,Hmong-Mien
+hix,21B,monoexponential TAM,Hixkaryana,Cariban
+hmo,21B,monoexponential TAM,Hmong Njua,Hmong-Mien
 hun,21B,monoexponential TAM,Hungarian,Uralic
-hve,21B,TAM+agreement,Huave,Huavean
+hve,21B,TAM+agreement,Huave (San Mateo del Mar),Huavean
 hzb,21B,TAM+polarity,Hunzib,Nakh-Daghestanian
-iau,21B,monoexponential TAM,Turu,Lakes Plain
+iau,21B,monoexponential TAM,Iau,Lakes Plain
 imo,21B,monoexponential TAM,Imonda,Border
+ind,21B,monoexponential TAM,Indonesian,Austronesian
 ing,21B,monoexponential TAM,Ingush,Nakh-Daghestanian
-jak,21B,monoexponential TAM,Jacaltec,Mayan
-jel,21B,monoexponential TAM,Jeri,Mande
-kay,21B,TAM+polarity,Gayardilt,Tangkic
-kch,21B,TAM+polarity,"Songhay, Koyra Chiini dialect",Songhay
+jak,21B,monoexponential TAM,Jakaltek,Mayan
+jel,21B,monoexponential TAM,Jeli,Mande
+kay,21B,TAM+polarity,Kayardild,Tangkic
+kch,21B,TAM+polarity,Koyra Chiini,Songhay
 ket,21B,TAM+agreement,Ket,Yeniseian
 kew,21B,TAM+agreement+diathesis,Kewa,Trans-New Guinea
 kha,21B,monoexponential TAM,Khalkha,Altaic
 kho,21B,monoexponential TAM,Nama,Khoe-Kwadi
 khs,21B,monoexponential TAM,Khasi,Austro-Asiatic
 kio,21B,monoexponential TAM,Kiowa,Kiowa-Tanoan
-kis,21B,monoexponential TAM,Gizi,Niger-Congo
-kiw,21B,TAM+agreement,"Kiwai, Island dialect",Kiwaian
+kis,21B,monoexponential TAM,Kisi,Niger-Congo
+kiw,21B,TAM+agreement,Kiwai (Southern),Kiwaian
 knd,21B,monoexponential TAM,Kannada,Dravidian
 koa,21B,monoexponential TAM,Koasati,Muskogean
 koi,21B,TAM+agreement,Koiari,Trans-New Guinea
 kro,21B,monoexponential TAM,Krongo,Kadu
 lah,21B,monoexponential TAM,Lahu,Sino-Tibetan
-lai,21B,monoexponential TAM,Haka,Sino-Tibetan
+lai,21B,monoexponential TAM,Lai,Sino-Tibetan
 lan,21B,TAM+agreement+construct,Lango,Eastern Sudanic
 lav,21B,monoexponential TAM,Lavukaleve,Solomons East Papuan
-lez,21B,monoexponential TAM,Lezgi,Nakh-Daghestanian
-lkt,21B,monoexponential TAM,Teton,Siouan
-lug,21B,monoexponential TAM,Logbara,Central Sudanic
-luv,21B,monoexponential TAM,Lwena,Niger-Congo
+lez,21B,monoexponential TAM,Lezgian,Nakh-Daghestanian
+lkt,21B,monoexponential TAM,Lakhota,Siouan
+lug,21B,monoexponential TAM,Lugbara,Central Sudanic
+luv,21B,monoexponential TAM,Luvale,Niger-Congo
 maa,21B,TAM+polarity,Maasai,Eastern Sudanic
-mal,21B,monoexponential TAM,Malagassy,Austronesian
+mal,21B,monoexponential TAM,Malagasy,Austronesian
 mao,21B,monoexponential TAM,Maori,Austronesian
-map,21B,TAM+agreement,Mapudungu,Araucanian
+map,21B,TAM+agreement,Mapudungun,Araucanian
 mar,21B,monoexponential TAM,Maricopa,Hokan
 mau,21B,monoexponential TAM,Maung,Iwaidjan
-may,21B,no TAM,Brat,West Papuan
+may,21B,no TAM,Maybrat,West Papuan
 mei,21B,monoexponential TAM,Meithei,Sino-Tibetan
-mnd,21B,monoexponential TAM,Mandarin Chinese,Sino-Tibetan
+mnd,21B,monoexponential TAM,Mandarin,Sino-Tibetan
 mrg,21B,monoexponential TAM,Margi,Afro-Asiatic
-mrt,21B,monoexponential TAM,Martuyhunira,Pama-Nyungan
+mrt,21B,monoexponential TAM,Martuthunira,Pama-Nyungan
 mss,21B,monoexponential TAM,Miwok (Southern Sierra),Penutian
-mun,21B,monoexponential TAM,Kolh,Austro-Asiatic
-mxc,21B,monoexponential TAM,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-myi,21B,TAM+polarity,Mangarayi,Mangarrayi-Maran
-nbd,21B,monoexponential TAM,"Nubian, Dongolese",Eastern Sudanic
-ngi,21B,monoexponential TAM,Wongaibon,Pama-Nyungan
-nmb,21B,monoexponential TAM,Nambikuara (Southern),Nambikuaran
+mun,21B,monoexponential TAM,Mundari,Austro-Asiatic
+mxc,21B,monoexponential TAM,Mixtec (Chalcatongo),Oto-Manguean
+myi,21B,TAM+polarity,Mangarrayi,Mangarrayi-Maran
+nbd,21B,monoexponential TAM,Nubian (Dongolese),Eastern Sudanic
+ngi,21B,monoexponential TAM,Ngiyambaa,Pama-Nyungan
+nmb,21B,monoexponential TAM,Nambikuára (Southern),Nambikuaran
+ntu,21B,monoexponential TAM,Nenets,Uralic
 ond,21B,monoexponential TAM,Oneida,Iroquoian
-orh,21B,monoexponential TAM,Oromo (Eastern),Afro-Asiatic
-otm,21B,TAM+agreement,Otomí,Oto-Manguean
+orh,21B,monoexponential TAM,Oromo (Harar),Afro-Asiatic
+otm,21B,TAM+agreement,Otomí (Mezquital),Oto-Manguean
 pai,21B,monoexponential TAM,Paiwan,Austronesian
-prh,21B,monoexponential TAM,Mura,Mura
+prh,21B,monoexponential TAM,Pirahã,Mura
 prs,21B,monoexponential TAM,Persian,Indo-European
-pur,21B,monoexponential TAM,Tarascan,Tarascan
-qim,21B,monoexponential TAM,HighlanKichua,Quechuan
+pur,21B,monoexponential TAM,Purépecha,Tarascan
+qim,21B,monoexponential TAM,Quechua (Imbabura),Quechuan
 ram,21B,monoexponential TAM,Rama,Chibchan
 rap,21B,monoexponential TAM,Rapanui,Austronesian
 rus,21B,monoexponential TAM,Russian,Indo-European
 san,21B,no TAM,Sango,Niger-Congo
-sla,21B,monoexponential TAM,"Slave, Hare dialect",Na-Dene
+sla,21B,monoexponential TAM,Slave,Na-Dene
 snm,21B,monoexponential TAM,Sanuma,Yanomam
-spa,21B,TAM+agreement,Spanish (Peninsular Castilian),Indo-European
+spa,21B,TAM+agreement,Spanish,Indo-European
 squ,21B,monoexponential TAM,Squamish,Salishan
-sup,21B,monoexponential TAM,Suppire,Niger-Congo
+sup,21B,monoexponential TAM,Supyire,Niger-Congo
 swa,21B,monoexponential TAM,Swahili,Niger-Congo
 tag,21B,monoexponential TAM,Tagalog,Austronesian
 ter,21B,monoexponential TAM,Tera,Afro-Asiatic
 tha,21B,monoexponential TAM,Thai,Tai-Kadai
-tib,21B,TAM+agreement,"Tibetan, Lhasa dialect",Sino-Tibetan
+tib,21B,TAM+agreement,Tibetan (Standard Spoken),Sino-Tibetan
 tiw,21B,no TAM,Tiwi,Tiwian
 tli,21B,monoexponential TAM,Tlingit,Na-Dene
-tot,21B,monoexponential TAM,"Totonac, Yecuatla",Totonacan
-tuk,21B,TAM+agreement,Tukang-Besi,Austronesian
+tot,21B,monoexponential TAM,Totonac (Misantla),Totonacan
+tuk,21B,TAM+agreement,Tukang Besi,Austronesian
 tur,21B,monoexponential TAM,Turkish,Altaic
 vie,21B,monoexponential TAM,Vietnamese,Austro-Asiatic
-war,21B,TAM+agreement,Pakaasnovos,Chapacura-Wanham
-wch,21B,monoexponential TAM,Matako,Matacoan
-wem,21B,monoexponential TAM,Wemba Wemba,Pama-Nyungan
+war,21B,TAM+agreement,Wari',Chapacura-Wanham
+wch,21B,monoexponential TAM,Wichí,Matacoan
+wem,21B,monoexponential TAM,Wembawemba,Pama-Nyungan
 wic,21B,monoexponential TAM,Wichita,Caddoan
 wrd,21B,monoexponential TAM,Wardaman,Yangmanic
-wrm,21B,monoexponential TAM,Warenbori,Austronesian
+wrm,21B,monoexponential TAM,Warembori,Austronesian
 yag,21B,monoexponential TAM,Yagua,Peba-Yaguan
 yaq,21B,monoexponential TAM,Yaqui,Uto-Aztecan
 yid,21B,monoexponential TAM,Yidiny,Pama-Nyungan
 yor,21B,monoexponential TAM,Yoruba,Niger-Congo
 yur,21B,monoexponential TAM,Yurok,Algic
-zqc,21B,monoexponential TAM,Copainalá Zoque,Mixe-Zoque
-zul,21B,monoexponential TAM,IsiZulu,Niger-Congo
+zqc,21B,monoexponential TAM,Zoque (Copainalá),Mixe-Zoque
+zul,21B,monoexponential TAM,Zulu,Niger-Congo

@@ -2,108 +2,111 @@ Language_ID,Parameter_ID,Value,Name,Family
 abk,30A,Three,Abkhaz,Northwest Caucasian
 abn,30A,None,Arabana,Pama-Nyungan
 abo,30A,Two,Arbore,Afro-Asiatic
-aco,30A,None,Keres (Western),Keresan
-aeg,30A,Two,Egyptian Colloquial Arabic,Afro-Asiatic
+aco,30A,None,Acoma,Keresan
+aeg,30A,Two,Arabic (Egyptian),Afro-Asiatic
 agw,30A,Two,Alagwa,Afro-Asiatic
 ala,30A,Two,Alamblak,Sepik
-ale,30A,None,"Aleut, Eastern",Eskimo-Aleut
+ale,30A,None,Aleut,Eskimo-Aleut
 ame,30A,None,Amele,Trans-New Guinea
 amh,30A,Two,Amharic,Afro-Asiatic
-apu,30A,Two,Apurina,Arawakan
+apu,30A,Two,Apurinã,Arawakan
 arc,30A,Four,Archi,Nakh-Daghestanian
-arg,30A,Two,Khaliji,Afro-Asiatic
-arm,30A,None,Eastern Armenian,Indo-European
-arp,30A,Five or more,Bukiyip,Torricelli
-asm,30A,None,Asmat (Flamingo Bay),Trans-New Guinea
-asy,30A,Two,Syrian Arabic,Afro-Asiatic
-awp,30A,None,Cuaiquer,Barbacoan
+arg,30A,Two,Arabic (Gulf),Afro-Asiatic
+arm,30A,None,Armenian (Eastern),Indo-European
+arp,30A,Five or more,Arapesh (Mountain),Torricelli
+asm,30A,None,Asmat,Trans-New Guinea
+asy,30A,Two,Arabic (Syrian),Afro-Asiatic
+awp,30A,None,Awa Pit,Barbacoan
 bab,30A,Five or more,Babungo,Niger-Congo
 bag,30A,None,Bagirmi,Central Sudanic
-baw,30A,None,Bom,Sino-Tibetan
-bbw,30A,Four,Gunwinygu,Gunwinyguan
+baw,30A,None,Bawm,Sino-Tibetan
+bbw,30A,Four,Bininj Gun-Wok,Gunwinyguan
 bej,30A,Two,Beja,Afro-Asiatic
-bkr,30A,None,Karo Batak,Austronesian
-bma,30A,Two,Tamazight (Middle Atlas),Afro-Asiatic
+bkr,30A,None,Batak (Karo),Austronesian
+bma,30A,Two,Berber (Middle Atlas),Afro-Asiatic
 brh,30A,None,Brahui,Dravidian
 brm,30A,None,Burmese,Sino-Tibetan
-brs,30A,Three,Barasano (Southern),Tucanoan
+brs,30A,Three,Barasano,Tucanoan
 bys,30A,Two,Bayso,Afro-Asiatic
 cah,30A,None,Cahuilla,Uto-Aztecan
-car,30A,None,Galibi,Cariban
-cax,30A,Two,Ashaninca,Arawakan
+car,30A,None,Carib,Cariban
+cax,30A,Two,Campa (Axininca),Arawakan
 ccp,30A,None,Cocopa,Hokan
 cha,30A,None,Chamorro,Austronesian
 chi,30A,None,Chimariko,Hokan
 chk,30A,None,Chukchi,Chukotko-Kamchatkan
 chv,30A,None,Chuvash,Altaic
-cic,30A,Five or more,Nyanja,Niger-Congo
-cle,30A,Two,San Juan Chinanteco Lealao,Oto-Manguean
+cic,30A,Five or more,Chichewa,Niger-Congo
+cle,30A,Two,Chinantec (Lealao),Oto-Manguean
 cmn,30A,None,Comanche,Uto-Aztecan
 cnl,30A,None,Canela,Macro-Ge
-cnt,30A,None,Yue,Sino-Tibetan
-coo,30A,None,Coos,Oregon Coast
-cre,30A,Two,Cree,Algic
+cnt,30A,None,Cantonese,Sino-Tibetan
+coo,30A,None,Coos (Hanis),Oregon Coast
+cre,30A,Two,Cree (Plains),Algic
 dag,30A,None,Daga,Dagan
 def,30A,Three,Defaka,Ijoid
-dio,30A,Five or more,Diola,Niger-Congo
+dio,30A,Five or more,Diola-Fogny,Niger-Congo
 diy,30A,Two,Diyari,Pama-Nyungan
 diz,30A,Two,Dizi,Afro-Asiatic
 djr,30A,None,Djaru,Pama-Nyungan
-dni,30A,None,Dani (Grand Valley),Trans-New Guinea
-don,30A,None,Kam,Tai-Kadai
+dni,30A,None,Dani (Lower Grand Valley),Trans-New Guinea
+don,30A,None,Dong (Southern),Tai-Kadai
 dyi,30A,Four,Dyirbal,Pama-Nyungan
 eng,30A,Three,English,Indo-European
-epe,30A,None,Saija,Choco
-err,30A,None,Sie,Austronesian
+epe,30A,None,Epena Pedee,Choco
+err,30A,None,Erromangan,Austronesian
 eve,30A,None,Evenki,Altaic
-fgu,30A,Five or more,Pular,Niger-Congo
-fij,30A,None,Nadroga,Austronesian
+ewe,30A,None,Ewe,Niger-Congo
+fgu,30A,Five or more,Fula (Guinean),Niger-Congo
+fij,30A,None,Fijian,Austronesian
 fin,30A,None,Finnish,Uralic
 fre,30A,Two,French,Indo-European
-gae,30A,Two,Scottish Gaelic,Indo-European
-gdi,30A,Four,Godie,Niger-Congo
+gae,30A,Two,Gaelic (Scots),Indo-European
+gdi,30A,Four,Godié,Niger-Congo
 geo,30A,None,Georgian,Kartvelian
+ger,30A,Three,German,Indo-European
 god,30A,Three,Godoberi,Nakh-Daghestanian
-goo,30A,None,Guniyan,Bunuban
+goo,30A,None,Gooniyandi,Bunuban
 grb,30A,Three,Grebo,Niger-Congo
-grk,30A,Three,Modern Greek,Indo-European
-grw,30A,None,Greenland Eskimo (West),Eskimo-Aleut
-gua,30A,None,Guarani (Paraguayan),Tupian
+grk,30A,Three,Greek (Modern),Indo-European
+grw,30A,None,Greenlandic (West),Eskimo-Aleut
+gua,30A,None,Guaraní,Tupian
 guu,30A,None,Guugu Yimidhirr,Pama-Nyungan
-hat,30A,None,Hattam,West Papuan
+hat,30A,None,Hatam,West Papuan
 hau,30A,Two,Hausa,Afro-Asiatic
 haw,30A,None,Hawaiian,Austronesian
-hay,30A,None,Vayu,Sino-Tibetan
-heb,30A,Two,Modern Hebrew,Afro-Asiatic
+hay,30A,None,Hayu,Sino-Tibetan
+heb,30A,Two,Hebrew (Modern),Afro-Asiatic
 hin,30A,Two,Hindi,Indo-European
-hix,30A,Two,Hishkariana,Cariban
-hmo,30A,None,Mong Njua,Hmong-Mien
+hix,30A,Two,Hixkaryana,Cariban
+hmo,30A,None,Hmong Njua,Hmong-Mien
 hun,30A,None,Hungarian,Uralic
 hzb,30A,Five or more,Hunzib,Nakh-Daghestanian
 iaa,30A,None,Iaai,Austronesian
 ice,30A,Three,Icelandic,Indo-European
 igb,30A,None,Igbo,Niger-Congo
-ika,30A,None,Ica,Chibchan
+ika,30A,None,Ika,Chibchan
 imo,30A,None,Imonda,Border
+ind,30A,None,Indonesian,Austronesian
 ing,30A,Five or more,Ingush,Nakh-Daghestanian
 irq,30A,Two,Iraqw,Afro-Asiatic
-ite,30A,None,Kamchadal,Chukotko-Kamchatkan
+ite,30A,None,Itelmen,Chukotko-Kamchatkan
 jaq,30A,None,Jaqaru,Aymaran
-juh,30A,Five or more,Zhu-/Hoa (Si),Kxa
-kam,30A,None,Sumbanese (East),Austronesian
+juh,30A,Five or more,Ju|'hoan,Kxa
+kam,30A,None,Kambera,Austronesian
 kas,30A,Two,Kashmiri,Indo-European
-kay,30A,None,Gayardilt,Tangkic
+kay,30A,None,Kayardild,Tangkic
 ket,30A,Three,Ket,Yeniseian
 kew,30A,None,Kewa,Trans-New Guinea
-kfe,30A,Three,Kurumfe,Niger-Congo
-kgz,30A,None,Kyrgyz,Altaic
+kfe,30A,Three,Koromfe,Niger-Congo
+kgz,30A,None,Kirghiz,Altaic
 kha,30A,None,Khalkha,Altaic
 khk,30A,None,Khakas,Altaic
 khl,30A,None,Khalaj,Altaic
 khm,30A,None,Khmer,Austro-Asiatic
 kho,30A,Three,Nama,Khoe-Kwadi
 khs,30A,Two,Khasi,Austro-Asiatic
-kis,30A,Five or more,Gizi,Niger-Congo
+kis,30A,Five or more,Kisi,Niger-Congo
 klv,30A,None,Kilivila,Austronesian
 kmu,30A,Two,Khmu',Austro-Asiatic
 knd,30A,Three,Kannada,Dravidian
@@ -111,9 +114,9 @@ knr,30A,None,Kanuri,Saharan
 koa,30A,None,Koasati,Muskogean
 kob,30A,None,Kobon,Trans-New Guinea
 kol,30A,Two,Kolami,Dravidian
-kon,30A,Five or more,Kikongo,Niger-Congo
-kse,30A,None,Songhay (Koyraboro Senni),Songhay
-lad,30A,None,Western Tibetan,Sino-Tibetan
+kon,30A,Five or more,Kongo,Niger-Congo
+kse,30A,None,Koyraboro Senni,Songhay
+lad,30A,None,Ladakhi,Sino-Tibetan
 lah,30A,None,Lahu,Sino-Tibetan
 lak,30A,Four,Lak,Nakh-Daghestanian
 lan,30A,None,Lango,Eastern Sudanic
@@ -121,118 +124,122 @@ lat,30A,Two,Latvian,Indo-European
 lav,30A,Three,Lavukaleve,Solomons East Papuan
 lel,30A,Two,Lele,Afro-Asiatic
 lep,30A,None,Lepcha,Sino-Tibetan
-lez,30A,None,Lezgi,Nakh-Daghestanian
-lin,30A,Five or more,Losengo,Niger-Congo
-luv,30A,Five or more,Lwena,Niger-Congo
-mac,30A,Two,Makushi,Cariban
+lez,30A,None,Lezgian,Nakh-Daghestanian
+lin,30A,Five or more,Lingala,Niger-Congo
+luv,30A,Five or more,Luvale,Niger-Congo
+mac,30A,Two,Macushi,Cariban
 mak,30A,None,Makah,Wakashan
-mal,30A,None,Malagassy,Austronesian
+mal,30A,None,Malagasy,Austronesian
 mao,30A,None,Maori,Austronesian
-map,30A,None,Mapudungu,Araucanian
+map,30A,None,Mapudungun,Araucanian
 mar,30A,None,Maricopa,Hokan
 mau,30A,Five or more,Maung,Iwaidjan
-may,30A,Two,Brat,West Papuan
+may,30A,Two,Maybrat,West Papuan
 mei,30A,None,Meithei,Sino-Tibetan
 mhi,30A,Three,Marathi,Indo-European
 miy,30A,Two,Miya,Afro-Asiatic
 mlt,30A,Two,Maltese,Afro-Asiatic
-mnd,30A,None,Mandarin Chinese,Sino-Tibetan
+mnd,30A,None,Mandarin,Sino-Tibetan
 mns,30A,None,Mansi,Uralic
 mny,30A,None,Margany,Pama-Nyungan
 mok,30A,None,Mokilese,Austronesian
-mos,30A,Two,Chimane,Mosetenan
+mos,30A,Two,Mosetén,Mosetenan
 mrd,30A,Four,Marind,Anim
 mrl,30A,None,Murle,Eastern Sudanic
-mrt,30A,None,Martuyhunira,Pama-Nyungan
+mrt,30A,None,Martuthunira,Pama-Nyungan
 mss,30A,None,Miwok (Southern Sierra),Penutian
-mun,30A,Two,Kolh,Austro-Asiatic
-mxc,30A,Five or more,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-myi,30A,Three,Mangarayi,Mangarrayi-Maran
-nbd,30A,None,"Nubian, Dongolese",Eastern Sudanic
-nca,30A,Three,Car Nicobarese,Austro-Asiatic
-ndy,30A,None,Djuka,other
+mun,30A,Two,Mundari,Austro-Asiatic
+mxc,30A,Five or more,Mixtec (Chalcatongo),Oto-Manguean
+myi,30A,Three,Mangarrayi,Mangarrayi-Maran
+nbd,30A,None,Nubian (Dongolese),Eastern Sudanic
+nca,30A,Three,Nicobarese (Car),Austro-Asiatic
+ndy,30A,None,Ndyuka,other
 nez,30A,None,Nez Perce,Penutian
-ngi,30A,None,Wongaibon,Pama-Nyungan
-nht,30A,None,Tetelcingo Nahuatl,Uto-Aztecan
-nko,30A,Five or more,Ciga,Niger-Congo
+ngg,30A,Five or more,Ngan'gityemerri,Southern Daly
+ngi,30A,None,Ngiyambaa,Pama-Nyungan
+nht,30A,None,Nahuatl (Tetelcingo),Uto-Aztecan
+nko,30A,Five or more,Nkore-Kiga,Niger-Congo
+ntu,30A,None,Nenets,Uralic
 nug,30A,Five or more,Nunggubuyu,Gunwinyguan
 nyh,30A,Five or more,Nyiha,Niger-Congo
 nym,30A,Five or more,Nyamwezi,Niger-Congo
-oji,30A,Two,Ojibwa,Algic
+oji,30A,Two,Ojibwa (Eastern),Algic
 ond,30A,Three,Oneida,Iroquoian
-orh,30A,Two,Oromo (Eastern),Afro-Asiatic
+orh,30A,Two,Oromo (Harar),Afro-Asiatic
 ork,30A,None,Orok,Altaic
-otm,30A,None,Otomí,Oto-Manguean
+otm,30A,None,Otomí (Mezquital),Oto-Manguean
 pai,30A,None,Paiwan,Austronesian
 pal,30A,None,Palauan,Austronesian
-pan,30A,Two,Punjabi,Indo-European
-pau,30A,Four,Paumari,Arauan
+pan,30A,Two,Panjabi,Indo-European
+pau,30A,Four,Paumarí,Arauan
 pil,30A,None,Pileni,Austronesian
 pip,30A,None,Pipil,Uto-Aztecan
-pit,30A,None,Pitjantjara = Western Desert,Pama-Nyungan
+pit,30A,None,Pitjantjatjara,Pama-Nyungan
 pmc,30A,None,Pomo (Central),Hokan
-ppi,30A,Two,Pitta-Pitta,Pama-Nyungan
-prh,30A,Four,Mura,Mura
+ppi,30A,Two,Pitta Pitta,Pama-Nyungan
+prh,30A,Four,Pirahã,Mura
 prs,30A,None,Persian,Indo-European
 psh,30A,Two,Pashto,Indo-European
-psm,30A,Two,Passamaquoddy,Algic
-qaf,30A,Two,Afar,Afro-Asiatic
-qim,30A,None,HighlanKichua,Quechuan
+psm,30A,Two,Passamaquoddy-Maliseet,Algic
+qaf,30A,Two,Qafar,Afro-Asiatic
+qim,30A,None,Quechua (Imbabura),Quechuan
 ram,30A,None,Rama,Chibchan
 rap,30A,None,Rapanui,Austronesian
 ren,30A,Two,Rendille,Afro-Asiatic
-ret,30A,Three,Tanimuca,Tucanoan
+ret,30A,Three,Retuarã,Tucanoan
 rus,30A,Three,Russian,Indo-European
 san,30A,None,Sango,Niger-Congo
-saw,30A,None,Savu,Austronesian
-shk,30A,None,Shipibo,Panoan
+saw,30A,None,Sawu,Austronesian
+shk,30A,None,Shipibo-Konibo,Panoan
 shn,30A,Five or more,Shona,Niger-Congo
 sml,30A,None,Semelai,Austro-Asiatic
-smt,30A,None,Umatilla,Penutian
+smt,30A,None,Sahaptin (Umatilla),Penutian
 snc,30A,Three,Seneca,Iroquoian
-spa,30A,Two,Spanish (Peninsular Castilian),Indo-European
-srn,30A,None,Siriono,Tupian
+spa,30A,Two,Spanish,Indo-European
+srn,30A,None,Sirionó,Tupian
 sue,30A,None,Suena,Trans-New Guinea
-sup,30A,Five or more,Suppire,Niger-Congo
+sup,30A,Five or more,Supyire,Niger-Congo
 swa,30A,Five or more,Swahili,Niger-Congo
-tab,30A,None,Makian (East),Austronesian
+tab,30A,None,Taba,Austronesian
 tag,30A,Two,Tagalog,Austronesian
-tap,30A,Two,Gapun,Gapun
+tap,30A,Two,Taiap,Gapun
+tgr,30A,Two,Tigré,Afro-Asiatic
 tha,30A,None,Thai,Tai-Kadai
 tho,30A,None,Thompson,Salishan
-tib,30A,None,"Tibetan, Lhasa dialect",Sino-Tibetan
+tib,30A,None,Tibetan (Standard Spoken),Sino-Tibetan
 tid,30A,Three,Tidore,West Papuan
 tiw,30A,Two,Tiwi,Tiwian
-tot,30A,None,"Totonac, Yecuatla",Totonacan
-tsh,30A,None,Panamint,Uto-Aztecan
-tsi,30A,None,Tsimshian,Penutian
-tsz,30A,Four,Dido,Nakh-Daghestanian
-tuk,30A,None,Tukang-Besi,Austronesian
+tml,30A,Three,Tamil,Dravidian
+tot,30A,None,Totonac (Misantla),Totonacan
+tsh,30A,None,Tümpisa Shoshone,Uto-Aztecan
+tsi,30A,None,Tsimshian (Coast),Penutian
+tsz,30A,Four,Tsez,Nakh-Daghestanian
+tuk,30A,None,Tukang Besi,Austronesian
 tur,30A,None,Turkish,Altaic
-tvl,30A,None,Ellice,Austronesian
-uhi,30A,None,Otati,Pama-Nyungan
+tvl,30A,None,Tuvaluan,Austronesian
+uhi,30A,None,Uradhi,Pama-Nyungan
 ukr,30A,Three,Ukrainian,Indo-European
-una,30A,None,Goliath,Trans-New Guinea
-urk,30A,None,Urubu,Tupian
-usa,30A,None,Wanuma,Trans-New Guinea
-uzb,30A,None,"Uzbek, Southern",Altaic
+una,30A,None,Una,Trans-New Guinea
+urk,30A,None,Urubú-Kaapor,Tupian
+usa,30A,None,Usan,Trans-New Guinea
+uzb,30A,None,Uzbek,Altaic
 vie,30A,None,Vietnamese,Austro-Asiatic
 wam,30A,Four,Wambaya,Mirndi
-war,30A,Three,Pakaasnovos,Chapacura-Wanham
-wat,30A,None,Wadjari,Pama-Nyungan
+war,30A,Three,Wari',Chapacura-Wanham
+wat,30A,None,Watjarri,Pama-Nyungan
 wic,30A,None,Wichita,Caddoan
 wrd,30A,Three,Wardaman,Yangmanic
 yaq,30A,None,Yaqui,Uto-Aztecan
-yaz,30A,Two,Yazgulami,Indo-European
-yel,30A,None,Yele,Yele
+yaz,30A,Two,Yazgulyam,Indo-European
+yel,30A,None,Yelî Dnye,Yele
 yid,30A,None,Yidiny,Pama-Nyungan
 yim,30A,Five or more,Yimas,Lower Sepik-Ramu
-yko,30A,None,Kolyma,Yukaghir
+yko,30A,None,Yukaghir (Kolyma),Yukaghir
 ykt,30A,None,Yakut,Altaic
-ylb,30A,None,Yulbaridja,Pama-Nyungan
+ylb,30A,None,Yulparija,Pama-Nyungan
 yor,30A,None,Yoruba,Niger-Congo
-ypk,30A,None,Yupik (General Central),Eskimo-Aleut
+ypk,30A,None,Yup'ik (Central),Eskimo-Aleut
 yur,30A,None,Yurok,Algic
 zan,30A,Four,Zande,Niger-Congo
-zqc,30A,None,Copainalá Zoque,Mixe-Zoque
-zul,30A,Five or more,IsiZulu,Niger-Congo
+zqc,30A,None,Zoque (Copainalá),Mixe-Zoque
+zul,30A,Five or more,Zulu,Niger-Congo

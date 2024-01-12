@@ -1,235 +1,243 @@
 Language_ID,Parameter_ID,Value,Name,Family
-abi,49A,No morphological case-marking,Abipon,Guaicuruan
+abi,49A,No morphological case-marking,Abipón,Guaicuruan
 abk,49A,2 cases,Abkhaz,Northwest Caucasian
-aco,49A,No morphological case-marking,Keres (Western),Keresan
-aeg,49A,No morphological case-marking,Egyptian Colloquial Arabic,Afro-Asiatic
+aco,49A,No morphological case-marking,Acoma,Keresan
+aeg,49A,No morphological case-marking,Arabic (Egyptian),Afro-Asiatic
 ala,49A,8-9 cases,Alamblak,Sepik
 alb,49A,4 cases,Albanian,Indo-European
-ale,49A,2 cases,"Aleut, Eastern",Eskimo-Aleut
+ale,49A,2 cases,Aleut,Eskimo-Aleut
 ame,49A,No morphological case-marking,Amele,Trans-New Guinea
 amh,49A,2 cases,Amharic,Afro-Asiatic
 amu,49A,Exclusively borderline case-marking,Amuesha,Arawakan
 ana,49A,5 cases,Araona,Tacanan
-apu,49A,Exclusively borderline case-marking,Apurina,Arawakan
+apu,49A,Exclusively borderline case-marking,Apurinã,Arawakan
 arb,49A,8-9 cases,Arabela,Zaparoan
-arm,49A,5 cases,Eastern Armenian,Indo-European
-arp,49A,No morphological case-marking,Bukiyip,Torricelli
-asm,49A,No morphological case-marking,Asmat (Flamingo Bay),Trans-New Guinea
-awp,49A,10 or more cases,Cuaiquer,Barbacoan
-aym,49A,6-7 cases,Aymara,Aymaran
+arm,49A,5 cases,Armenian (Eastern),Indo-European
+arp,49A,No morphological case-marking,Arapesh (Mountain),Torricelli
+asm,49A,No morphological case-marking,Asmat,Trans-New Guinea
+awp,49A,10 or more cases,Awa Pit,Barbacoan
+aym,49A,6-7 cases,Aymara (Central),Aymaran
 bag,49A,No morphological case-marking,Bagirmi,Central Sudanic
 bam,49A,No morphological case-marking,Bambara,Mande
-baw,49A,4 cases,Bom,Sino-Tibetan
-bec,49A,6-7 cases,Bengali,Indo-European
+baw,49A,4 cases,Bawm,Sino-Tibetan
+bec,49A,6-7 cases,Bengali (Chittagong),Indo-European
 bej,49A,2 cases,Beja,Afro-Asiatic
-bkr,49A,No morphological case-marking,Karo Batak,Austronesian
-bma,49A,2 cases,Tamazight (Middle Atlas),Afro-Asiatic
+bkr,49A,No morphological case-marking,Batak (Karo),Austronesian
+bma,49A,2 cases,Berber (Middle Atlas),Afro-Asiatic
 brh,49A,10 or more cases,Brahui,Dravidian
 bri,49A,Exclusively borderline case-marking,Bribri,Chibchan
 brm,49A,8-9 cases,Burmese,Sino-Tibetan
-brs,49A,2 cases,Barasano (Southern),Tucanoan
+brs,49A,2 cases,Barasano,Tucanoan
 bul,49A,No morphological case-marking,Bulgarian,Indo-European
 cah,49A,5 cases,Cahuilla,Uto-Aztecan
-car,49A,No morphological case-marking,Galibi,Cariban
-cba,49A,No morphological case-marking,Chumash (Barbareno),Chumash
+car,49A,No morphological case-marking,Carib,Cariban
+cba,49A,No morphological case-marking,Chumash (Barbareño),Chumash
 cha,49A,No morphological case-marking,Chamorro,Austronesian
 chk,49A,10 or more cases,Chukchi,Chukotko-Kamchatkan
 chv,49A,6-7 cases,Chuvash,Altaic
-cle,49A,No morphological case-marking,San Juan Chinanteco Lealao,Oto-Manguean
+cle,49A,No morphological case-marking,Chinantec (Lealao),Oto-Manguean
 cmn,49A,3 cases,Comanche,Uto-Aztecan
 cnl,49A,No morphological case-marking,Canela,Macro-Ge
-coo,49A,8-9 cases,Coos,Oregon Coast
-cre,49A,Exclusively borderline case-marking,Cree,Algic
+coo,49A,8-9 cases,Coos (Hanis),Oregon Coast
+cre,49A,Exclusively borderline case-marking,Cree (Plains),Algic
 ctl,49A,No morphological case-marking,Catalan,Indo-European
 dag,49A,Exclusively borderline case-marking,Daga,Dagan
-dio,49A,No morphological case-marking,Diola,Niger-Congo
-dni,49A,6-7 cases,Dani (Grand Valley),Trans-New Guinea
-don,49A,No morphological case-marking,Kam,Tai-Kadai
-dre,49A,No morphological case-marking,Dehu,Austronesian
+dio,49A,No morphological case-marking,Diola-Fogny,Niger-Congo
+dni,49A,6-7 cases,Dani (Lower Grand Valley),Trans-New Guinea
+don,49A,No morphological case-marking,Dong (Southern),Tai-Kadai
+dre,49A,No morphological case-marking,Drehu,Austronesian
+dut,49A,No morphological case-marking,Dutch,Indo-European
 dyi,49A,6-7 cases,Dyirbal,Pama-Nyungan
-eka,49A,Exclusively borderline case-marking,Ekagi,Trans-New Guinea
+eka,49A,Exclusively borderline case-marking,Ekari,Trans-New Guinea
 eng,49A,2 cases,English,Indo-European
-epe,49A,10 or more cases,Saija,Choco
+epe,49A,10 or more cases,Epena Pedee,Choco
 est,49A,10 or more cases,Estonian,Uralic
 eve,49A,10 or more cases,Evenki,Altaic
-fij,49A,No morphological case-marking,Nadroga,Austronesian
+ewe,49A,No morphological case-marking,Ewe,Niger-Congo
+fij,49A,No morphological case-marking,Fijian,Austronesian
 fin,49A,10 or more cases,Finnish,Uralic
 fre,49A,No morphological case-marking,French,Indo-European
-frw,49A,No morphological case-marking,Frisian (West),Indo-European
-fua,49A,No morphological case-marking,Fulfulde (Cameroonian),Niger-Congo
+frw,49A,No morphological case-marking,Frisian (Western),Indo-European
+fua,49A,No morphological case-marking,Fulfulde (Adamawa),Niger-Congo
 gar,49A,8-9 cases,Garo,Sino-Tibetan
 geo,49A,6-7 cases,Georgian,Kartvelian
-gim,49A,6-7 cases,Bencho,Afro-Asiatic
-goo,49A,10 or more cases,Guniyan,Bunuban
+ger,49A,4 cases,German,Indo-European
+gim,49A,6-7 cases,Gimira,Afro-Asiatic
+goo,49A,10 or more cases,Gooniyandi,Bunuban
 grb,49A,No morphological case-marking,Grebo,Niger-Congo
-grk,49A,3 cases,Modern Greek,Indo-European
-grw,49A,8-9 cases,Greenland Eskimo (West),Eskimo-Aleut
-gua,49A,No morphological case-marking,Guarani (Paraguayan),Tupian
+grk,49A,3 cases,Greek (Modern),Indo-European
+grw,49A,8-9 cases,Greenlandic (West),Eskimo-Aleut
+gua,49A,No morphological case-marking,Guaraní,Tupian
 ham,49A,10 or more cases,Hamtai,Trans-New Guinea
 hau,49A,No morphological case-marking,Hausa,Afro-Asiatic
-heb,49A,No morphological case-marking,Modern Hebrew,Afro-Asiatic
-hix,49A,No morphological case-marking,Hishkariana,Cariban
-hmi,49A,6-7 cases,Meneca,Huitotoan
-hmo,49A,No morphological case-marking,Mong Njua,Hmong-Mien
+heb,49A,No morphological case-marking,Hebrew (Modern),Afro-Asiatic
+hix,49A,No morphological case-marking,Hixkaryana,Cariban
+hmi,49A,6-7 cases,Huitoto (Minica),Huitotoan
+hmo,49A,No morphological case-marking,Hmong Njua,Hmong-Mien
+hua,49A,8-9 cases,Hua,Trans-New Guinea
 hun,49A,10 or more cases,Hungarian,Uralic
-hve,49A,No morphological case-marking,Huave,Huavean
+hve,49A,No morphological case-marking,Huave (San Mateo del Mar),Huavean
 hzb,49A,10 or more cases,Hunzib,Nakh-Daghestanian
 iaa,49A,No morphological case-marking,Iaai,Austronesian
 ice,49A,4 cases,Icelandic,Indo-European
 igb,49A,No morphological case-marking,Igbo,Niger-Congo
-ika,49A,6-7 cases,Ica,Chibchan
-ilo,49A,No morphological case-marking,Ilokano,Austronesian
+ika,49A,6-7 cases,Ika,Chibchan
+ilo,49A,No morphological case-marking,Ilocano,Austronesian
 imo,49A,5 cases,Imonda,Border
+ind,49A,No morphological case-marking,Indonesian,Austronesian
 ing,49A,10 or more cases,Ingush,Nakh-Daghestanian
-iri,49A,2 cases,Gaelic,Indo-European
+iri,49A,2 cases,Irish,Indo-European
 irq,49A,Exclusively borderline case-marking,Iraqw,Afro-Asiatic
-ita,49A,No morphological case-marking,Italian (Roman),Indo-European
-jak,49A,No morphological case-marking,Jacaltec,Mayan
-juh,49A,No morphological case-marking,Zhu-/Hoa (Si),Kxa
+ita,49A,No morphological case-marking,Italian,Indo-European
+jak,49A,No morphological case-marking,Jakaltek,Mayan
+juh,49A,No morphological case-marking,Ju|'hoan,Kxa
 kas,49A,4 cases,Kashmiri,Indo-European
-kay,49A,10 or more cases,Gayardilt,Tangkic
+kay,49A,10 or more cases,Kayardild,Tangkic
 ker,49A,Exclusively borderline case-marking,Kera,Afro-Asiatic
 ket,49A,10 or more cases,Ket,Yeniseian
 kew,49A,6-7 cases,Kewa,Trans-New Guinea
-kfe,49A,No morphological case-marking,Kurumfe,Niger-Congo
+kfe,49A,No morphological case-marking,Koromfe,Niger-Congo
 kha,49A,8-9 cases,Khalkha,Altaic
 khm,49A,No morphological case-marking,Khmer,Austro-Asiatic
 kho,49A,2 cases,Nama,Khoe-Kwadi
 khs,49A,No morphological case-marking,Khasi,Austro-Asiatic
-kin,49A,No morphological case-marking,Rwanda,Niger-Congo
+kin,49A,No morphological case-marking,Kinyarwanda,Niger-Congo
 kio,49A,Exclusively borderline case-marking,Kiowa,Kiowa-Tanoan
 kls,49A,6-7 cases,Kalispel,Salishan
 klv,49A,No morphological case-marking,Kilivila,Austronesian
 kly,49A,8-9 cases,Kala Lagaw Ya,Pama-Nyungan
-kmb,49A,No morphological case-marking,Wanggom,Trans-New Guinea
+kmb,49A,No morphological case-marking,Kombai,Trans-New Guinea
 kmu,49A,No morphological case-marking,Khmu',Austro-Asiatic
 knd,49A,6-7 cases,Kannada,Dravidian
 knr,49A,6-7 cases,Kanuri,Saharan
 koa,49A,6-7 cases,Koasati,Muskogean
 kob,49A,No morphological case-marking,Kobon,Trans-New Guinea
-kon,49A,No morphological case-marking,Kikongo,Niger-Congo
+kon,49A,No morphological case-marking,Kongo,Niger-Congo
 kos,49A,No morphological case-marking,Kosraean,Austronesian
-krb,49A,No morphological case-marking,Gilbertese,Austronesian
+krb,49A,No morphological case-marking,Kiribati,Austronesian
 kro,49A,6-7 cases,Krongo,Kadu
-kse,49A,No morphological case-marking,Songhay (Koyraboro Senni),Songhay
-kty,49A,3 cases,Xanty,Uralic
-kyl,49A,No morphological case-marking,Kayah,Sino-Tibetan
-lad,49A,5 cases,Western Tibetan,Sino-Tibetan
+kse,49A,No morphological case-marking,Koyraboro Senni,Songhay
+kty,49A,3 cases,Khanty,Uralic
+kyl,49A,No morphological case-marking,Kayah Li (Eastern),Sino-Tibetan
+lad,49A,5 cases,Ladakhi,Sino-Tibetan
 lak,49A,10 or more cases,Lak,Nakh-Daghestanian
 lan,49A,No morphological case-marking,Lango,Eastern Sudanic
 lat,49A,5 cases,Latvian,Indo-European
 lav,49A,No morphological case-marking,Lavukaleve,Solomons East Papuan
 lep,49A,2 cases,Lepcha,Sino-Tibetan
-lez,49A,10 or more cases,Lezgi,Nakh-Daghestanian
+lez,49A,10 or more cases,Lezgian,Nakh-Daghestanian
 lit,49A,6-7 cases,Lithuanian,Indo-European
-lkt,49A,No morphological case-marking,Teton,Siouan
-luv,49A,No morphological case-marking,Lwena,Niger-Congo
-mab,49A,3 cases,Mabang,Maban
+lkt,49A,No morphological case-marking,Lakhota,Siouan
+luv,49A,No morphological case-marking,Luvale,Niger-Congo
+mab,49A,3 cases,Maba,Maban
 mak,49A,No morphological case-marking,Makah,Wakashan
-mal,49A,No morphological case-marking,Malagassy,Austronesian
+mal,49A,No morphological case-marking,Malagasy,Austronesian
 mao,49A,No morphological case-marking,Maori,Austronesian
-map,49A,2 cases,Mapudungu,Araucanian
+map,49A,2 cases,Mapudungun,Araucanian
 mar,49A,6-7 cases,Maricopa,Hokan
 mau,49A,No morphological case-marking,Maung,Iwaidjan
-may,49A,2 cases,Brat,West Papuan
+may,49A,2 cases,Maybrat,West Papuan
 mdr,49A,No morphological case-marking,Madurese,Austronesian
 mei,49A,6-7 cases,Meithei,Sino-Tibetan
 mhi,49A,5 cases,Marathi,Indo-European
 mku,49A,Exclusively borderline case-marking,Maranungku,Western Daly
 mlk,49A,6-7 cases,Malakmalak,Northern Daly
-mnd,49A,No morphological case-marking,Mandarin Chinese,Sino-Tibetan
-moe,49A,10 or more cases,Mordvin,Uralic
+mnd,49A,No morphological case-marking,Mandarin,Sino-Tibetan
+moe,49A,10 or more cases,Mordvin (Erzya),Uralic
 mok,49A,No morphological case-marking,Mokilese,Austronesian
 mrd,49A,No morphological case-marking,Marind,Anim
 mrl,49A,4 cases,Murle,Eastern Sudanic
-mrt,49A,10 or more cases,Martuyhunira,Pama-Nyungan
+mrt,49A,10 or more cases,Martuthunira,Pama-Nyungan
 mss,49A,6-7 cases,Miwok (Southern Sierra),Penutian
-mun,49A,8-9 cases,Kolh,Austro-Asiatic
-mxc,49A,No morphological case-marking,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-myi,49A,8-9 cases,Mangarayi,Mangarrayi-Maran
+mun,49A,8-9 cases,Mundari,Austro-Asiatic
+mxc,49A,No morphological case-marking,Mixtec (Chalcatongo),Oto-Manguean
+myi,49A,8-9 cases,Mangarrayi,Mangarrayi-Maran
 mym,49A,6-7 cases,Malayalam,Dravidian
 nav,49A,No morphological case-marking,Navajo,Na-Dene
-nbd,49A,6-7 cases,"Nubian, Dongolese",Eastern Sudanic
-ndy,49A,No morphological case-marking,Djuka,other
+nbd,49A,6-7 cases,Nubian (Dongolese),Eastern Sudanic
+ndy,49A,No morphological case-marking,Ndyuka,other
 nez,49A,10 or more cases,Nez Perce,Penutian
-ngi,49A,5 cases,Wongaibon,Pama-Nyungan
-nht,49A,No morphological case-marking,Tetelcingo Nahuatl,Uto-Aztecan
-nko,49A,No morphological case-marking,Ciga,Niger-Congo
-nti,49A,No morphological case-marking,Dru,Central Sudanic
+ngi,49A,5 cases,Ngiyambaa,Pama-Nyungan
+nht,49A,No morphological case-marking,Nahuatl (Tetelcingo),Uto-Aztecan
+nko,49A,No morphological case-marking,Nkore-Kiga,Niger-Congo
+nti,49A,No morphological case-marking,Ngiti,Central Sudanic
+ntu,49A,6-7 cases,Nenets,Uralic
 nug,49A,10 or more cases,Nunggubuyu,Gunwinyguan
 ond,49A,No morphological case-marking,Oneida,Iroquoian
-orh,49A,6-7 cases,Oromo (Eastern),Afro-Asiatic
-ots,49A,No morphological case-marking,"Otomi, Sierra",Oto-Manguean
-pae,49A,6-7 cases,Paez,Páezan
+orh,49A,6-7 cases,Oromo (Harar),Afro-Asiatic
+ots,49A,No morphological case-marking,Otomí (Sierra),Oto-Manguean
+pae,49A,6-7 cases,Páez,Páezan
 pai,49A,No morphological case-marking,Paiwan,Austronesian
 pal,49A,No morphological case-marking,Palauan,Austronesian
-pan,49A,2 cases,Punjabi,Indo-European
-pau,49A,3 cases,Paumari,Arauan
-pit,49A,10 or more cases,Pitjantjara = Western Desert,Pama-Nyungan
-pms,49A,No morphological case-marking,Paama,Austronesian
+pan,49A,2 cases,Panjabi,Indo-European
+pau,49A,3 cases,Paumarí,Arauan
+pit,49A,10 or more cases,Pitjantjatjara,Pama-Nyungan
+pms,49A,No morphological case-marking,Paamese,Austronesian
 pol,49A,6-7 cases,Polish,Indo-European
-prh,49A,Exclusively borderline case-marking,Mura,Mura
+prh,49A,Exclusively borderline case-marking,Pirahã,Mura
 prs,49A,2 cases,Persian,Indo-European
 psh,49A,3 cases,Pashto,Indo-European
-psm,49A,Exclusively borderline case-marking,Passamaquoddy,Algic
+psm,49A,Exclusively borderline case-marking,Passamaquoddy-Maliseet,Algic
 pso,49A,6-7 cases,Pomo (Southeastern),Hokan
 qaw,49A,2 cases,Qawasqar,Alacalufan
-qim,49A,8-9 cases,HighlanKichua,Quechuan
+qim,49A,8-9 cases,Quechua (Imbabura),Quechuan
 ram,49A,8-9 cases,Rama,Chibchan
 rap,49A,No morphological case-marking,Rapanui,Austronesian
-rka,49A,6-7 cases,Romani (Wallachian),Indo-European
-rom,49A,2 cases,Rumanian,Indo-European
+rka,49A,6-7 cases,Romani (Kalderash),Indo-European
+rom,49A,2 cases,Romanian,Indo-European
 rus,49A,6-7 cases,Russian,Indo-European
 san,49A,No morphological case-marking,Sango,Niger-Congo
-scr,49A,5 cases,Serbocroat,Indo-European
+scr,49A,5 cases,Serbian-Croatian,Indo-European
 sel,49A,Exclusively borderline case-marking,Selknam,Chon
-shk,49A,6-7 cases,Shipibo,Panoan
-sla,49A,No morphological case-marking,"Slave, Hare dialect",Na-Dene
+shk,49A,6-7 cases,Shipibo-Konibo,Panoan
+sla,49A,No morphological case-marking,Slave,Na-Dene
 sml,49A,3 cases,Semelai,Austro-Asiatic
-snh,49A,5 cases,Sinhalese,Indo-European
+snh,49A,5 cases,Sinhala,Indo-European
 snm,49A,2 cases,Sanuma,Yanomam
 sno,49A,6-7 cases,Saami (Northern),Uralic
 som,49A,3 cases,Somali,Afro-Asiatic
-spa,49A,No morphological case-marking,Spanish (Peninsular Castilian),Indo-European
+spa,49A,No morphological case-marking,Spanish,Indo-European
 squ,49A,2 cases,Squamish,Salishan
 sue,49A,4 cases,Suena,Trans-New Guinea
-sup,49A,Exclusively borderline case-marking,Suppire,Niger-Congo
+sup,49A,Exclusively borderline case-marking,Supyire,Niger-Congo
 swa,49A,No morphological case-marking,Swahili,Niger-Congo
-tab,49A,No morphological case-marking,Makian (East),Austronesian
+swe,49A,2 cases,Swedish,Indo-European
+tab,49A,No morphological case-marking,Taba,Austronesian
 tag,49A,No morphological case-marking,Tagalog,Austronesian
 tda,49A,10 or more cases,Toda,Dravidian
 tha,49A,No morphological case-marking,Thai,Tai-Kadai
-tin,49A,No morphological case-marking,Tiri,Austronesian
+tin,49A,No morphological case-marking,Tinrin,Austronesian
 tiw,49A,No morphological case-marking,Tiwi,Tiwian
 tli,49A,8-9 cases,Tlingit,Na-Dene
 tna,49A,6-7 cases,Turkana,Eastern Sudanic
-tsi,49A,No morphological case-marking,Tsimshian,Penutian
-tts,49A,2 cases,Tati,Indo-European
-tuk,49A,No morphological case-marking,Tukang-Besi,Austronesian
+tsi,49A,No morphological case-marking,Tsimshian (Coast),Penutian
+tts,49A,2 cases,Tati (Southern),Indo-European
+tuk,49A,No morphological case-marking,Tukang Besi,Austronesian
 tur,49A,6-7 cases,Turkish,Altaic
-tvl,49A,No morphological case-marking,Ellice,Austronesian
+tvl,49A,No morphological case-marking,Tuvaluan,Austronesian
 udh,49A,8-9 cases,Udihe,Altaic
 udm,49A,10 or more cases,Udmurt,Uralic
-una,49A,No morphological case-marking,Goliath,Trans-New Guinea
+una,49A,No morphological case-marking,Una,Trans-New Guinea
 ung,49A,8-9 cases,Ungarinjin,Worrorran
 urd,49A,2 cases,Urdu,Indo-European
-urk,49A,No morphological case-marking,Urubu,Tupian
-usa,49A,Exclusively borderline case-marking,Wanuma,Trans-New Guinea
+urk,49A,No morphological case-marking,Urubú-Kaapor,Tupian
+usa,49A,Exclusively borderline case-marking,Usan,Trans-New Guinea
 vie,49A,No morphological case-marking,Vietnamese,Austro-Asiatic
 wam,49A,8-9 cases,Wambaya,Mirndi
-war,49A,No morphological case-marking,Pakaasnovos,Chapacura-Wanham
-wch,49A,No morphological case-marking,Matako,Matacoan
+war,49A,No morphological case-marking,Wari',Chapacura-Wanham
+wch,49A,No morphological case-marking,Wichí,Matacoan
+wel,49A,No morphological case-marking,Welsh,Indo-European
 wic,49A,Exclusively borderline case-marking,Wichita,Caddoan
-win,49A,4 cases,Wintun,Penutian
+win,49A,4 cases,Wintu,Penutian
 wrd,49A,8-9 cases,Wardaman,Yangmanic
 yag,49A,Exclusively borderline case-marking,Yagua,Peba-Yaguan
 yaq,49A,2 cases,Yaqui,Uto-Aztecan
 yid,49A,8-9 cases,Yidiny,Pama-Nyungan
 yim,49A,Exclusively borderline case-marking,Yimas,Lower Sepik-Ramu
-yko,49A,8-9 cases,Kolyma,Yukaghir
+yko,49A,8-9 cases,Yukaghir (Kolyma),Yukaghir
 yor,49A,No morphological case-marking,Yoruba,Niger-Congo
-ypk,49A,6-7 cases,Yupik (General Central),Eskimo-Aleut
+ypk,49A,6-7 cases,Yup'ik (Central),Eskimo-Aleut
 yur,49A,Exclusively borderline case-marking,Yurok,Algic
-ywl,49A,6-7 cases,Yokuts (Yawelmani),Penutian
-zqc,49A,2 cases,Copainalá Zoque,Mixe-Zoque
-zul,49A,No morphological case-marking,IsiZulu,Niger-Congo
+ywl,49A,6-7 cases,Yawelmani,Penutian
+zqc,49A,2 cases,Zoque (Copainalá),Mixe-Zoque
+zul,49A,No morphological case-marking,Zulu,Niger-Congo

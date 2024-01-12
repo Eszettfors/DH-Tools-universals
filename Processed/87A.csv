@@ -1,1035 +1,1072 @@
 Language_ID,Parameter_ID,Value,Name,Family
-aar,87A,Noun-Adjective,Ari,Afro-Asiatic
-abi,87A,No_dominant_order,Abipon,Guaicuruan
+aab,87A,Noun-Adjective,Arapesh (Abu),Torricelli
+aar,87A,Noun-Adjective,Aari,Afro-Asiatic
+abi,87A,No dominant order,Abipón,Guaicuruan
 abk,87A,Noun-Adjective,Abkhaz,Northwest Caucasian
 abn,87A,Noun-Adjective,Arabana,Pama-Nyungan
 abo,87A,Noun-Adjective,Arbore,Afro-Asiatic
-abu,87A,Noun-Adjective,Yimbun,West Papuan
+abu,87A,Noun-Adjective,Abun,West Papuan
 abv,87A,Noun-Adjective,Abui,Timor-Alor-Pantar
-ace,87A,Noun-Adjective,Achinese,Austronesian
+ace,87A,Noun-Adjective,Acehnese,Austronesian
 acg,87A,Noun-Adjective,Achagua,Arawakan
 acl,87A,Noun-Adjective,Acholi,Eastern Sudanic
-acn,87A,No_dominant_order,Achang,Sino-Tibetan
-aco,87A,No_dominant_order,Keres (Western),Keresan
+acn,87A,No dominant order,Achang,Sino-Tibetan
+aco,87A,No dominant order,Acoma,Keresan
 adg,87A,Noun-Adjective,Adang,Timor-Alor-Pantar
-adi,87A,Noun-Adjective,Adyukru,Niger-Congo
+adi,87A,Noun-Adjective,Adioukrou,Niger-Congo
 adn,87A,Adjective-Noun,Adynyamathanha,Pama-Nyungan
-ady,87A,Noun-Adjective,Abzax,Northwest Caucasian
+ady,87A,Noun-Adjective,Adyghe (Abzakh),Northwest Caucasian
 adz,87A,Noun-Adjective,Adzera,Austronesian
-aeg,87A,Noun-Adjective,Egyptian Colloquial Arabic,Afro-Asiatic
-aga,87A,Adjective-Noun,Gadsup,Trans-New Guinea
-agb,87A,Noun-Adjective,Legbo,Niger-Congo
-agc,87A,Adjective-Noun,Agta,Austronesian
-agd,87A,Adjective-Noun,d Agta,Austronesian
+aeg,87A,Noun-Adjective,Arabic (Egyptian),Afro-Asiatic
+aga,87A,Adjective-Noun,Agarabi,Trans-New Guinea
+agb,87A,Noun-Adjective,Leggbó,Niger-Congo
+agc,87A,Adjective-Noun,Agta (Central),Austronesian
+agd,87A,Adjective-Noun,Agta (Dupaningan),Austronesian
 agh,87A,Noun-Adjective,Aghem,Niger-Congo
 agm,87A,Noun-Adjective,Angami,Sino-Tibetan
-agt,87A,Noun-Adjective,Awngthim,Pama-Nyungan
+agt,87A,Noun-Adjective,Anguthimri,Pama-Nyungan
 aja,87A,Adjective-Noun,Aja,Central Sudanic
+ajg,87A,Noun-Adjective,Ajagbe,Niger-Congo
 akh,87A,Noun-Adjective,Akha,Sino-Tibetan
 akn,87A,Noun-Adjective,Akan,Niger-Congo
 ala,87A,Adjective-Noun,Alamblak,Sepik
 alb,87A,Noun-Adjective,Albanian,Indo-European
-alk,87A,Noun-Adjective,Lukep,Austronesian
-all,87A,Noun-Adjective,Nara,Austronesian
+alk,87A,Noun-Adjective,Arop-Lokep,Austronesian
+all,87A,Noun-Adjective,Ala'ala,Austronesian
 aln,87A,Noun-Adjective,Alune,Austronesian
 als,87A,Adjective-Noun,Alsea,Oregon Coast
-alw,87A,No_dominant_order,Alawa,Mangarrayi-Maran
+alw,87A,No dominant order,Alawa,Mangarrayi-Maran
 aly,87A,Noun-Adjective,Alyawarra,Pama-Nyungan
-ama,87A,Noun-Adjective,Longa,Austronesian
-amb,87A,Adjective-Noun,Abelam,Sepik
+ama,87A,Noun-Adjective,Amara,Austronesian
+amb,87A,Adjective-Noun,Ambulas,Sepik
 amc,87A,Noun-Adjective,Amahuaca,Panoan
 ame,87A,Noun-Adjective,Amele,Trans-New Guinea
 amh,87A,Adjective-Noun,Amharic,Afro-Asiatic
-ami,87A,Adjective-Noun,Ami,Austronesian
+ami,87A,Adjective-Noun,Amis,Austronesian
 amk,87A,Adjective-Noun,Amarakaeri,Harakmbet
-aml,87A,Noun-Adjective,Aoban (Northeast),Austronesian
-amm,87A,No_dominant_order,Ama,Left May
+aml,87A,Noun-Adjective,Ambae (Lolovoli Northeast),Austronesian
+amm,87A,No dominant order,Ama,Left May
 amn,87A,Noun-Adjective,Amanab,Border
 amo,87A,Noun-Adjective,Amo,Niger-Congo
-amp,87A,Noun-Adjective,Mparntwe Arrernte,Pama-Nyungan
+amp,87A,Noun-Adjective,Arrernte (Mparntwe),Pama-Nyungan
 amq,87A,Noun-Adjective,Ambai,Austronesian
-amr,87A,Noun-Adjective,Moroccan Arabic,Afro-Asiatic
-ams,87A,Noun-Adjective,Modern Literary Arabic,Afro-Asiatic
-amx,87A,Noun-Adjective,Ikundun,Trans-New Guinea
+amr,87A,Noun-Adjective,Arabic (Moroccan),Afro-Asiatic
+ams,87A,Noun-Adjective,Arabic (Modern Standard),Afro-Asiatic
+amt,87A,No dominant order,Amdo (Themchen),Sino-Tibetan
+amx,87A,Noun-Adjective,Anamuxra,Trans-New Guinea
 ana,87A,Noun-Adjective,Araona,Tacanan
 anc,87A,Noun-Adjective,Angas,Afro-Asiatic
 ang,87A,Noun-Adjective,Anggor,Senagi
-ani,87A,Adjective-Noun,||Ani,Khoe-Kwadi
-anj,87A,Noun-Adjective,Aneityum,Austronesian
-ano,87A,Noun-Adjective,Anung,Sino-Tibetan
-anu,87A,Noun-Adjective,Chakosi,Niger-Congo
-any,87A,Noun-Adjective,Anuak,Eastern Sudanic
+ani,87A,Adjective-Noun,//Ani,Khoe-Kwadi
+anj,87A,Noun-Adjective,Anejom,Austronesian
+ano,87A,Noun-Adjective,Anong,Sino-Tibetan
+anu,87A,Noun-Adjective,Anufo,Niger-Congo
+any,87A,Noun-Adjective,Anywa,Eastern Sudanic
 ao,87A,Noun-Adjective,Ao,Sino-Tibetan
-aoj,87A,Noun-Adjective,Arapesh (Southern),Torricelli
-api,87A,Noun-Adjective,Apinaye,Macro-Ge
-apl,87A,Noun-Adjective,Apalai,Cariban
+aoj,87A,Noun-Adjective,Mufian,Torricelli
+api,87A,Noun-Adjective,Apinayé,Macro-Ge
+apl,87A,Noun-Adjective,Apalaí,Cariban
 apt,87A,Noun-Adjective,Apatani,Sino-Tibetan
-apu,87A,Noun-Adjective,Apurina,Arawakan
-ara,87A,Adjective-Noun,Arawak,Arawakan
+apu,87A,Noun-Adjective,Apurinã,Arawakan
+ara,87A,Adjective-Noun,Lokono,Arawakan
 arc,87A,Adjective-Noun,Archi,Nakh-Daghestanian
-arg,87A,Noun-Adjective,Khaliji,Afro-Asiatic
-arm,87A,Adjective-Noun,Eastern Armenian,Indo-European
+arg,87A,Noun-Adjective,Arabic (Gulf),Afro-Asiatic
+arj,87A,Noun-Adjective,Arabic (Kuwaiti),Afro-Asiatic
+arm,87A,Adjective-Noun,Armenian (Eastern),Indo-European
 aro,87A,Noun-Adjective,Arosi,Austronesian
-arp,87A,Adjective-Noun,Bukiyip,Torricelli
-arq,87A,Noun-Adjective,Iraqi Arabic,Afro-Asiatic
-arw,87A,Adjective-Noun,Western Armenian,Indo-European
-asm,87A,Noun-Adjective,Asmat (Flamingo Bay),Trans-New Guinea
+arp,87A,Adjective-Noun,Arapesh (Mountain),Torricelli
+arq,87A,Noun-Adjective,Arabic (Iraqi),Afro-Asiatic
+arw,87A,Adjective-Noun,Armenian (Western),Indo-European
+asm,87A,Noun-Adjective,Asmat,Trans-New Guinea
 ass,87A,Adjective-Noun,Assamese,Indo-European
-asy,87A,Noun-Adjective,Syrian Arabic,Afro-Asiatic
-ata,87A,No_dominant_order,Atayal,Austronesian
+asy,87A,Noun-Adjective,Arabic (Syrian),Afro-Asiatic
+ata,87A,No dominant order,Atayal,Austronesian
 ath,87A,Adjective-Noun,Athpare,Sino-Tibetan
-atm,87A,Noun-Adjective,Kunza,Kunza
+atm,87A,Noun-Adjective,Atacameño,Kunza
 au,87A,Noun-Adjective,Au,Torricelli
 ava,87A,Adjective-Noun,Avar,Nakh-Daghestanian
 awa,87A,Adjective-Noun,Awa,Trans-New Guinea
-awe,87A,Noun-Adjective,"Aranda, Western",Pama-Nyungan
-awi,87A,Noun-Adjective,Awin,Awin-Pare
-awp,87A,Adjective-Noun,Cuaiquer,Barbacoan
-awt,87A,Noun-Adjective,Autu,Sepik
+awe,87A,Noun-Adjective,Arrernte (Western),Pama-Nyungan
+awi,87A,Noun-Adjective,Aekyom,Awin-Pare
+awp,87A,Adjective-Noun,Awa Pit,Barbacoan
+awt,87A,Noun-Adjective,Awtuw,Sepik
 awy,87A,Noun-Adjective,Awyi,Border
 ayi,87A,Noun-Adjective,Anyi,Niger-Congo
-aym,87A,Adjective-Noun,Aymara,Aymaran
-ayo,87A,Noun-Adjective,Ayoman,Jirajaran
-ayw,87A,Noun-Adjective,Aiwo,Austronesian
-aze,87A,Adjective-Noun,"Azerbaijani, North",Altaic
+aym,87A,Adjective-Noun,Aymara (Central),Aymaran
+ayo,87A,Noun-Adjective,Ayomán,Jirajaran
+ayw,87A,Noun-Adjective,Ayiwo,Austronesian
+aze,87A,Adjective-Noun,Azerbaijani,Altaic
 baa,87A,Noun-Adjective,Barai,Trans-New Guinea
 bab,87A,Noun-Adjective,Babungo,Niger-Congo
-bac,87A,No_dominant_order,Wadjiginy,Anson Bay
-bae,87A,Noun-Adjective,Bare,Arawakan
+bac,87A,No dominant order,Bachamal,Anson Bay
+bae,87A,Noun-Adjective,Baré,Arawakan
 baf,87A,Noun-Adjective,Bafut,Niger-Congo
 bag,87A,Noun-Adjective,Bagirmi,Central Sudanic
-bai,87A,Adjective-Noun,Minchia,Sino-Tibetan
-baj,87A,Noun-Adjective,Orang Laut,Austronesian
-bak,87A,Adjective-Noun,Baka (Cameroon),Niger-Congo
+bai,87A,Adjective-Noun,Bai,Sino-Tibetan
+baj,87A,Noun-Adjective,Bajau (Sama),Austronesian
+bak,87A,Adjective-Noun,Baka (in Cameroon),Niger-Congo
 bam,87A,Noun-Adjective,Bambara,Mande
 baq,87A,Noun-Adjective,Baure,Arawakan
-bar,87A,Noun-Adjective,Beri,Eastern Sudanic
-bas,87A,Noun-Adjective,Basaa,Niger-Congo
-baw,87A,Noun-Adjective,Bom,Sino-Tibetan
-bbf,87A,Noun-Adjective,Bobo-Fing,Mande
-bbl,87A,Noun-Adjective,Southern Bomitaba,Niger-Congo
-bbu,87A,Adjective-Noun,Barambo,Niger-Congo
-bbw,87A,No_dominant_order,Gunwinygu,Gunwinyguan
-bch,87A,Noun-Adjective,Shawiya,Afro-Asiatic
+bar,87A,Noun-Adjective,Bari,Eastern Sudanic
+bas,87A,Noun-Adjective,Basaá,Niger-Congo
+baw,87A,Noun-Adjective,Bawm,Sino-Tibetan
+bbf,87A,Noun-Adjective,Bobo Madaré (Northern),Mande
+bbl,87A,Noun-Adjective,Babole,Niger-Congo
+bbu,87A,Adjective-Noun,Barambu,Niger-Congo
+bbw,87A,No dominant order,Bininj Gun-Wok,Gunwinyguan
+bch,87A,Noun-Adjective,Berber (Chaouia),Afro-Asiatic
 bco,87A,Adjective-Noun,Bella Coola,Salishan
-bdm,87A,Noun-Adjective,Badimay,Pama-Nyungan
+bdm,87A,Noun-Adjective,Badimaya,Pama-Nyungan
 bdu,87A,Noun-Adjective,Budu,Niger-Congo
 bdw,87A,Noun-Adjective,Baham,West Bomberai
-bej,87A,No_dominant_order,Beja,Afro-Asiatic
-bel,87A,Adjective-Noun,Belhariya,Sino-Tibetan
+bej,87A,No dominant order,Beja,Afro-Asiatic
+bel,87A,Adjective-Noun,Belhare,Sino-Tibetan
 bem,87A,Noun-Adjective,Bemba,Niger-Congo
-bfg,87A,Noun-Adjective,Fiqiq,Afro-Asiatic
+bfg,87A,Noun-Adjective,Berber (Figuig),Afro-Asiatic
 bfi,87A,Noun-Adjective,Bafia,Niger-Congo
-bgn,87A,No_dominant_order,Khoa,Sino-Tibetan
-bgo,87A,No_dominant_order,Bongo,Central Sudanic
+bgn,87A,No dominant order,Bugun,Sino-Tibetan
+bgo,87A,No dominant order,Bongo,Central Sudanic
 bho,87A,Adjective-Noun,Bhojpuri,Indo-European
-bid,87A,Noun-Adjective,Bidiyo,Afro-Asiatic
+bhu,87A,Adjective-Noun,Bhumij,Austro-Asiatic
+bid,87A,Noun-Adjective,Bidiya,Afro-Asiatic
 bii,87A,Adjective-Noun,Biri,Pama-Nyungan
 bik,87A,Noun-Adjective,Biak,Austronesian
 bil,87A,Adjective-Noun,Bilua,Solomons East Papuan
 bin,87A,Noun-Adjective,Binandere,Trans-New Guinea
-bio,87A,No_dominant_order,Biaka,Kwomtari
+bio,87A,No dominant order,Nai,Kwomtari
 bir,87A,Noun-Adjective,Birom,Niger-Congo
 biu,87A,Noun-Adjective,Bisu,Sino-Tibetan
-bka,87A,Adjective-Noun,Baka,Central Sudanic
-bkl,87A,No_dominant_order,Bicolano (Central),Austronesian
-bkr,87A,Noun-Adjective,Karo Batak,Austronesian
-bkt,87A,Adjective-Noun,Brok-skad,Indo-European
-bku,87A,Noun-Adjective,Kwiri,Niger-Congo
+bka,87A,Adjective-Noun,Baka (in South Sudan),Central Sudanic
+bkl,87A,No dominant order,Bikol,Austronesian
+bkr,87A,Noun-Adjective,Batak (Karo),Austronesian
+bkt,87A,Adjective-Noun,Brokskat,Indo-European
+bku,87A,Noun-Adjective,Bakueri,Niger-Congo
 bla,87A,Adjective-Noun,Blackfoot,Algic
-ble,87A,Noun-Adjective,Baule,Niger-Congo
+ble,87A,Noun-Adjective,Baoulé,Niger-Congo
 bln,87A,Noun-Adjective,Bilin,Afro-Asiatic
-blr,87A,Adjective-Noun,Byelorussian,Indo-European
+blr,87A,Adjective-Noun,Belorussian,Indo-European
 blt,87A,Adjective-Noun,Balti,Sino-Tibetan
+blu,87A,Noun-Adjective,Bena-Lulua,Niger-Congo
 blx,87A,Noun-Adjective,Biloxi,Siouan
-blz,87A,Noun-Adjective,Balant,Niger-Congo
-bma,87A,Noun-Adjective,Tamazight (Middle Atlas),Afro-Asiatic
-bnb,87A,Adjective-Noun,Bunaba,Bunuban
+blz,87A,Noun-Adjective,Balanta,Niger-Congo
+bma,87A,Noun-Adjective,Berber (Middle Atlas),Afro-Asiatic
+bnb,87A,Adjective-Noun,Bunuba,Bunuban
 bni,87A,Noun-Adjective,Bini,Niger-Congo
-bnj,87A,Adjective-Noun,Bundjalung,Pama-Nyungan
+bnj,87A,Adjective-Noun,Bandjalang,Pama-Nyungan
 bnk,87A,Noun-Adjective,Bankon,Niger-Congo
 bnn,87A,Noun-Adjective,Banoni,Austronesian
-bod,87A,Adjective-Noun,Boro,Sino-Tibetan
+bod,87A,Adjective-Noun,Bodo,Sino-Tibetan
+boj,87A,No dominant order,Bori,Sino-Tibetan
 bok,87A,Noun-Adjective,Boko,Mande
 bon,87A,Noun-Adjective,Bongu,Trans-New Guinea
 bra,87A,Noun-Adjective,Brao,Austro-Asiatic
 bre,87A,Noun-Adjective,Breton,Indo-European
-brf,87A,Noun-Adjective,Riff,Afro-Asiatic
+brf,87A,Noun-Adjective,Berber (Rif),Afro-Asiatic
 brh,87A,Adjective-Noun,Brahui,Dravidian
 bri,87A,Noun-Adjective,Bribri,Chibchan
-brl,87A,Noun-Adjective,Baragaon,Sino-Tibetan
+brl,87A,Noun-Adjective,Baragaunle,Sino-Tibetan
 brm,87A,Noun-Adjective,Burmese,Sino-Tibetan
 brn,87A,Noun-Adjective,Burunge,Afro-Asiatic
-brp,87A,Noun-Adjective,d Warapu,Skou
-brs,87A,No_dominant_order,Barasano (Southern),Tucanoan
+brp,87A,Noun-Adjective,Barupu,Skou
+brq,87A,Noun-Adjective,Bera,Niger-Congo
+brs,87A,No dominant order,Barasano,Tucanoan
 bry,87A,Noun-Adjective,Baruya,Trans-New Guinea
-bsh,87A,Noun-Adjective,Bushong,Niger-Congo
-bsi,87A,Noun-Adjective,Siwa,Afro-Asiatic
+bsh,87A,Noun-Adjective,Bushoong,Niger-Congo
+bsi,87A,Noun-Adjective,Berber (Siwa),Afro-Asiatic
 bsk,87A,Adjective-Noun,Bashkir,Altaic
-bsr,87A,Noun-Adjective,Oniyan,Niger-Congo
-btk,87A,No_dominant_order,Bontok (Central),Austronesian
-bto,87A,Noun-Adjective,Toba Batak,Austronesian
-bua,87A,No_dominant_order,Burarra,Mangrida
+bsr,87A,Noun-Adjective,Basari,Niger-Congo
+btk,87A,No dominant order,Bontok,Austronesian
+bto,87A,Noun-Adjective,Batak (Toba),Austronesian
+bua,87A,No dominant order,Burarra,Mangrida
 bub,87A,Noun-Adjective,Bubi,Niger-Congo
 bud,87A,Noun-Adjective,Buduma,Afro-Asiatic
-buj,87A,Noun-Adjective,Ngumba,Niger-Congo
+buj,87A,Noun-Adjective,Bujeba,Niger-Congo
 bul,87A,Adjective-Noun,Bulgarian,Indo-European
 bum,87A,Noun-Adjective,Buma,Austronesian
 bun,87A,Noun-Adjective,Buin,East Bougainville
 bus,87A,Noun-Adjective,Busa,Mande
 but,87A,Adjective-Noun,Buriat,Altaic
 buu,87A,Noun-Adjective,Buru,Austronesian
-bvi,87A,Noun-Adjective,Vitu,Austronesian
-bwc,87A,Noun-Adjective,"Bajau, West Coast",Austronesian
-bya,87A,Adjective-Noun,Byangsi,Sino-Tibetan
+bvi,87A,Noun-Adjective,Bali-Vitu,Austronesian
+bwc,87A,Noun-Adjective,Bajau (West Coast),Austronesian
+bya,87A,Adjective-Noun,Byansi,Sino-Tibetan
 cah,87A,Adjective-Noun,Cahuilla,Uto-Aztecan
+cai,87A,Noun-Adjective,Chai,Eastern Sudanic
 cak,87A,Adjective-Noun,Cakchiquel,Mayan
-car,87A,Adjective-Noun,Galibi,Cariban
+car,87A,Adjective-Noun,Carib,Cariban
 cas,87A,Noun-Adjective,Cashibo,Panoan
 cav,87A,Noun-Adjective,Cavineña,Tacanan
-cax,87A,Noun-Adjective,Ashaninca,Arawakan
+cax,87A,Noun-Adjective,Campa (Axininca),Arawakan
 cay,87A,Adjective-Noun,Cayapa,Barbacoan
-cbo,87A,Noun-Adjective,Chacobo,Panoan
-ccm,87A,Noun-Adjective,Comaltepec Chinantec,Oto-Manguean
-cct,87A,Only_internally-headed_relative_clauses,Choctaw,Muskogean
-cde,87A,Noun-Adjective,Ye'cuana,Cariban
-cem,87A,Noun-Adjective,Cemuhi,Austronesian
+cbo,87A,Noun-Adjective,Chácobo,Panoan
+ccm,87A,Noun-Adjective,Chinantec (Comaltepec),Oto-Manguean
+cct,87A,Only internally-headed relative clauses,Choctaw,Muskogean
+cde,87A,Noun-Adjective,Carib (De'kwana),Cariban
+cem,87A,Noun-Adjective,Cèmuhî,Austronesian
 cga,87A,Noun-Adjective,Chaga,Niger-Congo
 cha,87A,Adjective-Noun,Chamorro,Austronesian
 chb,87A,Noun-Adjective,Chambri,Lower Sepik-Ramu
 chc,87A,Adjective-Noun,Chechen,Nakh-Daghestanian
 chd,87A,Adjective-Noun,Chaudangsi,Sino-Tibetan
 che,87A,Adjective-Noun,Cherokee,Iroquoian
-chg,87A,No_dominant_order,Chang,Sino-Tibetan
-chh,87A,Adjective-Noun,Gurage (Central West),Afro-Asiatic
+chg,87A,No dominant order,Chang,Sino-Tibetan
+chh,87A,Adjective-Noun,Chaha,Afro-Asiatic
 chi,87A,Noun-Adjective,Chimariko,Hokan
 chk,87A,Adjective-Noun,Chukchi,Chukotko-Kamchatkan
 chn,87A,Adjective-Noun,Chantyal,Sino-Tibetan
-chq,87A,Noun-Adjective,Quiotepec Chinantec,Oto-Manguean
+chq,87A,Noun-Adjective,Chinantec (Quiotepec),Oto-Manguean
 chr,87A,Noun-Adjective,Chrau,Austro-Asiatic
-chs,87A,No_dominant_order,Siyin,Sino-Tibetan
+chs,87A,No dominant order,Chin (Siyin),Sino-Tibetan
 chv,87A,Adjective-Noun,Chuvash,Altaic
-chw,87A,Noun-Adjective,Cham (West),Austronesian
-chx,87A,Adjective-Noun,Oaxaca Chontal,Tequistlatecan
-cic,87A,Noun-Adjective,Nyanja,Niger-Congo
+chw,87A,Noun-Adjective,Cham (Western),Austronesian
+chx,87A,Adjective-Noun,Chontal (Huamelultec Oaxaca),Tequistlatecan
+cic,87A,Noun-Adjective,Chichewa,Niger-Congo
 ckl,87A,Adjective-Noun,Chinook (Lower),Penutian
-cld,87A,Noun-Adjective,Syriac,Afro-Asiatic
-cle,87A,Noun-Adjective,San Juan Chinanteco Lealao,Oto-Manguean
-cln,87A,Adjective-Noun,Cholona,Cholon
-cme,87A,Noun-Adjective,Cham (East),Austronesian
-cmh,87A,No_dominant_order,Chemehuevi,Uto-Aztecan
+cld,87A,Noun-Adjective,Chaldean (Modern),Afro-Asiatic
+cle,87A,Noun-Adjective,Chinantec (Lealao),Oto-Manguean
+cln,87A,Adjective-Noun,Cholón,Cholon
+cme,87A,Noun-Adjective,Cham (Eastern),Austronesian
+cmh,87A,No dominant order,Chemehuevi,Uto-Aztecan
 cmn,87A,Adjective-Noun,Comanche,Uto-Aztecan
-cmr,87A,Noun-Adjective,Maram,Sino-Tibetan
-cmy,87A,Adjective-Noun,Yocot'an,Mayan
+cmr,87A,Noun-Adjective,Chin (Mara),Sino-Tibetan
+cmy,87A,Adjective-Noun,Chontal Maya,Mayan
 cnl,87A,Noun-Adjective,Canela,Macro-Ge
-cnm,87A,Noun-Adjective,Canamari,Katukinan
-cnt,87A,Adjective-Noun,Yue,Sino-Tibetan
+cnm,87A,Noun-Adjective,Canamarí,Katukinan
+cnt,87A,Adjective-Noun,Cantonese,Sino-Tibetan
 coc,87A,Noun-Adjective,Cocama,Tupian
-coo,87A,Adjective-Noun,Coos,Oregon Coast
+coo,87A,Adjective-Noun,Coos (Hanis),Oregon Coast
 cop,87A,Noun-Adjective,Coptic,Afro-Asiatic
 cor,87A,Noun-Adjective,Cora,Uto-Aztecan
-cpl,87A,Noun-Adjective,Palantla Chinantec,Oto-Manguean
+cpl,87A,Noun-Adjective,Chinantec (Palantla),Oto-Manguean
 cpn,87A,Adjective-Noun,Chepang,Sino-Tibetan
 cpy,87A,Adjective-Noun,Chipaya,Uru-Chipaya
 crn,87A,Noun-Adjective,Cornish,Indo-European
 cro,87A,Noun-Adjective,Crow,Siouan
 crp,87A,Noun-Adjective,Carapana,Tucanoan
-cti,87A,Noun-Adjective,Tiddim Chin,Sino-Tibetan
+cso,87A,Noun-Adjective,Chatino (Sierra Occidental),Oto-Manguean
+cti,87A,Noun-Adjective,Chin (Tiddim),Sino-Tibetan
 ctl,87A,Noun-Adjective,Catalan,Indo-European
 ctw,87A,Noun-Adjective,Catawba,Siouan
 cub,87A,Adjective-Noun,Cubeo,Tucanoan
-cuc,87A,No_dominant_order,Cuica,Timote-Cuica
+cuc,87A,No dominant order,Cuica,Timote-Cuica
 cui,87A,Noun-Adjective,Cuiba,Guahiban
 cup,87A,Noun-Adjective,Cupeño,Uto-Aztecan
+cya,87A,Noun-Adjective,Chatino (Yaitepec),Oto-Manguean
 cze,87A,Adjective-Noun,Czech,Indo-European
 dag,87A,Noun-Adjective,Daga,Dagan
 dan,87A,Noun-Adjective,Dan,Mande
-daw,87A,Noun-Adjective,Kamán,Nadahup
+daw,87A,Noun-Adjective,Dâw,Nadahup
 day,87A,Noun-Adjective,Day,Niger-Congo
-ddj,87A,Noun-Adjective,d Godie,Niger-Congo
-dds,87A,Noun-Adjective,Donno So Dogon,Dogon
-deg,87A,No_dominant_order,Degema,Niger-Congo
-der,87A,No_dominant_order,Dera,Senagi
+ddj,87A,Noun-Adjective,Dadjriwalé,Niger-Congo
+dds,87A,Noun-Adjective,Donno So,Dogon
+deg,87A,No dominant order,Degema,Niger-Congo
+der,87A,No dominant order,Dla (Proper),Senagi
 des,87A,Adjective-Noun,Desano,Tucanoan
-deu,87A,Adjective-Noun,Chutiya,Sino-Tibetan
-dga,87A,Noun-Adjective,Dagara,Niger-Congo
+deu,87A,Adjective-Noun,Deuri,Sino-Tibetan
+dga,87A,Noun-Adjective,Dagaare,Niger-Congo
 dgb,87A,Noun-Adjective,Dagbani,Niger-Congo
 dgo,87A,Noun-Adjective,Dongo,Niger-Congo
 dgr,87A,Adjective-Noun,Dagur,Altaic
-dha,87A,Noun-Adjective,Dasenech,Afro-Asiatic
-dhi,87A,Adjective-Noun,Maldivian,Indo-European
+dha,87A,Noun-Adjective,Dhaasanac,Afro-Asiatic
+dhi,87A,Adjective-Noun,Dhivehi,Indo-European
 dhm,87A,Adjective-Noun,Dhimal,Sino-Tibetan
-did,87A,Noun-Adjective,Xaroxa,Eastern Sudanic
-die,87A,Only_internally-headed_relative_clauses,Kumeyaay,Hokan
+did,87A,Noun-Adjective,Didinga,Eastern Sudanic
+die,87A,Only internally-headed relative clauses,Diegueño (Mesa Grande),Hokan
 dig,87A,Noun-Adjective,Digaro,Sino-Tibetan
 dim,87A,Noun-Adjective,Dime,Afro-Asiatic
-din,87A,Noun-Adjective,Jieng (Dinka),Eastern Sudanic
-dio,87A,Noun-Adjective,Diola,Niger-Congo
+din,87A,Noun-Adjective,Dinka,Eastern Sudanic
+dio,87A,Noun-Adjective,Diola-Fogny,Niger-Congo
 diy,87A,Noun-Adjective,Diyari,Pama-Nyungan
 dji,87A,Noun-Adjective,Djingili,Mirndi
-djm,87A,No_dominant_order,Djambarbwingu,Pama-Nyungan
+djm,87A,No dominant order,Djambarrpuyngu,Pama-Nyungan
 djn,87A,Noun-Adjective,Djinang,Pama-Nyungan
-djr,87A,No_dominant_order,Djaru,Pama-Nyungan
-dlm,87A,No_dominant_order,d Dera,Senagi
+djr,87A,No dominant order,Djaru,Pama-Nyungan
+dlm,87A,No dominant order,Dla (Menggwa),Senagi
 dma,87A,Noun-Adjective,Duma,Niger-Congo
 dmi,87A,Adjective-Noun,Dumi,Sino-Tibetan
-dmk,87A,Adjective-Noun,Dumaki,Indo-European
+dmk,87A,Adjective-Noun,Domaaki,Indo-European
 dms,87A,Noun-Adjective,Dimasa,Sino-Tibetan
-dom,87A,Adjective-Noun,Zutt,Indo-European
-don,87A,Noun-Adjective,Kam,Tai-Kadai
-doy,87A,Noun-Adjective,Dayãyo,Niger-Congo
-dre,87A,Noun-Adjective,Dehu,Austronesian
+dom,87A,Adjective-Noun,Domari,Indo-European
+don,87A,Noun-Adjective,Dong (Southern),Tai-Kadai
+doy,87A,Noun-Adjective,Doyayo,Niger-Congo
+dre,87A,Noun-Adjective,Drehu,Austronesian
 drg,87A,Adjective-Noun,Dargwa,Nakh-Daghestanian
-drm,87A,Adjective-Noun,Darmiya,Sino-Tibetan
+drm,87A,Adjective-Noun,Darma,Sino-Tibetan
 dsh,87A,Adjective-Noun,Danish,Indo-European
 dua,87A,Noun-Adjective,Duala,Niger-Congo
 duk,87A,Noun-Adjective,Duka,Niger-Congo
-dul,87A,No_dominant_order,Trung,Sino-Tibetan
-dum,87A,Noun-Adjective,Vanimo,Skou
+dul,87A,No dominant order,Dulong,Sino-Tibetan
+dum,87A,Noun-Adjective,Dumo,Skou
 dun,87A,Noun-Adjective,Duna,Trans-New Guinea
+dut,87A,Adjective-Noun,Dutch,Indo-European
 dyi,87A,Noun-Adjective,Dyirbal,Pama-Nyungan
-edo,87A,Noun-Adjective,Beami,Bosavi
+edo,87A,Noun-Adjective,Edolo,Bosavi
 ega,87A,Noun-Adjective,Ega,Niger-Congo
 egn,87A,Noun-Adjective,Engenni,Niger-Congo
 eip,87A,Adjective-Noun,Eipo,Trans-New Guinea
-els,87A,Noun-Adjective,Morwap,Morwap
-emb,87A,Noun-Adjective,Embera,Choco
-eme,87A,Noun-Adjective,Emerillon,Tupian
-emm,87A,Noun-Adjective,Ami,Western Daly
+els,87A,Noun-Adjective,Elseng,Morwap
+emb,87A,Noun-Adjective,Emberá (Northern),Choco
+eme,87A,Noun-Adjective,Émérillon,Tupian
+emm,87A,Noun-Adjective,Emmi,Western Daly
 ene,87A,Adjective-Noun,Enets,Uralic
 eng,87A,Adjective-Noun,English,Indo-European
 eno,87A,Noun-Adjective,Enggano,Austronesian
-epe,87A,Noun-Adjective,Saija,Choco
+epe,87A,Noun-Adjective,Epena Pedee,Choco
 erk,87A,Noun-Adjective,Efate (South),Austronesian
-err,87A,Noun-Adjective,Sie,Austronesian
-ese,87A,Noun-Adjective,Ese'ejja,Tacanan
-esm,87A,No_dominant_order,Esmeralda,Tacame
+err,87A,Noun-Adjective,Erromangan,Austronesian
+ese,87A,Noun-Adjective,Ese Ejja,Tacanan
+esm,87A,No dominant order,Esmeraldeño,Tacame
 est,87A,Adjective-Noun,Estonian,Uralic
 eve,87A,Adjective-Noun,Evenki,Altaic
 evn,87A,Adjective-Noun,Even,Altaic
+ewe,87A,Noun-Adjective,Ewe,Niger-Congo
 ewo,87A,Noun-Adjective,Ewondo,Niger-Congo
 fas,87A,Noun-Adjective,Fasu,Trans-New Guinea
-fij,87A,Noun-Adjective,Nadroga,Austronesian
+fij,87A,Noun-Adjective,Fijian,Austronesian
 fin,87A,Adjective-Noun,Finnish,Uralic
 foe,87A,Noun-Adjective,Foe,Trans-New Guinea
-fon,87A,Noun-Adjective,Fon,Niger-Congo
+fon,87A,Noun-Adjective,Fongbe,Niger-Congo
 for,87A,Adjective-Noun,Fore,Trans-New Guinea
 fre,87A,Noun-Adjective,French,Indo-European
-fua,87A,Noun-Adjective,Fulfulde (Cameroonian),Niger-Congo
-ful,87A,Noun-Adjective,Fulnio,Yaté
+fri,87A,Adjective-Noun,Frisian,Indo-European
+fua,87A,Noun-Adjective,Fulfulde (Adamawa),Niger-Congo
+ful,87A,Noun-Adjective,Fulniô,Yaté
 fut,87A,Noun-Adjective,Futuna-Aniwa,Austronesian
-fye,87A,Noun-Adjective,Fyam,Niger-Congo
+fye,87A,Noun-Adjective,Fyem,Niger-Congo
 ga,87A,Noun-Adjective,Gã,Niger-Congo
-gae,87A,Noun-Adjective,Scottish Gaelic,Indo-European
-gah,87A,No_dominant_order,Gahuku,Trans-New Guinea
-gal,87A,Adjective-Noun,Gallong,Sino-Tibetan
+gae,87A,Noun-Adjective,Gaelic (Scots),Indo-European
+gah,87A,No dominant order,Gahuku,Trans-New Guinea
+gal,87A,Adjective-Noun,Galo,Sino-Tibetan
 gam,87A,Adjective-Noun,Gamo,Afro-Asiatic
 gar,87A,Noun-Adjective,Garo,Sino-Tibetan
 gav,87A,Noun-Adjective,Gavião,Tupian
-gbb,87A,Adjective-Noun,Gbeya,Niger-Congo
+gbb,87A,Adjective-Noun,Gbeya Bossangoa,Niger-Congo
+gbs,87A,Adjective-Noun,Gbaya (Southwest),Niger-Congo
 gdb,87A,Adjective-Noun,Gutob,Austro-Asiatic
 gds,87A,Adjective-Noun,Gadsup,Trans-New Guinea
 gel,87A,Noun-Adjective,Gela,Austronesian
 geo,87A,Adjective-Noun,Georgian,Kartvelian
+ger,87A,Adjective-Noun,German,Indo-European
 ggu,87A,Noun-Adjective,Gureng Gureng,Pama-Nyungan
 ghr,87A,Noun-Adjective,Bunan,Sino-Tibetan
-gid,87A,Adjective-Noun,Gidabul,Pama-Nyungan
+gid,87A,Adjective-Noun,Gidabal,Pama-Nyungan
 gil,87A,Adjective-Noun,Gilaki,Indo-European
-gim,87A,No_dominant_order,Bencho,Afro-Asiatic
-git,87A,Adjective-Noun,Nass-Gitksan,Penutian
+gim,87A,No dominant order,Gimira,Afro-Asiatic
+git,87A,Adjective-Noun,Gitksan,Penutian
 gjj,87A,Noun-Adjective,Guajajara,Tupian
-gku,87A,Noun-Adjective,Puelche,Chon
+gku,87A,Noun-Adjective,Gününa Küne,Chon
 gla,87A,Noun-Adjective,Gelao,Tai-Kadai
 gln,87A,Noun-Adjective,Golin,Trans-New Guinea
-gmw,87A,Noun-Adjective,Gumasi,Austronesian
-gnb,87A,Adjective-Noun,Warlang,Gunwinyguan
+gmw,87A,Noun-Adjective,Gumawana,Austronesian
+gnb,87A,Adjective-Noun,Gunbalang,Gunwinyguan
 gnd,87A,Noun-Adjective,Ga'anda,Afro-Asiatic
-gnn,87A,Noun-Adjective,Wunambal,Worrorran
+gnn,87A,Noun-Adjective,Gunin,Worrorran
 goa,87A,Noun-Adjective,Goajiro,Arawakan
 god,87A,Adjective-Noun,Godoberi,Nakh-Daghestanian
 goe,87A,Noun-Adjective,Goemai,Afro-Asiatic
 gok,87A,Adjective-Noun,Gokana,Niger-Congo
 gon,87A,Adjective-Noun,Gondi,Dravidian
-goo,87A,Noun-Adjective,Guniyan,Bunuban
+goo,87A,Noun-Adjective,Gooniyandi,Bunuban
 grb,87A,Noun-Adjective,Grebo,Niger-Congo
-grf,87A,Noun-Adjective,"Island Carib, Carib (Island)",Arawakan
-grg,87A,No_dominant_order,Guragone,Mangrida
-grj,87A,No_dominant_order,Guarijío,Uto-Aztecan
-grk,87A,Adjective-Noun,Modern Greek,Indo-European
-grr,87A,Noun-Adjective,Garawa,Garrwan
-grw,87A,Noun-Adjective,Greenland Eskimo (West),Eskimo-Aleut
-gua,87A,Noun-Adjective,Guarani (Paraguayan),Tupian
+grf,87A,Noun-Adjective,Garífuna,Arawakan
+grg,87A,No dominant order,Gurr-goni,Mangrida
+grj,87A,No dominant order,Guarijío,Uto-Aztecan
+grk,87A,Adjective-Noun,Greek (Modern),Indo-European
+grr,87A,Noun-Adjective,Garrwa,Garrwan
+grw,87A,Noun-Adjective,Greenlandic (West),Eskimo-Aleut
+gua,87A,Noun-Adjective,Guaraní,Tupian
 gud,87A,Adjective-Noun,Gude,Afro-Asiatic
-gug,87A,Noun-Adjective,Kokata,Pama-Nyungan
-guh,87A,Noun-Adjective,Guhu-Semane,Trans-New Guinea
+gug,87A,Noun-Adjective,Gugada,Pama-Nyungan
+guh,87A,Noun-Adjective,Guhu-Samane,Trans-New Guinea
 guj,87A,Adjective-Noun,Gujarati,Indo-European
-gul,87A,Noun-Adjective,Gula,Central Sudanic
-gum,87A,No_dominant_order,Gumbayunggir,Pama-Nyungan
+gul,87A,Noun-Adjective,Gula (in Central African Republic),Central Sudanic
+gum,87A,No dominant order,Gumbaynggir,Pama-Nyungan
 gur,87A,Adjective-Noun,Gurung,Sino-Tibetan
 guu,87A,Noun-Adjective,Guugu Yimidhirr,Pama-Nyungan
-guw,87A,Noun-Adjective,Gun,Niger-Congo
+guw,87A,Noun-Adjective,Gungbe,Niger-Congo
 gwa,87A,Noun-Adjective,Gwari,Niger-Congo
+gyc,87A,Noun-Adjective,Gyarong (Cogtse),Sino-Tibetan
 hal,87A,Noun-Adjective,Halia,Austronesian
 ham,87A,Noun-Adjective,Hamtai,Trans-New Guinea
-han,87A,No_dominant_order,Hani,Sino-Tibetan
-har,87A,Noun-Adjective,Waibuk,Piawi
-hat,87A,Noun-Adjective,Hattam,West Papuan
+han,87A,No dominant order,Hani,Sino-Tibetan
+har,87A,Noun-Adjective,Haruai,Piawi
+hat,87A,Noun-Adjective,Hatam,West Papuan
 hau,87A,Adjective-Noun,Hausa,Afro-Asiatic
 haw,87A,Noun-Adjective,Hawaiian,Austronesian
-hay,87A,Adjective-Noun,Vayu,Sino-Tibetan
-hdi,87A,Noun-Adjective,Xedi,Afro-Asiatic
-heb,87A,Noun-Adjective,Modern Hebrew,Afro-Asiatic
+hay,87A,Adjective-Noun,Hayu,Sino-Tibetan
+hdi,87A,Noun-Adjective,Hdi,Afro-Asiatic
+heb,87A,Noun-Adjective,Hebrew (Modern),Afro-Asiatic
 heh,87A,Noun-Adjective,Hehe,Niger-Congo
 hei,87A,Adjective-Noun,Heiltsuk,Wakashan
 hem,87A,Noun-Adjective,Hemba,Niger-Congo
-hhu,87A,Adjective-Noun,Kwasengen,Sepik
+hhu,87A,Adjective-Noun,Hanga Hundi,Sepik
 hid,87A,Noun-Adjective,Hidatsa,Siouan
-hil,87A,No_dominant_order,Hiligaynon,Austronesian
+hil,87A,No dominant order,Hiligaynon,Austronesian
 hin,87A,Adjective-Noun,Hindi,Indo-European
-hix,87A,Noun-Adjective,Hishkariana,Cariban
-hlp,87A,Noun-Adjective,Walapai,Hokan
-hlu,87A,Adjective-Noun,Halkomelem,Salishan
+hix,87A,Noun-Adjective,Hixkaryana,Cariban
+hlp,87A,Noun-Adjective,Hualapai,Hokan
+hlu,87A,Adjective-Noun,Halkomelem (Upriver),Salishan
 hma,87A,Noun-Adjective,Hmar,Sino-Tibetan
-hmi,87A,Adjective-Noun,Meneca,Huitotoan
-hmo,87A,Noun-Adjective,Mong Njua,Hmong-Mien
-hna,87A,Noun-Adjective,Hina,Afro-Asiatic
+hmi,87A,Adjective-Noun,Huitoto (Minica),Huitotoan
+hmo,87A,Noun-Adjective,Hmong Njua,Hmong-Mien
+hna,87A,Noun-Adjective,Mina,Afro-Asiatic
 hnd,87A,Noun-Adjective,Hunde,Niger-Congo
 ho,87A,Adjective-Noun,Ho,Austro-Asiatic
 hoa,87A,Noun-Adjective,Hoava,Austronesian
 hol,87A,Noun-Adjective,Holoholo,Niger-Congo
 hop,87A,Adjective-Noun,Hopi,Uto-Aztecan
-hpd,87A,Noun-Adjective,Hupda,Nadahup
+hpd,87A,Noun-Adjective,Hup,Nadahup
 htc,87A,Adjective-Noun,Huastec,Mayan
-huc,87A,Noun-Adjective,|=HÍ,Kxa
-hum,87A,Adjective-Noun,Murui,Huitotoan
+hua,87A,Adjective-Noun,Hua,Trans-New Guinea
+huc,87A,Noun-Adjective,=|Hoan,Kxa
+hum,87A,Adjective-Noun,Huitoto (Murui),Huitotoan
 hun,87A,Adjective-Noun,Hungarian,Uralic
 hup,87A,Noun-Adjective,Hupa,Na-Dene
-hve,87A,Adjective-Noun,Huave,Huavean
-hwr,87A,Noun-Adjective,Gorani,Indo-European
+hve,87A,Adjective-Noun,Huave (San Mateo del Mar),Huavean
+hwr,87A,Noun-Adjective,Hawrami,Indo-European
 hya,87A,Noun-Adjective,Haya,Niger-Congo
 hzb,87A,Adjective-Noun,Hunzib,Nakh-Daghestanian
 iaa,87A,Adjective-Noun,Iaai,Austronesian
 iba,87A,Noun-Adjective,Iban,Austronesian
 ice,87A,Adjective-Noun,Icelandic,Indo-European
 idn,87A,Noun-Adjective,Iduna,Austronesian
-idu,87A,Adjective-Noun,Midu,Sino-Tibetan
-ifm,87A,Noun-Adjective,Central Teke,Niger-Congo
-ifu,87A,Adjective-Noun,Ifugao,Austronesian
+idu,87A,Adjective-Noun,Idu,Sino-Tibetan
+ifm,87A,Noun-Adjective,Ifumu,Niger-Congo
+ifu,87A,Adjective-Noun,Ifugao (Batad),Austronesian
 igb,87A,Noun-Adjective,Igbo,Niger-Congo
 ige,87A,Noun-Adjective,Igede,Niger-Congo
-igs,87A,Noun-Adjective,Gaam,Eastern Sudanic
-ijo,87A,Adjective-Noun,Kolokuma,Ijoid
+igs,87A,Noun-Adjective,Ingessana,Eastern Sudanic
+ijo,87A,Adjective-Noun,Ijo (Kolokuma),Ijoid
 ik,87A,Noun-Adjective,Ik,Eastern Sudanic
-ika,87A,Noun-Adjective,Ica,Chibchan
+ika,87A,Noun-Adjective,Ika,Chibchan
 ila,87A,Noun-Adjective,Ila,Niger-Congo
-ilo,87A,Adjective-Noun,Ilokano,Austronesian
+ilo,87A,Adjective-Noun,Ilocano,Austronesian
 imo,87A,Noun-Adjective,Imonda,Border
 ina,87A,Noun-Adjective,Inanwatan,South Bird's Head
+ind,87A,Noun-Adjective,Indonesian,Austronesian
 ing,87A,Adjective-Noun,Ingush,Nakh-Daghestanian
-inn,87A,Noun-Adjective,Yandruwandha,Pama-Nyungan
+inn,87A,Noun-Adjective,Innamincka,Pama-Nyungan
 iqu,87A,Noun-Adjective,Iquito,Zaparoan
-iri,87A,Noun-Adjective,Gaelic,Indo-European
+iri,87A,Noun-Adjective,Irish,Indo-European
 irq,87A,Noun-Adjective,Iraqw,Afro-Asiatic
-irr,87A,Noun-Adjective,Irahutu,Austronesian
-isa,87A,Noun-Adjective,Krisa,Skou
-ita,87A,Noun-Adjective,Italian (Roman),Indo-European
-ite,87A,No_dominant_order,Kamchadal,Chukotko-Kamchatkan
+irr,87A,Noun-Adjective,Irarutu,Austronesian
+isa,87A,Noun-Adjective,I'saka,Skou
+ita,87A,Noun-Adjective,Italian,Indo-European
+ite,87A,No dominant order,Itelmen,Chukotko-Kamchatkan
 iwa,87A,Adjective-Noun,Iwaidja,Iwaidjan
-izi,87A,No_dominant_order,Izi,Niger-Congo
-jab,87A,Noun-Adjective,Yabim,Austronesian
-jad,87A,Noun-Adjective,Tibetan,Sino-Tibetan
-jak,87A,Adjective-Noun,Jacaltec,Mayan
-jam,87A,No_dominant_order,Djamindjung,Mirndi
+izi,87A,No dominant order,Izi,Niger-Congo
+jab,87A,Noun-Adjective,Jabêm,Austronesian
+jad,87A,Noun-Adjective,Jad,Sino-Tibetan
+jak,87A,Adjective-Noun,Jakaltek,Mayan
+jam,87A,No dominant order,Jaminjung,Mirndi
 jaq,87A,Adjective-Noun,Jaqaru,Aymaran
-jar,87A,Noun-Adjective,Jarawa,Niger-Congo
-jbt,87A,Noun-Adjective,Yabuti,Macro-Ge
+jar,87A,Noun-Adjective,Izere,Niger-Congo
+jbt,87A,Noun-Adjective,Jabutí,Macro-Ge
 jeb,87A,Adjective-Noun,Jebero,Cahuapanan
-jel,87A,Noun-Adjective,Jeri,Mande
-jin,87A,Noun-Adjective,Jinuo,Sino-Tibetan
-jiv,87A,Adjective-Noun,Shuar,Jivaroan
-jlu,87A,Noun-Adjective,Jur,Eastern Sudanic
-jmo,87A,Noun-Adjective,Morokodo,Central Sudanic
-jms,87A,Noun-Adjective,d Dogon,Dogon
-jng,87A,Noun-Adjective,Jingphaw,Sino-Tibetan
-jrw,87A,Noun-Adjective,Jarawa,South Andamanese
-jug,87A,No_dominant_order,Yogli,Sino-Tibetan
-juh,87A,Noun-Adjective,Zhu-/Hoa (Si),Kxa
+jel,87A,Noun-Adjective,Jeli,Mande
+jin,87A,Noun-Adjective,Jino,Sino-Tibetan
+jiv,87A,Adjective-Noun,Jivaro,Jivaroan
+jlu,87A,Noun-Adjective,Luwo,Eastern Sudanic
+jmo,87A,Noun-Adjective,Jur Mödö,Central Sudanic
+jms,87A,Noun-Adjective,Jamsay,Dogon
+jng,87A,Noun-Adjective,Jingpho,Sino-Tibetan
+joh,87A,Adjective-Noun,Johari,Sino-Tibetan
+jrw,87A,Noun-Adjective,Jarawa (in Andamans),South Andamanese
+jug,87A,No dominant order,Jugli,Sino-Tibetan
+juh,87A,Noun-Adjective,Ju|'hoan,Kxa
 juk,87A,Noun-Adjective,Jukun,Niger-Congo
-jva,87A,Noun-Adjective,Karaja,Macro-Ge
-kaa,87A,Noun-Adjective,Arara (Tupi),Tupian
-kac,87A,No_dominant_order,Bara,Sino-Tibetan
-kae,87A,Noun-Adjective,Tate,Eleman
-kam,87A,Noun-Adjective,Sumbanese (East),Austronesian
-kan,87A,No_dominant_order,Kana,Niger-Congo
-kar,87A,Noun-Adjective,Fer,Central Sudanic
+jva,87A,Noun-Adjective,Karajá,Macro-Ge
+kaa,87A,Noun-Adjective,Karó (Arára),Tupian
+kac,87A,No dominant order,Kachari,Sino-Tibetan
+kae,87A,Noun-Adjective,Kaki Ae,Eleman
+kam,87A,Noun-Adjective,Kambera,Austronesian
+kan,87A,No dominant order,Kana,Niger-Congo
+kar,87A,Noun-Adjective,Kara (in Central African Republic),Central Sudanic
 kas,87A,Adjective-Noun,Kashmiri,Indo-European
-kau,87A,Noun-Adjective,Pasismanua,Austronesian
-kay,87A,Adjective-Noun,Gayardilt,Tangkic
+kau,87A,Noun-Adjective,Kaulong,Austronesian
+kay,87A,Adjective-Noun,Kayardild,Tangkic
 kba,87A,Noun-Adjective,Kamba,Niger-Congo
 kbl,87A,Noun-Adjective,Kabyle,Afro-Asiatic
 kbo,87A,Noun-Adjective,Kambot,Lower Sepik-Ramu
 kbt,87A,Adjective-Noun,Kabatei,Indo-European
-kbw,87A,Noun-Adjective,Bwe,Sino-Tibetan
-kby,87A,Noun-Adjective,Kabre,Niger-Congo
-kch,87A,Noun-Adjective,"Songhay, Koyra Chiini dialect",Songhay
-kdz,87A,Noun-Adjective,"Kadazan, Coastal",Austronesian
-kel,87A,Noun-Adjective,Gele,Austronesian
+kbw,87A,Noun-Adjective,Karen (Bwe),Sino-Tibetan
+kby,87A,Noun-Adjective,Kabiyé,Niger-Congo
+kch,87A,Noun-Adjective,Koyra Chiini,Songhay
+kdz,87A,Noun-Adjective,Kadazan,Austronesian
+kel,87A,Noun-Adjective,Kele,Austronesian
 kem,87A,Adjective-Noun,Kemant,Afro-Asiatic
 ker,87A,Noun-Adjective,Kera,Afro-Asiatic
 ket,87A,Adjective-Noun,Ket,Yeniseian
 kew,87A,Adjective-Noun,Kewa,Trans-New Guinea
-kfe,87A,Noun-Adjective,Kurumfe,Niger-Congo
+kfe,87A,Noun-Adjective,Koromfe,Niger-Congo
 kga,87A,Noun-Adjective,Kinga,Niger-Congo
-kgr,87A,Noun-Adjective,Kaguru,Niger-Congo
+kgr,87A,Noun-Adjective,Kagulu,Niger-Congo
 kgu,87A,Noun-Adjective,Kalkatungu,Pama-Nyungan
-kgy,87A,Noun-Adjective,Kyerung,Sino-Tibetan
-kgz,87A,Adjective-Noun,Kyrgyz,Altaic
+kgy,87A,Noun-Adjective,Kyirong,Sino-Tibetan
+kgz,87A,Adjective-Noun,Kirghiz,Altaic
 kha,87A,Adjective-Noun,Khalkha,Altaic
+khd,87A,Noun-Adjective,Kham (Dege),Sino-Tibetan
 khg,87A,Adjective-Noun,Khaling,Sino-Tibetan
-khi,87A,Adjective-Noun,Xinalug,Nakh-Daghestanian
+khi,87A,Adjective-Noun,Khinalug,Nakh-Daghestanian
 khl,87A,Adjective-Noun,Khalaj,Altaic
 khm,87A,Noun-Adjective,Khmer,Austro-Asiatic
 kho,87A,Adjective-Noun,Nama,Khoe-Kwadi
 khs,87A,Noun-Adjective,Khasi,Austro-Asiatic
 khw,87A,Adjective-Noun,Khowar,Indo-European
-kie,87A,Noun-Adjective,Giri,Lower Sepik-Ramu
+kie,87A,Noun-Adjective,Kire,Lower Sepik-Ramu
 kik,87A,Noun-Adjective,Kikuyu,Niger-Congo
-kin,87A,Noun-Adjective,Rwanda,Niger-Congo
+kin,87A,Noun-Adjective,Kinyarwanda,Niger-Congo
 kir,87A,Noun-Adjective,Kirma,Niger-Congo
-kis,87A,Noun-Adjective,Gizi,Niger-Congo
-kiw,87A,Adjective-Noun,"Kiwai, Island dialect",Kiwaian
-kje,87A,Noun-Adjective,Coreguaje,Tucanoan
+kis,87A,Noun-Adjective,Kisi,Niger-Congo
+kiw,87A,Adjective-Noun,Kiwai (Southern),Kiwaian
+kje,87A,Noun-Adjective,Koreguaje,Tucanoan
 kkp,87A,Adjective-Noun,Karakalpak,Altaic
 kkt,87A,Noun-Adjective,Kokota,Austronesian
 kku,87A,Adjective-Noun,Korku,Austro-Asiatic
-kkv,87A,Noun-Adjective,Kandoka-Lusi,Austronesian
-kla,87A,No_dominant_order,Klau,Niger-Congo
-klg,87A,Adjective-Noun,Kulung (Tibeto-Burman),Sino-Tibetan
+kkv,87A,Noun-Adjective,Lusi,Austronesian
+kla,87A,No dominant order,Klao,Niger-Congo
+klg,87A,Adjective-Noun,Kulung,Sino-Tibetan
 kll,87A,Noun-Adjective,Kaluli,Bosavi
 klm,87A,Adjective-Noun,Klamath,Penutian
 klq,87A,Noun-Adjective,Kalam,Trans-New Guinea
-klr,87A,Adjective-Noun,Shahrudi,Indo-European
+klr,87A,Adjective-Noun,Koluri,Indo-European
 klv,87A,Noun-Adjective,Kilivila,Austronesian
 klw,87A,Noun-Adjective,Kiliwa,Hokan
-kma,87A,Noun-Adjective,Kamayura,Tupian
-kmb,87A,Noun-Adjective,Wanggom,Trans-New Guinea
+kma,87A,Noun-Adjective,Kamaiurá,Tupian
+kmb,87A,Noun-Adjective,Kombai,Trans-New Guinea
 kmh,87A,Adjective-Noun,Kham,Sino-Tibetan
 kmi,87A,Noun-Adjective,Kami,Niger-Congo
-kmj,87A,Noun-Adjective,Karamojong,Eastern Sudanic
+kmj,87A,Noun-Adjective,Karimojong,Eastern Sudanic
+kmk,87A,Adjective-Noun,Kalmyk,Altaic
 kmn,87A,Noun-Adjective,Kuman,Trans-New Guinea
-kmo,87A,Noun-Adjective,Koiari (Mountain),Trans-New Guinea
+kmo,87A,Noun-Adjective,Koiali (Mountain),Trans-New Guinea
 kmp,87A,Noun-Adjective,Kunimaipa,Trans-New Guinea
-kms,87A,Adjective-Noun,Kamas,Uralic
+kms,87A,Adjective-Noun,Kamass,Uralic
 kmu,87A,Noun-Adjective,Khmu',Austro-Asiatic
-kmw,87A,Noun-Adjective,Gamu,Eastern Daly
+kmw,87A,Noun-Adjective,Kamu,Eastern Daly
 kmz,87A,Noun-Adjective,Kamasau,Torricelli
-knc,87A,Noun-Adjective,Kugu-Uwanh,Pama-Nyungan
+knc,87A,Noun-Adjective,Kugu Nganhcara,Pama-Nyungan
 knd,87A,Adjective-Noun,Kannada,Dravidian
 kng,87A,Noun-Adjective,Kaingang,Macro-Ge
-knk,87A,No_dominant_order,Kanakuru,Afro-Asiatic
-knn,87A,Adjective-Noun,Kanauri,Sino-Tibetan
+knk,87A,No dominant order,Kanakuru,Afro-Asiatic
+knn,87A,Adjective-Noun,Kinnauri,Sino-Tibetan
+kno,87A,Noun-Adjective,Kanoê,Kapixana
 knr,87A,Noun-Adjective,Kanuri,Saharan
+knz,87A,Noun-Adjective,Kham (Tibetan) (Nangchen),Sino-Tibetan
 koa,87A,Noun-Adjective,Koasati,Muskogean
 kob,87A,Noun-Adjective,Kobon,Trans-New Guinea
-koe,87A,Noun-Adjective,Kwegu,Eastern Sudanic
-kok,87A,Noun-Adjective,Tripuri,Sino-Tibetan
+koe,87A,Noun-Adjective,Koegu,Eastern Sudanic
+kok,87A,Noun-Adjective,Kokborok,Sino-Tibetan
 kol,87A,Adjective-Noun,Kolami,Dravidian
 kom,87A,Noun-Adjective,Komo,Koman
-kon,87A,Noun-Adjective,Kikongo,Niger-Congo
-kop,87A,Adjective-Noun,Permyak,Uralic
+kon,87A,Noun-Adjective,Kongo,Niger-Congo
+kop,87A,Adjective-Noun,Komi-Permyak,Uralic
 kos,87A,Noun-Adjective,Kosraean,Austronesian
 koy,87A,Adjective-Noun,Koya,Dravidian
 kpe,87A,Noun-Adjective,Kpelle,Mande
-kpm,87A,No_dominant_order,Kapampangan,Austronesian
-kpw,87A,Noun-Adjective,Pho,Sino-Tibetan
-kqq,87A,Noun-Adjective,Botocudo,Macro-Ge
-krb,87A,Noun-Adjective,Gilbertese,Austronesian
-krc,87A,Adjective-Noun,Karachay,Altaic
+kpm,87A,No dominant order,Kapampangan,Austronesian
+kpw,87A,Noun-Adjective,Karen (Pwo),Sino-Tibetan
+kqq,87A,Noun-Adjective,Krenak,Macro-Ge
+krb,87A,Noun-Adjective,Kiribati,Austronesian
+krc,87A,Adjective-Noun,Karachay-Balkar,Altaic
+krd,87A,Noun-Adjective,Kurdish (Central),Indo-European
 kre,87A,Adjective-Noun,Kresh,Central Sudanic
-krh,87A,Noun-Adjective,Craho,Macro-Ge
-kri,87A,Noun-Adjective,Kiriri,Kariri
-krj,87A,No_dominant_order,Garadyari,Pama-Nyungan
-krn,87A,Adjective-Noun,!Ora,Khoe-Kwadi
+krh,87A,Noun-Adjective,Krahô,Macro-Ge
+kri,87A,Noun-Adjective,Kipea,Kariri
+krj,87A,No dominant order,Karadjeri,Pama-Nyungan
+krn,87A,Adjective-Noun,Korana,Khoe-Kwadi
 kro,87A,Noun-Adjective,Krongo,Kadu
 krr,87A,Noun-Adjective,Kairiru,Austronesian
 krw,87A,Adjective-Noun,Korowai,Trans-New Guinea
 kry,87A,Adjective-Noun,Koryak,Chukotko-Kamchatkan
-krz,87A,Adjective-Noun,Kryts,Nakh-Daghestanian
-kse,87A,Noun-Adjective,Songhay (Koyraboro Senni),Songhay
-ksg,87A,Noun-Adjective,Sgaw,Sino-Tibetan
+krz,87A,Adjective-Noun,Kryz,Nakh-Daghestanian
+kse,87A,Noun-Adjective,Koyraboro Senni,Songhay
+ksg,87A,Noun-Adjective,Karen (Sgaw),Sino-Tibetan
+ksn,87A,Noun-Adjective,Kasong,Austro-Asiatic
 kta,87A,Noun-Adjective,Koita,Trans-New Guinea
 ktc,87A,Noun-Adjective,Katcha,Kadu
 kte,87A,Noun-Adjective,Kete,Niger-Congo
 ktl,87A,Noun-Adjective,Katla,Kordofanian
 ktu,87A,Noun-Adjective,Katu,Austro-Asiatic
-kty,87A,Adjective-Noun,Xanty,Uralic
-kum,87A,Adjective-Noun,Kumaoni,Indo-European
-kuu,87A,Noun-Adjective,Kuuku-Ya'u,Pama-Nyungan
+kty,87A,Adjective-Noun,Khanty,Uralic
+kum,87A,Adjective-Noun,Kumauni,Indo-European
+kuu,87A,Noun-Adjective,Kuuku Ya'u,Pama-Nyungan
 kuv,87A,Adjective-Noun,Kuvi,Dravidian
 kwa,87A,Noun-Adjective,Kwaio,Austronesian
-kwk,87A,Adjective-Noun,Kwakwala,Wakashan
-kwm,87A,Noun-Adjective,Kwaami,Afro-Asiatic
+kwk,87A,Adjective-Noun,Kwakw'ala,Wakashan
+kwm,87A,Noun-Adjective,Kwami,Afro-Asiatic
 kwn,87A,Noun-Adjective,Kwangali,Niger-Congo
 kwo,87A,Adjective-Noun,Kwoma,Sepik
 kws,87A,Adjective-Noun,Kawaiisu,Uto-Aztecan
-kxo,87A,Adjective-Noun,Xû,Khoe-Kwadi
-kya,87A,Noun-Adjective,Gugu Yalandyi,Pama-Nyungan
-kyk,87A,Noun-Adjective,Enga,Trans-New Guinea
-kyl,87A,Noun-Adjective,Kayah,Sino-Tibetan
+kwy,87A,Noun-Adjective,Iwoyo,Niger-Congo
+kxo,87A,Adjective-Noun,Kxoe,Khoe-Kwadi
+kya,87A,Noun-Adjective,Kuku-Yalanji,Pama-Nyungan
+kyk,87A,Noun-Adjective,Kyaka,Trans-New Guinea
+kyl,87A,Noun-Adjective,Kayah Li (Eastern),Sino-Tibetan
 kyn,87A,Noun-Adjective,Koyukon,Na-Dene
 kyo,87A,Noun-Adjective,Kanyok,Niger-Congo
-kyr,87A,No_dominant_order,Yuri,Pauwasi
+kyr,87A,No dominant order,Karkar-Yuri,Pauwasi
 kyz,87A,Noun-Adjective,Kayabí,Tupian
-kzy,87A,Adjective-Noun,Zyrian,Uralic
+kzy,87A,Adjective-Noun,Komi-Zyrian,Uralic
 lab,87A,Noun-Adjective,Labu,Austronesian
-lac,87A,Adjective-Noun,Lacandon,Mayan
-lad,87A,Noun-Adjective,Western Tibetan,Sino-Tibetan
-laf,87A,No_dominant_order,Tegem,Kordofanian
-lag,87A,Noun-Adjective,Logone,Afro-Asiatic
-lah,87A,No_dominant_order,Lahu,Sino-Tibetan
-lai,87A,No_dominant_order,Haka,Sino-Tibetan
+lac,87A,Adjective-Noun,Lacandón,Mayan
+lad,87A,Noun-Adjective,Ladakhi,Sino-Tibetan
+laf,87A,No dominant order,Lafofa,Kordofanian
+lag,87A,Noun-Adjective,Lagwan,Afro-Asiatic
+lah,87A,No dominant order,Lahu,Sino-Tibetan
+lai,87A,No dominant order,Lai,Sino-Tibetan
 lak,87A,Adjective-Noun,Lak,Nakh-Daghestanian
-lal,87A,Noun-Adjective,Lalaw,Sino-Tibetan
+lal,87A,Noun-Adjective,Lalo,Sino-Tibetan
 lan,87A,Noun-Adjective,Lango,Eastern Sudanic
 lao,87A,Noun-Adjective,Lao,Tai-Kadai
-lar,87A,Noun-Adjective,Laragiya,Darwin Region
+lar,87A,Noun-Adjective,Laragia,Darwin Region
 lat,87A,Adjective-Noun,Latvian,Indo-European
 lav,87A,Noun-Adjective,Lavukaleve,Solomons East Papuan
-lbu,87A,Noun-Adjective,Ruund,Niger-Congo
+lbu,87A,Noun-Adjective,Lunda,Niger-Congo
 lda,87A,Noun-Adjective,Luganda,Niger-Congo
-ldo,87A,Noun-Adjective,Lundu,Niger-Congo
-ldu,87A,Adjective-Noun,Bale,Central Sudanic
-leb,87A,Noun-Adjective,Beo,Niger-Congo
+ldo,87A,Noun-Adjective,Londo,Niger-Congo
+ldu,87A,Adjective-Noun,Lendu,Central Sudanic
+leb,87A,Noun-Adjective,Lebeo,Niger-Congo
 lel,87A,Noun-Adjective,Lele,Afro-Asiatic
 len,87A,Noun-Adjective,Lenakel,Austronesian
 lep,87A,Noun-Adjective,Lepcha,Sino-Tibetan
-les,87A,Noun-Adjective,Balese,Central Sudanic
+les,87A,Noun-Adjective,Lese,Central Sudanic
 let,87A,Noun-Adjective,Leti,Austronesian
 lew,87A,Noun-Adjective,Lewo,Austronesian
-lez,87A,Adjective-Noun,Lezgi,Nakh-Daghestanian
+lez,87A,Adjective-Noun,Lezgian,Nakh-Daghestanian
 lgi,87A,Noun-Adjective,Langi,Niger-Congo
-lgt,87A,Noun-Adjective,Logo,Central Sudanic
+lgt,87A,Noun-Adjective,Logoti,Central Sudanic
 lgu,87A,Noun-Adjective,Longgu,Austronesian
-lic,87A,Noun-Adjective,Li,Tai-Kadai
+lic,87A,Noun-Adjective,Hlai (Baoding),Tai-Kadai
 lil,87A,Adjective-Noun,Lillooet,Salishan
 lim,87A,Adjective-Noun,Limbu,Sino-Tibetan
-lin,87A,Noun-Adjective,Losengo,Niger-Congo
+lin,87A,Noun-Adjective,Lingala,Niger-Congo
 lis,87A,Noun-Adjective,Lisu,Sino-Tibetan
 lit,87A,Adjective-Noun,Lithuanian,Indo-European
-lkt,87A,Noun-Adjective,Teton,Siouan
-llm,87A,Noun-Adjective,Lelemi (Bwem),Niger-Congo
+lkt,87A,Noun-Adjective,Lakhota,Siouan
+llm,87A,Noun-Adjective,Lelemi,Niger-Congo
 lmb,87A,Noun-Adjective,Lamba,Niger-Congo
 lmg,87A,Noun-Adjective,Lamang,Afro-Asiatic
 lmh,87A,Noun-Adjective,Lamaholot,Austronesian
 lml,87A,Noun-Adjective,Limilngan,Darwin Region
-lmn,87A,Adjective-Noun,Banjari,Indo-European
+lmn,87A,Adjective-Noun,Lamani,Indo-European
 lmp,87A,Noun-Adjective,Lampung,Austronesian
-lmu,87A,No_dominant_order,d Lewo,Austronesian
+lmu,87A,No dominant order,Lamen,Austronesian
 lnd,87A,Adjective-Noun,Linda,Niger-Congo
 lon,87A,Noun-Adjective,Loniu,Austronesian
 lot,87A,Noun-Adjective,Lotha,Sino-Tibetan
 lou,87A,Noun-Adjective,Lou,Austronesian
-luc,87A,Noun-Adjective,Luchazi,Niger-Congo
-lug,87A,Noun-Adjective,Logbara,Central Sudanic
+luc,87A,Noun-Adjective,Lucazi,Niger-Congo
+lug,87A,Noun-Adjective,Lugbara,Central Sudanic
 lui,87A,Noun-Adjective,Luiseño,Uto-Aztecan
+lun,87A,No dominant order,Lungchang,Sino-Tibetan
 luo,87A,Noun-Adjective,Luo,Eastern Sudanic
-luv,87A,Noun-Adjective,Lwena,Niger-Congo
+luv,87A,Noun-Adjective,Luvale,Niger-Congo
 luy,87A,Noun-Adjective,Luyia,Niger-Congo
-ma,87A,Adjective-Noun,Amadi,Niger-Congo
+ma,87A,Adjective-Noun,Ma,Niger-Congo
 maa,87A,Noun-Adjective,Maasai,Eastern Sudanic
-mab,87A,Noun-Adjective,Mabang,Maban
-mac,87A,Noun-Adjective,Makushi,Cariban
-mad,87A,Noun-Adjective,Madi,Central Sudanic
+mab,87A,Noun-Adjective,Maba,Maban
+mac,87A,Noun-Adjective,Macushi,Cariban
+mad,87A,Noun-Adjective,Ma'di,Central Sudanic
 mae,87A,Noun-Adjective,Mae,Austronesian
 mai,87A,Adjective-Noun,Maithili,Indo-European
 maj,87A,Adjective-Noun,Majang,Eastern Sudanic
-mak,87A,No_dominant_order,Makah,Wakashan
-mal,87A,Noun-Adjective,Malagassy,Austronesian
-mam,87A,No_dominant_order,Mam,Mayan
+mak,87A,No dominant order,Makah,Wakashan
+mal,87A,Noun-Adjective,Malagasy,Austronesian
+mam,87A,No dominant order,Mam,Mayan
 man,87A,Noun-Adjective,Mano,Mande
 mao,87A,Noun-Adjective,Maori,Austronesian
-map,87A,Adjective-Noun,Mapudungu,Araucanian
+map,87A,Adjective-Noun,Mapudungun,Araucanian
 mar,87A,Noun-Adjective,Maricopa,Hokan
 mas,87A,Noun-Adjective,Masa,Afro-Asiatic
 mau,87A,Adjective-Noun,Maung,Iwaidjan
-maw,87A,Noun-Adjective,Maninka,Mande
-may,87A,Noun-Adjective,Brat,West Papuan
+maw,87A,Noun-Adjective,Maninka (Western),Mande
+may,87A,Noun-Adjective,Maybrat,West Papuan
 mba,87A,Noun-Adjective,Mba,Niger-Congo
-mbe,87A,Noun-Adjective,Mbede,Niger-Congo
-mbi,87A,Noun-Adjective,Bambui,Niger-Congo
+mbe,87A,Noun-Adjective,Mbere,Niger-Congo
+mbi,87A,Noun-Adjective,Mbili,Niger-Congo
 mbl,87A,Noun-Adjective,Mbole,Niger-Congo
 mbm,87A,Noun-Adjective,Mbum,Niger-Congo
 mbr,87A,Noun-Adjective,Mbara,Afro-Asiatic
 mbt,87A,Noun-Adjective,Mangbetu,Central Sudanic
-mby,87A,Noun-Adjective,Mbai,Central Sudanic
-mcc,87A,Adjective-Noun,Chimu,Chimúan
+mby,87A,Noun-Adjective,Mbay,Central Sudanic
+mcc,87A,Adjective-Noun,Mochica,Chimúan
 mcd,87A,Adjective-Noun,Macedonian,Indo-European
-mch,87A,No_dominant_order,Machiguenga,Arawakan
-mco,87A,Adjective-Noun,Southeastern Mixe,Mixe-Zoque
-mcv,87A,No_dominant_order,Mocovi,Guaicuruan
-mda,87A,Noun-Adjective,Mada (Chadic),Afro-Asiatic
+mch,87A,No dominant order,Machiguenga,Arawakan
+mco,87A,Adjective-Noun,Mixe (Coatlán),Mixe-Zoque
+mcv,87A,No dominant order,Mocoví,Guaicuruan
+mda,87A,Noun-Adjective,Mada (in Cameroon),Afro-Asiatic
 mde,87A,Noun-Adjective,Mende,Mande
 mdg,87A,Noun-Adjective,Mundang,Niger-Congo
-mdl,87A,Noun-Adjective,Madngele,Eastern Daly
-mdm,87A,Adjective-Noun,Muthimuthi,Pama-Nyungan
+mdl,87A,Noun-Adjective,Matngele,Eastern Daly
+mdm,87A,Adjective-Noun,Madimadi,Pama-Nyungan
 mdn,87A,Noun-Adjective,Mandan,Siouan
-mdo,87A,Adjective-Noun,Gbaya-Mbodomo,Niger-Congo
-mds,87A,Noun-Adjective,Manado Malay,Austronesian
-mdw,87A,Noun-Adjective,Mboshi,Niger-Congo
-mea,87A,Noun-Adjective,Meax,East Bird's Head
+mdo,87A,Adjective-Noun,Mbodomo,Niger-Congo
+mds,87A,Noun-Adjective,Manadonese,Austronesian
+mdw,87A,Noun-Adjective,Mbosi,Niger-Congo
+mea,87A,Noun-Adjective,Meyah,East Bird's Head
 mee,87A,Noun-Adjective,Me'en,Eastern Sudanic
-meh,87A,Noun-Adjective,Mahri,Afro-Asiatic
-mei,87A,No_dominant_order,Meithei,Sino-Tibetan
-mek,87A,Noun-Adjective,Sakirabiá,Tupian
-men,87A,No_dominant_order,Menominee,Algic
-mer,87A,Adjective-Noun,Meriam,Western Fly
+meh,87A,Noun-Adjective,Mehri,Afro-Asiatic
+mei,87A,No dominant order,Meithei,Sino-Tibetan
+mek,87A,Noun-Adjective,Mekens,Tupian
+men,87A,No dominant order,Menomini,Algic
+mer,87A,Adjective-Noun,Meryam Mir,Western Fly
 mey,87A,Noun-Adjective,Menya,Trans-New Guinea
 mga,87A,Noun-Adjective,Mondunga,Niger-Congo
-mgg,87A,Adjective-Noun,Monguor,Altaic
+mgg,87A,Adjective-Noun,Mangghuer,Altaic
 mgk,87A,Noun-Adjective,Mungaka,Niger-Congo
 mgo,87A,Noun-Adjective,Mongo,Niger-Congo
 mgq,87A,Noun-Adjective,Mango,Central Sudanic
 mgu,87A,Noun-Adjective,Musgu,Afro-Asiatic
 mhi,87A,Adjective-Noun,Marathi,Indo-European
 mhk,87A,Noun-Adjective,Mehek,Sepik
-mie,87A,Noun-Adjective,Mjen,Hmong-Mien
-mii,87A,Noun-Adjective,Tama,Eastern Sudanic
-mij,87A,Noun-Adjective,Kaman,Sino-Tibetan
-mik,87A,No_dominant_order,Mikir,Sino-Tibetan
-mil,87A,Adjective-Noun,Milan,Sino-Tibetan
+mhl,87A,Noun-Adjective,Miri (Hill):,Sino-Tibetan
+mie,87A,Noun-Adjective,Mien,Hmong-Mien
+mii,87A,Noun-Adjective,Miisiirii,Eastern Sudanic
+mij,87A,Noun-Adjective,Miju,Sino-Tibetan
+mik,87A,No dominant order,Mikir,Sino-Tibetan
+mil,87A,Adjective-Noun,Milang,Sino-Tibetan
 min,87A,Noun-Adjective,Minangkabau,Austronesian
-mir,87A,No_dominant_order,Miriwung,Jarrakan
+mir,87A,No dominant order,Miriwung,Jarrakan
 mis,87A,Noun-Adjective,Miskito,Misumalpan
 miy,87A,Noun-Adjective,Miya,Afro-Asiatic
 miz,87A,Noun-Adjective,Mizo,Sino-Tibetan
-mka,87A,Noun-Adjective,Mau(ka),Mande
+mka,87A,Noun-Adjective,Mauka,Mande
 mkd,87A,Noun-Adjective,Makonde,Niger-Congo
 mke,87A,Noun-Adjective,Mekeo,Austronesian
-mkg,87A,Noun-Adjective,Mandinka,Mande
-mkj,87A,Noun-Adjective,Makasai,Timor-Alor-Pantar
+mkg,87A,Noun-Adjective,Mandinka (Gambian),Mande
+mkj,87A,Noun-Adjective,Makasae,Timor-Alor-Pantar
 mku,87A,Noun-Adjective,Maranungku,Western Daly
 mkz,87A,Noun-Adjective,Makaa,Niger-Congo
 mla,87A,Noun-Adjective,Mambila,Niger-Congo
-mlg,87A,Noun-Adjective,Wandala,Afro-Asiatic
+mlg,87A,Noun-Adjective,Malgwa,Afro-Asiatic
 mlk,87A,Noun-Adjective,Malakmalak,Northern Daly
-mlm,87A,Noun-Adjective,Mrabri,Austro-Asiatic
+mlm,87A,Noun-Adjective,Mlabri (Minor),Austro-Asiatic
 mlu,87A,Noun-Adjective,Maleu,Austronesian
-mmb,87A,Noun-Adjective,Mangap,Austronesian
-mme,87A,Adjective-Noun,Mari (Cheremis),Uralic
-mmn,87A,No_dominant_order,Mamanwa,Austronesian
+mmb,87A,Noun-Adjective,Mangap-Mbula,Austronesian
+mme,87A,Adjective-Noun,Mari (Meadow),Uralic
+mmn,87A,No dominant order,Mamanwa,Austronesian
 mmv,87A,Noun-Adjective,Mamvu,Central Sudanic
 mmw,87A,Noun-Adjective,Mambwe,Niger-Congo
 mna,87A,Noun-Adjective,Muna,Austronesian
 mnc,87A,Adjective-Noun,Manchu,Altaic
-mnd,87A,Adjective-Noun,Mandarin Chinese,Sino-Tibetan
-mne,87A,Adjective-Noun,Maidu (Mountain),Penutian
+mnd,87A,Adjective-Noun,Mandarin,Sino-Tibetan
+mne,87A,Adjective-Noun,Maidu (Northeast),Penutian
 mng,87A,Noun-Adjective,Manggarai,Austronesian
 mnm,87A,Noun-Adjective,Manam,Austronesian
 mns,87A,Adjective-Noun,Mansi,Uralic
-mnv,87A,Noun-Adjective,Kukuya,Austronesian
-mnz,87A,Adjective-Noun,Monzombo,Niger-Congo
-moa,87A,Noun-Adjective,Mono Alu,Austronesian
-moe,87A,Adjective-Noun,Mordvin,Uralic
-mof,87A,Noun-Adjective,Mofu,Afro-Asiatic
+mnv,87A,Noun-Adjective,Minaveha,Austronesian
+mnz,87A,Adjective-Noun,Munzombo,Niger-Congo
+moa,87A,Noun-Adjective,Mono-Alu,Austronesian
+moe,87A,Adjective-Noun,Mordvin (Erzya),Uralic
+mof,87A,Noun-Adjective,Mofu-Gudur,Afro-Asiatic
 mok,87A,Noun-Adjective,Mokilese,Austronesian
 mon,87A,Noun-Adjective,Mon,Austro-Asiatic
-moo,87A,Noun-Adjective,More,Niger-Congo
+moo,87A,Noun-Adjective,Mooré,Niger-Congo
 mor,87A,Noun-Adjective,Mor,Austronesian
-mos,87A,No_dominant_order,Chimane,Mosetenan
-mot,87A,Noun-Adjective,Siwai,East Bougainville
+mos,87A,No dominant order,Mosetén,Mosetenan
+mot,87A,Noun-Adjective,Motuna,East Bougainville
 mou,87A,Noun-Adjective,Moru,Central Sudanic
 mpa,87A,Noun-Adjective,Murrinh-Patha,Southern Daly
-mpo,87A,Noun-Adjective,Myene,Niger-Congo
+mpo,87A,Noun-Adjective,Mpongwe,Niger-Congo
 mpr,87A,Noun-Adjective,Maipure,Arawakan
-mpt,87A,Noun-Adjective,Mianmin,Trans-New Guinea
-mpu,87A,Noun-Adjective,Amberbaken,West Papuan
+mpt,87A,Noun-Adjective,Mian,Trans-New Guinea
+mpu,87A,Noun-Adjective,Mpur,West Papuan
 mra,87A,Noun-Adjective,Mara,Mangarrayi-Maran
-mrc,87A,Adjective-Noun,Rangpa,Sino-Tibetan
+mrc,87A,Adjective-Noun,Marchha,Sino-Tibetan
 mrg,87A,Noun-Adjective,Margi,Afro-Asiatic
-mrh,87A,Noun-Adjective,Marithiyel,Western Daly
+mrh,87A,Noun-Adjective,Marrithiyel,Western Daly
 mrl,87A,Noun-Adjective,Murle,Eastern Sudanic
 mro,87A,Noun-Adjective,Moro,Kordofanian
 mrq,87A,Noun-Adjective,Marquesan,Austronesian
 mrr,87A,Noun-Adjective,Maringarr,Western Daly
-mrt,87A,Noun-Adjective,Martuyhunira,Pama-Nyungan
+mrt,87A,Noun-Adjective,Martuthunira,Pama-Nyungan
 mru,87A,Noun-Adjective,Maru,Sino-Tibetan
 mrw,87A,Adjective-Noun,Muruwari,Pama-Nyungan
-msc,87A,Noun-Adjective,Chibcha,Chibchan
-msg,87A,Adjective-Noun,Miri,Sino-Tibetan
-msk,87A,Noun-Adjective,Ngile,Kordofanian
-msl,87A,Noun-Adjective,Mesalit,Maban
+msc,87A,Noun-Adjective,Muisca,Chibchan
+msg,87A,Adjective-Noun,Mising,Sino-Tibetan
+msk,87A,Noun-Adjective,Masakin,Kordofanian
+msl,87A,Noun-Adjective,Masalit,Maban
 msm,87A,Noun-Adjective,Musom,Austronesian
 msn,87A,Noun-Adjective,Maisin,Austronesian
-msq,87A,Adjective-Noun,d Halkomelem,Salishan
-mss,87A,No_dominant_order,Miwok (Southern Sierra),Penutian
-mtb,87A,Noun-Adjective,Matumbi,Niger-Congo
+msq,87A,Adjective-Noun,Musqueam,Salishan
+mss,87A,No dominant order,Miwok (Southern Sierra),Penutian
+mtb,87A,Noun-Adjective,Matuumbi,Niger-Congo
 mto,87A,Adjective-Noun,Malto,Dravidian
-mts,87A,Noun-Adjective,Matís,Panoan
+mts,87A,Noun-Adjective,Matis,Panoan
 mtu,87A,Noun-Adjective,Motu,Austronesian
 mua,87A,Noun-Adjective,Makua,Niger-Congo
-mud,87A,Noun-Adjective,Lower Mundani,Niger-Congo
+mud,87A,Noun-Adjective,Mundani,Niger-Congo
 mum,87A,Noun-Adjective,Mumuye,Niger-Congo
-mun,87A,Adjective-Noun,Kolh,Austro-Asiatic
-mup,87A,Noun-Adjective,Sura,Afro-Asiatic
-mur,87A,Noun-Adjective,Murzi,Eastern Sudanic
+mun,87A,Adjective-Noun,Mundari,Austro-Asiatic
+mup,87A,Noun-Adjective,Mupun,Afro-Asiatic
+mur,87A,Noun-Adjective,Mursi,Eastern Sudanic
 mus,87A,Adjective-Noun,Mussau,Austronesian
-mwb,87A,Adjective-Noun,Western Bukidnon,Austronesian
+mwb,87A,Adjective-Noun,Manobo (Western Bukidnon),Austronesian
 mwe,87A,Noun-Adjective,Mwera,Niger-Congo
-mwo,87A,Noun-Adjective,Motlav,Austronesian
-mxa,87A,Noun-Adjective,South Central Tlaxiaco Mixteco,Oto-Manguean
-mxc,87A,Noun-Adjective,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-mxe,87A,Noun-Adjective,Mele,Austronesian
-mxj,87A,Noun-Adjective,Western Jamiltepec Mixteco,Oto-Manguean
-mxo,87A,Noun-Adjective,Santo Tomás Ocotepec Mixteco,Oto-Manguean
-mxp,87A,Noun-Adjective,Peñoles Mixtec,Oto-Manguean
-mxx,87A,Adjective-Noun,d Mixe,Mixe-Zoque
-mxy,87A,Noun-Adjective,Yosundua Mixtec,Oto-Manguean
+mwo,87A,Noun-Adjective,Mwotlap,Austronesian
+mxa,87A,Noun-Adjective,Mixtec (Atatlahuca),Oto-Manguean
+mxc,87A,Noun-Adjective,Mixtec (Chalcatongo),Oto-Manguean
+mxe,87A,Noun-Adjective,Ifira-Mele,Austronesian
+mxj,87A,Noun-Adjective,Mixtec (Jicaltepec),Oto-Manguean
+mxo,87A,Noun-Adjective,Mixtec (Ocotepec),Oto-Manguean
+mxp,87A,Noun-Adjective,Mixtec (Peñoles),Oto-Manguean
+mxx,87A,Adjective-Noun,Mixe (Ayutla),Mixe-Zoque
+mxy,87A,Noun-Adjective,Mixtec (Yosondúa),Oto-Manguean
 myg,87A,Adjective-Noun,Mayogo,Niger-Congo
-myi,87A,Noun-Adjective,Mangarayi,Mangarrayi-Maran
+myi,87A,Noun-Adjective,Mangarrayi,Mangarrayi-Maran
 mym,87A,Adjective-Noun,Malayalam,Dravidian
 myn,87A,Noun-Adjective,Ma'anyan,Austronesian
-myr,87A,Noun-Adjective,Matses,Panoan
-mzc,87A,Noun-Adjective,Mazatec (Chiquihuitlan),Oto-Manguean
+myr,87A,Noun-Adjective,Matsés,Panoan
+mzc,87A,Noun-Adjective,Mazatec (Chiquihuitlán),Oto-Manguean
 mzn,87A,Adjective-Noun,Mazanderani,Indo-European
 nab,87A,Noun-Adjective,Nabak,Trans-New Guinea
-nag,87A,No_dominant_order,Nagatman,Yale
-naj,87A,Noun-Adjective,Neo-Aramaic (Arbel),Afro-Asiatic
-nak,87A,Noun-Adjective,Bileki,Austronesian
+nag,87A,No dominant order,Nagatman,Yale
+naj,87A,Noun-Adjective,Neo-Aramaic (Arbel Jewish),Afro-Asiatic
+nak,87A,Noun-Adjective,Nakanai,Austronesian
 nal,87A,Noun-Adjective,Nalik,Austronesian
-nam,87A,Noun-Adjective,Namie,Sepik
-nar,87A,Noun-Adjective,Nera,Eastern Sudanic
-nas,87A,No_dominant_order,Nasioi,East Bougainville
+nam,87A,Noun-Adjective,Namia,Sepik
+nar,87A,Noun-Adjective,Nara (in Ethiopia),Eastern Sudanic
+nas,87A,No dominant order,Nasioi,East Bougainville
 nau,87A,Noun-Adjective,Nauruan,Austronesian
 nav,87A,Noun-Adjective,Navajo,Na-Dene
 nax,87A,Noun-Adjective,Naxi,Sino-Tibetan
-nbd,87A,Noun-Adjective,"Nubian, Dongolese",Eastern Sudanic
-nbr,87A,Noun-Adjective,Guaymi,Chibchan
-nca,87A,Adjective-Noun,Car Nicobarese,Austro-Asiatic
-ncm,87A,Noun-Adjective,Ntcham,Niger-Congo
+nbd,87A,Noun-Adjective,Nubian (Dongolese),Eastern Sudanic
+nbr,87A,Noun-Adjective,Ngäbere,Chibchan
+nca,87A,Adjective-Noun,Nicobarese (Car),Austro-Asiatic
+ncm,87A,Noun-Adjective,Ncàm,Niger-Congo
 ndb,87A,Noun-Adjective,Ndebele,Niger-Congo
 nde,87A,Noun-Adjective,Nande,Niger-Congo
 ndi,87A,Noun-Adjective,Ngbandi,Niger-Congo
 ndj,87A,Noun-Adjective,Ndjébbana,Mangrida
 ndo,87A,Noun-Adjective,Ndonga,Niger-Congo
-ndr,87A,Noun-Adjective,d Fijian,Austronesian
+ndr,87A,Noun-Adjective,Nadroga,Austronesian
 ndt,87A,Noun-Adjective,Ndut,Niger-Congo
 ndu,87A,Noun-Adjective,Ndumu,Niger-Congo
-ndy,87A,Adjective-Noun,Djuka,other
+ndy,87A,Adjective-Noun,Ndyuka,other
 neh,87A,Noun-Adjective,Nehan,Austronesian
 nep,87A,Adjective-Noun,Nepali,Indo-European
-new,87A,Adjective-Noun,"Newari, Kathmandu dialect",Sino-Tibetan
+nev,87A,Adjective-Noun,Nevome,Uto-Aztecan
+new,87A,Adjective-Noun,Newari (Kathmandu),Sino-Tibetan
 ney,87A,Noun-Adjective,Neyo,Niger-Congo
 nez,87A,Adjective-Noun,Nez Perce,Penutian
 nga,87A,Adjective-Noun,Nganasan,Uralic
-ngd,87A,Noun-Adjective,Ngada,Austronesian
-ngi,87A,No_dominant_order,Wongaibon,Pama-Nyungan
-ngj,87A,Noun-Adjective,Ngadjunmaya,Pama-Nyungan
-ngk,87A,Noun-Adjective,Ngenkikurunggkur,Southern Daly
+ngd,87A,Noun-Adjective,Ngad'a,Austronesian
+ngg,87A,Noun-Adjective,Ngan'gityemerri,Southern Daly
+ngi,87A,No dominant order,Ngiyambaa,Pama-Nyungan
+ngj,87A,Noun-Adjective,Ngadjumaja,Pama-Nyungan
+ngk,87A,Noun-Adjective,Ngankikurungkurr,Southern Daly
 ngl,87A,Noun-Adjective,Ngalakan,Gunwinyguan
-ngm,87A,Noun-Adjective,Gambai,Central Sudanic
+ngm,87A,Noun-Adjective,Ngambay,Central Sudanic
 ngn,87A,Noun-Adjective,Ngandi,Gunwinyguan
-ngo,87A,Noun-Adjective,Ngoni (in Tanzania),Niger-Congo
-ngt,87A,Noun-Adjective,Tangkhul,Sino-Tibetan
-ngu,87A,Noun-Adjective,Efate (North),Austronesian
-ngw,87A,No_dominant_order,Ngawun,Pama-Nyungan
+ngo,87A,Noun-Adjective,Ngoni,Niger-Congo
+ngt,87A,Noun-Adjective,Naga (Tangkhul),Sino-Tibetan
+ngu,87A,Noun-Adjective,Nguna,Austronesian
+ngw,87A,No dominant order,Ngawun,Pama-Nyungan
 ngz,87A,Noun-Adjective,Ngizim,Afro-Asiatic
-nhh,87A,Noun-Adjective,Tamazunchale Nahuatl,Uto-Aztecan
-nhm,87A,Noun-Adjective,Michoacán Aztec,Uto-Aztecan
-nhn,87A,No_dominant_order,North Puebla Sierra Nahuatl,Uto-Aztecan
-nht,87A,Noun-Adjective,Tetelcingo Nahuatl,Uto-Aztecan
+nhh,87A,Noun-Adjective,Nahuatl (Huasteca),Uto-Aztecan
+nhm,87A,Noun-Adjective,Nahuatl (Michoacán),Uto-Aztecan
+nhn,87A,No dominant order,Nahuatl (North Puebla),Uto-Aztecan
+nht,87A,Noun-Adjective,Nahuatl (Tetelcingo),Uto-Aztecan
 nia,87A,Noun-Adjective,Nias,Austronesian
 nif,87A,Noun-Adjective,Niuafo'ou,Austronesian
-nis,87A,Adjective-Noun,Nishi,Sino-Tibetan
+nis,87A,Adjective-Noun,Nyishi,Sino-Tibetan
 niu,87A,Noun-Adjective,Niuean,Austronesian
-nkb,87A,Noun-Adjective,Ngalkbon,Gunwinyguan
-nke,87A,No_dominant_order,Nkem,Niger-Congo
+nkb,87A,Noun-Adjective,Ngalkbun,Gunwinyguan
+nke,87A,No dominant order,Nkem,Niger-Congo
 nkk,87A,Noun-Adjective,Nakkara,Mangrida
 nkn,87A,Noun-Adjective,Nkonya,Niger-Congo
-nko,87A,Noun-Adjective,Ciga,Niger-Congo
-nku,87A,Noun-Adjective,Nubian (Aswan),Eastern Sudanic
-nma,87A,Noun-Adjective,Mao,Sino-Tibetan
-nmm,87A,No_dominant_order,Manang,Sino-Tibetan
-nnc,87A,Noun-Adjective,Nicobarese (Nancowry),Austro-Asiatic
-nnd,87A,Noun-Adjective,Angaua,Trans-New Guinea
+nko,87A,Noun-Adjective,Nkore-Kiga,Niger-Congo
+nku,87A,Noun-Adjective,Nubian (Kunuz),Eastern Sudanic
+nma,87A,Noun-Adjective,Naga (Mao),Sino-Tibetan
+nmm,87A,No dominant order,Manange,Sino-Tibetan
+nnc,87A,Noun-Adjective,Nancowry,Austro-Asiatic
+nnd,87A,Noun-Adjective,Nend,Trans-New Guinea
 nng,87A,Noun-Adjective,Nyanga,Niger-Congo
 nnk,87A,Noun-Adjective,Nankina,Trans-New Guinea
 noc,87A,Noun-Adjective,Nocte,Sino-Tibetan
-nog,87A,Adjective-Noun,Nogay,Altaic
+nog,87A,Adjective-Noun,Noghay,Altaic
 non,87A,Noun-Adjective,Noni,Niger-Congo
-noo,87A,Noun-Adjective,Non,Niger-Congo
+noo,87A,Noun-Adjective,Noon,Niger-Congo
 nor,87A,Adjective-Noun,Norwegian,Indo-European
-nph,87A,Noun-Adjective,Nar Phu,Sino-Tibetan
-nrg,87A,Noun-Adjective,"Sénoufo, Nanerigé",Niger-Congo
-nse,87A,Noun-Adjective,Senga,Niger-Congo
-nsg,87A,Adjective-Noun,Nishga,Penutian
-nsn,87A,Adjective-Noun,Maidu (Southern),Penutian
-nti,87A,Adjective-Noun,Dru,Central Sudanic
-ntj,87A,Noun-Adjective,Ngaanyatjara,Pama-Nyungan
-nto,87A,Noun-Adjective,Lontomba,Niger-Congo
+nph,87A,Noun-Adjective,Nar-Phu,Sino-Tibetan
+nrg,87A,Noun-Adjective,Nanerge,Niger-Congo
+nse,87A,Noun-Adjective,Nsenga,Niger-Congo
+nsg,87A,Adjective-Noun,Nisgha,Penutian
+nsn,87A,Adjective-Noun,Nisenan,Penutian
+nti,87A,Adjective-Noun,Ngiti,Central Sudanic
+ntj,87A,Noun-Adjective,Ngaanyatjarra,Pama-Nyungan
+nto,87A,Noun-Adjective,Ntomba,Niger-Congo
+ntu,87A,Adjective-Noun,Nenets,Uralic
 nua,87A,Noun-Adjective,Nuaulu,Austronesian
 nue,87A,Noun-Adjective,Nuer,Eastern Sudanic
-nug,87A,No_dominant_order,Nunggubuyu,Gunwinyguan
-nun,87A,Noun-Adjective,Zhuang (Southern),Tai-Kadai
+nug,87A,No dominant order,Nunggubuyu,Gunwinyguan
+nun,87A,Noun-Adjective,Nung (in Vietnam),Tai-Kadai
 nup,87A,Noun-Adjective,Nupe,Niger-Congo
 nus,87A,Noun-Adjective,Nusu,Sino-Tibetan
-nuu,87A,No_dominant_order,"Nuuchahnutlh (Tseshaht, Tsishaath)",Wakashan
-nwd,87A,Adjective-Noun,Dolakha Newari,Sino-Tibetan
+nuu,87A,No dominant order,Nuuchahnulth,Wakashan
+nwd,87A,Adjective-Noun,Newar (Dolakha),Sino-Tibetan
 nyh,87A,Noun-Adjective,Nyiha,Niger-Congo
 nyi,87A,Noun-Adjective,Nyimang,Eastern Sudanic
-nyk,87A,Noun-Adjective,Tukpa,Sino-Tibetan
+nyk,87A,Noun-Adjective,Nyamkad,Sino-Tibetan
 nym,87A,Noun-Adjective,Nyamwezi,Niger-Congo
-nyr,87A,No_dominant_order,Nyangumarta,Pama-Nyungan
+nyr,87A,No dominant order,Nyangumarda,Pama-Nyungan
 nyu,87A,Adjective-Noun,Nyulnyul,Nyulnyulan
 nza,87A,Adjective-Noun,Nzakara,Niger-Congo
-nze,87A,Noun-Adjective,Zeme,Sino-Tibetan
+nze,87A,Noun-Adjective,Naga (Zeme),Sino-Tibetan
 obg,87A,Adjective-Noun,Ogbronuagum,Niger-Congo
-obo,87A,No_dominant_order,Obolo,Niger-Congo
-ocu,87A,Adjective-Noun,Ocuiltec,Oto-Manguean
+obo,87A,No dominant order,Obolo,Niger-Congo
+ocu,87A,Adjective-Noun,Ocuilteco,Oto-Manguean
 olo,87A,Noun-Adjective,Olo,Torricelli
 omh,87A,Noun-Adjective,Omaha,Siouan
 omi,87A,Noun-Adjective,Ömie,Trans-New Guinea
-ood,87A,Adjective-Noun,Tohono O'odham,Uto-Aztecan
+ood,87A,Adjective-Noun,O'odham,Uto-Aztecan
 ord,87A,Adjective-Noun,Ordos,Altaic
-orh,87A,Noun-Adjective,Oromo (Eastern),Afro-Asiatic
-ori,87A,Noun-Adjective,Turjok,Kordofanian
+orh,87A,Noun-Adjective,Oromo (Harar),Afro-Asiatic
+ori,87A,Noun-Adjective,Orig,Kordofanian
 ork,87A,Noun-Adjective,Orok,Altaic
 oro,87A,Noun-Adjective,Orokaiva,Trans-New Guinea
-orw,87A,Noun-Adjective,Waata Oromo,Afro-Asiatic
-ory,87A,Noun-Adjective,Uria,Tor-Orya
+orw,87A,Noun-Adjective,Oromo (Waata),Afro-Asiatic
+ory,87A,Noun-Adjective,Orya,Tor-Orya
 osa,87A,Noun-Adjective,Osage,Siouan
 oss,87A,Adjective-Noun,Ossetic,Indo-European
-otm,87A,Adjective-Noun,Otomí,Oto-Manguean
-otr,87A,Noun-Adjective,Utoro,Kordofanian
+otm,87A,Adjective-Noun,Otomí (Mezquital),Oto-Manguean
+otr,87A,Noun-Adjective,Otoro,Kordofanian
 paa,87A,Adjective-Noun,Pa'a,Afro-Asiatic
-pae,87A,Noun-Adjective,Paez,Páezan
+pae,87A,Noun-Adjective,Páez,Páezan
 pai,87A,Noun-Adjective,Paiwan,Austronesian
 pal,87A,Adjective-Noun,Palauan,Austronesian
 pam,87A,Noun-Adjective,Pame,Oto-Manguean
-pan,87A,Adjective-Noun,Punjabi,Indo-European
-par,87A,Noun-Adjective,Parï,Eastern Sudanic
-pat,87A,Noun-Adjective,Mumeng,Austronesian
-pau,87A,Noun-Adjective,Paumari,Arauan
+pan,87A,Adjective-Noun,Panjabi,Indo-European
+par,87A,Noun-Adjective,Päri,Eastern Sudanic
+pat,87A,Noun-Adjective,Patep,Austronesian
+pau,87A,Noun-Adjective,Paumarí,Arauan
 paw,87A,Adjective-Noun,Pawaian,Teberan-Pawaian
-pba,87A,Adjective-Noun,Pima (Bajo),Uto-Aztecan
-pdp,87A,No_dominant_order,Podopa,Teberan-Pawaian
+pba,87A,Adjective-Noun,Pima Bajo,Uto-Aztecan
+pdp,87A,No dominant order,Folopa,Teberan-Pawaian
 per,87A,Noun-Adjective,Pero,Afro-Asiatic
-pga,87A,Noun-Adjective,Pilaga,Guaicuruan
+pga,87A,Noun-Adjective,Pilagá,Guaicuruan
 pia,87A,Noun-Adjective,Piaroa,Sáliban
 pip,87A,Adjective-Noun,Pipil,Uto-Aztecan
 pir,87A,Noun-Adjective,Piro,Arawakan
-pit,87A,Noun-Adjective,Pitjantjara = Western Desert,Pama-Nyungan
-pkn,87A,Adjective-Noun,Baagandji,Pama-Nyungan
-pkt,87A,Noun-Adjective,Pakot,Eastern Sudanic
-plg,87A,Noun-Adjective,"Palaung, Rumai",Austro-Asiatic
+pit,87A,Noun-Adjective,Pitjantjatjara,Pama-Nyungan
+pkn,87A,Adjective-Noun,Paakantyi,Pama-Nyungan
+pkt,87A,Noun-Adjective,Pokot,Eastern Sudanic
+plg,87A,Noun-Adjective,Palaung,Austro-Asiatic
 plh,87A,Noun-Adjective,Paulohi,Austronesian
-plk,87A,Noun-Adjective,Palicur,Arawakan
-pms,87A,Noun-Adjective,Paama,Austronesian
+plk,87A,Noun-Adjective,Palikur,Arawakan
+pms,87A,Noun-Adjective,Paamese,Austronesian
 png,87A,Noun-Adjective,Pangwa,Niger-Congo
-pnn,87A,No_dominant_order,Pangasinan,Austronesian
+pnn,87A,No dominant order,Pangasinan,Austronesian
 pno,87A,Adjective-Noun,Paiute (Northern),Uto-Aztecan
-pnu,87A,Noun-Adjective,Punu,Hmong-Mien
-pnx,87A,Noun-Adjective,Kreen-Akarore,Macro-Ge
-pny,87A,No_dominant_order,Panytyima,Pama-Nyungan
-pod,87A,No_dominant_order,Paduko,Afro-Asiatic
-poh,87A,Noun-Adjective,Ponapean,Austronesian
-pok,87A,Noun-Adjective,Rawo,Skou
+pnu,87A,Noun-Adjective,Bunu (Younuo),Hmong-Mien
+pnx,87A,Noun-Adjective,Panará,Macro-Ge
+pny,87A,No dominant order,Panyjima,Pama-Nyungan
+pod,87A,No dominant order,Podoko,Afro-Asiatic
+poh,87A,Noun-Adjective,Pohnpeian,Austronesian
+pok,87A,Noun-Adjective,Poko-Rawo,Skou
 pol,87A,Adjective-Noun,Polish,Indo-European
 por,87A,Noun-Adjective,Portuguese,Indo-European
-ppi,87A,Noun-Adjective,Pitta-Pitta,Pama-Nyungan
-pra,87A,Adjective-Noun,Wasi-weri,Indo-European
-pre,87A,Noun-Adjective,Zigula,Niger-Congo
-prh,87A,Noun-Adjective,Mura,Mura
-prk,87A,Adjective-Noun,Purik,Sino-Tibetan
+ppi,87A,Noun-Adjective,Pitta Pitta,Pama-Nyungan
+pra,87A,Adjective-Noun,Prasuni,Indo-European
+pre,87A,Noun-Adjective,Pare,Niger-Congo
+prh,87A,Noun-Adjective,Pirahã,Mura
+prk,87A,Adjective-Noun,Purki,Sino-Tibetan
 prs,87A,Noun-Adjective,Persian,Indo-European
 psh,87A,Adjective-Noun,Pashto,Indo-European
 psw,87A,Noun-Adjective,Port Sandwich,Austronesian
-ptt,87A,Adjective-Noun,Chamba,Sino-Tibetan
-pul,87A,Noun-Adjective,Puluwatese,Austronesian
-pum,87A,Noun-Adjective,Prinmi,Sino-Tibetan
-pun,87A,Noun-Adjective,Kuwama,Anson Bay
-pur,87A,Noun-Adjective,Tarascan,Tarascan
-qaf,87A,Adjective-Noun,Afar,Afro-Asiatic
-qhu,87A,Adjective-Noun,Huallaga Quechua,Quechuan
-qia,87A,Noun-Adjective,Ch'iang,Sino-Tibetan
-qim,87A,Adjective-Noun,HighlanKichua,Quechuan
+ptt,87A,Adjective-Noun,Pattani,Sino-Tibetan
+pul,87A,Noun-Adjective,Puluwat,Austronesian
+pum,87A,Noun-Adjective,Pumi,Sino-Tibetan
+pun,87A,Noun-Adjective,Pungupungu,Anson Bay
+pur,87A,Noun-Adjective,Purépecha,Tarascan
+qaf,87A,Adjective-Noun,Qafar,Afro-Asiatic
+qhu,87A,Adjective-Noun,Quechua (Huallaga),Quechuan
+qia,87A,Noun-Adjective,Qiang,Sino-Tibetan
+qim,87A,Adjective-Noun,Quechua (Imbabura),Quechuan
 qui,87A,Adjective-Noun,Quileute,Chimakuan
-qum,87A,Adjective-Noun,Sipacapa,Mayan
+qum,87A,Adjective-Noun,Sipakapense,Mayan
 rag,87A,Noun-Adjective,Raga,Austronesian
 ral,87A,Noun-Adjective,Ralte,Sino-Tibetan
 ram,87A,Noun-Adjective,Rama,Chibchan
 rao,87A,Noun-Adjective,Rao,Lower Sepik-Ramu
 rap,87A,Noun-Adjective,Rapanui,Austronesian
+ras,87A,Noun-Adjective,Rashad,Kordofanian
 raw,87A,Noun-Adjective,Rawang,Sino-Tibetan
 rem,87A,Adjective-Noun,Remo,Austro-Asiatic
-res,87A,Adjective-Noun,Resigaro,Arawakan
-ret,87A,Adjective-Noun,Tanimuca,Tucanoan
+res,87A,Adjective-Noun,Resígaro,Arawakan
+ret,87A,Adjective-Noun,Retuarã,Tucanoan
 rga,87A,Noun-Adjective,Ronga,Niger-Congo
-rji,87A,No_dominant_order,Raji,Sino-Tibetan
-rny,87A,Noun-Adjective,Nyankole,Niger-Congo
-rom,87A,Noun-Adjective,Rumanian,Indo-European
+rgc,87A,Noun-Adjective,rGyalrong (Caodeng),Sino-Tibetan
+rji,87A,No dominant order,Raji,Sino-Tibetan
+rny,87A,Noun-Adjective,Runyankore,Niger-Congo
+rom,87A,Noun-Adjective,Romanian,Indo-European
 rot,87A,Noun-Adjective,Rotuman,Austronesian
 rov,87A,Noun-Adjective,Roviana,Austronesian
-rru,87A,Noun-Adjective,Nyoro,Niger-Congo
-ruk,87A,No_dominant_order,Rukai,Austronesian
-rum,87A,Noun-Adjective,Kairi,Turama-Kikorian
+rpa,87A,Adjective-Noun,Rang Pas,Sino-Tibetan
+rru,87A,Noun-Adjective,Runyoro-Rutooro,Niger-Congo
+rsu,87A,Noun-Adjective,Romansch (Sursilvan),Indo-European
+ruk,87A,No dominant order,Rukai (Tanan),Austronesian
+rum,87A,Noun-Adjective,Rumu,Turama-Kikorian
 run,87A,Noun-Adjective,Runga,Maban
 rus,87A,Adjective-Noun,Russian,Indo-European
 rut,87A,Adjective-Noun,Rutul,Nakh-Daghestanian
 rwa,87A,Noun-Adjective,Rawa,Trans-New Guinea
-rwe,87A,Adjective-Noun,Welsh Romany,Indo-European
+rwe,87A,Adjective-Noun,Romani (Welsh),Indo-European
 saa,87A,Noun-Adjective,Sa'a,Austronesian
 sah,87A,Noun-Adjective,Sahu,West Papuan
 sak,87A,Noun-Adjective,Sakao,Austronesian
 sam,87A,Noun-Adjective,Samoan,Austronesian
 san,87A,Adjective-Noun,Sango,Niger-Congo
 sap,87A,Noun-Adjective,Sapuan,Austro-Asiatic
-sar,87A,Adjective-Noun,Kapriman,Sepik
-sav,87A,Adjective-Noun,Sau,Indo-European
-scr,87A,Adjective-Noun,Serbocroat,Indo-European
+sar,87A,Adjective-Noun,Sare,Sepik
+sav,87A,Adjective-Noun,Savi,Indo-European
+scr,87A,Adjective-Noun,Serbian-Croatian,Indo-European
 sea,87A,Noun-Adjective,Southeast Ambrym,Austronesian
-seb,87A,Noun-Adjective,Sapiny,Eastern Sudanic
+seb,87A,Noun-Adjective,Sebei,Eastern Sudanic
 sec,87A,Adjective-Noun,Secoya,Tucanoan
 sed,87A,Noun-Adjective,Sedang,Austro-Asiatic
-see,87A,No_dominant_order,Sedeq,Austronesian
+see,87A,No dominant order,Seediq,Austronesian
 sel,87A,Adjective-Noun,Selknam,Chon
-sem,87A,Noun-Adjective,"Naga, Sumi",Sino-Tibetan
+sem,87A,Noun-Adjective,Sema,Sino-Tibetan
 sen,87A,Noun-Adjective,Sena,Niger-Congo
-ser,87A,Only_internally-headed_relative_clauses,Seri,Hokan
-ses,87A,Noun-Adjective,Sotho (Southern),Niger-Congo
-sgb,87A,Noun-Adjective,Mantion,East Bird's Head
+ser,87A,Only internally-headed relative clauses,Seri,Hokan
+ses,87A,Noun-Adjective,Sesotho,Niger-Congo
+sgb,87A,Noun-Adjective,Sougb,East Bird's Head
 sgu,87A,Noun-Adjective,Sangu,Niger-Congo
-she,87A,Noun-Adjective,Sharpa,Sino-Tibetan
-shi,87A,Noun-Adjective,Ninam,Yanomam
-shk,87A,No_dominant_order,Shipibo,Panoan
+she,87A,Noun-Adjective,Sherpa,Sino-Tibetan
+shi,87A,Noun-Adjective,Shiriana,Yanomam
+shk,87A,No dominant order,Shipibo-Konibo,Panoan
 shl,87A,Noun-Adjective,Shilluk,Eastern Sudanic
 shm,87A,Noun-Adjective,Shambala,Niger-Congo
 shn,87A,Noun-Adjective,Shona,Niger-Congo
-sho,87A,Adjective-Noun,Big Smokey Valley Shoshoni,Uto-Aztecan
-shp,87A,Adjective-Noun,Yakima,Penutian
+sho,87A,Adjective-Noun,Shoshone,Uto-Aztecan
+shp,87A,Adjective-Noun,Klikitat,Penutian
 sht,87A,Noun-Adjective,Shatt,Eastern Sudanic
 sia,87A,Noun-Adjective,Siane,Trans-New Guinea
-sid,87A,Adjective-Noun,Sidamo,Afro-Asiatic
+sid,87A,Adjective-Noun,Sidaama,Afro-Asiatic
 sil,87A,Noun-Adjective,Sila,Eastern Sudanic
 sim,87A,Noun-Adjective,Simeulue,Austronesian
 sin,87A,Adjective-Noun,Siona,Tucanoan
 sio,87A,Noun-Adjective,Sio,Austronesian
 sir,87A,Adjective-Noun,Siar,Austronesian
-sis,87A,Noun-Adjective,Babatana,Austronesian
+sis,87A,Noun-Adjective,Sisiqa,Austronesian
 siu,87A,Adjective-Noun,Siuslaw,Oregon Coast
-skk,87A,Noun-Adjective,Bhotia,Sino-Tibetan
-sko,87A,Noun-Adjective,Sko,Skou
+skk,87A,Noun-Adjective,Sikkimese,Sino-Tibetan
+sko,87A,Noun-Adjective,Skou,Skou
 skp,87A,Adjective-Noun,Selkup,Uralic
 sku,87A,Noun-Adjective,Suku,Niger-Congo
-sla,87A,Noun-Adjective,"Slave, Hare dialect",Na-Dene
-slb,87A,Noun-Adjective,Suau,Austronesian
-sle,87A,Noun-Adjective,(Samba) Leko,Niger-Congo
+sla,87A,Noun-Adjective,Slave,Na-Dene
+slb,87A,Noun-Adjective,Saliba (in Papua New Guinea),Austronesian
+sle,87A,Noun-Adjective,Samba Leko,Niger-Congo
 slo,87A,Adjective-Noun,Slovene,Indo-European
 slp,87A,Noun-Adjective,Selepet,Trans-New Guinea
 sme,87A,Noun-Adjective,Seme,Niger-Congo
 sml,87A,Noun-Adjective,Semelai,Austro-Asiatic
+smn,87A,Noun-Adjective,Seminole,Muskogean
 sna,87A,Adjective-Noun,Shina,Indo-European
-sng,87A,Noun-Adjective,Sinagoro,Austronesian
-snh,87A,Adjective-Noun,Sinhalese,Indo-European
+sng,87A,Noun-Adjective,Sinaugoro,Austronesian
+snh,87A,Adjective-Noun,Sinhala,Indo-European
 snm,87A,Noun-Adjective,Sanuma,Yanomam
 snn,87A,Noun-Adjective,Soninke,Mande
 sno,87A,Adjective-Noun,Saami (Northern),Uralic
@@ -1037,229 +1074,242 @@ so,87A,Noun-Adjective,So,Eastern Sudanic
 sob,87A,Noun-Adjective,Sobei,Austronesian
 sod,87A,Adjective-Noun,Soddo,Afro-Asiatic
 som,87A,Noun-Adjective,Somali,Afro-Asiatic
-son,87A,No_dominant_order,Sonsorolese,Austronesian
-spa,87A,Noun-Adjective,Spanish (Peninsular Castilian),Indo-European
-spi,87A,Noun-Adjective,Spiti,Sino-Tibetan
+son,87A,No dominant order,Sonsorol-Tobi,Austronesian
+spa,87A,Noun-Adjective,Spanish,Indo-European
+spi,87A,Noun-Adjective,Spitian,Sino-Tibetan
 squ,87A,Adjective-Noun,Squamish,Salishan
+srb,87A,Adjective-Noun,Sorbian,Indo-European
 src,87A,Noun-Adjective,Sarcee,Na-Dene
 srd,87A,Noun-Adjective,Sardinian,Indo-European
 sre,87A,Noun-Adjective,Sre,Austro-Asiatic
-srn,87A,Noun-Adjective,Siriono,Tupian
+srn,87A,Noun-Adjective,Sirionó,Tupian
 sro,87A,Noun-Adjective,Siroi,Trans-New Guinea
 sta,87A,Adjective-Noun,Santa,Altaic
 sti,87A,Noun-Adjective,Stieng,Austro-Asiatic
 stl,87A,Adjective-Noun,Santali,Austro-Asiatic
-sud,87A,Noun-Adjective,Tagula,Austronesian
+sud,87A,Noun-Adjective,Sudest,Austronesian
 sue,87A,Noun-Adjective,Suena,Trans-New Guinea
 sug,87A,Noun-Adjective,Sungor,Eastern Sudanic
 suk,87A,Adjective-Noun,Suki,Gogodala-Suki
 sun,87A,Noun-Adjective,Sundanese,Austronesian
-sup,87A,Noun-Adjective,Suppire,Niger-Congo
-svs,87A,Adjective-Noun,Savsavo,Solomons East Papuan
+sup,87A,Noun-Adjective,Supyire,Niger-Congo
+svs,87A,Adjective-Noun,Savosavo,Solomons East Papuan
 swa,87A,Noun-Adjective,Swahili,Niger-Congo
-swt,87A,No_dominant_order,Swati,Niger-Congo
-syu,87A,Noun-Adjective,Salt (Yui),Trans-New Guinea
-tab,87A,Noun-Adjective,Makian (East),Austronesian
-tac,87A,No_dominant_order,Tacana,Tacanan
-taf,87A,Noun-Adjective,Saposa,Austronesian
-tag,87A,No_dominant_order,Tagalog,Austronesian
+swe,87A,Adjective-Noun,Swedish,Indo-European
+swt,87A,No dominant order,Swati,Niger-Congo
+syu,87A,Noun-Adjective,Salt-Yui,Trans-New Guinea
+tab,87A,Noun-Adjective,Taba,Austronesian
+tac,87A,No dominant order,Tacana,Tacanan
+taf,87A,Noun-Adjective,Taiof,Austronesian
+tag,87A,No dominant order,Tagalog,Austronesian
 tah,87A,Noun-Adjective,Tahitian,Austronesian
-taj,87A,Noun-Adjective,Tajiki,Indo-European
+taj,87A,Noun-Adjective,Tajik,Indo-European
 tak,87A,Noun-Adjective,Takia,Austronesian
-tam,87A,Adjective-Noun,Tamang,Sino-Tibetan
+tam,87A,Adjective-Noun,Tamang (Eastern),Sino-Tibetan
 tao,87A,Noun-Adjective,Tarao,Sino-Tibetan
-tar,87A,No_dominant_order,Tariano,Arawakan
-tat,87A,Noun-Adjective,Tatana,Austronesian
+tar,87A,No dominant order,Tariana,Arawakan
+tat,87A,Noun-Adjective,Tatana',Austronesian
 tau,87A,Noun-Adjective,Tauya,Trans-New Guinea
-taw,87A,Noun-Adjective,Kehelala,Austronesian
-tba,87A,Noun-Adjective,Sinasina,Trans-New Guinea
-tbl,87A,Noun-Adjective,Tanah Merah(2),Sentani
+taw,87A,Noun-Adjective,Tawala,Austronesian
+tba,87A,Noun-Adjective,Tabare,Trans-New Guinea
+tbl,87A,Noun-Adjective,Tabla,Sentani
 tbo,87A,Noun-Adjective,Tboli,Austronesian
-tbt,87A,Noun-Adjective,Yotafa,Austronesian
+tbt,87A,Noun-Adjective,Tobati,Austronesian
 tbu,87A,Noun-Adjective,Tubu,Saharan
-tbw,87A,Noun-Adjective,Taabwa,Niger-Congo
-tce,87A,Adjective-Noun,Tarahumara-Cent,Uto-Aztecan
-tee,87A,Adjective-Noun,d Tepehua,Totonacan
+tbw,87A,Noun-Adjective,Tabwa,Niger-Congo
+tce,87A,Adjective-Noun,Tarahumara (Central),Uto-Aztecan
+tdi,87A,Noun-Adjective,Tibetan (Dingri),Sino-Tibetan
+tdr,87A,Noun-Adjective,Tibetan (Drokpa),Sino-Tibetan
+tee,87A,Adjective-Noun,Tepehua (Huehuetla),Totonacan
 tel,87A,Adjective-Noun,Telugu,Dravidian
-ten,87A,Noun-Adjective,Tenet,Eastern Sudanic
+ten,87A,Noun-Adjective,Tennet,Eastern Sudanic
 teo,87A,Noun-Adjective,Teop,Austronesian
-tep,87A,Adjective-Noun,Tepehua,Totonacan
+tep,87A,Adjective-Noun,Tepehua (Tlachichilco),Totonacan
 ter,87A,Noun-Adjective,Tera,Afro-Asiatic
 tes,87A,Noun-Adjective,Teso,Eastern Sudanic
 tgk,87A,Noun-Adjective,Tigak,Austronesian
-tgl,87A,Adjective-Noun,Monpa,Sino-Tibetan
+tgl,87A,Adjective-Noun,Tshangla,Sino-Tibetan
 tgn,87A,Noun-Adjective,Tugun,Austronesian
 tgo,87A,Noun-Adjective,Tsogo,Niger-Congo
+tgr,87A,Adjective-Noun,Tigré,Afro-Asiatic
 tha,87A,Noun-Adjective,Thai,Tai-Kadai
-thd,87A,Noun-Adjective,Thado,Sino-Tibetan
+thd,87A,Noun-Adjective,Thadou,Sino-Tibetan
 thk,87A,Adjective-Noun,Thakali,Sino-Tibetan
-thn,87A,Adjective-Noun,Thami,Sino-Tibetan
+thn,87A,Adjective-Noun,Thangmi,Sino-Tibetan
 tho,87A,Adjective-Noun,Thompson,Salishan
 thu,87A,Adjective-Noun,Thulung,Sino-Tibetan
-thy,87A,Noun-Adjective,Thaayorre,Pama-Nyungan
+thy,87A,Noun-Adjective,Kuuk Thaayorre,Pama-Nyungan
 tia,87A,Noun-Adjective,Tima,Kordofanian
-tib,87A,Noun-Adjective,"Tibetan, Lhasa dialect",Sino-Tibetan
+tib,87A,Noun-Adjective,Tibetan (Standard Spoken),Sino-Tibetan
 tid,87A,Noun-Adjective,Tidore,West Papuan
 tig,87A,Adjective-Noun,Tigrinya,Afro-Asiatic
 tik,87A,Noun-Adjective,Tikar,Niger-Congo
 tim,87A,Noun-Adjective,Timugon,Austronesian
-tin,87A,Adjective-Noun,Tiri,Austronesian
-tiv,87A,No_dominant_order,Tiv,Niger-Congo
+tin,87A,Adjective-Noun,Tinrin,Austronesian
+tis,87A,No dominant order,Tibetan (Shigatse),Sino-Tibetan
+tiv,87A,No dominant order,Tiv,Niger-Congo
 tiw,87A,Adjective-Noun,Tiwi,Tiwian
-tja,87A,Only_internally-headed_relative_clauses,Jamul Tiipay,Hokan
+tja,87A,Only internally-headed relative clauses,Tiipay (Jamul),Hokan
 tkm,87A,Adjective-Noun,Turkmen,Altaic
-tla,87A,No_dominant_order,Tolai,Austronesian
+tla,87A,No dominant order,Tolai,Austronesian
 tlf,87A,Noun-Adjective,Telefol,Trans-New Guinea
-tli,87A,No_dominant_order,Tlingit,Na-Dene
+tli,87A,No dominant order,Tlingit,Na-Dene
 tlp,87A,Noun-Adjective,Tlapanec,Oto-Manguean
-tma,87A,Noun-Adjective,Tamok,Eastern Sudanic
-tmm,87A,Noun-Adjective,Malo,Austronesian
-tmn,87A,Noun-Adjective,Ronge,Eastern Sudanic
+tls,87A,Adjective-Noun,Talysh (Southern),Indo-European
+tma,87A,Noun-Adjective,Tama,Eastern Sudanic
+tml,87A,Adjective-Noun,Tamil,Dravidian
+tmm,87A,Noun-Adjective,Tamabo,Austronesian
+tmn,87A,Noun-Adjective,Temein,Eastern Sudanic
+tmo,87A,Noun-Adjective,Tibetan (Modern Literary),Sino-Tibetan
 tmr,87A,Noun-Adjective,Temiar,Austro-Asiatic
 tna,87A,Noun-Adjective,Turkana,Eastern Sudanic
 tnc,87A,Noun-Adjective,Tanacross,Na-Dene
 tne,87A,Noun-Adjective,Temne,Niger-Congo
 tng,87A,Noun-Adjective,Tongan,Austronesian
-tni,87A,Adjective-Noun,Rangloi,Sino-Tibetan
-tnk,87A,Noun-Adjective,Lavongai,Austronesian
+tni,87A,Adjective-Noun,Tinani,Sino-Tibetan
+tnk,87A,Noun-Adjective,Tungak,Austronesian
 tnn,87A,Noun-Adjective,Tunen,Niger-Congo
 tno,87A,Noun-Adjective,Tondano,Austronesian
-tny,87A,Noun-Adjective,Karaboro,Niger-Congo
+tny,87A,Noun-Adjective,Tenyer,Niger-Congo
 tob,87A,Adjective-Noun,Toba,Guaicuruan
-tot,87A,No_dominant_order,"Totonac, Yecuatla",Totonacan
-toz,87A,Noun-Adjective,Tonga,Niger-Congo
-tpn,87A,No_dominant_order,Tepehuan (Northern),Uto-Aztecan
+tot,87A,No dominant order,Totonac (Misantla),Totonacan
+toz,87A,Noun-Adjective,Tonga (in Zambia),Niger-Congo
+tpn,87A,No dominant order,Tepehuan (Northern),Uto-Aztecan
 tpr,87A,Noun-Adjective,Tupuri,Niger-Congo
-tps,87A,Noun-Adjective,Tepahue (Southeastern),Uto-Aztecan
+tps,87A,Noun-Adjective,Tepehuan (Southeastern),Uto-Aztecan
 trb,87A,Noun-Adjective,Teribe,Chibchan
-tri,87A,Noun-Adjective,Copala-Trique,Oto-Manguean
-trr,87A,No_dominant_order,Tairora,Trans-New Guinea
+tri,87A,Noun-Adjective,Trique (Copala),Oto-Manguean
+trr,87A,No dominant order,Tairora,Trans-New Guinea
 trw,87A,Adjective-Noun,Torwali,Indo-European
-tsf,87A,Adjective-Noun,Colorado,Barbacoan
+tsf,87A,Adjective-Noun,Tsafiki,Barbacoan
 tsg,87A,Noun-Adjective,Tausug,Austronesian
-tsh,87A,Adjective-Noun,Panamint,Uto-Aztecan
-tsi,87A,Adjective-Noun,Tsimshian,Penutian
-tsk,87A,Noun-Adjective,Tamasheq,Afro-Asiatic
-tsz,87A,Adjective-Noun,Dido,Nakh-Daghestanian
-ttd,87A,Noun-Adjective,d Tetun,Austronesian
+tsh,87A,Adjective-Noun,Tümpisa Shoshone,Uto-Aztecan
+tsi,87A,Adjective-Noun,Tsimshian (Coast),Penutian
+tsk,87A,Noun-Adjective,Tamashek,Afro-Asiatic
+tsz,87A,Adjective-Noun,Tsez,Nakh-Daghestanian
+ttd,87A,Noun-Adjective,Tetun Dili,Austronesian
 ttn,87A,Noun-Adjective,Tetun,Austronesian
-tts,87A,Adjective-Noun,Tati,Indo-European
-ttu,87A,Adjective-Noun,Bats,Nakh-Daghestanian
-tuc,87A,No_dominant_order,Tucano,Tucanoan
-tuk,87A,Noun-Adjective,Tukang-Besi,Austronesian
+tts,87A,Adjective-Noun,Tati (Southern),Indo-European
+ttu,87A,Adjective-Noun,Tsova-Tush,Nakh-Daghestanian
+tuc,87A,No dominant order,Tucano,Tucanoan
+tuk,87A,Noun-Adjective,Tukang Besi,Austronesian
 tul,87A,Adjective-Noun,Tulu,Dravidian
 tum,87A,Noun-Adjective,Tumleo,Austronesian
 tur,87A,Adjective-Noun,Turkish,Altaic
-tuv,87A,Adjective-Noun,Tuva,Altaic
-tvl,87A,Noun-Adjective,Ellice,Austronesian
-tvo,87A,Adjective-Noun,Volga Tatar,Altaic
-tvt,87A,No_dominant_order,"Naga, Tutsa",Sino-Tibetan
-twe,87A,Adjective-Noun,Western Tarahumara,Uto-Aztecan
-txj,87A,Adjective-Noun,Totonaca (Xicotepec de Juaréz),Totonacan
-tzu,87A,No_dominant_order,Tzutujil,Mayan
-uby,87A,Adjective-Noun,Ubyx,Northwest Caucasian
+tuv,87A,Adjective-Noun,Tuvan,Altaic
+tvl,87A,Noun-Adjective,Tuvaluan,Austronesian
+tvo,87A,Adjective-Noun,Tatar,Altaic
+tvt,87A,No dominant order,Tutsa,Sino-Tibetan
+twe,87A,Adjective-Noun,Tarahumara (Western),Uto-Aztecan
+txj,87A,Adjective-Noun,Totonac (Xicotepec de Juárez),Totonacan
+tzu,87A,No dominant order,Tzutujil,Mayan
+uby,87A,Adjective-Noun,Ubykh,Northwest Caucasian
 udh,87A,Adjective-Noun,Udihe,Altaic
 udi,87A,Adjective-Noun,Udi,Nakh-Daghestanian
 udm,87A,Adjective-Noun,Udmurt,Uralic
-uhi,87A,Noun-Adjective,Otati,Pama-Nyungan
+uhi,87A,Noun-Adjective,Uradhi,Pama-Nyungan
 ukr,87A,Adjective-Noun,Ukrainian,Indo-European
-uld,87A,Noun-Adjective,Wuzlam,Afro-Asiatic
+uld,87A,Noun-Adjective,Uldeme,Afro-Asiatic
 uli,87A,Noun-Adjective,Ulithian,Austronesian
-una,87A,Noun-Adjective,Goliath,Trans-New Guinea
+una,87A,Noun-Adjective,Una,Trans-New Guinea
 ung,87A,Noun-Adjective,Ungarinjin,Worrorran
 ura,87A,Noun-Adjective,Ura,Austronesian
 urd,87A,Adjective-Noun,Urdu,Indo-European
-urk,87A,Noun-Adjective,Urubu,Tupian
+urk,87A,Noun-Adjective,Urubú-Kaapor,Tupian
 url,87A,Noun-Adjective,Urak Lawoi',Austronesian
 urt,87A,Noun-Adjective,Urat,Torricelli
-uru,87A,No_dominant_order,Uru,Uru-Chipaya
-usa,87A,Noun-Adjective,Wanuma,Trans-New Guinea
-usr,87A,Adjective-Noun,Auyana,Trans-New Guinea
-uyg,87A,Adjective-Noun,Uighur,Altaic
-uzb,87A,Adjective-Noun,"Uzbek, Southern",Altaic
+uru,87A,No dominant order,Uru,Uru-Chipaya
+usa,87A,Noun-Adjective,Usan,Trans-New Guinea
+usr,87A,Adjective-Noun,Usarufa,Trans-New Guinea
+ute,87A,Noun-Adjective,Ute,Uto-Aztecan
+uyg,87A,Adjective-Noun,Uyghur,Altaic
+uzb,87A,Adjective-Noun,Uzbek,Altaic
 vaf,87A,Noun-Adjective,Vafsi,Indo-European
 vai,87A,Noun-Adjective,Vai,Mande
 ven,87A,Noun-Adjective,Venda,Niger-Congo
 vie,87A,Noun-Adjective,Vietnamese,Austro-Asiatic
-vif,87A,Noun-Adjective,Yombe,Niger-Congo
+vif,87A,Noun-Adjective,Vili,Niger-Congo
 vnm,87A,Noun-Adjective,Vinmavis,Austronesian
 wah,87A,Noun-Adjective,Wahgi,Trans-New Guinea
 wak,87A,Adjective-Noun,Wakhi,Indo-European
-wal,87A,Noun-Adjective,Valman,Torricelli
-wan,87A,No_dominant_order,Wangkumara,Pama-Nyungan
+wal,87A,Noun-Adjective,Walman,Torricelli
+wan,87A,No dominant order,Wangkumara,Pama-Nyungan
 wap,87A,Noun-Adjective,Wappo,Wappo-Yukian
-wat,87A,Noun-Adjective,Wadjari,Pama-Nyungan
+wat,87A,Noun-Adjective,Watjarri,Pama-Nyungan
 wbn,87A,Noun-Adjective,Wambon,Trans-New Guinea
-wch,87A,Noun-Adjective,Matako,Matacoan
+wch,87A,Noun-Adjective,Wichí,Matacoan
 wed,87A,Noun-Adjective,Wedau,Austronesian
-wem,87A,Adjective-Noun,Wemba Wemba,Pama-Nyungan
+wel,87A,Noun-Adjective,Welsh,Indo-European
+wem,87A,Adjective-Noun,Wembawemba,Pama-Nyungan
 wic,87A,Noun-Adjective,Wichita,Caddoan
-wik,87A,Adjective-Noun,Yokuts (Wikchamni),Penutian
+wik,87A,Adjective-Noun,Wikchamni,Penutian
 wiy,87A,Noun-Adjective,Wiyot,Algic
 wlf,87A,Noun-Adjective,Wolof,Niger-Congo
 wlo,87A,Noun-Adjective,Wolio,Austronesian
-wly,87A,Adjective-Noun,Wolaitta,Afro-Asiatic
+wly,87A,Adjective-Noun,Wolaytta,Afro-Asiatic
 wma,87A,Noun-Adjective,West Makian,West Papuan
 wme,87A,Adjective-Noun,Wambule,Sino-Tibetan
-wmu,87A,Noun-Adjective,Wik-Mungkan,Pama-Nyungan
-wn,87A,Noun-Adjective,Wik-Ngathana,Pama-Nyungan
-wna,87A,Noun-Adjective,Nwa,Mande
+wmu,87A,Noun-Adjective,Wik Munkan,Pama-Nyungan
+wn,87A,Noun-Adjective,Wik Ngathana,Pama-Nyungan
+wna,87A,Noun-Adjective,Wan,Mande
 wog,87A,Noun-Adjective,Wogamusin,Sepik
 woi,87A,Noun-Adjective,Woisika,Timor-Alor-Pantar
 wol,87A,Noun-Adjective,Woleaian,Austronesian
+wom,87A,Noun-Adjective,Womo,Skou
 wrd,87A,Noun-Adjective,Wardaman,Yangmanic
-wrk,87A,Noun-Adjective,Guarequena,Arawakan
+wrk,87A,Noun-Adjective,Warekena,Arawakan
 wrl,87A,Noun-Adjective,Warlpiri,Pama-Nyungan
-wrm,87A,Noun-Adjective,Warenbori,Austronesian
-wrw,87A,Adjective-Noun,Warwa,Nyulnyulan
+wrm,87A,Noun-Adjective,Warembori,Austronesian
+wrw,87A,Adjective-Noun,Warrwa,Nyulnyulan
 wsk,87A,Noun-Adjective,Waskia,Trans-New Guinea
-wth,87A,Noun-Adjective,Wathawurung,Pama-Nyungan
+wth,87A,Noun-Adjective,Wathawurrung,Pama-Nyungan
 xam,87A,Noun-Adjective,/Xam,Tu
-xar,87A,Adjective-Noun,Xaracuu,Austronesian
-xas,87A,Noun-Adjective,Xasonke,Mande
+xar,87A,Adjective-Noun,Xârâcùù,Austronesian
+xas,87A,Noun-Adjective,Xasonga,Mande
 xbi,87A,Noun-Adjective,Kombio,Torricelli
-xer,87A,Noun-Adjective,Sherente,Macro-Ge
+xer,87A,Noun-Adjective,Xerénte,Macro-Ge
 xho,87A,Noun-Adjective,Xhosa,Niger-Congo
-xoo,87A,Noun-Adjective,N/amani,Tu
+xoo,87A,Noun-Adjective,!Xóõ,Tu
 yag,87A,Noun-Adjective,Yagua,Peba-Yaguan
-yah,87A,Adjective-Noun,Yamana,Yámana
-yal,87A,Noun-Adjective,Kosarek,Trans-New Guinea
+yah,87A,Adjective-Noun,Yahgan,Yámana
+yal,87A,Noun-Adjective,Yale (Kosarek),Trans-New Guinea
 yam,87A,Noun-Adjective,Yaminahua,Panoan
-yao,87A,Noun-Adjective,Yao,Niger-Congo
+yao,87A,Noun-Adjective,Yao (in Malawi),Niger-Congo
 yap,87A,Noun-Adjective,Yapese,Austronesian
 yaq,87A,Adjective-Noun,Yaqui,Uto-Aztecan
 yar,87A,Adjective-Noun,Yareba,Yareban
 yay,87A,Noun-Adjective,Yay,Tai-Kadai
 ybi,87A,Adjective-Noun,Yamphu,Sino-Tibetan
 ycn,87A,Adjective-Noun,Yucuna,Arawakan
-yel,87A,Noun-Adjective,Yele,Yele
-ygr,87A,Adjective-Noun,"Yagaria, Move dialect",Trans-New Guinea
-yi,87A,Noun-Adjective,Yi,Sino-Tibetan
+yel,87A,Noun-Adjective,Yelî Dnye,Yele
+ygr,87A,Adjective-Noun,Yagaria,Trans-New Guinea
+yi,87A,Noun-Adjective,Nuosu,Sino-Tibetan
 yid,87A,Noun-Adjective,Yidiny,Pama-Nyungan
-yim,87A,No_dominant_order,Yimas,Lower Sepik-Ramu
-yin,87A,No_dominant_order,Yindjibarndi,Pama-Nyungan
-yiw,87A,Noun-Adjective,Nasu,Sino-Tibetan
-yko,87A,Adjective-Noun,Kolyma,Yukaghir
+yim,87A,No dominant order,Yimas,Lower Sepik-Ramu
+yin,87A,No dominant order,Yindjibarndi,Pama-Nyungan
+yiw,87A,Noun-Adjective,Yi (Wuding-Luquan),Sino-Tibetan
+yko,87A,Adjective-Noun,Yukaghir (Kolyma),Yukaghir
 ykt,87A,Adjective-Noun,Yakut,Altaic
-yng,87A,Adjective-Noun,Yinggarda,Pama-Nyungan
+yng,87A,Adjective-Noun,Yingkarta,Pama-Nyungan
 yny,87A,Adjective-Noun,Yanyuwa,Pama-Nyungan
-yok,87A,Adjective-Noun,Yokutsan,Penutian
+yok,87A,Adjective-Noun,Yokuts (Yaudanchi),Penutian
 yor,87A,Noun-Adjective,Yoruba,Niger-Congo
-ypk,87A,No_dominant_order,Yupik (General Central),Eskimo-Aleut
-ytu,87A,Adjective-Noun,"Yukaghir, Tundra dialect",Yukaghir
-yuk,87A,Adjective-Noun,Yugulda,Tangkic
+ypk,87A,No dominant order,Yup'ik (Central),Eskimo-Aleut
+ytu,87A,Adjective-Noun,Yukaghir (Tundra),Yukaghir
+yuk,87A,Adjective-Noun,Yukulta,Tangkic
+yul,87A,Noun-Adjective,Yulu,Central Sudanic
 yur,87A,Adjective-Noun,Yurok,Algic
-yuw,87A,Adjective-Noun,Gamilaraay,Pama-Nyungan
+yuw,87A,Adjective-Noun,Yuwaalaraay,Pama-Nyungan
 ywr,87A,Adjective-Noun,Yawuru,Nyulnyulan
-zag,87A,Noun-Adjective,Zagawa,Saharan
-zai,87A,Noun-Adjective,"Zapotec, Isthmus",Oto-Manguean
+zag,87A,Noun-Adjective,Beria,Saharan
+zai,87A,Noun-Adjective,Zapotec (Isthmus),Oto-Manguean
 zan,87A,Adjective-Noun,Zande,Niger-Congo
-zap,87A,Noun-Adjective,Mitla Zapotec,Oto-Manguean
-zar,87A,Noun-Adjective,Zerma,Songhay
+zap,87A,Noun-Adjective,Zapotec (Mitla),Oto-Manguean
+zar,87A,Noun-Adjective,Zarma,Songhay
 zay,87A,Adjective-Noun,Zayse,Afro-Asiatic
-zaz,87A,Noun-Adjective,Zaza,Indo-European
-zch,87A,Adjective-Noun,Zoque (San Miguel Chimalapa),Mixe-Zoque
-zqc,87A,Adjective-Noun,Copainalá Zoque,Mixe-Zoque
-zul,87A,Noun-Adjective,IsiZulu,Niger-Congo
-zya,87A,Noun-Adjective,"Zapotec, Yatzachi",Oto-Manguean
-zzo,87A,Noun-Adjective,"Zapotec, Zoogocho",Oto-Manguean
+zaz,87A,Noun-Adjective,Zazaki,Indo-European
+zch,87A,Adjective-Noun,Zoque (Chimalapa),Mixe-Zoque
+zqc,87A,Adjective-Noun,Zoque (Copainalá),Mixe-Zoque
+zul,87A,Noun-Adjective,Zulu,Niger-Congo
+zya,87A,Noun-Adjective,Zapotec (Yatzachi),Oto-Manguean
+zzo,87A,Noun-Adjective,Zapotec (Zoogocho),Oto-Manguean

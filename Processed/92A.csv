@@ -1,82 +1,84 @@
 Language_ID,Parameter_ID,Value,Name,Family
-aar,92A,No_question_particle,Ari,Afro-Asiatic
+aab,92A,Final,Arapesh (Abu),Torricelli
+aar,92A,No_question_particle,Aari,Afro-Asiatic
 abk,92A,No_question_particle,Abkhaz,Northwest Caucasian
-abu,92A,Final,Yimbun,West Papuan
-ace,92A,In_either_of_the_two_positions,Achinese,Austronesian
+abu,92A,Final,Abun,West Papuan
+ace,92A,In_either_of_the_two_positions,Acehnese,Austronesian
 acn,92A,Final,Achang,Sino-Tibetan
 acu,92A,No_question_particle,Achuar,Jivaroan
-adi,92A,Final,Adyukru,Niger-Congo
+adi,92A,Final,Adioukrou,Niger-Congo
 adz,92A,No_question_particle,Adzera,Austronesian
-aeg,92A,Initial,Egyptian Colloquial Arabic,Afro-Asiatic
-aga,92A,No_question_particle,Gadsup,Trans-New Guinea
-agc,92A,Initial,Agta,Austronesian
-agd,92A,Second_position,d Agta,Austronesian
+aeg,92A,Initial,Arabic (Egyptian),Afro-Asiatic
+aga,92A,No_question_particle,Agarabi,Trans-New Guinea
+agc,92A,Initial,Agta (Central),Austronesian
+agd,92A,Second_position,Agta (Dupaningan),Austronesian
 agm,92A,Final,Angami,Sino-Tibetan
+ajg,92A,Final,Ajagbe,Niger-Congo
 akh,92A,Final,Akha,Sino-Tibetan
 akn,92A,In_either_of_the_two_positions,Akan,Niger-Congo
 ala,92A,No_question_particle,Alamblak,Sepik
 alb,92A,Initial,Albanian,Indo-European
-alk,92A,No_question_particle,Lukep,Austronesian
-all,92A,Initial,Nara,Austronesian
+alk,92A,No_question_particle,Arop-Lokep,Austronesian
+all,92A,Initial,Ala'ala,Austronesian
 amc,92A,Second_position,Amahuaca,Panoan
 ame,92A,Final,Amele,Trans-New Guinea
-aml,92A,No_question_particle,Aoban (Northeast),Austronesian
+aml,92A,No_question_particle,Ambae (Lolovoli Northeast),Austronesian
 amn,92A,In_either_of_the_two_positions,Amanab,Border
 amo,92A,Final,Amo,Niger-Congo
-amp,92A,Second_position,Mparntwe Arrernte,Pama-Nyungan
+amp,92A,Second_position,Arrernte (Mparntwe),Pama-Nyungan
 amq,92A,Final,Ambai,Austronesian
-amr,92A,Initial,Moroccan Arabic,Afro-Asiatic
-ams,92A,Initial,Modern Literary Arabic,Afro-Asiatic
+amr,92A,Initial,Arabic (Moroccan),Afro-Asiatic
+ams,92A,Initial,Arabic (Modern Standard),Afro-Asiatic
 ana,92A,No_question_particle,Araona,Tacanan
 anc,92A,Final,Angas,Afro-Asiatic
 ang,92A,No_question_particle,Anggor,Senagi
-ani,92A,Final,||Ani,Khoe-Kwadi
-anj,92A,Final,Aneityum,Austronesian
-ano,92A,No_question_particle,Anung,Sino-Tibetan
-anu,92A,Final,Chakosi,Niger-Congo
+ani,92A,Final,//Ani,Khoe-Kwadi
+anj,92A,Final,Anejom,Austronesian
+ano,92A,No_question_particle,Anong,Sino-Tibetan
+anu,92A,Final,Anufo,Niger-Congo
 ao,92A,Final,Ao,Sino-Tibetan
-aoj,92A,Final,Arapesh (Southern),Torricelli
-api,92A,Initial,Apinaye,Macro-Ge
-apl,92A,No_question_particle,Apalai,Cariban
+aoj,92A,Final,Mufian,Torricelli
+api,92A,Initial,Apinayé,Macro-Ge
+apl,92A,No_question_particle,Apalaí,Cariban
 apt,92A,Final,Apatani,Sino-Tibetan
-apu,92A,No_question_particle,Apurina,Arawakan
+apu,92A,No_question_particle,Apurinã,Arawakan
 apw,92A,No_question_particle,Apache (Western),Na-Dene
-ara,92A,No_question_particle,Arawak,Arawakan
+ara,92A,No_question_particle,Lokono,Arawakan
 arc,92A,No_question_particle,Archi,Nakh-Daghestanian
-arg,92A,No_question_particle,Khaliji,Afro-Asiatic
-arm,92A,No_question_particle,Eastern Armenian,Indo-European
+arg,92A,No_question_particle,Arabic (Gulf),Afro-Asiatic
+arm,92A,No_question_particle,Armenian (Eastern),Indo-European
 aro,92A,Final,Arosi,Austronesian
-arp,92A,Final,Bukiyip,Torricelli
-arw,92A,No_question_particle,Western Armenian,Indo-European
-asm,92A,Final,Asmat (Flamingo Bay),Trans-New Guinea
+arp,92A,Final,Arapesh (Mountain),Torricelli
+arw,92A,No_question_particle,Armenian (Western),Indo-European
+asm,92A,Final,Asmat,Trans-New Guinea
 ass,92A,No_question_particle,Assamese,Indo-European
-asy,92A,Final,Syrian Arabic,Afro-Asiatic
+asy,92A,Final,Arabic (Syrian),Afro-Asiatic
 ata,92A,Final,Atayal,Austronesian
 ath,92A,No_question_particle,Athpare,Sino-Tibetan
 ava,92A,Second_position,Avar,Nakh-Daghestanian
 avk,92A,Final,Avikam,Niger-Congo
-awp,92A,Final,Cuaiquer,Barbacoan
-awt,92A,Final,Autu,Sepik
-aym,92A,Final,Aymara,Aymaran
-aze,92A,Final,"Azerbaijani, North",Altaic
-azi,92A,No_question_particle,Azerbaijani,Altaic
+awp,92A,Final,Awa Pit,Barbacoan
+awt,92A,Final,Awtuw,Sepik
+aym,92A,Final,Aymara (Central),Aymaran
+aze,92A,Final,Azerbaijani,Altaic
+azi,92A,No_question_particle,Azari (Iranian),Altaic
 bab,92A,Final,Babungo,Niger-Congo
-bae,92A,No_question_particle,Bare,Arawakan
+bae,92A,No_question_particle,Baré,Arawakan
 baf,92A,No_question_particle,Bafut,Niger-Congo
 bag,92A,Final,Bagirmi,Central Sudanic
-bai,92A,Final,Minchia,Sino-Tibetan
+bai,92A,Final,Bai,Sino-Tibetan
 bam,92A,Final,Bambara,Mande
-bao,92A,No_question_particle,Pao-an,Altaic
-baw,92A,Final,Bom,Sino-Tibetan
-bbf,92A,Final,Bobo-Fing,Mande
-bbw,92A,Initial,Gunwinygu,Gunwinyguan
+bao,92A,No_question_particle,Bao'an,Altaic
+baw,92A,Final,Bawm,Sino-Tibetan
+bbf,92A,Final,Bobo Madaré (Northern),Mande
+bbw,92A,Initial,Bininj Gun-Wok,Gunwinyguan
 bco,92A,No_question_particle,Bella Coola,Salishan
-bdm,92A,No_question_particle,Badimay,Pama-Nyungan
+bdm,92A,No_question_particle,Badimaya,Pama-Nyungan
 bej,92A,No_question_particle,Beja,Afro-Asiatic
-bel,92A,Final,Belhariya,Sino-Tibetan
+bel,92A,Final,Belhare,Sino-Tibetan
 bem,92A,In_either_of_the_two_positions,Bemba,Niger-Congo
-bfg,92A,Initial,Fiqiq,Afro-Asiatic
-bgn,92A,Final,Khoa,Sino-Tibetan
+bfg,92A,Initial,Berber (Figuig),Afro-Asiatic
+bgn,92A,Final,Bugun,Sino-Tibetan
 bgo,92A,Final,Bongo,Central Sudanic
 bgz,92A,No_question_particle,Banggi,Austronesian
 bho,92A,Initial,Bhojpuri,Indo-European
@@ -85,745 +87,767 @@ bik,92A,No_question_particle,Biak,Austronesian
 bil,92A,No_question_particle,Bilua,Solomons East Papuan
 bir,92A,Final,Birom,Niger-Congo
 biu,92A,No_question_particle,Bisu,Sino-Tibetan
-bkn,92A,Final,Lue,Niger-Congo
-bkr,92A,Second_position,Karo Batak,Austronesian
+bkn,92A,Final,Bakundu,Niger-Congo
+bkr,92A,Second_position,Batak (Karo),Austronesian
 bla,92A,No_question_particle,Blackfoot,Algic
-ble,92A,No_question_particle,Baule,Niger-Congo
+ble,92A,No_question_particle,Baoulé,Niger-Congo
 bln,92A,No_question_particle,Bilin,Afro-Asiatic
-blr,92A,Initial,Byelorussian,Indo-European
+blr,92A,Initial,Belorussian,Indo-European
 blt,92A,No_question_particle,Balti,Sino-Tibetan
 blx,92A,Final,Biloxi,Siouan
-bma,92A,Initial,Tamazight (Middle Atlas),Afro-Asiatic
-bmb,92A,No_question_particle,Moba,Niger-Congo
-bnj,92A,Initial,Bundjalung,Pama-Nyungan
-bod,92A,No_question_particle,Boro,Sino-Tibetan
+bma,92A,Initial,Berber (Middle Atlas),Afro-Asiatic
+bmb,92A,No_question_particle,Bimoba,Niger-Congo
+bnj,92A,Initial,Bandjalang,Pama-Nyungan
+bnu,92A,Initial,Bularnu,Pama-Nyungan
+bod,92A,No_question_particle,Bodo,Sino-Tibetan
 bon,92A,Final,Bongu,Trans-New Guinea
 bra,92A,Final,Brao,Austro-Asiatic
 bre,92A,Initial,Breton,Indo-European
-brf,92A,Initial,Riff,Afro-Asiatic
+brf,92A,Initial,Berber (Rif),Afro-Asiatic
 brm,92A,No_question_particle,Burmese,Sino-Tibetan
 brn,92A,No_question_particle,Burunge,Afro-Asiatic
-brp,92A,Initial,d Warapu,Skou
-brs,92A,No_question_particle,Barasano (Southern),Tucanoan
-bsh,92A,No_question_particle,Bushong,Niger-Congo
-btk,92A,Initial,Bontok (Central),Austronesian
+brp,92A,Initial,Barupu,Skou
+brs,92A,No_question_particle,Barasano,Tucanoan
+bsh,92A,No_question_particle,Bushoong,Niger-Congo
+btk,92A,Initial,Bontok,Austronesian
 bud,92A,Final,Buduma,Afro-Asiatic
 bul,92A,Second_position,Bulgarian,Indo-European
 bum,92A,No_question_particle,Buma,Austronesian
 bus,92A,Final,Busa,Mande
-bwc,92A,Second_position,"Bajau, West Coast",Austronesian
-bya,92A,Initial,Byangsi,Sino-Tibetan
+bwc,92A,Second_position,Bajau (West Coast),Austronesian
+bya,92A,Initial,Byansi,Sino-Tibetan
 cah,92A,No_question_particle,Cahuilla,Uto-Aztecan
-car,92A,No_question_particle,Galibi,Cariban
-cba,92A,No_question_particle,Chumash (Barbareno),Chumash
-ccm,92A,Initial,Comaltepec Chinantec,Oto-Manguean
+cai,92A,No_question_particle,Chai,Eastern Sudanic
+car,92A,No_question_particle,Carib,Cariban
+cba,92A,No_question_particle,Chumash (Barbareño),Chumash
+ccm,92A,Initial,Chinantec (Comaltepec),Oto-Manguean
 cct,92A,Final,Choctaw,Muskogean
 cea,92A,Second_position,Cree (Swampy),Algic
-cem,92A,Initial,Cemuhi,Austronesian
+cem,92A,Initial,Cèmuhî,Austronesian
 cga,92A,Final,Chaga,Niger-Congo
 cha,92A,Initial,Chamorro,Austronesian
 chc,92A,No_question_particle,Chechen,Nakh-Daghestanian
 che,92A,Second_position,Cherokee,Iroquoian
 chg,92A,Final,Chang,Sino-Tibetan
-chh,92A,Final,Gurage (Central West),Afro-Asiatic
+chh,92A,Final,Chaha,Afro-Asiatic
 chi,92A,No_question_particle,Chimariko,Hokan
 chk,92A,No_question_particle,Chukchi,Chukotko-Kamchatkan
 chp,92A,Final,Chipewyan,Na-Dene
-chq,92A,Initial,Quiotepec Chinantec,Oto-Manguean
+chq,92A,Initial,Chinantec (Quiotepec),Oto-Manguean
 chr,92A,Final,Chrau,Austro-Asiatic
-chs,92A,Final,Siyin,Sino-Tibetan
+chs,92A,Final,Chin (Siyin),Sino-Tibetan
 chv,92A,No_question_particle,Chuvash,Altaic
-chw,92A,Final,Cham (West),Austronesian
-chx,92A,Initial,Oaxaca Chontal,Tequistlatecan
-cic,92A,Initial,Nyanja,Niger-Congo
-cle,92A,Initial,San Juan Chinanteco Lealao,Oto-Manguean
+chw,92A,Final,Cham (Western),Austronesian
+chx,92A,Initial,Chontal (Huamelultec Oaxaca),Tequistlatecan
+cic,92A,Initial,Chichewa,Niger-Congo
+cle,92A,Initial,Chinantec (Lealao),Oto-Manguean
 cmh,92A,Second_position,Chemehuevi,Uto-Aztecan
-cml,92A,No_question_particle,Kiranti,Sino-Tibetan
+cml,92A,No_question_particle,Camling,Sino-Tibetan
 cmn,92A,Second_position,Comanche,Uto-Aztecan
-cmr,92A,Final,Maram,Sino-Tibetan
-cmy,92A,No_question_particle,Yocot'an,Mayan
+cmr,92A,Final,Chin (Mara),Sino-Tibetan
+cmy,92A,No_question_particle,Chontal Maya,Mayan
 cnl,92A,Initial,Canela,Macro-Ge
-coa,92A,No_question_particle,Coahuiltec,Coahuiltecan
+coa,92A,No_question_particle,Coahuilteco,Coahuiltecan
 coc,92A,Second_position,Cocama,Tupian
-coo,92A,Final,Coos,Oregon Coast
+coo,92A,Final,Coos (Hanis),Oregon Coast
 cop,92A,Initial,Coptic,Afro-Asiatic
-cpl,92A,No_question_particle,Palantla Chinantec,Oto-Manguean
+cpl,92A,No_question_particle,Chinantec (Palantla),Oto-Manguean
 cpy,92A,No_question_particle,Chipaya,Uru-Chipaya
-cre,92A,Second_position,Cree,Algic
+cre,92A,Second_position,Cree (Plains),Algic
 crn,92A,Initial,Cornish,Indo-European
 crp,92A,No_question_particle,Carapana,Tucanoan
+cso,92A,Final,Chatino (Sierra Occidental),Oto-Manguean
 ctl,92A,No_question_particle,Catalan,Indo-European
 cub,92A,No_question_particle,Cubeo,Tucanoan
 cup,92A,No_question_particle,Cupeño,Uto-Aztecan
 cze,92A,No_question_particle,Czech,Indo-European
 dan,92A,Final,Dan,Mande
-dds,92A,Final,Donno So Dogon,Dogon
+dds,92A,Final,Donno So,Dogon
 des,92A,No_question_particle,Desano,Tucanoan
-deu,92A,No_question_particle,Chutiya,Sino-Tibetan
+deu,92A,No_question_particle,Deuri,Sino-Tibetan
 dgr,92A,Final,Dagur,Altaic
-dha,92A,No_question_particle,Dasenech,Afro-Asiatic
-dhi,92A,Final,Maldivian,Indo-European
-die,92A,No_question_particle,Kumeyaay,Hokan
+dha,92A,No_question_particle,Dhaasanac,Afro-Asiatic
+dhi,92A,Final,Dhivehi,Indo-European
+die,92A,No_question_particle,Diegueño (Mesa Grande),Hokan
 dim,92A,No_question_particle,Dime,Afro-Asiatic
-din,92A,No_question_particle,Jieng (Dinka),Eastern Sudanic
-dio,92A,No_question_particle,Diola,Niger-Congo
+din,92A,No_question_particle,Dinka,Eastern Sudanic
+dio,92A,No_question_particle,Diola-Fogny,Niger-Congo
 diy,92A,No_question_particle,Diyari,Pama-Nyungan
 dji,92A,Initial,Djingili,Mirndi
-djm,92A,No_question_particle,Djambarbwingu,Pama-Nyungan
-djp,92A,Initial,Yolngu (Djapu),Pama-Nyungan
-dlm,92A,No_question_particle,d Dera,Senagi
-dmk,92A,Final,Dumaki,Indo-European
-dni,92A,No_question_particle,Dani (Grand Valley),Trans-New Guinea
-don,92A,Final,Kam,Tai-Kadai
-doy,92A,Final,Dayãyo,Niger-Congo
-dre,92A,Initial,Dehu,Austronesian
-drm,92A,Initial,Darmiya,Sino-Tibetan
+djm,92A,No_question_particle,Djambarrpuyngu,Pama-Nyungan
+djp,92A,Initial,Djapu,Pama-Nyungan
+dlm,92A,No_question_particle,Dla (Menggwa),Senagi
+dmk,92A,Final,Domaaki,Indo-European
+dni,92A,No_question_particle,Dani (Lower Grand Valley),Trans-New Guinea
+don,92A,Final,Dong (Southern),Tai-Kadai
+doy,92A,Final,Doyayo,Niger-Congo
+dre,92A,Initial,Drehu,Austronesian
+drm,92A,Initial,Darma,Sino-Tibetan
 dsh,92A,No_question_particle,Danish,Indo-European
 duk,92A,Final,Duka,Niger-Congo
-dul,92A,Final,Trung,Sino-Tibetan
-dum,92A,Final,Vanimo,Skou
+dul,92A,Final,Dulong,Sino-Tibetan
+dum,92A,Final,Dumo,Skou
 dun,92A,Final,Duna,Trans-New Guinea
+dut,92A,No_question_particle,Dutch,Indo-European
 dyi,92A,Second_position,Dyirbal,Pama-Nyungan
 ebi,92A,In_either_of_the_two_positions,Ebira,Niger-Congo
 efi,92A,Initial,Efik,Niger-Congo
 ega,92A,Final,Ega,Niger-Congo
 egn,92A,Final,Engenni,Niger-Congo
 eip,92A,No_question_particle,Eipo,Trans-New Guinea
-emb,92A,No_question_particle,Embera,Choco
-eme,92A,Second_position,Emerillon,Tupian
+emb,92A,No_question_particle,Emberá (Northern),Choco
+eme,92A,Second_position,Émérillon,Tupian
 ene,92A,No_question_particle,Enets,Uralic
 eng,92A,No_question_particle,English,Indo-European
 eno,92A,No_question_particle,Enggano,Austronesian
-epe,92A,No_question_particle,Saija,Choco
+epe,92A,No_question_particle,Epena Pedee,Choco
 erk,92A,No_question_particle,Efate (South),Austronesian
-err,92A,Initial,Sie,Austronesian
-ese,92A,Initial,Ese'ejja,Tacanan
+err,92A,Initial,Erromangan,Austronesian
+ese,92A,Initial,Ese Ejja,Tacanan
 est,92A,In_either_of_the_two_positions,Estonian,Uralic
-eud,92A,Initial,Opata,Uto-Aztecan
+eud,92A,Initial,Eudeve,Uto-Aztecan
 eve,92A,Final,Evenki,Altaic
+ewe,92A,Final,Ewe,Niger-Congo
 ewo,92A,Initial,Ewondo,Niger-Congo
 fas,92A,No_question_particle,Fasu,Trans-New Guinea
-fij,92A,No_question_particle,Nadroga,Austronesian
+fij,92A,No_question_particle,Fijian,Austronesian
 fin,92A,Second_position,Finnish,Uralic
 foe,92A,No_question_particle,Foe,Trans-New Guinea
 fre,92A,Initial,French,Indo-European
-fua,92A,Final,Fulfulde (Cameroonian),Niger-Congo
-ful,92A,No_question_particle,Fulnio,Yaté
+fri,92A,No_question_particle,Frisian,Indo-European
+fua,92A,Final,Fulfulde (Adamawa),Niger-Congo
+ful,92A,No_question_particle,Fulniô,Yaté
 fut,92A,Final,Futuna-Aniwa,Austronesian
-fye,92A,Final,Fyam,Niger-Congo
-gae,92A,No_question_particle,Scottish Gaelic,Indo-European
+fye,92A,Final,Fyem,Niger-Congo
+gae,92A,No_question_particle,Gaelic (Scots),Indo-European
 gah,92A,No_question_particle,Gahuku,Trans-New Guinea
-gal,92A,No_question_particle,Gallong,Sino-Tibetan
+gal,92A,No_question_particle,Galo,Sino-Tibetan
 gap,92A,Final,Gapapaiwa,Austronesian
 gar,92A,No_question_particle,Garo,Sino-Tibetan
 gav,92A,Initial,Gavião,Tupian
-gbb,92A,Final,Gbeya,Niger-Congo
+gbb,92A,Final,Gbeya Bossangoa,Niger-Congo
 gdb,92A,No_question_particle,Gutob,Austro-Asiatic
 gds,92A,No_question_particle,Gadsup,Trans-New Guinea
 gel,92A,Final,Gela,Austronesian
 geo,92A,No_question_particle,Georgian,Kartvelian
+ger,92A,No_question_particle,German,Indo-European
 ghb,92A,No_question_particle,Guahibo,Guahiban
 ghr,92A,Final,Bunan,Sino-Tibetan
-gim,92A,No_question_particle,Bencho,Afro-Asiatic
-git,92A,Final,Nass-Gitksan,Penutian
+gim,92A,No_question_particle,Gimira,Afro-Asiatic
+git,92A,Final,Gitksan,Penutian
 gln,92A,No_question_particle,Golin,Trans-New Guinea
-gmw,92A,No_question_particle,Gumasi,Austronesian
-gnb,92A,No_question_particle,Warlang,Gunwinyguan
+gmw,92A,No_question_particle,Gumawana,Austronesian
+gnb,92A,No_question_particle,Gunbalang,Gunwinyguan
 goa,92A,Initial,Goajiro,Arawakan
 goe,92A,Final,Goemai,Afro-Asiatic
 gok,92A,Initial,Gokana,Niger-Congo
 gon,92A,Final,Gondi,Dravidian
 grb,92A,Initial,Grebo,Niger-Congo
 grj,92A,No_question_particle,Guarijío,Uto-Aztecan
-grk,92A,Initial,Modern Greek,Indo-European
-grr,92A,In_either_of_the_two_positions,Garawa,Garrwan
-grw,92A,No_question_particle,Greenland Eskimo (West),Eskimo-Aleut
+grk,92A,Initial,Greek (Modern),Indo-European
+grr,92A,In_either_of_the_two_positions,Garrwa,Garrwan
+grw,92A,No_question_particle,Greenlandic (West),Eskimo-Aleut
 gud,92A,Final,Gude,Afro-Asiatic
-guh,92A,Final,Guhu-Semane,Trans-New Guinea
+guh,92A,Final,Guhu-Samane,Trans-New Guinea
 guj,92A,No_question_particle,Gujarati,Indo-European
-gul,92A,Final,Gula,Central Sudanic
-gum,92A,No_question_particle,Gumbayunggir,Pama-Nyungan
+gul,92A,Final,Gula (in Central African Republic),Central Sudanic
+gum,92A,No_question_particle,Gumbaynggir,Pama-Nyungan
 gur,92A,Final,Gurung,Sino-Tibetan
-guw,92A,Final,Gun,Niger-Congo
+guw,92A,Final,Gungbe,Niger-Congo
 gwa,92A,Final,Gwari,Niger-Congo
+gyc,92A,No_question_particle,Gyarong (Cogtse),Sino-Tibetan
 ham,92A,Final,Hamtai,Trans-New Guinea
-hat,92A,Final,Hattam,West Papuan
+hat,92A,Final,Hatam,West Papuan
 hau,92A,Final,Hausa,Afro-Asiatic
-hay,92A,No_question_particle,Vayu,Sino-Tibetan
-hdi,92A,Final,Xedi,Afro-Asiatic
-heb,92A,Initial,Modern Hebrew,Afro-Asiatic
+hay,92A,No_question_particle,Hayu,Sino-Tibetan
+hdi,92A,Final,Hdi,Afro-Asiatic
+heb,92A,Initial,Hebrew (Modern),Afro-Asiatic
 hin,92A,Initial,Hindi,Indo-European
-hix,92A,No_question_particle,Hishkariana,Cariban
+hix,92A,No_question_particle,Hixkaryana,Cariban
 hma,92A,Final,Hmar,Sino-Tibetan
-hmi,92A,No_question_particle,Meneca,Huitotoan
-hmo,92A,Other_position,Mong Njua,Hmong-Mien
-hna,92A,Final,Hina,Afro-Asiatic
+hmi,92A,No_question_particle,Huitoto (Minica),Huitotoan
+hmo,92A,Other_position,Hmong Njua,Hmong-Mien
+hna,92A,Final,Mina,Afro-Asiatic
 hnd,92A,In_either_of_the_two_positions,Hunde,Niger-Congo
 ho,92A,Final,Ho,Austro-Asiatic
 hoa,92A,No_question_particle,Hoava,Austronesian
 hop,92A,Initial,Hopi,Uto-Aztecan
-hpd,92A,No_question_particle,Hupda,Nadahup
+hpd,92A,No_question_particle,Hup,Nadahup
 htc,92A,No_question_particle,Huastec,Mayan
-hve,92A,Initial,Huave,Huavean
+hua,92A,No_question_particle,Hua,Trans-New Guinea
+hve,92A,Initial,Huave (San Mateo del Mar),Huavean
 hya,92A,No_question_particle,Haya,Niger-Congo
 hzb,92A,No_question_particle,Hunzib,Nakh-Daghestanian
 iaa,92A,Initial,Iaai,Austronesian
 iba,92A,Initial,Iban,Austronesian
-idu,92A,No_question_particle,Midu,Sino-Tibetan
-ifm,92A,Final,Central Teke,Niger-Congo
-ifu,92A,Initial,Ifugao,Austronesian
+idu,92A,No_question_particle,Idu,Sino-Tibetan
+ifm,92A,Final,Ifumu,Niger-Congo
+ifu,92A,Initial,Ifugao (Batad),Austronesian
 igb,92A,No_question_particle,Igbo,Niger-Congo
 ige,92A,Final,Igede,Niger-Congo
-ijo,92A,No_question_particle,Kolokuma,Ijoid
+ijo,92A,No_question_particle,Ijo (Kolokuma),Ijoid
 ik,92A,Final,Ik,Eastern Sudanic
-ika,92A,Final,Ica,Chibchan
+ika,92A,Final,Ika,Chibchan
 ina,92A,Final,Inanwatan,South Bird's Head
+ind,92A,In_either_of_the_two_positions,Indonesian,Austronesian
 ing,92A,No_question_particle,Ingush,Nakh-Daghestanian
-iri,92A,Initial,Gaelic,Indo-European
+iri,92A,Initial,Irish,Indo-European
 irq,92A,No_question_particle,Iraqw,Afro-Asiatic
-irr,92A,No_question_particle,Irahutu,Austronesian
-ita,92A,No_question_particle,Italian (Roman),Indo-European
+irr,92A,No_question_particle,Irarutu,Austronesian
+ita,92A,No_question_particle,Italian,Indo-European
 iwa,92A,In_either_of_the_two_positions,Iwaidja,Iwaidjan
 iwm,92A,Final,Iwam,Sepik
 izi,92A,Final,Izi,Niger-Congo
-jab,92A,Final,Yabim,Austronesian
-jak,92A,No_question_particle,Jacaltec,Mayan
-jar,92A,Final,Jarawa,Niger-Congo
-jmo,92A,No_question_particle,Morokodo,Central Sudanic
-jms,92A,Final,d Dogon,Dogon
-jng,92A,Final,Jingphaw,Sino-Tibetan
-jug,92A,No_question_particle,Yogli,Sino-Tibetan
-juh,92A,Second_position,Zhu-/Hoa (Si),Kxa
+jab,92A,Final,Jabêm,Austronesian
+jak,92A,No_question_particle,Jakaltek,Mayan
+jar,92A,Final,Izere,Niger-Congo
+jmo,92A,No_question_particle,Jur Mödö,Central Sudanic
+jms,92A,Final,Jamsay,Dogon
+jng,92A,Final,Jingpho,Sino-Tibetan
+jug,92A,No_question_particle,Jugli,Sino-Tibetan
+juh,92A,Second_position,Ju|'hoan,Kxa
 juk,92A,Final,Jukun,Niger-Congo
-kaa,92A,Final,Arara (Tupi),Tupian
+kaa,92A,Final,Karó (Arára),Tupian
 kab,92A,No_question_particle,Kabardian,Northwest Caucasian
-kae,92A,No_question_particle,Tate,Eleman
+kae,92A,No_question_particle,Kaki Ae,Eleman
 kan,92A,No_question_particle,Kana,Niger-Congo
-kar,92A,Final,Fer,Central Sudanic
-kau,92A,Final,Pasismanua,Austronesian
-kay,92A,No_question_particle,Gayardilt,Tangkic
+kar,92A,Final,Kara (in Central African Republic),Central Sudanic
+kau,92A,Final,Kaulong,Austronesian
+kay,92A,No_question_particle,Kayardild,Tangkic
 kba,92A,No_question_particle,Kamba,Niger-Congo
 kbl,92A,No_question_particle,Kabyle,Afro-Asiatic
-kbw,92A,Final,Bwe,Sino-Tibetan
-kby,92A,Final,Kabre,Niger-Congo
-kch,92A,No_question_particle,"Songhay, Koyra Chiini dialect",Songhay
-kdz,92A,Second_position,"Kadazan, Coastal",Austronesian
-kel,92A,Final,Gele,Austronesian
+kbw,92A,Final,Karen (Bwe),Sino-Tibetan
+kby,92A,Final,Kabiyé,Niger-Congo
+kch,92A,No_question_particle,Koyra Chiini,Songhay
+kdz,92A,Second_position,Kadazan,Austronesian
+kel,92A,Final,Kele,Austronesian
 kem,92A,No_question_particle,Kemant,Afro-Asiatic
 ken,92A,Final,Kenga,Central Sudanic
 ker,92A,Final,Kera,Afro-Asiatic
 kew,92A,Final,Kewa,Trans-New Guinea
-kfe,92A,Final,Kurumfe,Niger-Congo
-kgz,92A,Final,Kyrgyz,Altaic
+kfe,92A,Final,Koromfe,Niger-Congo
+kgz,92A,Final,Kirghiz,Altaic
 kha,92A,Final,Khalkha,Altaic
 khg,92A,Final,Khaling,Sino-Tibetan
-khi,92A,No_question_particle,Xinalug,Nakh-Daghestanian
+khi,92A,No_question_particle,Khinalug,Nakh-Daghestanian
 khm,92A,Final,Khmer,Austro-Asiatic
 khn,92A,Final,Khün,Tai-Kadai
 kho,92A,Second_position,Nama,Khoe-Kwadi
 khr,92A,Final,Kharia,Austro-Asiatic
 kik,92A,No_question_particle,Kikuyu,Niger-Congo
-kil,92A,Final,Luba-Shaba,Niger-Congo
-kim,92A,Final,Kimaghana,Kolopom
+kil,92A,Final,Kiluba,Niger-Congo
+kim,92A,Final,Kimaghama,Kolopom
 kio,92A,Initial,Kiowa,Kiowa-Tanoan
-kis,92A,No_question_particle,Gizi,Niger-Congo
-kje,92A,No_question_particle,Coreguaje,Tucanoan
+kis,92A,No_question_particle,Kisi,Niger-Congo
+kje,92A,No_question_particle,Koreguaje,Tucanoan
 kkp,92A,No_question_particle,Karakalpak,Altaic
 klm,92A,In_either_of_the_two_positions,Klamath,Penutian
 klv,92A,No_question_particle,Kilivila,Austronesian
 klw,92A,No_question_particle,Kiliwa,Hokan
-kma,92A,No_question_particle,Kamayura,Tupian
-kmb,92A,Final,Wanggom,Trans-New Guinea
+kma,92A,No_question_particle,Kamaiurá,Tupian
+kmb,92A,Final,Kombai,Trans-New Guinea
 kmh,92A,No_question_particle,Kham,Sino-Tibetan
-kmj,92A,Final,Karamojong,Eastern Sudanic
+kmj,92A,Final,Karimojong,Eastern Sudanic
+kmk,92A,No_question_particle,Kalmyk,Altaic
 kmn,92A,No_question_particle,Kuman,Trans-New Guinea
-kmo,92A,Second_position,Koiari (Mountain),Trans-New Guinea
+kmo,92A,Second_position,Koiali (Mountain),Trans-New Guinea
 kmr,92A,No_question_particle,Kamoro,Trans-New Guinea
 kmu,92A,Final,Khmu',Austro-Asiatic
 kmz,92A,No_question_particle,Kamasau,Torricelli
-knc,92A,No_question_particle,Kugu-Uwanh,Pama-Nyungan
+knc,92A,No_question_particle,Kugu Nganhcara,Pama-Nyungan
 knd,92A,Final,Kannada,Dravidian
-kni,92A,No_question_particle,Koma,Niger-Congo
+kni,92A,No_question_particle,Konni,Niger-Congo
 knk,92A,Final,Kanakuru,Afro-Asiatic
-knn,92A,No_question_particle,Kanauri,Sino-Tibetan
+knn,92A,No_question_particle,Kinnauri,Sino-Tibetan
+kno,92A,Final,Kanoê,Kapixana
 knr,92A,No_question_particle,Kanuri,Saharan
-knw,92A,No_question_particle,Maidu (Northwest),Penutian
+knw,92A,No_question_particle,Konkow,Penutian
 kob,92A,Final,Kobon,Trans-New Guinea
-koe,92A,No_question_particle,Kwegu,Eastern Sudanic
-kok,92A,No_question_particle,Tripuri,Sino-Tibetan
+koe,92A,No_question_particle,Koegu,Eastern Sudanic
+kok,92A,No_question_particle,Kokborok,Sino-Tibetan
 kol,92A,No_question_particle,Kolami,Dravidian
 kos,92A,Initial,Kosraean,Austronesian
-kpw,92A,Final,Pho,Sino-Tibetan
-kqq,92A,No_question_particle,Botocudo,Macro-Ge
-krc,92A,No_question_particle,Karachay,Altaic
+kpw,92A,Final,Karen (Pwo),Sino-Tibetan
+kqq,92A,No_question_particle,Krenak,Macro-Ge
+krc,92A,No_question_particle,Karachay-Balkar,Altaic
 kre,92A,Final,Kresh,Central Sudanic
-krj,92A,Initial,Garadyari,Pama-Nyungan
-krn,92A,Final,!Ora,Khoe-Kwadi
+krj,92A,Initial,Karadjeri,Pama-Nyungan
+krn,92A,Final,Korana,Khoe-Kwadi
 kro,92A,No_question_particle,Krongo,Kadu
 krw,92A,Final,Korowai,Trans-New Guinea
-ksa,92A,Initial,Keres (Eastern),Keresan
-kse,92A,In_either_of_the_two_positions,Songhay (Koyraboro Senni),Songhay
-ksg,92A,Final,Sgaw,Sino-Tibetan
+ksa,92A,Initial,Keresan (Santa Ana),Keresan
+kse,92A,In_either_of_the_two_positions,Koyraboro Senni,Songhay
+ksg,92A,Final,Karen (Sgaw),Sino-Tibetan
 ksm,92A,Final,Kasem,Niger-Congo
 kta,92A,Final,Koita,Trans-New Guinea
-kum,92A,In_either_of_the_two_positions,Kumaoni,Indo-European
-kun,92A,No_question_particle,Cuna,Chibchan
-kuu,92A,No_question_particle,Kuuku-Ya'u,Pama-Nyungan
+kum,92A,In_either_of_the_two_positions,Kumauni,Indo-European
+kun,92A,No_question_particle,Kuna,Chibchan
+kuu,92A,No_question_particle,Kuuku Ya'u,Pama-Nyungan
 kuv,92A,Final,Kuvi,Dravidian
 kwn,92A,Final,Kwangali,Niger-Congo
 kwo,92A,Second_position,Kwoma,Sepik
 kws,92A,No_question_particle,Kawaiisu,Uto-Aztecan
-kxo,92A,Final,Xû,Khoe-Kwadi
-kya,92A,Initial,Gugu Yalandyi,Pama-Nyungan
-kyk,92A,No_question_particle,Enga,Trans-New Guinea
-kyl,92A,Final,Kayah,Sino-Tibetan
-kyp,92A,Initial,Cayapo,Macro-Ge
+kxo,92A,Final,Kxoe,Khoe-Kwadi
+kya,92A,Initial,Kuku-Yalanji,Pama-Nyungan
+kyk,92A,No_question_particle,Kyaka,Trans-New Guinea
+kyl,92A,Final,Kayah Li (Eastern),Sino-Tibetan
+kyp,92A,Initial,Kayapó,Macro-Ge
 kyz,92A,Second_position,Kayabí,Tupian
 lab,92A,No_question_particle,Labu,Austronesian
-lac,92A,Final,Lacandon,Mayan
-lad,92A,No_question_particle,Western Tibetan,Sino-Tibetan
-lag,92A,Final,Logone,Afro-Asiatic
+lac,92A,Final,Lacandón,Mayan
+lad,92A,No_question_particle,Ladakhi,Sino-Tibetan
+lag,92A,Final,Lagwan,Afro-Asiatic
 lah,92A,Final,Lahu,Sino-Tibetan
-lai,92A,Final,Haka,Sino-Tibetan
-lal,92A,Final,Lalaw,Sino-Tibetan
+lai,92A,Final,Lai,Sino-Tibetan
+lal,92A,Final,Lalo,Sino-Tibetan
 lan,92A,No_question_particle,Lango,Eastern Sudanic
 lao,92A,Final,Lao,Tai-Kadai
 lat,92A,Initial,Latvian,Indo-European
 lav,92A,Final,Lavukaleve,Solomons East Papuan
-lbu,92A,No_question_particle,Ruund,Niger-Congo
-ldo,92A,Final,Lundu,Niger-Congo
-ldu,92A,Second_position,Bale,Central Sudanic
+lbu,92A,No_question_particle,Lunda,Niger-Congo
+ldo,92A,Final,Londo,Niger-Congo
+ldu,92A,Second_position,Lendu,Central Sudanic
 lel,92A,Final,Lele,Afro-Asiatic
 len,92A,Final,Lenakel,Austronesian
 lep,92A,Final,Lepcha,Sino-Tibetan
 lew,92A,Final,Lewo,Austronesian
-lez,92A,No_question_particle,Lezgi,Nakh-Daghestanian
-lgt,92A,Final,Logo,Central Sudanic
+lez,92A,No_question_particle,Lezgian,Nakh-Daghestanian
+lgt,92A,Final,Logoti,Central Sudanic
 lho,92A,No_question_particle,Lhomi,Sino-Tibetan
-lin,92A,No_question_particle,Losengo,Niger-Congo
+lin,92A,No_question_particle,Lingala,Niger-Congo
 lis,92A,No_question_particle,Lisu,Sino-Tibetan
 lit,92A,Initial,Lithuanian,Indo-European
-lkt,92A,Final,Teton,Siouan
+lkt,92A,Final,Lakhota,Siouan
 lmg,92A,Final,Lamang,Afro-Asiatic
 lmh,92A,No_question_particle,Lamaholot,Austronesian
-lmn,92A,Final,Banjari,Indo-European
+lmn,92A,Final,Lamani,Indo-European
 lmp,92A,Initial,Lampung,Austronesian
 lnd,92A,Final,Linda,Niger-Congo
 lon,92A,No_question_particle,Loniu,Austronesian
 lot,92A,No_question_particle,Lotha,Sino-Tibetan
 loz,92A,In_either_of_the_two_positions,Lozi,Niger-Congo
-lug,92A,Final,Logbara,Central Sudanic
+lug,92A,Final,Lugbara,Central Sudanic
 lui,92A,Second_position,Luiseño,Uto-Aztecan
+lun,92A,Final,Lungchang,Sino-Tibetan
 luo,92A,No_question_particle,Luo,Eastern Sudanic
 maa,92A,Initial,Maasai,Eastern Sudanic
-mab,92A,No_question_particle,Mabang,Maban
-mac,92A,No_question_particle,Makushi,Cariban
-mad,92A,Final,Madi,Central Sudanic
+mab,92A,No_question_particle,Maba,Maban
+mac,92A,No_question_particle,Macushi,Cariban
+mad,92A,Final,Ma'di,Central Sudanic
 mae,92A,Final,Mae,Austronesian
 maj,92A,Final,Majang,Eastern Sudanic
 mak,92A,Second_position,Makah,Wakashan
-mal,92A,In_either_of_the_two_positions,Malagassy,Austronesian
+mal,92A,In_either_of_the_two_positions,Malagasy,Austronesian
 mam,92A,Second_position,Mam,Mayan
 man,92A,No_question_particle,Mano,Mande
 mao,92A,No_question_particle,Maori,Austronesian
 mar,92A,No_question_particle,Maricopa,Hokan
 mas,92A,Final,Masa,Afro-Asiatic
 mau,92A,Initial,Maung,Iwaidjan
-maw,92A,Final,Maninka,Mande
-max,92A,Initial,Mashakali,Macro-Ge
-may,92A,Final,Brat,West Papuan
-mbi,92A,Other_position,Bambui,Niger-Congo
+maw,92A,Final,Maninka (Western),Mande
+max,92A,Initial,Maxakalí,Macro-Ge
+may,92A,Final,Maybrat,West Papuan
+mbi,92A,Other_position,Mbili,Niger-Congo
 mbm,92A,Final,Mbum,Niger-Congo
 mbr,92A,Final,Mbara,Afro-Asiatic
-mby,92A,Final,Mbai,Central Sudanic
-mco,92A,In_either_of_the_two_positions,Southeastern Mixe,Mixe-Zoque
+mby,92A,Final,Mbay,Central Sudanic
+mco,92A,In_either_of_the_two_positions,Mixe (Coatlán),Mixe-Zoque
 mde,92A,No_question_particle,Mende,Mande
 mdn,92A,No_question_particle,Mandan,Siouan
-mdo,92A,Final,Gbaya-Mbodomo,Niger-Congo
-mea,92A,Final,Meax,East Bird's Head
+mdo,92A,Final,Mbodomo,Niger-Congo
+mea,92A,Final,Meyah,East Bird's Head
 mee,92A,Final,Me'en,Eastern Sudanic
-meh,92A,No_question_particle,Mahri,Afro-Asiatic
+meh,92A,No_question_particle,Mehri,Afro-Asiatic
 mei,92A,Final,Meithei,Sino-Tibetan
-mek,92A,Final,Sakirabiá,Tupian
-men,92A,No_question_particle,Menominee,Algic
-mer,92A,No_question_particle,Meriam,Western Fly
+mek,92A,Final,Mekens,Tupian
+men,92A,No_question_particle,Menomini,Algic
+mer,92A,No_question_particle,Meryam Mir,Western Fly
 mey,92A,Final,Menya,Trans-New Guinea
-mgg,92A,No_question_particle,Monguor,Altaic
+mgg,92A,No_question_particle,Mangghuer,Altaic
 mgk,92A,Final,Mungaka,Niger-Congo
 mgu,92A,Final,Musgu,Afro-Asiatic
 mhi,92A,Final,Marathi,Indo-European
-mie,92A,Final,Mjen,Hmong-Mien
+mie,92A,Final,Mien,Hmong-Mien
 mik,92A,No_question_particle,Mikir,Sino-Tibetan
 mis,92A,Final,Miskito,Misumalpan
 miy,92A,Final,Miya,Afro-Asiatic
 miz,92A,Final,Mizo,Sino-Tibetan
-mka,92A,Final,Mau(ka),Mande
+mka,92A,Final,Mauka,Mande
 mke,92A,Final,Mekeo,Austronesian
-mkh,92A,Final,Khamnigan Mongol,Altaic
+mkh,92A,Final,Mongol (Khamnigan),Altaic
 mku,92A,No_question_particle,Maranungku,Western Daly
-mlg,92A,No_question_particle,Wandala,Afro-Asiatic
-mmb,92A,Final,Mangap,Austronesian
-mmi,92A,Final,Mangbai,Niger-Congo
+mlg,92A,No_question_particle,Malgwa,Afro-Asiatic
+mmb,92A,Final,Mangap-Mbula,Austronesian
+mmi,92A,Final,Mambai,Niger-Congo
 mna,92A,No_question_particle,Muna,Austronesian
 mnc,92A,No_question_particle,Manchu,Altaic
-mnd,92A,Final,Mandarin Chinese,Sino-Tibetan
-mne,92A,No_question_particle,Maidu (Mountain),Penutian
+mnd,92A,Final,Mandarin,Sino-Tibetan
+mne,92A,No_question_particle,Maidu (Northeast),Penutian
 mng,92A,No_question_particle,Manggarai,Austronesian
 mni,92A,No_question_particle,Moni,Trans-New Guinea
 mnm,92A,No_question_particle,Manam,Austronesian
-mno,92A,Second_position,Mono,Uto-Aztecan
+mno,92A,Second_position,Mono (in United States),Uto-Aztecan
 mns,92A,Initial,Mansi,Uralic
 mny,92A,Initial,Margany,Pama-Nyungan
 mok,92A,Initial,Mokilese,Austronesian
 mon,92A,Final,Mon,Austro-Asiatic
-moo,92A,Final,More,Niger-Congo
-mos,92A,Second_position,Chimane,Mosetenan
+moo,92A,Final,Mooré,Niger-Congo
+mos,92A,Second_position,Mosetén,Mosetenan
 mou,92A,Final,Moru,Central Sudanic
 mpa,92A,Final,Murrinh-Patha,Southern Daly
-mpt,92A,Final,Mianmin,Trans-New Guinea
-mpu,92A,Final,Amberbaken,West Papuan
+mpt,92A,Final,Mian,Trans-New Guinea
+mpu,92A,Final,Mpur,West Papuan
 mra,92A,No_question_particle,Mara,Mangarrayi-Maran
 mrd,92A,Final,Marind,Anim
 mrg,92A,Final,Margi,Afro-Asiatic
 mrl,92A,No_question_particle,Murle,Eastern Sudanic
 mro,92A,Initial,Moro,Kordofanian
 mrq,92A,Initial,Marquesan,Austronesian
-mrt,92A,No_question_particle,Martuyhunira,Pama-Nyungan
+mrt,92A,No_question_particle,Martuthunira,Pama-Nyungan
 mru,92A,Final,Maru,Sino-Tibetan
 mrw,92A,Initial,Muruwari,Pama-Nyungan
-msc,92A,No_question_particle,Chibcha,Chibchan
-msg,92A,No_question_particle,Miri,Sino-Tibetan
-msl,92A,No_question_particle,Mesalit,Maban
+msc,92A,No_question_particle,Muisca,Chibchan
+msg,92A,No_question_particle,Mising,Sino-Tibetan
+msl,92A,No_question_particle,Masalit,Maban
 msn,92A,Final,Maisin,Austronesian
-mts,92A,No_question_particle,Matís,Panoan
+mts,92A,No_question_particle,Matis,Panoan
 mtt,92A,No_question_particle,Massachusett,Algic
 mtu,92A,Final,Motu,Austronesian
 mum,92A,Final,Mumuye,Niger-Congo
-mun,92A,Final,Kolh,Austro-Asiatic
-mup,92A,Final,Sura,Afro-Asiatic
+mun,92A,Final,Mundari,Austro-Asiatic
+mup,92A,Final,Mupun,Afro-Asiatic
 mus,92A,Final,Mussau,Austronesian
 mut,92A,Initial,Mutsun,Penutian
-mwo,92A,No_question_particle,Motlav,Austronesian
-mxc,92A,No_question_particle,"Mixtec, Chalcatongo (Western Alta)",Oto-Manguean
-mxj,92A,Final,Western Jamiltepec Mixteco,Oto-Manguean
-mxo,92A,Initial,Santo Tomás Ocotepec Mixteco,Oto-Manguean
-mxp,92A,Final,Peñoles Mixtec,Oto-Manguean
-mxx,92A,Final,d Mixe,Mixe-Zoque
-mxy,92A,Final,Yosundua Mixtec,Oto-Manguean
-myi,92A,Final,Mangarayi,Mangarrayi-Maran
+mwo,92A,No_question_particle,Mwotlap,Austronesian
+mxc,92A,No_question_particle,Mixtec (Chalcatongo),Oto-Manguean
+mxj,92A,Final,Mixtec (Jicaltepec),Oto-Manguean
+mxo,92A,Initial,Mixtec (Ocotepec),Oto-Manguean
+mxp,92A,Final,Mixtec (Peñoles),Oto-Manguean
+mxx,92A,Final,Mixe (Ayutla),Mixe-Zoque
+mxy,92A,Final,Mixtec (Yosondúa),Oto-Manguean
+myi,92A,Final,Mangarrayi,Mangarrayi-Maran
 mym,92A,Final,Malayalam,Dravidian
-mzh,92A,Initial,"Mazatec, Huautla",Oto-Manguean
+mzh,92A,Initial,Mazatec (Huautla),Oto-Manguean
 nab,92A,No_question_particle,Nabak,Trans-New Guinea
 nad,92A,No_question_particle,Nadëb,Nadahup
 nag,92A,Final,Nagatman,Yale
-naj,92A,No_question_particle,Neo-Aramaic (Arbel),Afro-Asiatic
-nam,92A,Final,Namie,Sepik
+naj,92A,No_question_particle,Neo-Aramaic (Arbel Jewish),Afro-Asiatic
+nam,92A,Final,Namia,Sepik
 nas,92A,Second_position,Nasioi,East Bougainville
 nav,92A,In_either_of_the_two_positions,Navajo,Na-Dene
-nbd,92A,No_question_particle,"Nubian, Dongolese",Eastern Sudanic
-nbm,92A,Final,Ngbaka Ma'bo,Niger-Congo
-ncm,92A,Final,Ntcham,Niger-Congo
+nbd,92A,No_question_particle,Nubian (Dongolese),Eastern Sudanic
+nbm,92A,Final,Ngbaka (Ma'bo),Niger-Congo
+ncm,92A,Final,Ncàm,Niger-Congo
 ndb,92A,Final,Ndebele,Niger-Congo
 ndi,92A,No_question_particle,Ngbandi,Niger-Congo
 ndj,92A,No_question_particle,Ndjébbana,Mangrida
-ndr,92A,No_question_particle,d Fijian,Austronesian
-ndy,92A,No_question_particle,Djuka,other
-new,92A,Final,"Newari, Kathmandu dialect",Sino-Tibetan
+ndr,92A,No_question_particle,Nadroga,Austronesian
+ndy,92A,No_question_particle,Ndyuka,other
+nev,92A,Initial,Nevome,Uto-Aztecan
+new,92A,Final,Newari (Kathmandu),Sino-Tibetan
 ney,92A,Final,Neyo,Niger-Congo
 nez,92A,Initial,Nez Perce,Penutian
 nga,92A,No_question_particle,Nganasan,Uralic
-ngb,92A,Final,Ngbaka,Niger-Congo
-ngd,92A,No_question_particle,Ngada,Austronesian
-ngi,92A,Second_position,Wongaibon,Pama-Nyungan
-ngk,92A,No_question_particle,Ngenkikurunggkur,Southern Daly
-ngm,92A,Final,Gambai,Central Sudanic
+ngb,92A,Final,Ngbaka (Minagende),Niger-Congo
+ngd,92A,No_question_particle,Ngad'a,Austronesian
+ngi,92A,Second_position,Ngiyambaa,Pama-Nyungan
+ngk,92A,No_question_particle,Ngankikurungkurr,Southern Daly
+ngm,92A,Final,Ngambay,Central Sudanic
 ngn,92A,Initial,Ngandi,Gunwinyguan
-ngo,92A,No_question_particle,Ngoni (in Tanzania),Niger-Congo
-ngt,92A,No_question_particle,Tangkhul,Sino-Tibetan
+ngo,92A,No_question_particle,Ngoni,Niger-Congo
+ngt,92A,No_question_particle,Naga (Tangkhul),Sino-Tibetan
 ngz,92A,No_question_particle,Ngizim,Afro-Asiatic
 nha,92A,No_question_particle,Nhanda,Pama-Nyungan
-nht,92A,No_question_particle,Tetelcingo Nahuatl,Uto-Aztecan
+nht,92A,No_question_particle,Nahuatl (Tetelcingo),Uto-Aztecan
 nia,92A,Initial,Nias,Austronesian
 nif,92A,No_question_particle,Niuafo'ou,Austronesian
 niu,92A,Other_position,Niuean,Austronesian
-nkb,92A,Initial,Ngalkbon,Gunwinyguan
+nkb,92A,Initial,Ngalkbun,Gunwinyguan
 nke,92A,Final,Nkem,Niger-Congo
 nkn,92A,Final,Nkonya,Niger-Congo
-nko,92A,Final,Ciga,Niger-Congo
-nma,92A,Final,Mao,Sino-Tibetan
-nmb,92A,No_question_particle,Nambikuara (Southern),Nambikuaran
-nnc,92A,Initial,Nicobarese (Nancowry),Austro-Asiatic
-nnd,92A,No_question_particle,Angaua,Trans-New Guinea
+nko,92A,Final,Nkore-Kiga,Niger-Congo
+nma,92A,Final,Naga (Mao),Sino-Tibetan
+nmb,92A,No_question_particle,Nambikuára (Southern),Nambikuaran
+nnc,92A,Initial,Nancowry,Austro-Asiatic
+nnd,92A,No_question_particle,Nend,Trans-New Guinea
 nnk,92A,No_question_particle,Nankina,Trans-New Guinea
 noc,92A,No_question_particle,Nocte,Sino-Tibetan
 non,92A,Final,Noni,Niger-Congo
-noo,92A,Final,Non,Niger-Congo
+noo,92A,Final,Noon,Niger-Congo
 nor,92A,No_question_particle,Norwegian,Indo-European
-nph,92A,No_question_particle,Nar Phu,Sino-Tibetan
-nsg,92A,Final,Nishga,Penutian
-nti,92A,In_either_of_the_two_positions,Dru,Central Sudanic
+nph,92A,No_question_particle,Nar-Phu,Sino-Tibetan
+nsg,92A,Final,Nisgha,Penutian
+nti,92A,In_either_of_the_two_positions,Ngiti,Central Sudanic
 nua,92A,No_question_particle,Nuaulu,Austronesian
 nug,92A,In_either_of_the_two_positions,Nunggubuyu,Gunwinyguan
-nun,92A,Final,Zhuang (Southern),Tai-Kadai
+nun,92A,Final,Nung (in Vietnam),Tai-Kadai
 nup,92A,In_either_of_the_two_positions,Nupe,Niger-Congo
-nwd,92A,Final,Dolakha Newari,Sino-Tibetan
-nyk,92A,No_question_particle,Tukpa,Sino-Tibetan
+nwd,92A,Final,Newar (Dolakha),Sino-Tibetan
+nyk,92A,No_question_particle,Nyamkad,Sino-Tibetan
 nyu,92A,Initial,Nyulnyul,Nyulnyulan
-nze,92A,Final,Zeme,Sino-Tibetan
+nze,92A,Final,Naga (Zeme),Sino-Tibetan
 obg,92A,Final,Ogbronuagum,Niger-Congo
 obo,92A,Initial,Obolo,Niger-Congo
-ocu,92A,Initial,Ocuiltec,Oto-Manguean
-oji,92A,Second_position,Ojibwa,Algic
+ocu,92A,Initial,Ocuilteco,Oto-Manguean
+oji,92A,Second_position,Ojibwa (Eastern),Algic
 olo,92A,Final,Olo,Torricelli
 omh,92A,Final,Omaha,Siouan
 ond,92A,Second_position,Oneida,Iroquoian
 ong,92A,Initial,Onge,South Andamanese
-ood,92A,Initial,Tohono O'odham,Uto-Aztecan
+ood,92A,Initial,O'odham,Uto-Aztecan
 ora,92A,No_question_particle,Emai,Niger-Congo
-orh,92A,No_question_particle,Oromo (Eastern),Afro-Asiatic
+orh,92A,No_question_particle,Oromo (Harar),Afro-Asiatic
 oro,92A,Final,Orokaiva,Trans-New Guinea
 osa,92A,No_question_particle,Osage,Siouan
-otm,92A,Initial,Otomí,Oto-Manguean
+otm,92A,Initial,Otomí (Mezquital),Oto-Manguean
 oya,92A,Final,Oriya,Indo-European
 paa,92A,No_question_particle,Pa'a,Afro-Asiatic
-pae,92A,No_question_particle,Paez,Páezan
+pae,92A,No_question_particle,Páez,Páezan
 pai,92A,No_question_particle,Paiwan,Austronesian
 pal,92A,No_question_particle,Palauan,Austronesian
-pan,92A,Initial,Punjabi,Indo-European
-par,92A,No_question_particle,Parï,Eastern Sudanic
-pau,92A,No_question_particle,Paumari,Arauan
+pan,92A,Initial,Panjabi,Indo-European
+par,92A,No_question_particle,Päri,Eastern Sudanic
+pau,92A,No_question_particle,Paumarí,Arauan
 paw,92A,No_question_particle,Pawaian,Teberan-Pawaian
-pdp,92A,No_question_particle,Podopa,Teberan-Pawaian
+pdp,92A,No_question_particle,Folopa,Teberan-Pawaian
 per,92A,Final,Pero,Afro-Asiatic
-pga,92A,Initial,Pilaga,Guaicuruan
+pga,92A,Initial,Pilagá,Guaicuruan
 pip,92A,No_question_particle,Pipil,Uto-Aztecan
 pis,92A,Final,Pisa,Trans-New Guinea
-plk,92A,Initial,Palicur,Arawakan
+plk,92A,Initial,Palikur,Arawakan
 pme,92A,No_question_particle,Pomo (Eastern),Hokan
-pms,92A,No_question_particle,Paama,Austronesian
+pms,92A,No_question_particle,Paamese,Austronesian
 pno,92A,Second_position,Paiute (Northern),Uto-Aztecan
-pnx,92A,Initial,Kreen-Akarore,Macro-Ge
-pod,92A,Final,Paduko,Afro-Asiatic
-poh,92A,No_question_particle,Ponapean,Austronesian
-pok,92A,Final,Rawo,Skou
+pnx,92A,Initial,Panará,Macro-Ge
+pod,92A,Final,Podoko,Afro-Asiatic
+poh,92A,No_question_particle,Pohnpeian,Austronesian
+pok,92A,Final,Poko-Rawo,Skou
 pol,92A,Initial,Polish,Indo-European
 por,92A,Initial,Portuguese,Indo-European
-ppi,92A,No_question_particle,Pitta-Pitta,Pama-Nyungan
-prh,92A,Final,Mura,Mura
-prk,92A,No_question_particle,Purik,Sino-Tibetan
+ppi,92A,No_question_particle,Pitta Pitta,Pama-Nyungan
+prh,92A,Final,Pirahã,Mura
+prk,92A,No_question_particle,Purki,Sino-Tibetan
 prs,92A,Initial,Persian,Indo-European
 psh,92A,No_question_particle,Pashto,Indo-European
 pso,92A,No_question_particle,Pomo (Southeastern),Hokan
 psw,92A,No_question_particle,Port Sandwich,Austronesian
-ptt,92A,No_question_particle,Chamba,Sino-Tibetan
+ptt,92A,No_question_particle,Pattani,Sino-Tibetan
 qaw,92A,No_question_particle,Qawasqar,Alacalufan
-qhu,92A,No_question_particle,Huallaga Quechua,Quechuan
-qia,92A,No_question_particle,Ch'iang,Sino-Tibetan
-qim,92A,Final,HighlanKichua,Quechuan
+qhu,92A,No_question_particle,Quechua (Huallaga),Quechuan
+qia,92A,No_question_particle,Qiang,Sino-Tibetan
+qim,92A,Final,Quechua (Imbabura),Quechuan
 qui,92A,No_question_particle,Quileute,Chimakuan
-qum,92A,Initial,Sipacapa,Mayan
+qum,92A,Initial,Sipakapense,Mayan
 rap,92A,Initial,Rapanui,Austronesian
 raw,92A,Final,Rawang,Sino-Tibetan
 rem,92A,No_question_particle,Remo,Austro-Asiatic
-res,92A,Initial,Resigaro,Arawakan
-ret,92A,Initial,Tanimuca,Tucanoan
+res,92A,Initial,Resígaro,Arawakan
+ret,92A,Initial,Retuarã,Tucanoan
 rit,92A,Final,Ritharngu,Pama-Nyungan
-rny,92A,No_question_particle,Nyankole,Niger-Congo
-rom,92A,No_question_particle,Rumanian,Indo-European
-ron,92A,Final,Ron (Chadic),Afro-Asiatic
+rny,92A,No_question_particle,Runyankore,Niger-Congo
+rom,92A,No_question_particle,Romanian,Indo-European
+ron,92A,Final,Ron,Afro-Asiatic
 rot,92A,Initial,Rotuman,Austronesian
 rov,92A,No_question_particle,Roviana,Austronesian
-ruk,92A,No_question_particle,Rukai,Austronesian
-rum,92A,Final,Kairi,Turama-Kikorian
+ruk,92A,No_question_particle,Rukai (Tanan),Austronesian
+rum,92A,Final,Rumu,Turama-Kikorian
 run,92A,No_question_particle,Runga,Maban
 rus,92A,Second_position,Russian,Indo-European
-rwe,92A,Initial,Welsh Romany,Indo-European
-ryu,92A,No_question_particle,d Ryukyuan,Japanese
+rwe,92A,Initial,Romani (Welsh),Indo-European
+ryu,92A,No_question_particle,Shuri,Japanese
 sah,92A,No_question_particle,Sahu,West Papuan
 sam,92A,Initial,Samoan,Austronesian
 san,92A,Final,Sango,Niger-Congo
 sap,92A,Final,Sapuan,Austro-Asiatic
-sar,92A,No_question_particle,Kapriman,Sepik
-scr,92A,In_either_of_the_two_positions,Serbocroat,Indo-European
+sar,92A,No_question_particle,Sare,Sepik
+scr,92A,In_either_of_the_two_positions,Serbian-Croatian,Indo-European
 sea,92A,No_question_particle,Southeast Ambrym,Austronesian
 sed,92A,Other_position,Sedang,Austro-Asiatic
-sem,92A,Final,"Naga, Sumi",Sino-Tibetan
+sem,92A,Final,Sema,Sino-Tibetan
 ser,92A,Final,Seri,Hokan
-ses,92A,No_question_particle,Sotho (Southern),Niger-Congo
-she,92A,Final,Sharpa,Sino-Tibetan
+ses,92A,No_question_particle,Sesotho,Niger-Congo
+she,92A,Final,Sherpa,Sino-Tibetan
 shh,92A,Final,Sharanahua,Panoan
-shi,92A,Final,Ninam,Yanomam
-shk,92A,Second_position,Shipibo,Panoan
+shi,92A,Final,Shiriana,Yanomam
+shk,92A,Second_position,Shipibo-Konibo,Panoan
 shl,92A,No_question_particle,Shilluk,Eastern Sudanic
 shu,92A,In_either_of_the_two_positions,Shuswap,Salishan
 sia,92A,No_question_particle,Siane,Trans-New Guinea
-sid,92A,No_question_particle,Sidamo,Afro-Asiatic
+sid,92A,No_question_particle,Sidaama,Afro-Asiatic
 sio,92A,Final,Sio,Austronesian
-skk,92A,Final,Bhotia,Sino-Tibetan
-sko,92A,Final,Sko,Skou
-skw,92A,No_question_particle,Marwari,Indo-European
-sla,92A,Initial,"Slave, Hare dialect",Na-Dene
-slb,92A,Final,Suau,Austronesian
-sle,92A,Final,(Samba) Leko,Niger-Congo
+skk,92A,Final,Sikkimese,Sino-Tibetan
+sko,92A,Final,Skou,Skou
+skw,92A,No_question_particle,Shekhawati,Indo-European
+sla,92A,Initial,Slave,Na-Dene
+slb,92A,Final,Saliba (in Papua New Guinea),Austronesian
+sle,92A,Final,Samba Leko,Niger-Congo
 sml,92A,No_question_particle,Semelai,Austro-Asiatic
+smn,92A,No_question_particle,Seminole,Muskogean
 sna,92A,No_question_particle,Shina,Indo-European
-sng,92A,Final,Sinagoro,Austronesian
+sng,92A,Final,Sinaugoro,Austronesian
 snm,92A,No_question_particle,Sanuma,Yanomam
 snn,92A,Final,Soninke,Mande
 so,92A,Final,So,Eastern Sudanic
 sob,92A,Final,Sobei,Austronesian
 som,92A,Other_position,Somali,Afro-Asiatic
-son,92A,Initial,Sonsorolese,Austronesian
-spa,92A,No_question_particle,Spanish (Peninsular Castilian),Indo-European
+son,92A,Initial,Sonsorol-Tobi,Austronesian
+spa,92A,No_question_particle,Spanish,Indo-European
 squ,92A,Second_position,Squamish,Salishan
 src,92A,No_question_particle,Sarcee,Na-Dene
 srd,92A,Initial,Sardinian,Indo-European
 sre,92A,Final,Sre,Austro-Asiatic
-srn,92A,Final,Siriono,Tupian
+srn,92A,Final,Sirionó,Tupian
 sro,92A,Final,Siroi,Trans-New Guinea
 sta,92A,No_question_particle,Santa,Altaic
 sti,92A,Final,Stieng,Austro-Asiatic
 stl,92A,No_question_particle,Santali,Austro-Asiatic
-sud,92A,No_question_particle,Tagula,Austronesian
+sud,92A,No_question_particle,Sudest,Austronesian
 sue,92A,No_question_particle,Suena,Trans-New Guinea
 sun,92A,Initial,Sundanese,Austronesian
-sup,92A,Final,Suppire,Niger-Congo
-svs,92A,No_question_particle,Savsavo,Solomons East Papuan
+sup,92A,Final,Supyire,Niger-Congo
+svs,92A,No_question_particle,Savosavo,Solomons East Papuan
 swa,92A,Initial,Swahili,Niger-Congo
+swe,92A,No_question_particle,Swedish,Indo-European
 swt,92A,Final,Swati,Niger-Congo
-syu,92A,No_question_particle,Salt (Yui),Trans-New Guinea
-tab,92A,No_question_particle,Makian (East),Austronesian
+syu,92A,No_question_particle,Salt-Yui,Trans-New Guinea
+tab,92A,No_question_particle,Taba,Austronesian
 tac,92A,Initial,Tacana,Tacanan
-taf,92A,No_question_particle,Saposa,Austronesian
+taf,92A,No_question_particle,Taiof,Austronesian
 tag,92A,Second_position,Tagalog,Austronesian
 tah,92A,Second_position,Tahitian,Austronesian
-taj,92A,Final,Tajiki,Indo-European
+tai,92A,No_question_particle,Tuareg (Air),Afro-Asiatic
+taj,92A,Final,Tajik,Indo-European
 tak,92A,Final,Takia,Austronesian
-tam,92A,Final,Tamang,Sino-Tibetan
+tam,92A,Final,Tamang (Eastern),Sino-Tibetan
 tao,92A,Final,Tarao,Sino-Tibetan
-tar,92A,No_question_particle,Tariano,Arawakan
+tar,92A,No_question_particle,Tariana,Arawakan
 tau,92A,Final,Tauya,Trans-New Guinea
 tbo,92A,Other_position,Tboli,Austronesian
-tbt,92A,No_question_particle,Yotafa,Austronesian
+tbt,92A,No_question_particle,Tobati,Austronesian
 tbu,92A,Final,Tubu,Saharan
-tbw,92A,No_question_particle,Taabwa,Niger-Congo
-tbx,92A,No_question_particle,Seke,Sino-Tibetan
-tee,92A,Initial,d Tepehua,Totonacan
+tbw,92A,No_question_particle,Tabwa,Niger-Congo
+tbx,92A,No_question_particle,Tangbe,Sino-Tibetan
+tee,92A,Initial,Tepehua (Huehuetla),Totonacan
 tel,92A,No_question_particle,Telugu,Dravidian
-ten,92A,No_question_particle,Tenet,Eastern Sudanic
+ten,92A,No_question_particle,Tennet,Eastern Sudanic
 teo,92A,No_question_particle,Teop,Austronesian
 ter,92A,Final,Tera,Afro-Asiatic
 tet,92A,Final,Tetela,Niger-Congo
 tgk,92A,Final,Tigak,Austronesian
-tgl,92A,Final,Monpa,Sino-Tibetan
+tgl,92A,Final,Tshangla,Sino-Tibetan
 tha,92A,Final,Thai,Tai-Kadai
 tho,92A,In_either_of_the_two_positions,Thompson,Salishan
-thy,92A,No_question_particle,Thaayorre,Pama-Nyungan
-tib,92A,Final,"Tibetan, Lhasa dialect",Sino-Tibetan
+thy,92A,No_question_particle,Kuuk Thaayorre,Pama-Nyungan
+tib,92A,Final,Tibetan (Standard Spoken),Sino-Tibetan
 tid,92A,No_question_particle,Tidore,West Papuan
-tin,92A,Other_position,Tiri,Austronesian
-tir,92A,No_question_particle,Trio,Cariban
+tin,92A,Other_position,Tinrin,Austronesian
+tir,92A,No_question_particle,Tiriyo,Cariban
 tiw,92A,Final,Tiwi,Tiwian
-tja,92A,Final,Jamul Tiipay,Hokan
-tke,92A,No_question_particle,Tokelau,Austronesian
+tja,92A,Final,Tiipay (Jamul),Hokan
+tke,92A,No_question_particle,Tokelauan,Austronesian
 tla,92A,Initial,Tolai,Austronesian
 tlp,92A,Initial,Tlapanec,Oto-Manguean
+tml,92A,No_question_particle,Tamil,Dravidian
+tmo,92A,No_question_particle,Tibetan (Modern Literary),Sino-Tibetan
 tna,92A,Final,Turkana,Eastern Sudanic
 tne,92A,Final,Temne,Niger-Congo
-tni,92A,No_question_particle,Rangloi,Sino-Tibetan
+tni,92A,No_question_particle,Tinani,Sino-Tibetan
 tnn,92A,Final,Tunen,Niger-Congo
-tny,92A,Final,Karaboro,Niger-Congo
+tny,92A,Final,Tenyer,Niger-Congo
 tob,92A,No_question_particle,Toba,Guaicuruan
 tpn,92A,Second_position,Tepehuan (Northern),Uto-Aztecan
-tps,92A,No_question_particle,Tepahue (Southeastern),Uto-Aztecan
+tps,92A,No_question_particle,Tepehuan (Southeastern),Uto-Aztecan
 trb,92A,Final,Teribe,Chibchan
-tri,92A,Final,Copala-Trique,Oto-Manguean
-tsf,92A,No_question_particle,Colorado,Barbacoan
-tsh,92A,Second_position,Panamint,Uto-Aztecan
-tsi,92A,No_question_particle,Tsimshian,Penutian
-tsk,92A,Initial,Tamasheq,Afro-Asiatic
+tri,92A,Final,Trique (Copala),Oto-Manguean
+tsf,92A,No_question_particle,Tsafiki,Barbacoan
+tsh,92A,Second_position,Tümpisa Shoshone,Uto-Aztecan
+tsi,92A,No_question_particle,Tsimshian (Coast),Penutian
+tsk,92A,Initial,Tamashek,Afro-Asiatic
 tsn,92A,In_either_of_the_two_positions,Tsonga,Niger-Congo
-tsz,92A,No_question_particle,Dido,Nakh-Daghestanian
+tsz,92A,No_question_particle,Tsez,Nakh-Daghestanian
 tte,92A,No_question_particle,Tutelo,Siouan
 ttn,92A,Final,Tetun,Austronesian
-ttu,92A,Second_position,Bats,Nakh-Daghestanian
+ttu,92A,Second_position,Tsova-Tush,Nakh-Daghestanian
 tuc,92A,No_question_particle,Tucano,Tucanoan
-tuk,92A,Final,Tukang-Besi,Austronesian
+tuk,92A,Final,Tukang Besi,Austronesian
 tur,92A,Final,Turkish,Altaic
 tus,92A,Second_position,Tuscarora,Iroquoian
-tuv,92A,Final,Tuva,Altaic
+tuv,92A,Final,Tuvan,Altaic
 tuy,92A,No_question_particle,Tuyuca,Tucanoan
-tvl,92A,No_question_particle,Ellice,Austronesian
-tvt,92A,Final,"Naga, Tutsa",Sino-Tibetan
-txj,92A,Initial,Totonaca (Xicotepec de Juaréz),Totonacan
+tvl,92A,No_question_particle,Tuvaluan,Austronesian
+tvt,92A,Final,Tutsa,Sino-Tibetan
+txj,92A,Initial,Totonac (Xicotepec de Juárez),Totonacan
 tzo,92A,Initial,Tzotzil,Mayan
 tzu,92A,Initial,Tzutujil,Mayan
-uby,92A,No_question_particle,Ubyx,Northwest Caucasian
+uby,92A,No_question_particle,Ubykh,Northwest Caucasian
 udh,92A,No_question_particle,Udihe,Altaic
 ukr,92A,Initial,Ukrainian,Indo-European
-uld,92A,Final,Wuzlam,Afro-Asiatic
+uld,92A,Final,Uldeme,Afro-Asiatic
 uli,92A,No_question_particle,Ulithian,Austronesian
-una,92A,No_question_particle,Goliath,Trans-New Guinea
+una,92A,No_question_particle,Una,Trans-New Guinea
 urd,92A,Initial,Urdu,Indo-European
-urk,92A,Final,Urubu,Tupian
+urk,92A,Final,Urubú-Kaapor,Tupian
 url,92A,Final,Urak Lawoi',Austronesian
 urt,92A,Final,Urat,Torricelli
-usa,92A,No_question_particle,Wanuma,Trans-New Guinea
-usr,92A,No_question_particle,Auyana,Trans-New Guinea
-uzb,92A,No_question_particle,"Uzbek, Southern",Altaic
+usa,92A,No_question_particle,Usan,Trans-New Guinea
+usr,92A,No_question_particle,Usarufa,Trans-New Guinea
+ute,92A,Second_position,Ute,Uto-Aztecan
+uzb,92A,No_question_particle,Uzbek,Altaic
 vie,92A,Final,Vietnamese,Austro-Asiatic
 vnm,92A,No_question_particle,Vinmavis,Austronesian
 wah,92A,Final,Wahgi,Trans-New Guinea
 wak,92A,No_question_particle,Wakhi,Indo-European
-wal,92A,Final,Valman,Torricelli
+wal,92A,Final,Walman,Torricelli
 wap,92A,No_question_particle,Wappo,Wappo-Yukian
-war,92A,No_question_particle,Pakaasnovos,Chapacura-Wanham
-way,92A,Second_position,Oyampi,Tupian
-wch,92A,Initial,Matako,Matacoan
-wem,92A,No_question_particle,Wemba Wemba,Pama-Nyungan
-wik,92A,Initial,Yokuts (Wikchamni),Penutian
+war,92A,No_question_particle,Wari',Chapacura-Wanham
+way,92A,Second_position,Wayampi,Tupian
+wch,92A,Initial,Wichí,Matacoan
+wel,92A,Initial,Welsh,Indo-European
+wem,92A,No_question_particle,Wembawemba,Pama-Nyungan
+wik,92A,Initial,Wikchamni,Penutian
 wiy,92A,Second_position,Wiyot,Algic
 wlf,92A,Initial,Wolof,Niger-Congo
-wly,92A,No_question_particle,Wolaitta,Afro-Asiatic
+wly,92A,No_question_particle,Wolaytta,Afro-Asiatic
 wma,92A,No_question_particle,West Makian,West Papuan
-wn,92A,Final,Wik-Ngathana,Pama-Nyungan
+wn,92A,Final,Wik Ngathana,Pama-Nyungan
 wol,92A,No_question_particle,Woleaian,Austronesian
 wrg,92A,No_question_particle,Warrgamay,Pama-Nyungan
-wrk,92A,No_question_particle,Guarequena,Arawakan
+wrk,92A,No_question_particle,Warekena,Arawakan
 wrl,92A,Second_position,Warlpiri,Pama-Nyungan
 wrn,92A,No_question_particle,Warndarang,Mangarrayi-Maran
-wth,92A,Initial,Wathawurung,Pama-Nyungan
+wth,92A,Initial,Wathawurrung,Pama-Nyungan
 wtm,92A,No_question_particle,Watam,Lower Sepik-Ramu
-wwa,92A,Final,Wama,Niger-Congo
-xas,92A,In_either_of_the_two_positions,Xasonke,Mande
-xav,92A,Initial,Chavante,Macro-Ge
+wwa,92A,Final,Waama,Niger-Congo
+xas,92A,In_either_of_the_two_positions,Xasonga,Mande
+xav,92A,Initial,Xavánte,Macro-Ge
 xbi,92A,No_question_particle,Kombio,Torricelli
-xoo,92A,Initial,N/amani,Tu
+xoo,92A,Initial,!Xóõ,Tu
 yag,92A,Second_position,Yagua,Peba-Yaguan
-yal,92A,No_question_particle,Kosarek,Trans-New Guinea
+yal,92A,No_question_particle,Yale (Kosarek),Trans-New Guinea
 yap,92A,No_question_particle,Yapese,Austronesian
 yaq,92A,Initial,Yaqui,Uto-Aztecan
 yar,92A,Final,Yareba,Yareban
-ygr,92A,Final,"Yagaria, Move dialect",Trans-New Guinea
+ygr,92A,Final,Yagaria,Trans-New Guinea
 yid,92A,No_question_particle,Yidiny,Pama-Nyungan
 yin,92A,Final,Yindjibarndi,Pama-Nyungan
-yko,92A,No_question_particle,Kolyma,Yukaghir
-yng,92A,No_question_particle,Yinggarda,Pama-Nyungan
-yok,92A,Initial,Yokutsan,Penutian
+yko,92A,No_question_particle,Yukaghir (Kolyma),Yukaghir
+yng,92A,No_question_particle,Yingkarta,Pama-Nyungan
+yok,92A,Initial,Yokuts (Yaudanchi),Penutian
 yor,92A,No_question_particle,Yoruba,Niger-Congo
-ypk,92A,Second_position,Yupik (General Central),Eskimo-Aleut
-yuk,92A,Initial,Yugulda,Tangkic
+ypk,92A,Second_position,Yup'ik (Central),Eskimo-Aleut
+yuk,92A,Initial,Yukulta,Tangkic
+yul,92A,Final,Yulu,Central Sudanic
 yur,92A,Second_position,Yurok,Algic
-yuw,92A,Initial,Gamilaraay,Pama-Nyungan
-ywl,92A,Initial,Yokuts (Yawelmani),Penutian
-zag,92A,No_question_particle,Zagawa,Saharan
-zai,92A,Final,"Zapotec, Isthmus",Oto-Manguean
-zap,92A,Initial,Mitla Zapotec,Oto-Manguean
+yuw,92A,Initial,Yuwaalaraay,Pama-Nyungan
+ywl,92A,Initial,Yawelmani,Penutian
+zag,92A,No_question_particle,Beria,Saharan
+zai,92A,Final,Zapotec (Isthmus),Oto-Manguean
+zap,92A,Initial,Zapotec (Mitla),Oto-Manguean
 zay,92A,No_question_particle,Zayse,Afro-Asiatic
-zaz,92A,No_question_particle,Zaza,Indo-European
-zch,92A,No_question_particle,Zoque (San Miguel Chimalapa),Mixe-Zoque
-zhn,92A,Final,Zhuang,Tai-Kadai
-zqc,92A,No_question_particle,Copainalá Zoque,Mixe-Zoque
-zul,92A,Final,IsiZulu,Niger-Congo
-zya,92A,Initial,"Zapotec, Yatzachi",Oto-Manguean
-zzo,92A,No_question_particle,"Zapotec, Zoogocho",Oto-Manguean
+zaz,92A,No_question_particle,Zazaki,Indo-European
+zch,92A,No_question_particle,Zoque (Chimalapa),Mixe-Zoque
+zhn,92A,Final,Zhuang (Northern),Tai-Kadai
+zqc,92A,No_question_particle,Zoque (Copainalá),Mixe-Zoque
+zul,92A,Final,Zulu,Niger-Congo
+zya,92A,Initial,Zapotec (Yatzachi),Oto-Manguean
+zzo,92A,No_question_particle,Zapotec (Zoogocho),Oto-Manguean
