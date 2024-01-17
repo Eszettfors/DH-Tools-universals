@@ -27,6 +27,26 @@ MERGE (family:Family {name: row.Family})
 MERGE (language)-[:HAS_VALUE]->(value)
 MERGE (language)-[:BELONGS_TO]->(family);
 
+LOAD CSV WITH HEADERS FROM "file:///21B.csv" AS row
+MERGE (language:Language {id: row.Language_ID, name:row.Name})
+MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
+MERGE (family:Family {name: row.Family})
+MERGE (language)-[:HAS_VALUE]->(value)
+MERGE (language)-[:BELONGS_TO]->(family);
+
+LOAD CSV WITH HEADERS FROM "file:///26A.csv" AS row
+MERGE (language:Language {id: row.Language_ID, name:row.Name})
+MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
+MERGE (family:Family {name: row.Family})
+MERGE (language)-[:HAS_VALUE]->(value)
+MERGE (language)-[:BELONGS_TO]->(family);
+
+LOAD CSV WITH HEADERS FROM "file:///29A.csv" AS row
+MERGE (language:Language {id: row.Language_ID, name:row.Name})
+MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
+MERGE (family:Family {name: row.Family})
+MERGE (language)-[:HAS_VALUE]->(value)
+MERGE (language)-[:BELONGS_TO]->(family);
 
 LOAD CSV WITH HEADERS FROM "file:///30A.csv" AS row
 MERGE (language:Language {id: row.Language_ID, name:row.Name})
@@ -124,10 +144,3 @@ MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
 MERGE (family:Family {name: row.Family})
 MERGE (language)-[:HAS_VALUE]->(value)
 MERGE (language)-[:BELONGS_TO]->(family);
-
-
----
-Find all languages belonging to a language family:
-match (language:Language)-[:BELONGS_TO]->(family:Family {name: 'Indo-European'})
-MATCH (language)-[:HAS_VALUE]->(value:Value)
-return language, family, value
