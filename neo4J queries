@@ -1,1 +1,0 @@
-MERGE (value:Value {id: row.Parameter_ID, value: row.Value})
