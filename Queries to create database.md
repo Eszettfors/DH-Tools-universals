@@ -11,7 +11,6 @@ RETURN COUNT(*);
 loading queries for all features
 
 
-
 LOAD CSV WITH HEADERS FROM "file:///85A.csv" AS row
 MERGE (language:Language {id: row.Language_ID, name:row.Name})
 MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
@@ -144,3 +143,7 @@ MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
 MERGE (family:Family {name: row.Family})
 MERGE (language)-[:HAS_VALUE]->(value)
 MERGE (language)-[:BELONGS_TO]->(family);
+
+
+------
+Queries to test features
