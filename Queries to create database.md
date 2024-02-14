@@ -1,15 +1,5 @@
-Query to test U2
-
-MATCH (language:Language)-[:HAS_VALUE]->(pre:Value {id: 'Prepositions'})
-MATCH (language:Language)-[:HAS_VALUE]->(gn:Value {id: 'Genitive-Noun'})
-RETURN COUNT(*);
-
-/// change value according to need
-
-
-------
-loading queries for all features
-
+loading queries for all features - to set up database. 
+------------------------------------
 
 LOAD CSV WITH HEADERS FROM "file:///85A.csv" AS row
 MERGE (language:Language {id: row.Language_ID, name:row.Name})
@@ -143,7 +133,3 @@ MERGE (value:Value {parameter: row.Parameter_ID, id: row.Value})
 MERGE (family:Family {name: row.Family})
 MERGE (language)-[:HAS_VALUE]->(value)
 MERGE (language)-[:BELONGS_TO]->(family);
-
-
-------
-Queries to test features
